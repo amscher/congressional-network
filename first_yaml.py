@@ -13,7 +13,7 @@ def addCommitteeToNetwork(G, Members):
             G.AddEdge(int(Members[i]), int(Members[j]))
 
 ###### committees ######
-stream = open("/home/neeral/Documents/cs224w/project/committees-current.yaml", 'r')
+stream = open("data/committees-current.yaml", 'r')
 y_stream = yaml.load(stream)
 #print y_stream
 #print yaml.dump(y_stream)
@@ -27,7 +27,7 @@ for i in range(0, num_committees):
     thomas_id_to_committee_name_map[thomas_id] = name
 
 ###### committee membership ######
-stream = open("/home/neeral/Documents/cs224w/project/committee-membership-current.yaml", 'r')
+stream = open("data/committee-membership-current.yaml", 'r')
 y_stream = yaml.load(stream)
 
 committee_to_members_map = {} # by thomas_id
@@ -41,7 +41,7 @@ for committee_thomas_id in thomas_id_to_committee_name_map:
         committee_to_members_map[committee_thomas_id] = members
 
 ###### legislators ######
-stream = open("/home/neeral/Documents/cs224w/project/legislators-current.yaml", 'r')
+stream = open("data/legislators-current.yaml", 'r')
 y_stream = yaml.load(stream)
 
 thomas_to_member_map = {}
