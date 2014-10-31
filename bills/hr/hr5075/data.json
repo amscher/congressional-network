@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-11", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5075-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2014-07-28", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2014-07-28", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "sponsored_at": "2014-07-28", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-11", 
+  "number": "5075", 
+  "official_title": "To provide protections and certainty for private landowners related to resurveying certain Federal land under the administrative jurisdiction of the Bureau of Land Management, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "REAL Protection Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "thomas_id": "01997", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-11", 
+  "subjects": [
+    "General public lands matters", 
+    "Government information and archives", 
+    "Land transfers", 
+    "Property rights", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "REAL Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Resurveys Entitle Adjacent Landowners to Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide protections and certainty for private landowners related to resurveying certain Federal land under the administrative jurisdiction of the Bureau of Land Management, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:05:11-04:00"
+}

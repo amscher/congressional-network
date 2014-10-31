@@ -1,0 +1,175 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5533-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-09-18", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-09-18", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Miller, George", 
+      "sponsored_at": "2014-09-18", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2014-09-18", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-09-18", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5533", 
+  "official_title": "To promote apprenticeships for credentials and employment, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2859-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "PACE Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pocan, Mark", 
+    "state": "WI", 
+    "thomas_id": "02171", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Advisory bodies", 
+    "Department of Labor", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Executive agency funding and structure", 
+    "Higher education", 
+    "Labor and employment", 
+    "Teaching, teachers, curricula", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PACE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting Apprenticeships for Credentials and Employment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote apprenticeships for credentials and employment, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:09:02-04:00"
+}

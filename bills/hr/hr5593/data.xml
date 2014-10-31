@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5593" updated="2014-10-25T07:09:32-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Security Clearance Enhancement Act of 2014</title>
+    <title type="official" as="introduced">To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to enhance security clearance investigation procedures, and for other purposes.</title>
+  </titles>
+  <sponsor id="412532"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

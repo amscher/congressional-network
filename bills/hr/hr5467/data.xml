@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="5467" updated="2014-10-25T07:08:28-04:00">
+  <state datetime="2014-09-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-15"/>
+  </status>
+  <introduced datetime="2014-09-15"/>
+  <titles>
+    <title type="short" as="introduced">Metropolitan Planning Enhancement Act</title>
+    <title type="official" as="introduced">To enhance the capabilities of metropolitan planning organizations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412529"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2014-09-15"/>
+    <cosponsor id="400639" joined="2014-09-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-15" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4834"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Performance measurement"/>
+    <term name="Public transit"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="Roads and highways"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,169 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-12", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-11-14", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-11-14", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2013-11-14", 
+      "calendar": "Senate Legislative", 
+      "number": "247", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1683-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Coats, Daniel", 
+      "sponsored_at": "2013-11-13", 
+      "state": "IN", 
+      "thomas_id": "00209", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Corker, Bob", 
+      "sponsored_at": "2013-11-12", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-11-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-12", 
+  "number": "1683", 
+  "official_title": "A bill to provide for the transfer of naval vessels to certain foreign recipients, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s12-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2013-11-14", 
+  "subjects": [
+    "Afghanistan", 
+    "Alliances", 
+    "Arab-Israeli relations", 
+    "Arms control and nonproliferation", 
+    "Asia", 
+    "Buy American requirements", 
+    "Congressional oversight", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Foreign aid and international relief", 
+    "Human rights", 
+    "Intelligence activities, surveillance, classified information", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Israel", 
+    "Judicial procedure and administration", 
+    "Latin America", 
+    "Marine and inland water transportation", 
+    "Mexico", 
+    "Middle East", 
+    "Military assistance, sales, and agreements", 
+    "Military facilities and property", 
+    "Nuclear weapons", 
+    "Pakistan", 
+    "Refugees, asylum, displaced persons", 
+    "Rule of law and government transparency", 
+    "Taiwan", 
+    "Terrorism", 
+    "Thailand", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2013-11-14", 
+    "text": "Title I: Transfer of Excess United States Naval Vessels - Naval Vessels Transfer Act of 2013 - (Sec. 102) Authorizes the President to transfer on a grant basis to: (1) Mexico, the OLIVER HAZARD PERRY class guided missile frigates CURTS and MCCLUSKY; and (2) Thailand, the OLIVER HAZARD PERRY class guided missile frigates RENTZ and VANDEGRIFT.\n\nAuthorizes the President to transfer on a sale basis the OLIVER HAZARD PERRY class guided missile frigates TAYLOR, GARY, CARR, and ELROD to the Taipei Economic and Cultural Representative Office of the United States (which is the Taiwan instrumentality designated pursuant to the Taiwan Relations Act).\n\nAuthorizes the President to transfer on a grant basis to Pakistan in each of FY2014-FY2016 one of the OLIVER HAZARD PERRY class guided missile frigates USS KLAKRING, USS DE WERT, and USS ROBERT G. BRADLEY 15 days after certifying to Congress that Pakistan is: (1) cooperating with the United States in counterterrorism and nonproliferation efforts, (2) not supporting terrorist activities against the United States in Afghanistan or elsewhere, (3) taking steps towards releasing Dr. Shakil Afridi, (4) taking steps to dismantle improvised explosive device (IED) networks, (5) providing humanitarian groups with access to detainees and other Pakistani civilians, and (6) ensuring that Pakistan's military and intelligence agencies are not intervening into Pakistan's political and judicial processes.\n\nAuthorizes the President to waive such certification requirements for U.S. national security interests.\n\nAuthorizes the President to transfer any vessel named in this Act to any country named in this Act such that the total number of vessels transferred to such country does not exceed the total number of vessels authorized for transfer to such country by this Act.\n\nStates that: (1) the value of such vessels transferred on a grant basis shall not be counted against the aggregate value of excess defense articles transferred to countries in any fiscal year under the Foreign Assistance Act of 1961; (2) transfer costs shall be charged to the recipient; and (3) to the maximum extent practicable, the country to which a vessel is transferred shall have necessary vessel repair and refurbishment carried out at U.S. shipyards (including U.S. Navy shipyards).\n\nTerminates transfer authority three years after enactment of this Act.\n\nTitle II: Additional Provisions - (Sec. 201) Amends the Arms Export Control Act to direct the President to notify Congress at least 30 days prior to a shipment of certain defense articles.\n\n(Sec. 202) Directs the President to provide Congress with copies of any: (1) new presidential directives or policy guidance on national security, including on U.S. counterterrorism policies; and (2) directives or policy guidance that were issued on or after January 1, 2013, and prior to the date of the enactment of this Act.\n\n(Sec. 203) Directs the President to provide Congress with initial and subsequent reports regarding: (1) each security assurance made by U.S. government officials to officials of each country in the Middle East, including such assurances made to Israel regarding its security and maintenance of its qualitative military edge; and (2) an analysis of the extent to which, and by what means, each such assurance has been and is continuing to be fulfilled.\n\n(Sec. 205) Amends the Foreign Assistance Act to increase annual funds limits for transfers of excess defense articles.\n\n(Sec. 206) Authorizes the President, for FY2014-FY2016, to enter into cooperative arrangements providing for the participation of foreign and U.S. military and civilian defense personnel for integrated air and missile defense programs in Southwest Asia."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Naval Vessel Transfer Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": true, 
+      "title": "Naval Vessel Transfer Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for the transfer of naval vessels to certain foreign recipients, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:32:27-04:00"
+}

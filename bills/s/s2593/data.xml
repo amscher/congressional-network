@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="2593" updated="2014-10-25T07:40:13-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">FLAME Act Amendments Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the FLAME Act of 2009 to provide for additional wildfire suppression activities, to provide for the conduct of certain forest treatment projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2014-07-10"/>
+    <cosponsor id="300041" joined="2014-07-17"/>
+    <cosponsor id="400134" joined="2014-07-10"/>
+    <cosponsor id="412218" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1966"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Appropriations"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Agriculture"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government trust funds"/>
+    <term name="Land use and conservation"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+</bill>

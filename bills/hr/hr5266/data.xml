@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="5266" updated="2014-10-25T07:06:47-04:00">
+  <state datetime="2014-09-17">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the National Estuary Programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400244"/>
+  <cosponsors>
+    <cosponsor id="412603" joined="2014-09-08"/>
+    <cosponsor id="400232" joined="2014-07-30"/>
+    <cosponsor id="412527" joined="2014-07-30"/>
+    <cosponsor id="412309" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-17" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5117"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aquatic ecology"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Floods and storm protection"/>
+    <term name="Lakes and rivers"/>
+    <term name="Mammals"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Pest management"/>
+    <term name="Water quality"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

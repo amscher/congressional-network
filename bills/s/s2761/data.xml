@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="2761" updated="2014-10-25T07:41:38-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Local Empowerment Act</title>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, to permit the consolidation of metropolitan planning organizations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5234"/>
+    </action>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Performance measurement"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+</bill>

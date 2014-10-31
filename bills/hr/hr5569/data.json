@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5569-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5569", 
+  "official_title": "To include community partners and intermediaries in the planning and delivery of education and related programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Community Partnerships in Education Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "thomas_id": "02055", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Adult education and literacy", 
+    "Community life and organization", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Higher education", 
+    "Performance measurement", 
+    "Public-private cooperation", 
+    "Student aid and college costs", 
+    "Student records", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Community Partnerships in Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To include community partners and intermediaries in the planning and delivery of education and related programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:09:20-04:00"
+}

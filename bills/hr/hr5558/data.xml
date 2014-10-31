@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="5558" updated="2014-10-25T07:09:14-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">ACO Improvement Act of 2014</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to improve the Medicare accountable care organization (ACO) program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="412239" joined="2014-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Home and outpatient care"/>
+    <term name="Hospital care"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+    <term name="Right of privacy"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+</bill>

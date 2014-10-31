@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-16", 
+      "references": [
+        {
+          "reference": "CR S5630", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2813-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Sessions, Jeff", 
+      "sponsored_at": "2014-09-16", 
+      "state": "AL", 
+      "thomas_id": "01548", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-16", 
+  "number": "2813", 
+  "official_title": "A bill to establish the National Prostate Cancer Council for improved screening, early detection, assessment, and monitoring of prostate cancer, and to direct the development and implementation of a national strategic plan to expedite advancement of diagnostic tools and the transfer of such tools to patients.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Prostate Cancer Council Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-16", 
+  "subjects": [
+    "Cancer", 
+    "Department of Health and Human Services", 
+    "Executive agency funding and structure", 
+    "Health", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Minority health", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Prostate Cancer Council Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish the National Prostate Cancer Council for improved screening, early detection, assessment, and monitoring of prostate cancer, and to direct the development and implementation of a national strategic plan to expedite advancement of diagnostic tools and the transfer of such tools to patients.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:42:04-04:00"
+}

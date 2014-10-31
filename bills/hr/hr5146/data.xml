@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="5146" updated="2014-10-25T07:05:47-04:00">
+  <state datetime="2014-09-17">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">To designate the United States courthouse located at 700 Grant Street in Pittsburgh, Pennsylvania, as the "Joseph F. Weis Jr. United States Courthouse".</title>
+  </titles>
+  <sponsor id="400114"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2014-07-30"/>
+    <cosponsor id="400047" joined="2014-07-30"/>
+    <cosponsor id="412571" joined="2014-07-30"/>
+    <cosponsor id="400648" joined="2014-07-30"/>
+    <cosponsor id="400130" joined="2014-07-30"/>
+    <cosponsor id="400646" joined="2014-07-30"/>
+    <cosponsor id="400147" joined="2014-07-30"/>
+    <cosponsor id="412465" joined="2014-07-30"/>
+    <cosponsor id="412468" joined="2014-07-30"/>
+    <cosponsor id="412466" joined="2014-07-30"/>
+    <cosponsor id="400285" joined="2014-07-17"/>
+    <cosponsor id="412569" joined="2014-07-30"/>
+    <cosponsor id="400320" joined="2014-07-30"/>
+    <cosponsor id="412570" joined="2014-07-30"/>
+    <cosponsor id="400647" joined="2014-07-30"/>
+    <cosponsor id="409888" joined="2014-07-30"/>
+    <cosponsor id="412317" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-17" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Judges"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+  <summary>7/17/2014--Introduced.
+Designates the U.S. courthouse located at 700 Grant Street in Pittsburgh, Pennsylvania, as the "Joseph F. Weis Jr. United States Courthouse."</summary>
+</bill>

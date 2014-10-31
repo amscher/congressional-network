@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5680" updated="2014-10-29T04:49:59-04:00">
+  <state datetime="2014-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-19"/>
+  </status>
+  <introduced datetime="2014-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Toxic Wounds Research Act of 2014</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to establish a registry for certain toxic exposures, to direct the Secretary to include certain information in the electronic health records of veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412214"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-09-19" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-10-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

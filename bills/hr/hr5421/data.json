@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-09", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5421-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-09-09", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-09-09", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-09", 
+  "number": "5421", 
+  "official_title": "To amend title 11 of the United States Code in order to facilitate the resolution of an insolvent financial institution in bankruptcy.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1861-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Financial Institution Bankruptcy Act of 2014", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Bachus, Spencer", 
+    "state": "AL", 
+    "thomas_id": "00038", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-10", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Bankruptcy", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Judicial review and appeals", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-09", 
+    "text": "Financial Institution Bankruptcy Act of 2014 - Amends federal bankruptcy law with respect to a \"covered financial corporation\" incorporated or organized under any federal or state law (other than a stockbroker, a commodity broker, or a domestic or foreign insurance company or financial institution meeting certain criteria) that is: (1) a bank holding company; or (2) a corporation that exists for the primary purpose of owning, controlling, and financing its subsidiaries, has total consolidated assets of $50 billion or greater, and whose annual gross revenues or consolidated assets meet specified tests.\n\nAdds \"Subchapter V - Liquidation, Reorganization, or Recapitalization of a Covered Financial Corporation,\" setting forth requirements and prohibitions regarding: (1) commencement of a case concerning a covered financial corporation; (2) a special trustee and bridge company; (3) special transfer of the property of the estate in bankruptcy; (4) treatment of qualified financial contracts and affiliate contracts; (5) licenses, permits, and registrations; (6) exemption from securities laws; and (7) inapplicability of certain avoiding powers.\n\nAllows conversion to chapter 7 (Liquidation) of a case under subchapter V if certain conditions are met.\n\nAmends the Judicial Code to require the Chief Justice of the United States to designate: (1) at least three district judges in at least four circuits to serve on an appellate panel available to hear appeals in a bankruptcy case concerning a covered financial corporation, and (2) a panel of at least 10 bankruptcy judges.\n\nPrescribes requirements for the assignment of bankruptcy judges to subchapter V cases."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Financial Institution Bankruptcy Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 11 of the United States Code in order to facilitate the resolution of an insolvent financial institution in bankruptcy.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:08:05-04:00"
+}

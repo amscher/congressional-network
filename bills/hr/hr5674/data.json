@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-19", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5674-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-19", 
+  "number": "5674", 
+  "official_title": "To provide for higher education reform.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1969-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "College Affordability and Innovation Act of 2014", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Himes, James A.", 
+    "state": "CT", 
+    "thomas_id": "01913", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-19", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Advisory bodies", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Educational technology and distance education", 
+    "Elementary and secondary education", 
+    "Higher education", 
+    "Performance measurement", 
+    "Student aid and college costs", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "College Affordability and Innovation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for higher education reform.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:10:14-04:00"
+}

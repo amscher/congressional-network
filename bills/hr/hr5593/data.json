@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5593-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5593", 
+  "official_title": "To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to enhance security clearance investigation procedures, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Security Clearance Enhancement Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Gabbard, Tulsi", 
+    "state": "HI", 
+    "thomas_id": "02122", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Security Clearance Enhancement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to enhance security clearance investigation procedures, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:09:32-04:00"
+}

@@ -1,0 +1,75 @@
+<bill session="113" type="s" number="2040" updated="2014-10-25T07:35:29-04:00">
+  <state datetime="2014-09-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="short" as="reported to senate">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="short" as="passed senate">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="official" as="introduced">A bill to exchange trust and fee land to resolve land disputes created by the realignment of the Blackfoot River along the boundary of the Fort Hall Indian Reservation, and for other purposes.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="412322" joined="2014-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="2014-05-07">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2014-05-21" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-08-05">
+      <text>Committee on Indian Affairs. Reported by Senator Tester without amendment. With written report No. 113-242.</text>
+    </action>
+    <calendar datetime="2014-08-05" calendar="Senate Legislative" under="General Orders" number="530">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.</text>
+    </calendar>
+    <action datetime="2014-09-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5872-5873" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19T14:25:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5049"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Floods and storm protection"/>
+    <term name="Idaho"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3932"/>
+  </amendments>
+  <summary>8/5/2014--Reported to Senate without amendment.
+Blackfoot River Land Exchange Act of 2014 - Extinguishes all claims and all right, title, and interest in and to specified Indian and non-Indian land as part of the settlement of disputes within the Fort Hall Indian Reservation of the Shoshone and Bannock Indian Tribes in Idaho resulting from the realignment of the Blackfoot River by the Corps of Engineers in 1964.
+
+Requires the non-Indian land to be held in trust for the Tribes.
+
+Directs the Secretary of the Interior to transfer the Indian land to the Blackfoot River Flood Control District No. 7, which is to use the proceeds from the sale of such land to compensate: (1) each non-Indian landowner for his or her loss of land resulting from this Act's implementation at fair market value, and (2) itself for any expenses it incurs in carrying out this Act.
+
+Authorizes the Blackfoot River Flood Control District No. 7 to dispose of the land or proceeds that remain after it meets those priorities in any manner it determines to be appropriate.</summary>
+</bill>

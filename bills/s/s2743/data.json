@@ -1,0 +1,234 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5224-5233", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Appropriations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2743-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Appropriations", 
+      "committee_id": "SSAP"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Alexander, Lamar", 
+      "sponsored_at": "2014-07-31", 
+      "state": "TN", 
+      "thomas_id": "01695", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Barrasso, John", 
+      "sponsored_at": "2014-07-31", 
+      "state": "WY", 
+      "thomas_id": "01881", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2014-07-31", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coats, Daniel", 
+      "sponsored_at": "2014-07-31", 
+      "state": "IN", 
+      "thomas_id": "00209", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "2014-07-31", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2014-07-31", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "2014-07-31", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2014-07-31", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McConnell, Mitch", 
+      "sponsored_at": "2014-07-31", 
+      "state": "KY", 
+      "thomas_id": "01395", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "2743", 
+  "official_title": "A bill making supplemental appropriations for the fiscal year ending September 30, 2014, for border security, law enforcement, humanitarian assistance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2773-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protecting Children and America's Homeland Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Appropriations", 
+    "Arizona", 
+    "Assault and harassment offenses", 
+    "Border security and unlawful immigration", 
+    "California", 
+    "Child health", 
+    "Child safety and welfare", 
+    "Congressional oversight", 
+    "Crime victims", 
+    "Crimes against property", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Currency", 
+    "Customs enforcement", 
+    "Department of Health and Human Services", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Detention of persons", 
+    "Disability and paralysis", 
+    "Domestic violence and child abuse", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Due process and equal protection", 
+    "Economics and public finance", 
+    "El Salvador", 
+    "Environmental assessment, monitoring, research", 
+    "Evidence and witnesses", 
+    "Executive agency funding and structure", 
+    "Firearms and explosives", 
+    "Foreign aid and international relief", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Guatemala", 
+    "Honduras", 
+    "Human trafficking", 
+    "Immigration status and procedures", 
+    "Judges", 
+    "Judicial procedure and administration", 
+    "Judicial review and appeals", 
+    "Juvenile crime and gang violence", 
+    "Land use and conservation", 
+    "Latin America", 
+    "Law enforcement officers", 
+    "Lawyers and legal services", 
+    "Marine and inland water transportation", 
+    "Mental health", 
+    "Mexico", 
+    "Motor vehicles", 
+    "New Mexico", 
+    "Organized crime", 
+    "Public contracts and procurement", 
+    "Refugees, asylum, displaced persons", 
+    "Sex offenses", 
+    "Smuggling and trafficking", 
+    "Terrorism", 
+    "Texas", 
+    "Transportation safety and security", 
+    "Violent crime", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Children and America's Homeland Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill making supplemental appropriations for the fiscal year ending September 30, 2014, for border security, law enforcement, humanitarian assistance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:41:29-04:00"
+}

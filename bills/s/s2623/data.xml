@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="2623" updated="2014-10-25T07:40:28-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit land management modifications relating to the Lesser Prairie Chicken.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2014-07-17"/>
+    <cosponsor id="412573" joined="2014-07-17"/>
+    <cosponsor id="300055" joined="2014-07-17"/>
+    <cosponsor id="300083" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Birds"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Land use and conservation"/>
+    <term name="Mining"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+</bill>

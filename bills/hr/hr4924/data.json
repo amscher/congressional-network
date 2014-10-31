@@ -1,0 +1,184 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-20", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-19", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4924-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Barber, Ron", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "02093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2014-06-20", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-19", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-20", 
+  "number": "4924", 
+  "official_title": "To direct the Secretary of the Interior to enter into the Big Sandy River-Planet Ranch Water Rights Settlement Agreement and the Hualapai Tribe Bill Williams River Water Rights Settlement Agreement, to provide for the lease of certain land located within Planet Ranch on the Bill Williams River in the State of Arizona to benefit the Lower Colorado River Multi-Species Conservation Program, and to provide for the settlement of specific water rights claims in the Bill Williams River watershed in the State of Arizona.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2503-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Bill Williams River Water Rights Settlement Act of 2014", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-20", 
+  "subjects": [
+    "Arizona", 
+    "Civil actions and liability", 
+    "Endangered and threatened species", 
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Lakes and rivers", 
+    "Native Americans", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bill Williams River Water Rights Settlement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to enter into the Big Sandy River-Planet Ranch Water Rights Settlement Agreement and the Hualapai Tribe Bill Williams River Water Rights Settlement Agreement, to provide for the lease of certain land located within Planet Ranch on the Bill Williams River in the State of Arizona to benefit the Lower Colorado River Multi-Species Conservation Program, and to provide for the settlement of specific water rights claims in the Bill Williams River watershed in the State of Arizona.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:03:52-04:00"
+}

@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5560-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5560", 
+  "official_title": "To amend the Higher Education Act of 1965 to establish a grant program for undergraduate students with financial need to assist such students in completing degrees at institutions of higher education.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Helping College Students Cross the Finish Line Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Braley, Bruce L.", 
+    "state": "IA", 
+    "thomas_id": "01845", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Financial literacy", 
+    "Government information and archives", 
+    "Higher education", 
+    "Student aid and college costs", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helping College Students Cross the Finish Line Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to establish a grant program for undergraduate students with financial need to assist such students in completing degrees at institutions of higher education.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:09:15-04:00"
+}

@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="5162" updated="2014-10-25T07:05:55-04:00">
+  <state datetime="2014-09-18">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Act entitled "An Act to allow a certain parcel of land in Rockingham County, Virginia, to be used for a child care center" to remove the use restriction, and for other purposes.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1206"/>
+    </action>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-09-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-18" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Child care and development"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2014--Introduced.
+Amends federal law authorizing Rockingham County, Virginia, to use specified land transferred by the United States for a child care center to remove that use restriction.</summary>
+</bill>

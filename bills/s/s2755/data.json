@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "references": [
+        {
+          "reference": "CR S5233-5234", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2755-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-07-31", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-07-31", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-07-31", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-07-31", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "2755", 
+  "official_title": "A bill to prevent deaths occurring from drug overdoses.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Overdose Prevention Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Drug, alcohol, tobacco use", 
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Overdose Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prevent deaths occurring from drug overdoses.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:41:35-04:00"
+}

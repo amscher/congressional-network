@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5553-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-09-18", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5553", 
+  "official_title": "To provide access to information and loan modifications for successors in interest, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Preventing Improper Foreclosures Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Beatty, Joyce", 
+    "state": "OH", 
+    "thomas_id": "02153", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Consumer affairs", 
+    "Housing and community development", 
+    "Housing finance and home ownership", 
+    "Real estate business"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preventing Improper Foreclosures Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide access to information and loan modifications for successors in interest, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:09:12-04:00"
+}

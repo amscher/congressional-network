@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-17", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2619-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-07-17", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2014-07-17", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2014-07-17", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "sponsored_at": "2014-07-17", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-17", 
+  "number": "2619", 
+  "official_title": "A bill to prevent organized human smuggling, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4961-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2561-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Children Returning on an Expedited and Safe Timeline Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-17", 
+  "subjects": [
+    "Administrative remedies", 
+    "Agricultural trade", 
+    "Border security and unlawful immigration", 
+    "Canada", 
+    "Child health", 
+    "Child safety and welfare", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Crimes against children", 
+    "Crimes against property", 
+    "Crimes against women", 
+    "Criminal procedure and sentencing", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Detention of persons", 
+    "Domestic violence and child abuse", 
+    "Drug trafficking and controlled substances", 
+    "El Salvador", 
+    "Firearms and explosives", 
+    "Fraud offenses and financial crimes", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Guatemala", 
+    "Honduras", 
+    "Human trafficking", 
+    "Immigration status and procedures", 
+    "Intelligence activities, surveillance, classified information", 
+    "Intergovernmental relations", 
+    "International law and treaties", 
+    "International organizations and cooperation", 
+    "Judges", 
+    "Judicial procedure and administration", 
+    "Latin America", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Lawyers and legal services", 
+    "Mental health", 
+    "Mexico", 
+    "Refugees, asylum, displaced persons", 
+    "Separation, divorce, custody, support", 
+    "Sex offenses", 
+    "Smuggling and trafficking", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Children Returning on an Expedited and Safe Timeline Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CREST Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prevent organized human smuggling, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:40:26-04:00"
+}

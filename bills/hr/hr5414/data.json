@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-08", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5414-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2014-09-08", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-08", 
+  "number": "5414", 
+  "official_title": "To require a patent correction involving the Elkhorn Ranch and the White River National Forest in the State of Colorado to protect bona fide private property rights in the Elkhorn Ranch adversely impacted by a 1949 resurvey of the southern boundary of Section 18 of Township 7 South, Range 93 West, Sixth Principle Meridian, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Elkhorn Ranch and White River National Forest Patent Correction Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "thomas_id": "01997", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-08", 
+  "subjects": [
+    "Colorado", 
+    "Forests, forestry, trees", 
+    "Land transfers", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Elkhorn Ranch and White River National Forest Patent Correction Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require a patent correction involving the Elkhorn Ranch and the White River National Forest in the State of Colorado to protect bona fide private property rights in the Elkhorn Ranch adversely impacted by a 1949 resurvey of the southern boundary of Section 18 of Township 7 South, Range 93 West, Sixth Principle Meridian, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:08:01-04:00"
+}

@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="5498" updated="2014-10-25T07:08:44-04:00">
+  <state datetime="2014-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-16"/>
+  </status>
+  <introduced datetime="2014-09-16"/>
+  <titles>
+    <title type="short" as="introduced">Primary Care Physician Reentry Act</title>
+    <title type="official" as="introduced">To establish a demonstration program to facilitate physician reentry into clinical practice to provide primary health services.</title>
+  </titles>
+  <sponsor id="412212"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-09-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Education programs funding"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical education"/>
+    <term name="Performance measurement"/>
+    <term name="Student aid and college costs"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' medical care"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,221 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-21", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3583-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2014-03-27", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-04-03", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "sponsored_at": "2014-03-26", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2014-04-02", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2014-04-02", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2013-11-21", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2013-12-23", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2014-04-03", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2013-11-21", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2014-03-26", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-04-02", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2014-03-26", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-21", 
+  "number": "3583", 
+  "official_title": "To expand the number of scholarships available to Pakistani women under the Merit and Needs-Based Scholarship Program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s120-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Malala Yousafzai Scholarship Act", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Ros-Lehtinen, Ileana", 
+    "state": "FL", 
+    "thomas_id": "00985", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-04-03", 
+  "subjects": [
+    "Area studies and international education", 
+    "Asia", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Foreign aid and international relief", 
+    "Higher education", 
+    "Human rights", 
+    "International affairs", 
+    "International exchange and broadcasting", 
+    "Pakistan", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Student aid and college costs", 
+    "Women's education", 
+    "Women's rights"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-21", 
+    "text": "Malala Yousafzai Scholarship Act - Expresses the sense of Congress that: (1) every individual, regardless of gender, should have the opportunity to pursue an education free from the fear of discrimination; and (2) educational exchanges promote institutional linkages between the United States and Pakistan.\n\nEncourages the State Department and the U.S. Agency for International Development (USAID) to continue to support Pakistani education initiatives, especially those for women.\n\nDirects the USAID Administrator to increase the number of scholarships to women under the Merit and Needs-Based Scholarship Program (Program) during each of calendar years 2013 through 2015 over the level awarded to women in calendar year 2011. (The Program awards scholarships for university study to academically talented, financially needy Pakistani students.)\n\nRequires the additional scholarships to be awarded: (1) in accordance with existing scholarship criteria, and (2) for a range of disciplines to improve the employability of graduates and to meet the needs of the scholarship recipients.\n\n Directs the USAID Administrator to make every effort to award 50% of the scholarships available under the Program to Pakistani women."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Malala Yousafzai Scholarship Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To expand the number of scholarships available to Pakistani women under the Merit and Needs-Based Scholarship Program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T06:52:30-04:00"
+}

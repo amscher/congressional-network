@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-17", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4883-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-17", 
+  "number": "4883", 
+  "official_title": "To provide for the establishment of a National Rare-Earth Refinery Cooperative, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2006-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Rare-Earth Cooperative Act of 2014", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Stockman, Steve", 
+    "state": "TX", 
+    "thomas_id": "01114", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-17", 
+  "subjects": [
+    "Alliances", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Federally chartered organizations", 
+    "Manufacturing", 
+    "Marketing and advertising", 
+    "Metals", 
+    "Military procurement, research, weapons development", 
+    "Mining", 
+    "Strategic materials and reserves", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Rare-Earth Cooperative Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the establishment of a National Rare-Earth Refinery Cooperative, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:03:31-04:00"
+}

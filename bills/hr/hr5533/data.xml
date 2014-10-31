@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="5533" updated="2014-10-25T07:09:02-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">PACE Act</title>
+    <title type="short" as="introduced">Promoting Apprenticeships for Credentials and Employment Act</title>
+    <title type="official" as="introduced">To promote apprenticeships for credentials and employment, and for other purposes.</title>
+  </titles>
+  <sponsor id="412585"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2014-09-18"/>
+    <cosponsor id="400080" joined="2014-09-18"/>
+    <cosponsor id="412215" joined="2014-09-18"/>
+    <cosponsor id="400162" joined="2014-09-18"/>
+    <cosponsor id="400278" joined="2014-09-18"/>
+    <cosponsor id="400661" joined="2014-09-18"/>
+    <cosponsor id="400295" joined="2014-09-18"/>
+    <cosponsor id="400366" joined="2014-09-18"/>
+    <cosponsor id="412412" joined="2014-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2859"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Advisory bodies"/>
+    <term name="Department of Labor"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Higher education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+</bill>

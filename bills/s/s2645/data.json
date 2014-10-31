@@ -1,0 +1,132 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2645-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-07-23", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-07-23", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-07-23", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-07-23", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2014-07-23", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-23", 
+  "number": "2645", 
+  "official_title": "A bill to provide access to medication-assisted therapy, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Recovery Enhancement for Addiction Treatment Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-23", 
+  "subjects": [
+    "Congressional oversight", 
+    "Drug therapy", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Health personnel", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recovery Enhancement for Addiction Treatment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TREAT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide access to medication-assisted therapy, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:40:39-04:00"
+}

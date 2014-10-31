@@ -1,0 +1,191 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-20", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Highways and Transit Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4926-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachmann, Michele", 
+      "sponsored_at": "2014-06-20", 
+      "state": "MN", 
+      "thomas_id": "01858", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-06-20", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2014-06-20", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2014-06-20", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2014-06-20", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2014-06-20", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2014-06-20", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-20", 
+  "number": "4926", 
+  "official_title": "To designate the \"James L. Oberstar Memorial Highway\" and the \"James L. Oberstar National Scenic Byway\" in the State of Minnesota.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2522-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2522-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nolan, Richard M.", 
+    "state": "MN", 
+    "thomas_id": "00867", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-17", 
+  "subjects": [
+    "Congressional tributes", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "Minnesota", 
+    "Roads and highways", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-20", 
+    "text": "Designates: (1) the segment of Interstate Route 35 between milepost 133 at Forest Lake, Minnesota, and milepost 259 at Duluth, Minnesota, as the \"James L. Oberstar Memorial Highway\"; and (2) the segment of U.S. Route 61 between milepost 0 at Duluth, Minnesota, and milepost 150 at Grand Portage, Minnesota, as the \"James L. Oberstar National Scenic Byway.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the \"James L. Oberstar Memorial Highway\" and the \"James L. Oberstar National Scenic Byway\" in the State of Minnesota.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:03:53-04:00"
+}

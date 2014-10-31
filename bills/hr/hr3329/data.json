@@ -1,0 +1,218 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-23", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-11-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-14", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-05-06T17:22:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Capito moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T17:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3424-3426", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T17:22:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3329.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T17:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3424", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-05-07", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3329-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Cotton, Tom", 
+      "sponsored_at": "2013-10-23", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2013-10-23", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2013-11-12", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2013-10-23", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2013-10-23", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2013-10-28", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-11-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-05-06T17:30:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-23", 
+  "number": "3329", 
+  "official_title": "To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2696-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2698-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Luetkemeyer, Blaine", 
+    "state": "MO", 
+    "thomas_id": "01931", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-05-06T17:30:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Business investment and capital", 
+    "Corporate finance and management", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-05-06", 
+    "text": "Directs the Board of Governors of the Federal Reserve System to publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors applying such policy to bank holding companies and savings and loan holding companies having pro forma consolidated assets of less than $1 billion and which: (1) are not engaged in nonbanking activities involving significant leverage, and (2) do not have a significant amount of outstanding debt held by the general public.\n\nRetains Board authority, however, to exclude either a bank holding company or a savings and loan holding company from such Policy Statement if exclusion is warranted for supervisory purposes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T06:50:19-04:00"
+}

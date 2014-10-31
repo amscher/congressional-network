@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="5086" updated="2014-10-25T07:05:17-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="official" as="introduced">To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2745"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Nebraska"/>
+    <term name="Oklahoma"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+</bill>

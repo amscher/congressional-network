@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5577-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5577", 
+  "official_title": "To amend the Higher Education Act of 1965 to eliminate origination fees for Federal Direct Loans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "53", 
+    "name": "Davis, Susan A.", 
+    "state": "CA", 
+    "thomas_id": "01641", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Education", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "Student aid and college costs", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to eliminate origination fees for Federal Direct Loans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:09:24-04:00"
+}
