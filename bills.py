@@ -1,18 +1,21 @@
 import json
 import snap
 
+maxSponsors = 20
+
 bill_sponsors_map = {}
 sponsor_bills_map = {}
 
-def addBillEdgesToNetwork(graph, sponsors):
-  for i in range(0, len(sponsors)):
-    for j in range(i+1, len(sponsors)):
-      graph.AddEdge(int(sponsors[i]), int(sponsors[j]))
+def addEdgesToNetwork(graph, nodes):
+  for i in range(0, len(nodes)):
+    for j in range(i+1, len(nodes)):
+      if (graph.IsEdge(int(nodes[j]), int(nodes[i])) == False):
+        graph.AddEdge(int(nodes[i]), int(nodes[j]))
 
-def createNetwork(Nodes):
+def createNetwork(nodes):
   graph = snap.TUNGraph.New()
-  for NId in Nodes:
-    graph.AddNode(NId)
+  for nId in nodes:
+    graph.AddNode(int(nId))
   return graph
 
 def getBills(bill_type, bill_type_id):
@@ -22,7 +25,7 @@ def getBills(bill_type, bill_type_id):
       filename = "bills/%s/%s/data.json" % (bill_type, bill_name)
       stream = open(filename, 'r')
     except IOError, e:
-      print "Can't open file: ", filename
+      # print "Can't open file: ", filename
       continue
     data = json.load(stream)
 
@@ -38,36 +41,69 @@ def getBills(bill_type, bill_type_id):
     bill_id = "%s%s" % (bill_type_id, bill_id)
     bill_sponsors_map[int(bill_id)] = cosponsors
 
-
 def createSponsorToBillsMap():
   for key in bill_sponsors_map:
     sponsors = bill_sponsors_map[key]
     for i in range(len(sponsors)):
       sponsor = sponsors[i]
+      if len(sponsors) > maxSponsors:
+        continue
       if sponsor in sponsor_bills_map:
         sponsor_bills_map[sponsor].append(key)
       else:
         sponsor_bills_map[sponsor] = [key]
 
-getBills("hr", 0)
-getBills("hjres", 1)
+getBills("hr", "1")
+getBills("hjres", "2")
 createSponsorToBillsMap()
-for key in sponsor_bills_map:
-  print "%s : " % (key),
-  bills = sponsor_bills_map[key]
-  for i in range(len(bills)):
-    print "%d, " % (bills[i]),
-  print "\n"
+print "Number of sponsers = ", len(sponsor_bills_map)
+# for key in sponsor_bills_map:
+#   print "%s : " % (key),
+#   bills = sponsor_bills_map[key]
+#   for i in range(len(bills)):
+#     print "%d, " % (bills[i]),
+#   print "\n"
 
-graph = createNetwork(bill_sponsors_map.keys()) # creates network where a node is a bill
-for thomas_id in sponsor_bills_map:
-    addBillEdgesToNetwork(graph, sponsor_bills_map[thomas_id])
+def createGraphsWithData(nodeMap, edgeMap, limit):
+  graph = createNetwork(nodeMap.keys())
+  for node in edgeMap:
+    edges = edgeMap[node]
+    if limit and len(edges) > maxSponsors:
+      continue
+    addEdgesToNetwork(graph, edges)
 
-print "Graph has %d nodes and %d edges" % (graph.GetNodes(), graph.GetEdges())
-print "Its clustering co-efficient is %f" % (snap.GetClustCf(graph))
-print "Its effective diameter is %d" % (snap.GetBfsEffDiam(graph, 20, False))
-DegToCntV = snap.TIntPrV()
-snap.GetDegCnt(graph, DegToCntV)
-for item in DegToCntV:
-    print "%d nodes with degree %d" % (item.GetVal2(), item.GetVal1())
+
+  maxDegNId = snap.GetMxDegNId(graph)
+  numDeg = graph.GetNI(maxDegNId).GetDeg()
+  print "Graph has %d nodes and %d edges" % (graph.GetNodes(), graph.GetEdges())
+  print "Its clustering co-efficient is %f" % (snap.GetClustCf(graph))
+  print "Its effective diameter is %d" % (snap.GetBfsEffDiam(graph, 50, False))
+  return graph
+
+
+
+print "/* BILL <--[cosponsors]--> BILL */"
+billGraph = createGraphsWithData(bill_sponsors_map, sponsor_bills_map, False)
+maxDegNId = snap.GetMxDegNId(billGraph)
+numDeg = billGraph.GetNI(maxDegNId).GetDeg()
+print "Max degree [%d] :: bill hr%d with %d co-sponsors" % (numDeg, maxDegNId, len(bill_sponsors_map[maxDegNId]))
+
+
+print "/* LEGISLATOR <--[cosponsors]--> LEGISLATOR */"
+# graph2 = createNetwork(sponsor_bills_map.keys()) # creates network where a node is a legislator
+# for bill_id in bill_sponsors_map:
+#   sponsors = bill_sponsors_map[bill_id]
+#   if len(sponsors) > maxSponsors:
+#     continue
+#   addEdgesToNetwork(graph2, sponsors)
+
+
+# maxDegNId = snap.GetMxDegNId(graph2)
+# numDeg = graph2.GetNI(maxDegNId).GetDeg()
+# print "Graph has %d nodes and %d edges" % (graph2.GetNodes(), graph2.GetEdges())
+# print "Its clustering co-efficient is %f" % (snap.GetClustCf(graph2))
+# print "Its effective diameter is %d" % (snap.GetBfsEffDiam(graph2, 50, False))
+
+sponsorGraph = createGraphsWithData(sponsor_bills_map, bill_sponsors_map, True)
+
 
