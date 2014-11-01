@@ -90,20 +90,6 @@ print "Max degree [%d] :: bill hr%d with %d co-sponsors" % (numDeg, maxDegNId, l
 
 
 print "/* LEGISLATOR <--[cosponsors]--> LEGISLATOR */"
-# graph2 = createNetwork(sponsor_bills_map.keys()) # creates network where a node is a legislator
-# for bill_id in bill_sponsors_map:
-#   sponsors = bill_sponsors_map[bill_id]
-#   if len(sponsors) > maxSponsors:
-#     continue
-#   addEdgesToNetwork(graph2, sponsors)
-
-
-# maxDegNId = snap.GetMxDegNId(graph2)
-# numDeg = graph2.GetNI(maxDegNId).GetDeg()
-# print "Graph has %d nodes and %d edges" % (graph2.GetNodes(), graph2.GetEdges())
-# print "Its clustering co-efficient is %f" % (snap.GetClustCf(graph2))
-# print "Its effective diameter is %d" % (snap.GetBfsEffDiam(graph2, 50, False))
-
 sponsorGraph = createGraphsWithData(sponsor_bills_map, bill_sponsors_map, True)
 
 
