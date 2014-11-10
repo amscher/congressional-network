@@ -1,7 +1,7 @@
 import json
 import snap
 
-maxSponsors = 20
+maxSponsors = 30
 
 bill_sponsors_map = {}
 sponsor_bills_map = {}
