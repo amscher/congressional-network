@@ -1,5 +1,5 @@
 import yaml
-import code.Candidate as Candidate
+import Candidate as Candidate
 
 ###### legislators ######
 def readLegislators():

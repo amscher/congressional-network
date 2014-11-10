@@ -1,4 +1,4 @@
-import code.Candidate as CandidateClass
+import Candidate as CandidateClass
 
 def readFile(filename):
     f = open(filename, 'r')
