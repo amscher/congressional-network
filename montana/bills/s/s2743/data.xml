@@ -1,0 +1,100 @@
+<bill session="113" type="s" number="2743" updated="2014-10-25T07:41:29-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Children and America's Homeland Act of 2014</title>
+    <title type="official" as="introduced">A bill making supplemental appropriations for the fiscal year ending September 30, 2014, for border security, law enforcement, humanitarian assistance, and for other purposes.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2014-07-31"/>
+    <cosponsor id="412251" joined="2014-07-31"/>
+    <cosponsor id="300021" joined="2014-07-31"/>
+    <cosponsor id="402675" joined="2014-07-31"/>
+    <cosponsor id="300023" joined="2014-07-31"/>
+    <cosponsor id="300041" joined="2014-09-18"/>
+    <cosponsor id="400134" joined="2014-07-31"/>
+    <cosponsor id="300048" joined="2014-07-31"/>
+    <cosponsor id="400194" joined="2014-07-31"/>
+    <cosponsor id="300072" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+      <reference ref="CR S5224-5233" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2773"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Appropriations"/>
+    <term name="Arizona"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="California"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against property"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Currency"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Justice"/>
+    <term name="Detention of persons"/>
+    <term name="Disability and paralysis"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Due process and equal protection"/>
+    <term name="El Salvador"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Firearms and explosives"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Guatemala"/>
+    <term name="Honduras"/>
+    <term name="Human trafficking"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Judges"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Land use and conservation"/>
+    <term name="Latin America"/>
+    <term name="Law enforcement officers"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Mental health"/>
+    <term name="Mexico"/>
+    <term name="Motor vehicles"/>
+    <term name="New Mexico"/>
+    <term name="Organized crime"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Sex offenses"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Terrorism"/>
+    <term name="Texas"/>
+    <term name="Transportation safety and security"/>
+    <term name="Violent crime"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+</bill>

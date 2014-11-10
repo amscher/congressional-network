@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="2688" updated="2014-10-25T07:41:02-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Union Transparency and Accountability Act</title>
+    <title type="official" as="introduced">A bill to ensure labor organization transparency and accountability.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2014-07-30"/>
+    <cosponsor id="300027" joined="2014-07-30"/>
+    <cosponsor id="400194" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Civil actions and liability"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government information and archives"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+</bill>

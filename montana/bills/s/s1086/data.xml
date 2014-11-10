@@ -1,0 +1,298 @@
+<bill session="113" type="s" number="1086" updated="2014-10-25T07:27:10-04:00">
+  <state datetime="2014-09-15T17:00:00-04:00">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-15T17:00:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Child Care and Development Block Grant Act of 2013</title>
+    <title type="short" as="reported to senate">Child Care and Development Block Grant Act of 2014</title>
+    <title type="short" as="passed senate">Child Care and Development Block Grant Act of 2014</title>
+    <title type="short" as="passed senate" partial="1">Safe Child Care Act of 2014</title>
+    <title type="official" as="introduced">A bill to reauthorize and improve the Child Care and Development Block Grant Act of 1990, and for other purposes.</title>
+  </titles>
+  <sponsor id="300073"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-06-03"/>
+    <cosponsor id="412493" joined="2014-02-27"/>
+    <cosponsor id="400054" joined="2013-06-03"/>
+    <cosponsor id="412223" joined="2013-06-17"/>
+    <cosponsor id="300051" joined="2013-06-03"/>
+    <cosponsor id="412323" joined="2014-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3908-3909"/>
+    </action>
+    <action datetime="2013-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar datetime="2013-09-18" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-02-25">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-138.</text>
+    </action>
+    <calendar datetime="2014-02-25" calendar="Senate Legislative" under="General Orders" number="309">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 309.</text>
+    </calendar>
+    <action datetime="2014-02-26">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1169" label="consideration"/>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1187, S1210-1212, S1225-1226" label="consideration"/>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S1225" label="consideration"/>
+      <reference ref="CR S1225" label="text"/>
+    </action>
+    <action datetime="2014-03-04">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1257" label="consideration"/>
+    </action>
+    <action datetime="2014-03-05">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1285-1288" label="consideration"/>
+    </action>
+    <action datetime="2014-03-05">
+      <text>Cloture motion withdrawn by unanimous consent in Senate.</text>
+      <reference ref="CR S1305" label="consideration"/>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1329-1330" label="consideration"/>
+    </action>
+    <action datetime="2014-03-10">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1371" label="consideration"/>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1487" label="consideration"/>
+    </action>
+    <action datetime="2014-03-12">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1531" label="consideration"/>
+    </action>
+    <action datetime="2014-03-12">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S1531-1532, S1539-1569, S1569-1570" label="consideration"/>
+      <reference ref="text of measure as reported in Senate CR S1539-1545"/>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1602-1610, S1611-1612, S1613-1627" label="consideration"/>
+    </action>
+    <action datetime="2014-03-13">
+      <text>The committee substitute as amended agreed to by Voice Vote.</text>
+      <reference ref="CR S1617" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="77" datetime="2014-03-13" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 96 - 2. Record Vote Number: 77.</text>
+      <reference ref="CR S1617-1627" label="text"/>
+    </vote>
+    <action datetime="2014-03-13T18:17:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-03-13T20:15:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2014-09-15T16:38:00-04:00">
+      <text>Mr. Kline moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-09-15T16:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7465-7481" label="consideration"/>
+    </action>
+    <action datetime="2014-09-15T16:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1086.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-09-15T17:00:00-04:00" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7465-7473" label="text"/>
+    </vote>
+    <action datetime="2014-09-15T17:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Motion to agree to the House amendment to the Senate bill made in Senate.</text>
+      <reference ref="CR S5772" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Cloture motion on the motion to agree to the House amendment to Senate bill presented in Senate.</text>
+      <reference ref="CR S5772" label="consideration"/>
+      <reference ref="CR S5772" label="text"/>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Motion by Senator Reid to concur in the House amendment to the Senate bill with an amendment (SA 3923) made in Senate.</text>
+      <reference ref="CR S5772" label="consideration"/>
+      <reference ref="CR S5772" label="text"/>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Motion by Senator Reid to refer to Senate Committee on Health, Education, Labor, and Pensions the House message to accompany the bill (S. 1086) with instructions to report back forthwith with the following amendment (SA 3925) made in Senate.</text>
+      <reference ref="CR S5772" label="consideration"/>
+      <reference ref="CR S5772" label="text"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Adoption and foster care"/>
+    <term name="Allergies"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Consumer affairs"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Disability and paralysis"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Government information and archives"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medicaid"/>
+    <term name="Nutrition and diet"/>
+    <term name="Personnel records"/>
+    <term name="Physical fitness and lifestyle"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Preschool education"/>
+    <term name="Sex offenses"/>
+    <term name="State and local government operations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2805"/>
+    <amendment number="s2807"/>
+    <amendment number="s2808"/>
+    <amendment number="s2809"/>
+    <amendment number="s2810"/>
+    <amendment number="s2811"/>
+    <amendment number="s2812"/>
+    <amendment number="s2813"/>
+    <amendment number="s2814"/>
+    <amendment number="s2815"/>
+    <amendment number="s2816"/>
+    <amendment number="s2817"/>
+    <amendment number="s2818"/>
+    <amendment number="s2819"/>
+    <amendment number="s2820"/>
+    <amendment number="s2821"/>
+    <amendment number="s2822"/>
+    <amendment number="s2823"/>
+    <amendment number="s2824"/>
+    <amendment number="s2825"/>
+    <amendment number="s2826"/>
+    <amendment number="s2827"/>
+    <amendment number="s2828"/>
+    <amendment number="s2829"/>
+    <amendment number="s2830"/>
+    <amendment number="s2831"/>
+    <amendment number="s2832"/>
+    <amendment number="s2833"/>
+    <amendment number="s2834"/>
+    <amendment number="s2835"/>
+    <amendment number="s2836"/>
+    <amendment number="s2837"/>
+    <amendment number="s2838"/>
+    <amendment number="s2839"/>
+    <amendment number="s2840"/>
+    <amendment number="s2841"/>
+    <amendment number="s2842"/>
+    <amendment number="s2843"/>
+    <amendment number="s2844"/>
+    <amendment number="s2845"/>
+    <amendment number="s2846"/>
+    <amendment number="s2847"/>
+    <amendment number="s2848"/>
+    <amendment number="s2849"/>
+    <amendment number="s2850"/>
+    <amendment number="s3923"/>
+    <amendment number="s3924"/>
+    <amendment number="s3925"/>
+    <amendment number="s3926"/>
+    <amendment number="s3927"/>
+  </amendments>
+  <summary>3/13/2014--Passed Senate amended.
+Child Care and Development Block Grant Act of 2014 - (Sec. 3) Reauthorizes the child care and development block grant program (CCDBG) under the Child Care and Development Block Grant Act of 1990 (CCDBG Act) through FY2020 at the level of discretionary appropriations necessary.
+
+(Sec. 4) Allows governors to designate a collaborative agency or establish a joint interagency office to serve as the lead agency responsible for administering the CCDBG program.
+
+Requires the lead agency, at the option of an Indian tribe or organization in the state, to collaborate and coordinate with that tribe or tribal organization in the development of the state child care and development plan.
+
+(Sec. 5) Increases from two to three years the period that must be covered by a state child care and development plan.
+
+Revises and expands plan requirements to include, among others, compliance with state licensing requirements and state and local health and safety requirements, compliance with child abuse reporting requirements, protection for working parents, coordination with other programs, addressing the needs of children in child care services during the period before, during, and after a state of emergency. Prescribes early learning and developmental guidelines.
+
+Requires the Secretary of Health and Human Services (HHS) (acting through the HHS Assistant Secretary for Children and Families) to prepare a report that contains a determination about whether each state uses amounts provided to it accordingly with respect to priority services..
+
+Authorizes a state to use funds to establish or support a system of local or regional child care resource and referral organizations.
+
+Requires a plan to include a statewide child care disaster plan for coordination of activities and collaboration, in the event of an emergency or major disaster, among the state agency with jurisdiction over human services, the agency with jurisdiction over state emergency planning, the state lead agency, the state agency with jurisdiction over licensing of child care providers, the local resource and referral organizations, the state resource and referral system, and the State Advisory Council on Early Childhood Education and Care.
+
+Requires the Secretary, acting through the Assistant Secretary for Children and Families, to report annually about whether each state uses funds allocated to it for the fiscal year involved in accordance with the specified priority for services.
+
+(Sec. 6) Requires that states spend the following percentages of their program funding to improve the quality of child care: (1) no less than 6% of such funds in the first two fiscal years after the enactment of this Act, (2) no less than 8% of such funds in the third and fourth fiscal years after enactment, and (3) no less than 10% of such founds in the fifth fiscal year. Requires states to spend, in addition, at least 3% of such funds in the first fiscal year after enactment, and each succeeding year, to improve the quality of care for infants and toddlers.
+
+Requires states receiving funds under the CCDBG Act to carry out: (1) not fewer than two of several specified activities affecting the quality of child care, which include training and use of early learning and developmental guidelines; and (2) criminal background checks for child care staff members of child care providers.
+
+(Sec. 7) Makes ineligible for employment by a licensed, regulated, or registered child care provider any individual who: (1) refuses to consent to a criminal background check, (2) knowingly makes a materially false statement in connection with such a background check, (3) is registered or is required to be registered on a state sex offender registry or the National Sex Offender Registry, or (4) has been convicted of one or more specified felonies.
+
+Prescribes requirements for the process of background checks, including fees a state may charge.
+
+(Sec. 8) Directs the Secretary of Health and Human Services (HHS) to: (1) provide technical assistance to states (which may be on a reimbursable basis), consistent with scientifically valid research, to carry out the CCDBG Act; (2) disseminate, for voluntary informational purposes, information on practices that scientifically valid research indicates are most successful in improving the quality of programs that receive assistance under the CCDBG Act; and (3) after consultation with the Secretary of Education and the heads of any other federal agencies involved issue guidance, and disseminate information on best practices regarding use of funding combined by the states.
+
+Declares that nothing shall be construed as granting the Secretary authority to permit states to alter the eligibility requirements for eligible children, including work requirements that apply to the parents of eligible children.
+
+Authorizes a state to request the Secretary for relief from any provision of federal law (including a regulation, policy, or procedure) affecting the delivery of child care services with federal funds that conflicts with any CCDBG requirement.
+
+Requires states receiving CCDBG funds to collect monthly information on whether children receiving CCDBG assistance are homeless.
+
+Directs the Secretary to operate a national toll-free hotline and website.
+
+Prohibits any quarterly state CCDBG reports to the Secretary from containing individually identifiable information.
+
+(Sec. 9) Revises the amount the Secretary is required to reserve from annual appropriations for CCDBG payments to Indian tribes and tribal organizations. Requires a reservation of 2% of such appropriations (currently, between 1% and 2%), but allows for a greater reservation in certain circumstances.
+
+Directs the Secretary to reserve $1 million of the amount appropriated for the CCDBG program each fiscal year for the operation of the national toll-free hotline and website.
+
+Directs the Secretary, in consultation with Indian tribes and tribal organizations, to develop minimum child care standards applicable to any of them receiving CCDBG assistance.
+
+Requires the Secretary to waive the prohibition against tribal use of CCDBG funds for construction or renovation of child care facilities if it would decrease the level of child care services, in any case where: (1) the decrease is temporary, and (2) the level of child care services will increase or improve after the construction or renovation is completed.
+
+(Sec. 10) Defines "child with a disability" as one under age 13 who has a disability and is eligible for early intervention services under the Individuals with Disabilities Education Act.
+
+ Caps the family assets of an "eligible child" at $1 million.
+
+Sec. 10A) Declares that nothing in the CCDBG Act shall be construed in a manner to: (1) favor or promote the use of grants and contracts for the receipt of child care services under the CCDBG Act over the use of child care certificates; or (2) disfavor or discourage the use of such certificates for the purchase of child care services, including those services provided by private or nonprofit entities, such as faith-based providers.
+
+(Sec. 11) Directs the Comptroller General (GAO) to study the number of families eligible to receive assistance under the CCDBG Act who have applied for it and been placed on a waiting list.
+
+(Sec. 12) Makes a conforming amendment to the Public Health Service Act.
+
+(Sec. 13) Directs the Secretary, in conjunction with the Secretary of Education, to conduct an interdepartmental review of all early learning and care programs.
+
+(Sec. 14) Safe Child Care Act of 2014 - Amends the Crime Control Act of 1990 to prescribe background checks by a state for child care and staff members, and makes a person ineligible for employment by a child care provider if he or she refuses to consent to such a background check, lies during the background check, or has been convicted of one or more specified felonies.
+
+(Sec. 15) Allows child care facilities in federal buildings to serve children of parents or guardians not employed by the federal government if the parent or guardian: (1) has met the requirements for a master's degree or a doctorate degree from an institution of higher education, and (2) is conducting research in the federal building under an arrangement between the parent or guardian and a federal agency.
+
+(Sec. 16) Expresses the sense of the Senate that the President should immediately present to Congress a comprehensive plan to reduce child poverty in the United States significantly by 2019.</summary>
+</bill>

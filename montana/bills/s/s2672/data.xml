@@ -1,0 +1,57 @@
+<bill session="113" type="s" number="2672" updated="2014-10-25T07:40:54-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Sanction Iran, Safeguard America Act of 2014</title>
+    <title type="short" as="introduced">SISA Act</title>
+    <title type="official" as="introduced">A bill to terminate the authority to waive certain provisions of law requiring the imposition of sanctions with respect to Iran, to codify certain sanctions imposed by executive order, and for other purposes.</title>
+  </titles>
+  <sponsor id="412573"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Argentina"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Currency"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Foreign and international banking"/>
+    <term name="Foreign property"/>
+    <term name="Human rights"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="International law and treaties"/>
+    <term name="Iran"/>
+    <term name="Israel"/>
+    <term name="Latin America"/>
+    <term name="Manufacturing"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Metals"/>
+    <term name="Middle East"/>
+    <term name="Motor vehicles"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="New York City"/>
+    <term name="Nuclear weapons"/>
+    <term name="Oil and gas"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Religion"/>
+    <term name="Sanctions"/>
+    <term name="Saudi Arabia"/>
+    <term name="Terrorism"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+</bill>

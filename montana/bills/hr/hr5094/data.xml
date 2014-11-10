@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="5094" updated="2014-10-25T07:05:21-04:00">
+  <state datetime="2014-09-10">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-10"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to recoup certain bonuses or awards paid to employees of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2014-07-23"/>
+    <cosponsor id="412310" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2014-09-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-10" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2014--Introduced.
+Authorizes the Secretary of Veterans Affairs (VA) to issue an order directing a VA employee to repay the amount of an award or bonus paid to the employee if: (1) the Secretary determines that such repayment is appropriate, and (2) the employee is afforded notice and an opportunity for a hearing.</summary>
+</bill>

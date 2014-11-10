@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="2484" updated="2014-10-25T07:39:19-04:00">
+  <state datetime="2014-09-17">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">South Pacific Fisheries Convention Implementation Act</title>
+    <title type="official" as="introduced">A bill to implement the Convention on the Conservation and Management of the High Seas Fishery Resources in the South Pacific Ocean, as adopted at Auckland on November 14, 2009, and for other purposes.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2014-09-17" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Coast guard"/>
+    <term name="Department of Commerce"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Oceania"/>
+    <term name="Pacific Ocean"/>
+  </subjects>
+  <amendments/>
+</bill>

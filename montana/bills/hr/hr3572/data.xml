@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="3572" updated="2014-10-25T06:52:25-04:00">
+  <state datetime="2014-07-16">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="official" as="introduced">To revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in North Carolina.</title>
+  </titles>
+  <sponsor id="400266"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-11-29">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-04-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-16" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="North Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+Revises the boundaries of certain John H. Chafee Coastal Barrier Resources System units in North Carolina by replacing maps subtitled "Lea Island Complex L07," "Wrightsville Beach Unit L08, Masonboro Island Unit L09," and "Masonboro Island Unit L09" with other maps with the same names of a date to be specified.</summary>
+</bill>

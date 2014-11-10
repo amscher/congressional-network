@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2812" updated="2014-10-25T07:42:04-04:00">
+  <state datetime="2014-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-16"/>
+  </status>
+  <introduced datetime="2014-09-16"/>
+  <titles>
+    <title type="short" as="introduced">Repay Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to establish a simplified income-driven repayment plan, and for other purposes.</title>
+  </titles>
+  <sponsor id="412545"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2014-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Income tax exclusion"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

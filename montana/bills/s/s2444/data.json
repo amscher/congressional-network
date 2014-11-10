@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2444-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2014-06-05", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2014-06-05", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-06-05", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John", 
+      "sponsored_at": "2014-06-05", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "2444", 
+  "official_title": "A bill to authorize appropriations for the Coast Guard for fiscal years 2015 through 2016, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1760-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2131-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coast Guard Authorization Act for Fiscal Years 2015 and 2016", 
+  "sponsor": {
+    "district": null, 
+    "name": "Begich, Mark", 
+    "state": "AK", 
+    "thomas_id": "01898", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-05", 
+  "subjects": [
+    "Accidents", 
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Alaska", 
+    "Appropriations", 
+    "Arctic Ocean", 
+    "Arctic and polar regions", 
+    "Aviation and airports", 
+    "Child care and development", 
+    "Civil actions and liability", 
+    "Coast guard", 
+    "Congressional oversight", 
+    "Department of Defense", 
+    "Department of Homeland Security", 
+    "Disability and paralysis", 
+    "Disaster relief and insurance", 
+    "Domestic violence and child abuse", 
+    "Drug, alcohol, tobacco use", 
+    "Employee hiring", 
+    "Employment discrimination and employee rights", 
+    "Executive agency funding and structure", 
+    "Fraud offenses and financial crimes", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Health care coverage and access", 
+    "Land transfers", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Marine pollution", 
+    "Military education and training", 
+    "Military facilities and property", 
+    "Military medicine", 
+    "Military personnel and dependents", 
+    "Military readiness", 
+    "National symbols", 
+    "Navigation, waterways, harbors", 
+    "Oil and gas", 
+    "Personnel records", 
+    "Pollution liability", 
+    "Public contracts and procurement", 
+    "Student aid and college costs", 
+    "Teaching, teachers, curricula", 
+    "Transportation and public works", 
+    "Transportation costs", 
+    "Transportation employees", 
+    "Transportation safety and security", 
+    "Veterans' education, employment, rehabilitation", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coast Guard Authorization Act for Fiscal Years 2015 and 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize appropriations for the Coast Guard for fiscal years 2015 through 2016, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:38:58-04:00"
+}

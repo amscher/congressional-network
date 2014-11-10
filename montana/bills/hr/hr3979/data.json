@@ -1,0 +1,1982 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-31", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 37 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-02-25T17:44:00-05:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-360.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T17:44:00-05:00", 
+      "calendar": "Union", 
+      "number": "268", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 268.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-03-11T17:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2278", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T17:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2278-2280", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T17:11:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3979.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T17:31:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T18:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2285-2286", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T19:03:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2278", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "116", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 116).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "references": [], 
+      "text": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-24", 
+      "calendar": "Senate Legislative", 
+      "number": "333", 
+      "references": [], 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "references": [
+        {
+          "reference": "CR S1720", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-26", 
+      "references": [
+        {
+          "reference": "CR S1741-1744", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "S1761-1770, S1770-1771", 
+          "type": null
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-26", 
+      "references": [
+        {
+          "reference": "CR S1770-1771", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1770-1771", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-27", 
+      "references": [
+        {
+          "reference": "CR S1781-1784, S1793, S1799-1800, S1800, S1803-1809", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-27", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S1799-1800", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1799", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "90", 
+      "text": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 65 - 34. Record Vote Number: 90.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "references": [], 
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "references": [
+        {
+          "reference": "CR S1859-1860", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by motion.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [
+        {
+          "reference": "CR S1860", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1860", 
+          "type": "text"
+        }
+      ], 
+      "text": "Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 2879) made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "references": [
+        {
+          "reference": "CR S1860", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1860", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01", 
+      "references": [
+        {
+          "reference": "CR S1897", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "references": [
+        {
+          "reference": "CR S2044-2046, S2047-2081, S2082-2085", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [
+        {
+          "reference": "CR S2047", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 2879) fell when cloture was invoked on SA 2874 in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "references": [
+        {
+          "reference": "CR S2081", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senator Vitter moved to appeal the ruling of the chair that Amdt. No. 2931 is not in order to be proposed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "references": [], 
+      "text": "Motion to table the motion to appeal the ruling of the chair agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 98.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "references": [
+        {
+          "reference": "CR S2137-2140, S2141-2144, S2145-2146, S2148, S2148-2149, S2149-2150, S2152", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "references": [
+        {
+          "reference": "CR S2150", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2150", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 61 - 35. Record Vote Number: 100.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "references": [
+        {
+          "reference": "CR S2175-2178", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2176-2178", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "101", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 59 - 38. Record Vote Number: 101.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2874-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2874"
+    }, 
+    {
+      "amendment_id": "samdt2875-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2875"
+    }, 
+    {
+      "amendment_id": "samdt2876-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2876"
+    }, 
+    {
+      "amendment_id": "samdt2877-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2877"
+    }, 
+    {
+      "amendment_id": "samdt2878-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2878"
+    }, 
+    {
+      "amendment_id": "samdt2879-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2879"
+    }, 
+    {
+      "amendment_id": "samdt2880-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2880"
+    }, 
+    {
+      "amendment_id": "samdt2881-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2881"
+    }, 
+    {
+      "amendment_id": "samdt2882-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2882"
+    }, 
+    {
+      "amendment_id": "samdt2884-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2884"
+    }, 
+    {
+      "amendment_id": "samdt2885-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2885"
+    }, 
+    {
+      "amendment_id": "samdt2886-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2886"
+    }, 
+    {
+      "amendment_id": "samdt2887-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2887"
+    }, 
+    {
+      "amendment_id": "samdt2888-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2888"
+    }, 
+    {
+      "amendment_id": "samdt2889-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2889"
+    }, 
+    {
+      "amendment_id": "samdt2891-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2891"
+    }, 
+    {
+      "amendment_id": "samdt2892-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2892"
+    }, 
+    {
+      "amendment_id": "samdt2893-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2893"
+    }, 
+    {
+      "amendment_id": "samdt2894-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2894"
+    }, 
+    {
+      "amendment_id": "samdt2895-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2895"
+    }, 
+    {
+      "amendment_id": "samdt2896-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2896"
+    }, 
+    {
+      "amendment_id": "samdt2897-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2897"
+    }, 
+    {
+      "amendment_id": "samdt2898-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2898"
+    }, 
+    {
+      "amendment_id": "samdt2899-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2899"
+    }, 
+    {
+      "amendment_id": "samdt2900-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2900"
+    }, 
+    {
+      "amendment_id": "samdt2901-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2901"
+    }, 
+    {
+      "amendment_id": "samdt2902-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2902"
+    }, 
+    {
+      "amendment_id": "samdt2903-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2903"
+    }, 
+    {
+      "amendment_id": "samdt2904-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2904"
+    }, 
+    {
+      "amendment_id": "samdt2905-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2905"
+    }, 
+    {
+      "amendment_id": "samdt2906-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2906"
+    }, 
+    {
+      "amendment_id": "samdt2907-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2907"
+    }, 
+    {
+      "amendment_id": "samdt2908-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2908"
+    }, 
+    {
+      "amendment_id": "samdt2909-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2909"
+    }, 
+    {
+      "amendment_id": "samdt2910-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2910"
+    }, 
+    {
+      "amendment_id": "samdt2911-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2911"
+    }, 
+    {
+      "amendment_id": "samdt2912-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2912"
+    }, 
+    {
+      "amendment_id": "samdt2913-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2913"
+    }, 
+    {
+      "amendment_id": "samdt2914-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2914"
+    }, 
+    {
+      "amendment_id": "samdt2915-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2915"
+    }, 
+    {
+      "amendment_id": "samdt2916-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2916"
+    }, 
+    {
+      "amendment_id": "samdt2917-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2917"
+    }, 
+    {
+      "amendment_id": "samdt2918-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2918"
+    }, 
+    {
+      "amendment_id": "samdt2919-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2919"
+    }, 
+    {
+      "amendment_id": "samdt2920-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2920"
+    }, 
+    {
+      "amendment_id": "samdt2921-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2921"
+    }, 
+    {
+      "amendment_id": "samdt2922-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2922"
+    }, 
+    {
+      "amendment_id": "samdt2923-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2923"
+    }, 
+    {
+      "amendment_id": "samdt2924-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2924"
+    }, 
+    {
+      "amendment_id": "samdt2925-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2925"
+    }, 
+    {
+      "amendment_id": "samdt2926-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2926"
+    }, 
+    {
+      "amendment_id": "samdt2927-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2927"
+    }, 
+    {
+      "amendment_id": "samdt2928-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2928"
+    }, 
+    {
+      "amendment_id": "samdt2929-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2929"
+    }, 
+    {
+      "amendment_id": "samdt2930-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2930"
+    }, 
+    {
+      "amendment_id": "samdt2931-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2931"
+    }, 
+    {
+      "amendment_id": "samdt2932-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2932"
+    }, 
+    {
+      "amendment_id": "samdt2933-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2933"
+    }, 
+    {
+      "amendment_id": "samdt2934-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2934"
+    }, 
+    {
+      "amendment_id": "samdt2935-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2935"
+    }, 
+    {
+      "amendment_id": "samdt2936-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2936"
+    }, 
+    {
+      "amendment_id": "samdt2937-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2937"
+    }, 
+    {
+      "amendment_id": "samdt2938-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2938"
+    }, 
+    {
+      "amendment_id": "samdt2939-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2939"
+    }, 
+    {
+      "amendment_id": "samdt2940-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2940"
+    }, 
+    {
+      "amendment_id": "samdt2941-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2941"
+    }, 
+    {
+      "amendment_id": "samdt2942-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2942"
+    }, 
+    {
+      "amendment_id": "samdt2943-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2943"
+    }, 
+    {
+      "amendment_id": "samdt2944-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2944"
+    }, 
+    {
+      "amendment_id": "samdt2945-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2945"
+    }, 
+    {
+      "amendment_id": "samdt2946-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2946"
+    }, 
+    {
+      "amendment_id": "samdt2947-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2947"
+    }, 
+    {
+      "amendment_id": "samdt2948-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2948"
+    }, 
+    {
+      "amendment_id": "samdt2949-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2949"
+    }, 
+    {
+      "amendment_id": "samdt2950-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2950"
+    }, 
+    {
+      "amendment_id": "samdt2951-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2951"
+    }, 
+    {
+      "amendment_id": "samdt2952-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2952"
+    }, 
+    {
+      "amendment_id": "samdt2953-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2953"
+    }, 
+    {
+      "amendment_id": "samdt2954-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2954"
+    }, 
+    {
+      "amendment_id": "samdt2955-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2955"
+    }, 
+    {
+      "amendment_id": "samdt2958-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2958"
+    }, 
+    {
+      "amendment_id": "samdt2959-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2959"
+    }
+  ], 
+  "bill_id": "hr3979-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2014-01-31", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Barber, Ron", 
+      "sponsored_at": "2014-02-11", 
+      "state": "AZ", 
+      "thomas_id": "02093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2014-01-31", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2014-02-06", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Bentivolio, Kerry L.", 
+      "sponsored_at": "2014-02-11", 
+      "state": "MI", 
+      "thomas_id": "02135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Timothy H.", 
+      "sponsored_at": "2014-02-18", 
+      "state": "NY", 
+      "thomas_id": "01740", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-02-03", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2014-02-05", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2014-02-05", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2014-02-05", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "sponsored_at": "2014-02-06", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2014-02-18", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cotton, Tom", 
+      "sponsored_at": "2014-01-31", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2014-02-04", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2014-02-03", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Crawford, Eric A. \"Rick\"", 
+      "sponsored_at": "2014-02-05", 
+      "state": "AR", 
+      "thomas_id": "01989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daines, Steve", 
+      "sponsored_at": "2014-02-05", 
+      "state": "MT", 
+      "thomas_id": "02138", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2014-01-31", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2014-02-05", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2014-02-04", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2014-02-05", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2014-01-31", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2014-02-06", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Garcia, Joe", 
+      "sponsored_at": "2014-02-11", 
+      "state": "FL", 
+      "thomas_id": "02120", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gardner, Cory", 
+      "sponsored_at": "2014-01-31", 
+      "state": "CO", 
+      "thomas_id": "01998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2014-02-11", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2014-02-05", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-02-11", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2014-02-11", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "sponsored_at": "2014-02-03", 
+      "state": "MO", 
+      "thomas_id": "01656", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Griffin, Tim", 
+      "sponsored_at": "2014-01-31", 
+      "state": "AR", 
+      "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Griffith, H. Morgan", 
+      "sponsored_at": "2014-02-03", 
+      "state": "VA", 
+      "thomas_id": "02070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Harper, Gregg", 
+      "sponsored_at": "2014-02-05", 
+      "state": "MS", 
+      "thomas_id": "01933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Harris, Andy", 
+      "sponsored_at": "2014-02-03", 
+      "state": "MD", 
+      "thomas_id": "02026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hastings, Doc", 
+      "sponsored_at": "2014-02-18", 
+      "state": "WA", 
+      "thomas_id": "00512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Huelskamp, Tim", 
+      "sponsored_at": "2014-02-04", 
+      "state": "KS", 
+      "thomas_id": "02020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2014-01-31", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2014-02-05", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2014-02-04", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2014-01-31", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2014-01-31", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "OH", 
+      "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2014-02-05", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lankford, James", 
+      "sponsored_at": "2014-02-03", 
+      "state": "OK", 
+      "thomas_id": "02050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Latham, Tom", 
+      "sponsored_at": "2014-02-04", 
+      "state": "IA", 
+      "thomas_id": "00666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Massie, Thomas", 
+      "sponsored_at": "2014-02-03", 
+      "state": "KY", 
+      "thomas_id": "02094", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-02-05", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "sponsored_at": "2014-02-05", 
+      "state": "PA", 
+      "thomas_id": "01744", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Nunnelee, Alan", 
+      "sponsored_at": "2014-02-03", 
+      "state": "MS", 
+      "thomas_id": "02034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2014-02-03", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Perry, Scott", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "02157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2014-02-03", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2014-02-14", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2014-02-03", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Roby, Martha", 
+      "sponsored_at": "2014-02-03", 
+      "state": "AL", 
+      "thomas_id": "01986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2014-02-03", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2014-02-04", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Rothfus, Keith J.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "PA", 
+      "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Runyan, Jon", 
+      "sponsored_at": "2014-01-31", 
+      "state": "NJ", 
+      "thomas_id": "02039", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2014-02-04", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2014-02-03", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2014-02-03", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2014-01-31", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-02-04", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2014-02-06", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walden, Greg", 
+      "sponsored_at": "2014-02-03", 
+      "state": "OR", 
+      "thomas_id": "01596", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "sponsored_at": "2014-02-05", 
+      "state": "IN", 
+      "thomas_id": "02128", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Webster, Daniel", 
+      "sponsored_at": "2014-02-04", 
+      "state": "FL", 
+      "thomas_id": "02002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wenstrup, Brad R.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "OH", 
+      "thomas_id": "02152", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2014-02-03", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "sponsored_at": "2014-02-03", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2014-02-05", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "VA", 
+      "thomas_id": "01886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Womack, Steve", 
+      "sponsored_at": "2014-02-04", 
+      "state": "AR", 
+      "thomas_id": "01991", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoder, Kevin", 
+      "sponsored_at": "2014-02-05", 
+      "state": "KS", 
+      "thomas_id": "02021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2014-01-31", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-03-11T19:03:00-04:00", 
+    "senate_cloture_result": "pass", 
+    "senate_cloture_result_at": "2014-03-27", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-04-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-31", 
+  "number": "3979", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3685-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3824-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4415-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4415-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4550-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4970-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1798-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1845-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2148-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2149-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2532-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Emergency Unemployment Compensation Extension Act of 2014", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Barletta, Lou", 
+    "state": "PA", 
+    "thomas_id": "02054", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2014-04-07", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Appropriations", 
+    "Congressional oversight", 
+    "Customs enforcement", 
+    "Department of Labor", 
+    "Emergency medical services and trauma care", 
+    "Employee benefits and pensions", 
+    "Employee hiring", 
+    "Employment and training programs", 
+    "Employment taxes", 
+    "Executive agency funding and structure", 
+    "Fires", 
+    "First responders and emergency personnel", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Intergovernmental relations", 
+    "Labor and employment", 
+    "Railroads", 
+    "Sales and excise taxes", 
+    "Social work, volunteer service, charitable organizations", 
+    "State and local finance", 
+    "Transportation employees", 
+    "Unemployment", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2014-04-07", 
+    "text": "Emergency Unemployment Compensation Extension Act of 2014 - (Sec. 2) Amends the Supplemental Appropriations Act, 2008 (SAA, 2008) to extend emergency unemployment compensation (EUC) payments for eligible individuals to weeks of employment ending on or before June 1, 2014. (Authority for payment of unemployment compensation expired on December 31, 2013. This amendment authorizes payment of compensation for the entire period between January 1, 2014, and June 1, 2014.)\n\n (Sec. 3) Amends the Assistance for Unemployed Workers and Struggling Families Act to extend until May 31, 2014, requirements that federal payments to states cover 100% of EUC.\n\n Amends the Unemployment Compensation Extension Act of 2008 to exempt weeks of unemployment between enactment of this Act and November 30, 2014, from the prohibition in the Federal-State Extended Unemployment Compensation Act of 1970 (FSEUCA of 1970) against federal matching payments to a state for the first week in an individual's eligibility period for which extended compensation or sharable regular compensation is paid if the state law provides for payment of regular compensation to an individual for his or her first week of otherwise compensable unemployment. (Thus allows temporary federal matching for the first week of extended benefits for states with no waiting period.)\n\n Amends the FSEUCA of 1970 to postpone similarly from December 31, 2013, to May 31, 2014, termination of the period during which a state may determine its \"on\" and \"off\" indicators according to specified temporary substitutions in its formula.\n\n (Sec. 4) Amends the SAA, 2008 to appropriate funds out of the employment security administration account through the first five months of FY2015 to assist states in providing reemployment and eligibility assessment activities.\n\nRequires the provision of such activities to an individual, at a minimum, within a time period after he or she begins to receive Tier-1 EUC benefits, and if applicable, again within a time period after he or she begins to receive Tier-3 EUC benefits. Requires the Secretary of Labor to determine appropriate time periods.\n\nSpecifies the purposes of the activities, namely to:\n\n better link the unemployed with the overall workforce system by bringing individuals receiving unemployment insurance benefits in for personalized assessments and referrals to reemployment services; and provide them with early access to specific strategies that can help get them back into the workforce faster, including through: (1) the development of a reemployment plan, (2) provision of access to relevant labor market information, (3) provision of access to information about industry-recognized credentials that are regionally relevant or nationally portable, (4) provision of referrals to reemployment services and training, and (5) an assessment of the individual's on-going eligibility for unemployment insurance benefits. (Sec. 5) Amends the Railroad Unemployment Insurance Act to extend through May 31, 2014, the temporary increase in extended unemployment benefits.\n\n(Sec. 6) Makes a change in application of a certain requirement (nonreduction rule) to a state that has entered a federal-state EUC agreement, under which the federal government would reimburse the state's unemployment compensation agency making EUC payments to individuals who have exhausted all rights to regular unemployment compensation under state or federal law and meet specified other criteria.\n\n (Under the nonreduction rule such an agreement does not apply with respect to a state whose method for computing regular unemployment compensation under state law has been modified to make the average weekly unemployment compensation benefit paid on or after June 2, 2010, less than what would have been paid before June 2, 2010.)\n\n Declares that the nonreduction rule shall not apply to a state which has enacted a law before December 1, 2013, that, upon taking effect, would violate the nonreduction rule. Allows a state whose agreement was terminated, however, to enter into a subsequent federal-state EUC agreement on or after enactment of this Act if, taking into account this inapplicability of the nonreduction rule, it would otherwise meet the requirements for an EUC agreement. (Thus allows such a subsequent EUC agreement to permit payment of less than the average weekly unemployment compensation benefit paid on or after June 2, 2010.)\n\n(Sec. 7) Prohibits the use of federal funds to: (1) make payments of unemployment compensation to any individual whose adjusted gross income in the preceding year was at least $1 million, or (2) determine whether or not this prohibition applies to an individual.\n\n(Sec. 8) Requires the Comptroller General (GAO) to:\n\n study the use of work suitability requirements to strengthen them to ensure that unemployment insurance benefits are being provided to individuals who are actively looking for work and truly want to return to the labor force; and brief Congress on the ongoing study, including preliminary recommendations for appropriate legislation and administrative action. (Sec. 9) Amends the Employee Retirement Income Security Act of 1974 (ERISA) and the Internal Revenue Code to revise the applicable percentages for determining minimum funding standards for single-employer defined benefit pension plans (funding stabilization). Exempts plans providing accelerated benefit distributions from the application of such standards.\n\n(Sec. 10) Amends ERISA, with respect to pension insurance premiums paid by a designated payor (i.e., the contributing sponsor or plan administrator for a single employer pension plan and the plan administrator for the multiemployer plan) to the Pension Benefit Guaranty Corporation (PBGC). Allows a designated payor to elect to prepay, during any plan year, the applicable PBGC flat dollar insurance premium due for up to five consecutive subsequent plan years specified in the election.\n\n(Sec. 11) Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend through FY2024 the authority of the Secretary of the Treasury to collect customs user fees for the processing of certain merchandise.\n\n(Sec. 12) Amends the Internal Revenue Code to provide that a bona fide volunteer providing firefighting and prevention services, emergency medical services, or ambulance services to a state or local government or tax-exempt organization shall not be counted in determining the number of full-time employees of an employer for purposes of the employer mandate to provide minimum essential health care coverage under the Patient Protection and Affordable Care Act.\n\nExcludes services rendered as a bona fide volunteer to any governmental entity and any tax-exempt organization (specified employer) from the determination of the number of full-time employees of an employer for purposes of such mandate. Defines \"bona fide volunteer\" as an employee whose only compensation from a specified employer is in the form of: (1) reimbursement for (or reasonable allowance for) reasonable expenses incurred in the performances of volunteer services; or (2) reasonable benefits and nominal fees, customarily paid in connection with the performance of volunteer services."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Volunteer Firefighters and Emergency Responders Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Protecting Volunteer Firefighters and Emergency Responders Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Protecting Volunteer Firefighters and Emergency Responders Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Emergency Unemployment Compensation Extension Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T06:55:49-04:00"
+}

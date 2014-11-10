@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2604" updated="2014-10-25T07:40:19-04:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Chattahoochee-Oconee National Forest Land Adjustment Act of 2014</title>
+    <title type="official" as="introduced">A bill to authorize the sale of certain National Forest System land in the State of Georgia.</title>
+  </titles>
+  <sponsor id="300021"/>
+  <cosponsors>
+    <cosponsor id="400194" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Georgia"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+</bill>

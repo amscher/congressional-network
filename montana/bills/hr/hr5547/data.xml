@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="5547" updated="2014-10-25T07:09:09-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Community Integration Act of 2014</title>
+    <title type="official" as="introduced">To ensure that Medicaid beneficiaries have the opportunity to receive care in a home and community-based setting.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400274" joined="2014-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Home and outpatient care"/>
+    <term name="Housing for the elderly and disabled"/>
+    <term name="Housing supply and affordability"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+</bill>

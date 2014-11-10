@@ -1,0 +1,97 @@
+<bill session="113" type="h" number="4276" updated="2014-10-25T06:58:21-04:00">
+  <state datetime="2014-09-16T19:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-16T19:43:00-04:00"/>
+  </status>
+  <introduced datetime="2014-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Traumatic Brain Injury Care Improvement Act of 2014</title>
+    <title type="short" as="reported to house">Veterans Traumatic Brain Injury Care Improvement Act of 2014</title>
+    <title type="short" as="passed house">Veterans Traumatic Brain Injury Care Improvement Act of 2014</title>
+    <title type="official" as="introduced">To extend and modify a pilot program on assisted living services for veterans with traumatic brain injury.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2014-07-23"/>
+    <cosponsor id="412535" joined="2014-07-14"/>
+    <cosponsor id="412603" joined="2014-07-23"/>
+    <cosponsor id="412190" joined="2014-03-18"/>
+    <cosponsor id="412509" joined="2014-09-15"/>
+    <cosponsor id="412428" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-03-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-09-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-10" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-09-15T19:06:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-598.</text>
+    </action>
+    <calendar datetime="2014-09-15T19:06:00-04:00" calendar="Union" number="445">
+      <text>Placed on the Union Calendar, Calendar No. 445.</text>
+    </calendar>
+    <action datetime="2014-09-16T19:34:00-04:00">
+      <text>Mr. Lamborn moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-09-16T19:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7585-7587" label="consideration"/>
+    </action>
+    <action datetime="2014-09-16T19:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4276.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-09-16T19:43:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7585-7586" label="text"/>
+    </vote>
+    <action datetime="2014-09-16T19:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Blood and blood diseases"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and paralysis"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Housing for the elderly and disabled"/>
+    <term name="Neurological disorders"/>
+    <term name="Right of privacy"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2014--Introduced.
+Veterans Traumatic Brain Injury Care Improvement Act of 2014 - Amends the National Defense Authorization Act for Fiscal Year 2008 to extend the pilot program to assess the effectiveness of providing assistance to eligible veterans with traumatic brain injury to enhance their rehabilitation, quality of life, and community integration.
+
+Requires that at least one location of the program be in each health care region of the Veterans Health Administration that contains a polytrauma center of the Department of Veterans Affairs (VA). (Under current law, selected locations also must include any location other than one described above in an area that contains a high concentration of veterans with traumatic brain injuries.)
+
+Expands requirements for reports on the pilot program.
+
+Replaces references to "assisted living" with the term "community-based brain injury residential rehabilitative care," including rehabilitation services within the meaning of such care.
+
+Requires a veteran, in order to be eligible for such services, to have a traumatic brain injury that is classified as complex-mild to severe.
+
+Modifies the process of recovery of the costs of certain care for a non-service-connected disability to allow a veteran's medical records to be made available to third parties without written consent if the care or services are related to drug abuse, alcoholism or alcohol abuse, HIV infection, or sickle cell anemia and the veteran does not withhold consent for such disclosure within 30 days of receiving such care.</summary>
+</bill>

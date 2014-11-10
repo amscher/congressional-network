@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="5212" updated="2014-10-25T07:06:20-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Civil Asset Forfeiture Reform Act of 2014</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, with respect to civil asset forfeiture, and for other purposes.</title>
+  </titles>
+  <sponsor id="412213"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2014-09-11"/>
+    <cosponsor id="412252" joined="2014-09-11"/>
+    <cosponsor id="412604" joined="2014-09-16"/>
+    <cosponsor id="412271" joined="2014-09-08"/>
+    <cosponsor id="400655" joined="2014-09-11"/>
+    <cosponsor id="412215" joined="2014-09-18"/>
+    <cosponsor id="412457" joined="2014-08-01"/>
+    <cosponsor id="400145" joined="2014-09-17"/>
+    <cosponsor id="412294" joined="2014-09-09"/>
+    <cosponsor id="400313" joined="2014-09-09"/>
+    <cosponsor id="412489" joined="2014-09-09"/>
+    <cosponsor id="400343" joined="2014-09-11"/>
+    <cosponsor id="412405" joined="2014-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-09-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Property rights"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

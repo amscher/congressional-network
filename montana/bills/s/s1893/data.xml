@@ -1,0 +1,63 @@
+<bill session="113" type="s" number="1893" updated="2014-10-25T07:34:15-04:00">
+  <state datetime="2014-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2013-12-20"/>
+  <titles>
+    <title type="short" as="introduced">Transportation Security Acquisition Reform Act</title>
+    <title type="official" as="introduced">A bill to require the Transportation Security Administration to implement best practices and improve transparency with regard to technology acquisition programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2014-06-23"/>
+    <cosponsor id="400034" joined="2014-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2014-07-23" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2719"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government studies and investigations"/>
+    <term name="Homeland security"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public-private cooperation"/>
+    <term name="Small business"/>
+    <term name="Technology assessment"/>
+    <term name="Technology transfer and commercialization"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2013--Introduced.
+Transportation Security Acquisition Reform Act - Amends the Homeland Security Act of 2002 to direct the Administrator of the Transportation Security Administration (TSA) to develop, update biennially, and report to Congress a strategic multiyear technology investment plan, which may include a classified addendum to report sensitive transportation security risks, technology vulnerabilities, or other sensitive security information.
+
+Directs the Administrator to analyze the TSA's acquisition of any security-related technology to determine if it is justified. Requires the Administrator, 30 days before any TSA award of a contract for acquisitions exceeding $30 million, to report to Congress the results of the analysis and certify that the security benefits justify the contract cost.
+
+Directs the appropriate TSA acquisition official to establish certain performance baseline requirements before any TSA security-related technology acquisition. Requires that official to review and assess each acquisition for meeting the baseline requirements and to report those results to Congress.
+
+Requires the Administrator, before the procurement of additional quantities of equipment to fulfill a TSA mission need, to utilize, to the extent practicable, any existing units in the TSA's inventory to meet that need.
+
+Directs the Administrator to report annually to Congress on TSA's goals for contracting with small and disadvantaged businesses.
+
+Directs the Comptroller General (GAO) to assess TSA's implementation of GAO recommendations regarding the acquisition of security-related technology that were made before enactment of this Act.
+
+Directs the GAO to evaluate TSA's progress in implementing this Act.</summary>
+</bill>

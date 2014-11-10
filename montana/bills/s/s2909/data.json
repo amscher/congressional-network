@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2909-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Boozman, John", 
+      "sponsored_at": "2014-09-18", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2014-09-18", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2014-09-18", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "2909", 
+  "official_title": "A bill to authorize a comprehensive strategic approach for United States foreign assistance to developing countries to end extreme global poverty and hunger, achieve food and nutrition security, promote endurable, long-term, agricultural-led economic growth, improve nutritional outcomes, especially for women and children, build resilient, adaptive, local capacity of vulnerable populations, and for other related purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Global Food Security Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Casey, Robert P., Jr.", 
+    "state": "PA", 
+    "thomas_id": "01828", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Agricultural education", 
+    "Agricultural trade", 
+    "Child health", 
+    "Congressional oversight", 
+    "Food assistance and relief", 
+    "Foreign aid and international relief", 
+    "Higher education", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Multilateral development programs", 
+    "Nutrition and diet", 
+    "U.S. and foreign investments", 
+    "Women's health", 
+    "World health"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Global Food Security Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize a comprehensive strategic approach for United States foreign assistance to developing countries to end extreme global poverty and hunger, achieve food and nutrition security, promote endurable, long-term, agricultural-led economic growth, improve nutritional outcomes, especially for women and children, build resilient, adaptive, local capacity of vulnerable populations, and for other related purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:42:53-04:00"
+}

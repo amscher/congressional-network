@@ -1,0 +1,209 @@
+<bill session="113" type="h" number="5360" updated="2014-10-25T07:07:34-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">American Renaissance in Manufacturing Act</title>
+    <title type="official" as="introduced">To enhance the competitiveness of American manufacturers and exports in the global marketplace by providing tax relief, regulatory relief, liability relief, and ensuring access to abundant and affordable supplies of energy, and for other purposes.</title>
+  </titles>
+  <sponsor id="412474"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2014-09-08"/>
+    <cosponsor id="412395" joined="2014-07-31"/>
+    <cosponsor id="400071" joined="2014-07-31"/>
+    <cosponsor id="412604" joined="2014-09-15"/>
+    <cosponsor id="412400" joined="2014-07-31"/>
+    <cosponsor id="412526" joined="2014-07-31"/>
+    <cosponsor id="400116" joined="2014-07-31"/>
+    <cosponsor id="412479" joined="2014-09-08"/>
+    <cosponsor id="400175" joined="2014-07-31"/>
+    <cosponsor id="412550" joined="2014-09-08"/>
+    <cosponsor id="412437" joined="2014-07-31"/>
+    <cosponsor id="412422" joined="2014-07-31"/>
+    <cosponsor id="412226" joined="2014-07-31"/>
+    <cosponsor id="412510" joined="2014-07-31"/>
+    <cosponsor id="412191" joined="2014-07-31"/>
+    <cosponsor id="412295" joined="2014-07-31"/>
+    <cosponsor id="400626" joined="2014-07-31"/>
+    <cosponsor id="412310" joined="2014-07-31"/>
+    <cosponsor id="412399" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, the Budget, the Judiciary, Rules, Natural Resources, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-09-12">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY18" subcommittee="Environment" name="House Science, Space, and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="271"/>
+    <bill relation="unknown" session="113" type="h" number="367"/>
+    <bill relation="unknown" session="113" type="h" number="982"/>
+    <bill relation="unknown" session="113" type="h" number="1582"/>
+    <bill relation="unknown" session="113" type="h" number="1900"/>
+    <bill relation="unknown" session="113" type="h" number="2218"/>
+    <bill relation="unknown" session="113" type="h" number="2231"/>
+    <bill relation="unknown" session="113" type="h" number="2655"/>
+    <bill relation="unknown" session="113" type="h" number="2728"/>
+    <bill relation="unknown" session="113" type="h" number="2784"/>
+    <bill relation="unknown" session="113" type="h" number="2823"/>
+    <bill relation="unknown" session="113" type="h" number="2850"/>
+    <bill relation="unknown" session="113" type="h" number="3042"/>
+    <bill relation="unknown" session="113" type="h" number="3301"/>
+    <bill relation="unknown" session="113" type="h" number="3309"/>
+    <bill relation="unknown" session="113" type="h" number="3826"/>
+    <bill relation="unknown" session="113" type="h" number="4438"/>
+    <bill relation="unknown" session="113" type="h" number="4457"/>
+    <bill relation="unknown" session="113" type="h" number="4718"/>
+    <bill relation="unknown" session="113" type="h" number="4743"/>
+    <bill relation="unknown" session="113" type="h" number="5304"/>
+    <bill relation="unknown" session="113" type="s" number="1288"/>
+    <bill relation="unknown" session="113" type="s" number="1342"/>
+    <bill relation="unknown" session="113" type="s" number="1720"/>
+    <bill relation="unknown" session="113" type="s" number="1905"/>
+    <bill relation="unknown" session="113" type="s" number="2319"/>
+    <bill relation="unknown" session="113" type="s" number="2823"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Air quality"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Bankruptcy"/>
+    <term name="Birds"/>
+    <term name="Business investment and capital"/>
+    <term name="California"/>
+    <term name="Canada"/>
+    <term name="Civil actions and liability"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Department of Energy"/>
+    <term name="Department of the Interior"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Energy prices"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Fruit and vegetables"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Horticulture and plants"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax rates"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Inflation and prices"/>
+    <term name="Insects"/>
+    <term name="Intellectual property"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Latin America"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Mexico"/>
+    <term name="Nebraska"/>
+    <term name="Oil and gas"/>
+    <term name="Pacific Ocean"/>
+    <term name="Pipelines"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Research and development"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Solid waste and recycling"/>
+    <term name="South Carolina"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+    <term name="Trade restrictions"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="User charges and fees"/>
+    <term name="Virginia"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

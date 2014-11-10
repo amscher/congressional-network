@@ -1,0 +1,44 @@
+<bill session="113" type="s" number="2876" updated="2014-10-25T07:42:36-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Contraception Access and Education Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish a public education and awareness and access program relating to emergency contraception.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2014-09-18"/>
+    <cosponsor id="412598" joined="2014-09-18"/>
+    <cosponsor id="300011" joined="2014-09-18"/>
+    <cosponsor id="412542" joined="2014-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Family planning and birth control"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Hospital care"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+</bill>

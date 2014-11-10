@@ -1,0 +1,40 @@
+<bill session="113" type="s" number="2849" updated="2014-10-25T07:42:22-04:00">
+  <state datetime="2014-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Developing Innovative Partnerships and Learning Opportunities that Motivate Achievement Act</title>
+    <title type="short" as="introduced">DIPLOMA Act</title>
+    <title type="official" as="introduced">A bill to strengthen student achievement and graduation rates and prepare youth for postsecondary education at institutions of higher education, careers, and citizenship through innovative partnerships that meet the comprehensive needs of youth.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2014-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2237"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Community life and organization"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Family relationships"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,93 @@
+<bill session="113" type="s" number="1691" updated="2014-10-25T07:32:31-04:00">
+  <state datetime="2014-09-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Border Patrol Agent Pay Reform Act of 2013</title>
+    <title type="short" as="reported to senate">Border Patrol Agent Pay Reform Act of 2014</title>
+    <title type="short" as="passed senate">Border Patrol Agent Pay Reform Act of 2014</title>
+    <title type="short" as="passed senate" partial="1">Homeland Security Cybersecurity Workforce Assessment Act</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to improve the security of the United States border and to provide for reforms and rates of pay for border patrol agents.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2014-05-20"/>
+    <cosponsor id="300027" joined="2014-09-08"/>
+    <cosponsor id="400134" joined="2014-06-25"/>
+    <cosponsor id="412554" joined="2014-02-25"/>
+    <cosponsor id="300071" joined="2013-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-08-26">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. With written report No. 113-248.</text>
+    </action>
+    <calendar datetime="2014-08-26" calendar="Senate Legislative" under="General Orders" number="548">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.</text>
+    </calendar>
+    <action datetime="2014-09-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5865-5872" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+      <reference ref="CR S5865-5868" label="text"/>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S5868-5872" label="text"/>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2014-09-25">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3463"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor standards"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3931"/>
+  </amendments>
+  <summary>11/13/2013--Introduced.
+Border Patrol Agent Pay Reform Act of 2013 - Sets forth additional&#160;requirements relating to the rates of pay and terms of employment&#160;for U.S. Border Patrol agents (i.e., federal employees who detect and prevent illegal entry and smuggling of aliens, commercial goods, narcotics, weapons, or contraband into the United States).
+
+Requires Border Patrol agents to elect each year to: (1) be assigned to either a specified&#160;level one or level two border patrol rate of pay governing regular rates of pay&#160;and overtime work requirements,&#160;or (2) decline to be assigned to either level.&#160;Expresses the sense of Congress that U.S. Customs and Border Protection (CBP) should ensure that not more than 10% of agents stationed at a location decline to be assigned to either the level 1 or level 2 border patrol rate of pay. Empowers CBP, without limitation, to require agents to perform overtime work in accordance with agency needs, including if needed in the event of a local or national emergency.</summary>
+</bill>

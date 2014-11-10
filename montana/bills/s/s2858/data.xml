@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="2858" updated="2014-10-25T07:42:27-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Toxics by Rail Accountability and Community Knowledge (TRACK) Act of 2014</title>
+    <title type="official" as="introduced">A bill to enhance rail safety and provide for the safe transport of hazardous materials, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Department of Transportation"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Environmental health"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health information and medical records"/>
+    <term name="Railroads"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

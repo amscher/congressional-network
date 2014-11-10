@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="5108" updated="2014-10-25T07:05:28-04:00">
+  <state datetime="2014-09-15T18:58:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-15T18:58:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="official" as="introduced">To establish the Law School Clinic Certification Program of the United States Patent and Trademark Office, and for other purposes.</title>
+  </titles>
+  <sponsor id="412561"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-09-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-09-15T14:44:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 113-588.</text>
+    </action>
+    <calendar datetime="2014-09-15T14:44:00-04:00" calendar="Union" number="435">
+      <text>Placed on the Union Calendar, Calendar No. 435.</text>
+    </calendar>
+    <action datetime="2014-09-15T17:01:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-09-15T17:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7481-7483" label="consideration"/>
+    </action>
+    <action datetime="2014-09-15T17:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5108.</text>
+    </action>
+    <action datetime="2014-09-15T17:09:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-09-15T18:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7485-7486" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="497" datetime="2014-09-15T18:58:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 327 - 22 (Roll no. 497).</text>
+      <reference ref="CR H7482" label="text"/>
+    </vote>
+    <action datetime="2014-09-15T18:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Commerce"/>
+    <term name="Higher education"/>
+    <term name="Intellectual property"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Licensing and registrations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2014--Passed House amended.
+Establishes the Law School Clinic Certification Program of the United States Patent and Trademark Office (USPTO) to allow students enrolled in a participating law school's clinic to practice patent and trademark law before the USPTO on a pro-bono basis for clients that qualify for assistance from the law school's clinic.
+
+Requires the USPTO Director to establish regulations and procedures for application to and participation in such program. Makes all law schools accredited by the American Bar Association eligible to participate in the program after being examined for acceptance using identical criteria.
+
+Provides for the program to be in effect for the 10-year period after enactment of this Act.
+
+Requires the Director, within two years after enactment of this Act, to report to Congress regarding the work done through the program and the number of participating law schools and students.</summary>
+</bill>

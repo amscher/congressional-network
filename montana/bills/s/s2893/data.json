@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2893-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-09-18", 
+      "state": "ND", 
+      "thomas_id": "02174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "2893", 
+  "official_title": "A bill to authorize the use of multifamily housing subject to a mortgage insured under section 207 of the National Housing Act as short-term residential housing.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1217-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Workforce Residential Housing Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Moran, Jerry", 
+    "state": "KS", 
+    "thomas_id": "01507", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Congressional oversight", 
+    "Government studies and investigations", 
+    "Housing and community development", 
+    "Housing and community development funding", 
+    "Housing finance and home ownership", 
+    "Housing supply and affordability"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Workforce Residential Housing Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize the use of multifamily housing subject to a mortgage insured under section 207 of the National Housing Act as short-term residential housing.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-10-25T07:42:44-04:00"
+}

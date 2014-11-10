@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="2614" updated="2014-10-25T07:40:24-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend certain provisions of the FAA Modernization and Reform Act of 2012.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="2591"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aviation and airports"/>
+    <term name="Bankruptcy"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Income tax deferral"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2014--Introduced.
+Amends the FAA Modernization and Reform Act of 2012, with respect to rollovers to a traditional or Roth individual retirement account (IRA) of payments to qualified airline employees in commercial airline carrier bankruptcy cases, to: (1) extend the period for filing a claim for refund of an overpayment of tax resulting from the receipt of such payments (i.e., by the later of April 15, 2015, or the expiration of the limitation period for filing refund claims); (2) modify the definition of "airline payment amount" to include payments in an airline carrier bankruptcy case filed after September 11, 2001, and before January 1, 2007, or on November 29, 2011; and (3) modify the definition of "qualified airline employee" to include an employee who was a participant in a defined benefit plan maintained by an airline carrier that was frozen effective November 1, 2012.</summary>
+</bill>

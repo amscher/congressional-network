@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="5069" updated="2014-10-25T07:05:08-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Federal Duck Stamp Act of 2014</title>
+    <title type="official" as="introduced">To amend the Migratory Bird Hunting and Conservation Stamp Act to increase in the price of Migratory Bird Hunting and Conservation Stamps to fund the acquisition of conservation easements for migratory birds, and for other purposes.</title>
+  </titles>
+  <sponsor id="412275"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2014-09-08"/>
+    <cosponsor id="412601" joined="2014-09-08"/>
+    <cosponsor id="412269" joined="2014-09-16"/>
+    <cosponsor id="412508" joined="2014-09-15"/>
+    <cosponsor id="400110" joined="2014-07-16"/>
+    <cosponsor id="412453" joined="2014-09-18"/>
+    <cosponsor id="412511" joined="2014-07-29"/>
+    <cosponsor id="412460" joined="2014-09-18"/>
+    <cosponsor id="412566" joined="2014-07-30"/>
+    <cosponsor id="400218" joined="2014-07-10"/>
+    <cosponsor id="412599" joined="2014-09-08"/>
+    <cosponsor id="412432" joined="2014-09-15"/>
+    <cosponsor id="412261" joined="2014-09-17"/>
+    <cosponsor id="412417" joined="2014-09-18"/>
+    <cosponsor id="412596" joined="2014-07-10"/>
+    <cosponsor id="400402" joined="2014-09-08"/>
+    <cosponsor id="412214" joined="2014-07-25"/>
+    <cosponsor id="412255" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2621"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Birds"/>
+    <term name="Congressional oversight"/>
+    <term name="Hunting and fishing"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

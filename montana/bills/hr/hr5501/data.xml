@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="5501" updated="2014-10-25T07:08:45-04:00">
+  <state datetime="2014-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Constitution and Citizenship Day Act of 2014</title>
+    <title type="official" as="introduced">To establish a grant program to enhance existing secondary education programs for the purpose of teaching high school students about the Constitution of the United States and the constitutions of the individual States.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="400170" joined="2014-09-17"/>
+    <cosponsor id="400333" joined="2014-09-17"/>
+    <cosponsor id="412579" joined="2014-09-17"/>
+    <cosponsor id="400422" joined="2014-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-17" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Education programs funding"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Elementary and secondary education"/>
+    <term name="State and local government operations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

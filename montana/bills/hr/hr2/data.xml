@@ -1,0 +1,276 @@
+<bill session="113" type="h" number="2" updated="2014-10-25T06:22:19-04:00">
+  <state datetime="2014-09-18T19:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-18T19:01:00-04:00"/>
+  </status>
+  <introduced datetime="2014-09-15"/>
+  <titles>
+    <title type="short" as="introduced">American Energy Solutions for Lower Costs and More American Jobs Act</title>
+    <title type="short" as="introduced" partial="1">BLM Live Internet Auctions Act</title>
+    <title type="short" as="introduced" partial="1">Bureau of Reclamation Conduit Hydropower Development Equity and Jobs Act</title>
+    <title type="short" as="introduced" partial="1">Central Oregon Jobs and Water Security Act</title>
+    <title type="short" as="introduced" partial="1">Domestic Prosperity and Global Freedom Act</title>
+    <title type="short" as="introduced" partial="1">Electricity Security and Affordability Act</title>
+    <title type="short" as="introduced" partial="1">Energy Consumers Relief Act of 2014</title>
+    <title type="short" as="introduced" partial="1">EPA Hydraulic Fracturing Study Improvement Act</title>
+    <title type="short" as="introduced" partial="1">Federal Lands Jobs and Energy Security Act</title>
+    <title type="short" as="introduced" partial="1">Lowering Gasoline Prices to Fuel an America That Works Act of 2014</title>
+    <title type="short" as="introduced" partial="1">National Petroleum Reserve Alaska Access Act</title>
+    <title type="short" as="introduced" partial="1">Native American Energy Act</title>
+    <title type="short" as="introduced" partial="1">Natural Gas Pipeline Permitting Reform Act</title>
+    <title type="short" as="introduced" partial="1">North American Energy Infrastructure Act</title>
+    <title type="short" as="introduced" partial="1">Northern Route Approval Act</title>
+    <title type="short" as="introduced" partial="1">PIONEERS Act</title>
+    <title type="short" as="introduced" partial="1">Planning for American Energy Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Preventing Government Waste and Protecting Coal Mining Jobs in America</title>
+    <title type="short" as="introduced" partial="1">Protecting Investment in Oil Shale the Next Generation of Environmental, Energy, and Resource Security Act</title>
+    <title type="short" as="introduced" partial="1">Protecting States' Rights to Promote American Energy Security Act</title>
+    <title type="short" as="introduced" partial="1">Providing Leasing Certainty for American Energy Act of 2014</title>
+    <title type="short" as="introduced" partial="1">RAPID Act</title>
+    <title type="short" as="introduced" partial="1">Responsibly And Professionally Invigorating Development Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Streamlining Permitting of American Energy Act of 2014</title>
+    <title type="short" as="passed house">American Energy Solutions for Lower Costs and More American Jobs Act</title>
+    <title type="short" as="passed house" partial="1">BLM Live Internet Auctions Act</title>
+    <title type="short" as="passed house" partial="1">Bureau of Reclamation Conduit Hydropower Development Equity and Jobs Act</title>
+    <title type="short" as="passed house" partial="1">Central Oregon Jobs and Water Security Act</title>
+    <title type="short" as="passed house" partial="1">Domestic Prosperity and Global Freedom Act</title>
+    <title type="short" as="passed house" partial="1">Electricity Security and Affordability Act</title>
+    <title type="short" as="passed house" partial="1">Energy Consumers Relief Act of 2014</title>
+    <title type="short" as="passed house" partial="1">EPA Hydraulic Fracturing Study Improvement Act</title>
+    <title type="short" as="passed house" partial="1">Federal Lands Jobs and Energy Security Act</title>
+    <title type="short" as="passed house" partial="1">Lowering Gasoline Prices to Fuel an America That Works Act of 2014</title>
+    <title type="short" as="passed house" partial="1">National Petroleum Reserve Alaska Access Act</title>
+    <title type="short" as="passed house" partial="1">Native American Energy Act</title>
+    <title type="short" as="passed house" partial="1">Natural Gas Pipeline Permitting Reform Act</title>
+    <title type="short" as="passed house" partial="1">North American Energy Infrastructure Act</title>
+    <title type="short" as="passed house" partial="1">Northern Route Approval Act</title>
+    <title type="short" as="passed house" partial="1">PIONEERS Act</title>
+    <title type="short" as="passed house" partial="1">Planning for American Energy Act of 2014</title>
+    <title type="short" as="passed house" partial="1">Preventing Government Waste and Protecting Coal Mining Jobs in America</title>
+    <title type="short" as="passed house" partial="1">Protecting Investment in Oil Shale the Next Generation of Environmental, Energy, and Resource Security Act</title>
+    <title type="short" as="passed house" partial="1">Protecting States' Rights to Promote American Energy Security Act</title>
+    <title type="short" as="passed house" partial="1">Providing Leasing Certainty for American Energy Act of 2014</title>
+    <title type="short" as="passed house" partial="1">RAPID Act</title>
+    <title type="short" as="passed house" partial="1">Responsibly And Professionally Invigorating Development Act of 2014</title>
+    <title type="short" as="passed house" partial="1">Streamlining Permitting of American Energy Act of 2014</title>
+    <title type="official" as="introduced">To remove Federal Government obstacles to the production of more domestic energy; to ensure transport of that energy reliably to businesses, consumers, and other end users; to lower the cost of energy to consumers; to enable manufacturers and other businesses to access domestically produced energy affordably and reliably in order to create and sustain more secure and well-paying American jobs; and for other purposes.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2014-09-15"/>
+    <cosponsor id="412269" joined="2014-09-15"/>
+    <cosponsor id="412480" joined="2014-09-15"/>
+    <cosponsor id="412406" joined="2014-09-15"/>
+    <cosponsor id="400154" joined="2014-09-15"/>
+    <cosponsor id="400171" joined="2014-09-15"/>
+    <cosponsor id="412460" joined="2014-09-15"/>
+    <cosponsor id="412421" joined="2014-09-15"/>
+    <cosponsor id="412191" joined="2014-09-15"/>
+    <cosponsor id="412468" joined="2014-09-15"/>
+    <cosponsor id="412487" joined="2014-09-15"/>
+    <cosponsor id="412431" joined="2014-09-15"/>
+    <cosponsor id="409888" joined="2014-09-15"/>
+    <cosponsor id="400414" joined="2014-09-15"/>
+    <cosponsor id="400431" joined="2014-09-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-15" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Transportation and Infrastructure, the Judiciary, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2014-09-16T18:19:00-04:00">
+      <text>Rules Committee Resolution H. Res. 727 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides that each bill may be debatable for 2 hours, equally divided and controlled by the chair and ranking member of their respective committees. The bills shall be considered as read, all points of order agains the provisions of the bill are waived, and each bill is provided with one motion to recommit.</text>
+    </action>
+    <action datetime="2014-09-18T15:26:00-04:00">
+      <text>Mr. Hastings (WA) asked unanimous consent that the question of adopting a motion to recommit on H.R. 2 may be subject to postponement as though under clause 8 of rule 20. Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-18T15:27:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 727.</text>
+      <reference ref="CR H7819-7854" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T15:27:00-04:00">
+      <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides that each bill may be debatable for 2 hours, equally divided and controlled by the chair and ranking member of their respective committees. The bills shall be considered as read, all points of order agains the provisions of the bill are waived, and each bill is provided with one motion to recommit.</text>
+    </action>
+    <action datetime="2014-09-18T15:28:00-04:00">
+      <text>DEBATE - The House proceeded with two hours of debate on H.R. 2.</text>
+    </action>
+    <action datetime="2014-09-18T17:12:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7853" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T17:12:00-04:00">
+      <text>Mr. Schneider moved to recommit with instructions to the Committee on Natural Resources.</text>
+      <reference ref="CR H7853-7854" label="consideration"/>
+      <reference ref="CR H7853" label="text"/>
+    </action>
+    <action datetime="2014-09-18T17:14:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Schneider motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new division at the end of the bill. The new division contains provisions to police excessive speculation in energy markets, protect national security, and prohibit expedited permitting for corporations that relase toxic air pollutants from petroleum coke.</text>
+    </action>
+    <action datetime="2014-09-18T17:20:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H7854" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T17:20:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit, the Chair put the question on the motion and by voice vote, announced that the ayes had prevailed. Mr. Schneider demanded the yeas and nays and pursuant to the order of the House of September 18, 2014, the Chair announced that further proceedings would be postponed.</text>
+    </action>
+    <action datetime="2014-09-18T18:48:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7859-7860" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T18:54:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 193 - 222 (Roll no. 514).</text>
+    </action>
+    <vote how="roll" type="vote" roll="515" datetime="2014-09-18T19:01:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 226 - 191 (Roll no. 515).</text>
+      <reference ref="CR H7819-7841" label="text"/>
+    </vote>
+    <action datetime="2014-09-18T19:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="727"/>
+    <bill relation="rule" session="113" type="hr" number="727"/>
+    <bill relation="unknown" session="113" type="h" number="555"/>
+    <bill relation="unknown" session="113" type="h" number="678"/>
+    <bill relation="unknown" session="113" type="h" number="1394"/>
+    <bill relation="unknown" session="113" type="h" number="1548"/>
+    <bill relation="unknown" session="113" type="h" number="1582"/>
+    <bill relation="unknown" session="113" type="h" number="1782"/>
+    <bill relation="unknown" session="113" type="h" number="1900"/>
+    <bill relation="unknown" session="113" type="h" number="1963"/>
+    <bill relation="unknown" session="113" type="h" number="1964"/>
+    <bill relation="unknown" session="113" type="h" number="1965"/>
+    <bill relation="unknown" session="113" type="h" number="2231"/>
+    <bill relation="unknown" session="113" type="h" number="2640"/>
+    <bill relation="unknown" session="113" type="h" number="2641"/>
+    <bill relation="unknown" session="113" type="h" number="2728"/>
+    <bill relation="unknown" session="113" type="h" number="2784"/>
+    <bill relation="unknown" session="113" type="h" number="2824"/>
+    <bill relation="unknown" session="113" type="h" number="2850"/>
+    <bill relation="unknown" session="113" type="h" number="3301"/>
+    <bill relation="unknown" session="113" type="h" number="3826"/>
+    <bill relation="unknown" session="113" type="h" number="4304"/>
+    <bill relation="unknown" session="113" type="h" number="4801"/>
+    <bill relation="unknown" session="113" type="h" number="4899"/>
+    <bill relation="unknown" session="113" type="h" number="5300"/>
+    <bill relation="unknown" session="113" type="s" number="306"/>
+    <bill relation="unknown" session="113" type="s" number="1363"/>
+    <bill relation="unknown" session="113" type="s" number="1743"/>
+    <bill relation="unknown" session="113" type="s" number="1905"/>
+    <bill relation="unknown" session="113" type="s" number="2010"/>
+    <bill relation="unknown" session="113" type="s" number="2823"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Air quality"/>
+    <term name="Alaska"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Birds"/>
+    <term name="California"/>
+    <term name="Canada"/>
+    <term name="Civil actions and liability"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Energy"/>
+    <term name="Department of the Interior"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Earth sciences"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Employment and training programs"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy prices"/>
+    <term name="Energy research"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="General public lands matters"/>
+    <term name="Georgia"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Insects"/>
+    <term name="Internet and video services"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Lakes and rivers"/>
+    <term name="Latin America"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Mexico"/>
+    <term name="Military readiness"/>
+    <term name="Mining"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Minority employment"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Nebraska"/>
+    <term name="North Carolina"/>
+    <term name="Oil and gas"/>
+    <term name="Oregon"/>
+    <term name="Pacific Ocean"/>
+    <term name="Pipelines"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Roads and highways"/>
+    <term name="South Carolina"/>
+    <term name="State and local government operations"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="Trade restrictions"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Virginia"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+</bill>

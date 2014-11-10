@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="4947" updated="2014-10-25T07:04:03-04:00">
+  <state datetime="2014-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-24"/>
+  </status>
+  <introduced datetime="2014-06-24"/>
+  <titles>
+    <title type="short" as="introduced">ORDEAL Act of 2014</title>
+    <title type="short" as="introduced">Ozone Regulatory Delay and Extension of Assessment Length Act of 2014</title>
+    <title type="official" as="introduced">To amend the Clean Air Act to delay the review and revision of the national ambient air quality standards for ozone.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2014-07-10"/>
+    <cosponsor id="412397" joined="2014-07-10"/>
+    <cosponsor id="400209" joined="2014-07-10"/>
+    <cosponsor id="412302" joined="2014-06-24"/>
+    <cosponsor id="400313" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-24" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2514"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+</bill>

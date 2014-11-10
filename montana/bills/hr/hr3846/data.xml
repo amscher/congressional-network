@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="3846" updated="2014-10-25T06:54:42-04:00">
+  <state datetime="2014-07-28T16:39:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-28T16:39:00-04:00"/>
+  </status>
+  <introduced datetime="2014-01-10"/>
+  <titles>
+    <title type="short" as="introduced">United States Customs and Border Protection Authorization Act</title>
+    <title type="short" as="reported to house">United States Customs and Border Protection Authorization Act</title>
+    <title type="short" as="passed house">United States Customs and Border Protection Authorization Act</title>
+    <title type="official" as="introduced">To provide for the authorization of border, maritime, and transportation security responsibilities and functions in the Department of Homeland Security and the establishment of United States Customs and Border Protection, and for other purposes.</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors>
+    <cosponsor id="400199" joined="2014-01-10"/>
+    <cosponsor id="400654" joined="2014-01-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-10" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-10">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2014-01-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-01-15">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2014-05-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-05-20">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2014-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-24T12:57:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-555, Part I.</text>
+    </action>
+    <action datetime="2014-07-24T12:57:00-04:00">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <calendar datetime="2014-07-24T12:57:00-04:00" calendar="Union" number="415">
+      <text>Placed on the Union Calendar, Calendar No. 415.</text>
+    </calendar>
+    <action datetime="2014-07-28T16:14:00-04:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-28T16:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6899-6908" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T16:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3846.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T16:39:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6899-6904" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T16:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Discharged"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Terrorism"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>1/10/2014--Introduced.
+United States Customs and Border Protection Authorization Act - Amends the Homeland Security Act of 2002 with respect to the establishment in the Department of Homeland Security (DHS) of the U.S. Customs and Border Protection.</summary>
+</bill>
