@@ -21,8 +21,8 @@ def readContributionsFile(prefix, candidates, verbose=False):
     unmatched = 0
     for line in lines:
         line = line.split('|')
-        if not line[ENTITY_TP] == TO_CANDIDATE:
-            continue
+#        if not line[ENTITY_TP] == TO_CANDIDATE:
+#            continue
         candidateId = line[CAND_ID]
         amount = int(line[TRANSACTION_AMT])
         if verbose and candidateId == "":
