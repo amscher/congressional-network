@@ -65,11 +65,12 @@ print 'Fraction of nodes in the largest strongly connected component: %f' % snap
 print 'Fraction of nodes in the largest weakly connected component: %f' % snap.GetMxWccSz(G)
 print 'Is the graph connected? %s. It actually isn\'t as any isolated nodes aren\'t saved by snap.py' % (snap.IsConnected(G))
 print 'The diameter of G is %d and its effective diameter is %f.' % (snap.GetBfsFullDiam(G, 20), snap.GetBfsEffDiam(G, 20))
+print 'Its clustering coefficient is %f' % (snap.GetClustCf(G))
 
-bills_hr = readBills('./', "hr")
-bills_s = readBills('./', "s")
-bills_hjres = readBills('./', "hjres")
-bills_sjres = readBills('./', "sjres")
+bills_hr = readBills('./montana/', "hr")
+bills_s = readBills('./montana/', "s")
+bills_hjres = readBills('./montana/', "hjres")
+bills_sjres = readBills('./montana/', "sjres")
 bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
 print 'Total number of bills is %d' % (len(bills))
 print calculateCountOfStatuses(bills)
@@ -179,7 +180,7 @@ pyplot.plot(plotData.keys(), plotData.values(), '.')
 pyplot.plot(plotData_incl_inprogress.keys(), plotData_incl_inprogress.values(), '.')
 pyplot.plot(voting.keys(), voting.values(), '.')
 
-pyplot.title(['Plot of success-ratio of bills\nagainst spending per bill'])
+pyplot.title(['Plot of success-ratio of bills' ,'against spending per bill'])
 pyplot.legend(['success-ratio', 'success-ratio including in-progress bills', 'success of each voting round'])
 pyplot.xlabel('Spend in $')
 pyplot.ylabel('Fraction of successful bills')
@@ -188,4 +189,75 @@ pyplot.show()
 print calculateCountOfStatuses(bills)
 
 pyplot.plot(plotData_incl_inprogress.keys(), plotData_incl_inprogress.values(), '.')
+pyplot.show()
+
+################################################
+### rerun analysis but only including bills that have been reported back to the houses
+
+# filter bills in state INTRODUCED or REFERRED
+filter_states = ['INTRODUCED', 'REFERRED']
+plotData = {}
+voting = {}
+plotData_incl_inprogress = {}
+for bill_id in bills.keys():
+    bill = bills[bill_id]
+    if bill.status in filter_states:
+        continue
+    sponsor = bill.sponsor
+    if sponsor in candidates:
+        spending = candidates[sponsor].amount
+        count = (1 if bill.isSuccessful() else 0, 1 if bill.isFailed()  else 0, 1 if bill.isInProgress() else 0)
+        vote = (bill.num_passed_rounds, bill.num_voting_rounds)
+        if spending in plotData:
+            counts = plotData[spending]
+            count = (count[0] + counts[0], count[1] + counts[1], count[2] + counts[2])
+            votes = voting[spending]
+            vote = (vote[0] + votes[0], vote[1] + votes[1])
+        plotData[spending] = count
+        voting[spending] = vote
+for spending in plotData.keys():
+    counts = plotData[spending]
+    total = counts[0] + counts[1]
+    plotData[spending] = counts[0] / float(1 if total == 0 else total)
+    total = sum(counts) # including in progress bills here
+    plotData_incl_inprogress[spending] = counts[0] / float(1 if total == 0 else total)
+    votes = voting[spending]
+    voting[spending] = votes[0] / float(1 if votes[1] == 0 else votes[1])
+print 'number of points to plot: %d' % len(plotData)
+pyplot.plot(plotData.keys(), plotData.values(), '.')
+pyplot.plot(plotData_incl_inprogress.keys(), plotData_incl_inprogress.values(), '.')
+pyplot.plot(voting.keys(), voting.values(), '.')
+
+pyplot.title('Plot of success-ratio of bills to be passed/enacted once they are out of committee')
+pyplot.legend(['success-ratio', 'success-ratio including in-progress bills', 'success of each voting round'])
+pyplot.xlabel('Spend in $')
+pyplot.ylabel('Fraction of successful bills')
+pyplot.show()
+
+
+# plot $ against bills success:failed per legislator
+plotData = {}
+plotData_incl_inprogress = {}
+for thomas_id in candidates.keys():
+    legislator = candidates[thomas_id]
+    spending = legislator.amount
+    count = (legislator.failed, legislator.inprogress, legislator.successful)
+    if spending in plotData:
+        counts = plotData[spending]
+        count = (count[0]+counts[0], count[1]+counts[1], count[2]+counts[2])
+    plotData[spending] = count
+for spending in plotData:
+    counts = plotData[spending]
+    total = counts[0] + counts[2]
+    plotData[spending] = counts[2] / float( 1 if total == 0 else total )
+    total += counts[1]
+    plotData_incl_inprogress[spending] = counts[2] / float(1 if total == 0 else total)
+print 'number of points to plot: %d' % len(plotData)
+pyplot.plot(plotData.keys(), plotData.values(), '.')
+pyplot.plot(plotData_incl_inprogress.keys(), plotData_incl_inprogress.values(), '.')
+
+pyplot.title('Plot of success-ratio of bills to be passed/enacted once they are out of committee ; for each legislator')
+pyplot.legend(['success-ratio', 'success-ratio including in-progress bills', 'success of each voting round'])
+pyplot.xlabel('Spend in $')
+pyplot.ylabel('Fraction of successful bills')
 pyplot.show()
