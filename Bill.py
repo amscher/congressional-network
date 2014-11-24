@@ -4,15 +4,15 @@ IN_PROGRESS = [ 'INTRODUCED', 'REFERRED', 'PASS_OVER:SENATE', 'PASS_BACK:HOUSE',
 #neeral:~/Documents/cs224w/project/congressional-network/bills/hr$
 #grep \"status\" hr*/data.json | grep -v REFERRED | grep -v REPORTED | grep -v PASS_OVER:HOUSE | grep -v ENACTED:SIGNED | grep -v PROV_KILL:SUSPENSIONFAILED | grep -v PASSED:BILL | grep -v PASS_BACK:SENATE | grep -v FAIL:ORIGINATING:HOUSE | grep -v CONFERENCE:PASSED:HOUSE
 
-
 class Bill:
     'A class with all the attributes we need for a bill'
-    def __init__(self, bill_type_id, bill_id, status, sponsor, cosponsors):
+    def __init__(self, bill_type_id, bill_id, status, sponsor, cosponsors,introduced_at):
         self.bill_type_id = bill_type_id
         self.bill_id = bill_id
         self.status = status
         self.sponsor = sponsor # thomas id
         self.cosponsors = cosponsors
+        self.introduced_month = int(introduced_at[5:6]) # month when the bill was introduced: "yyyy-MM-dd" -> MM
         self.num_voting_rounds = 0
         self.num_passed_rounds = 0
 
@@ -25,7 +25,12 @@ class Bill:
     def isInProgress(self):
         return self.status in IN_PROGRESS
 
+    def isOutOfCommittee(self):
+        return self.status not in ['INTRODUCED', 'REFERRED']
+
     def addVotingRound(self, result):
         self.num_voting_rounds += 1
         if 'pass' == result:
             self.num_passed_rounds += 1
+
+

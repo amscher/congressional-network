@@ -25,7 +25,9 @@ def readBills(directory_prefix, bill_type):
         cosponsors.append(sponsor)
     if data["status"]:
         raw_status = data["status"]
-    bill_object = Bill.Bill(bill_type, directory, raw_status, sponsor, cosponsors)
+    if data["introduced_at"]:
+        introduced_at = data["introduced_at"]
+    bill_object = Bill.Bill(bill_type, directory, raw_status, sponsor, cosponsors, introduced_at)
     
     if data["actions"]:
         for action in data['actions']:
@@ -34,7 +36,21 @@ def readBills(directory_prefix, bill_type):
     bills[directory] = bill_object
   return bills
 
+def readAllBills():
+    bills_hr = readBills('./montana/', "hr")
+    bills_s = readBills('./montana/', "s")
+    bills_hjres = readBills('./montana/', "hjres")
+    bills_sjres = readBills('./montana/', "sjres")
+    bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
+    print 'Total number of bills is %d' % (len(bills))
+    return bills
 
+def filterBillsOnlyOutOfCommittee(bills):
+    out_of_committee_bills = {}
+    for bill_id in bills.keys():
+        if bills[bill_id].isOutOfCommittee():
+            out_of_committee_bills[bill_id] = bills[bill_id]
+    return out_of_committee_bills
 
 if __name__ == '__main__':
     bills = readBills('', "hr")

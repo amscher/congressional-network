@@ -1,6 +1,6 @@
 import snap
 import fec_parser
-from readBills import readBills
+import readBills
 import readCandidateData
 from matplotlib import pyplot
 
@@ -67,12 +67,7 @@ print 'Is the graph connected? %s. It actually isn\'t as any isolated nodes aren
 print 'The diameter of G is %d and its effective diameter is %f.' % (snap.GetBfsFullDiam(G, 20), snap.GetBfsEffDiam(G, 20))
 print 'Its clustering coefficient is %f' % (snap.GetClustCf(G))
 
-bills_hr = readBills('./montana/', "hr")
-bills_s = readBills('./montana/', "s")
-bills_hjres = readBills('./montana/', "hjres")
-bills_sjres = readBills('./montana/', "sjres")
-bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
-print 'Total number of bills is %d' % (len(bills))
+bills = readBills.readAllBills()
 print calculateCountOfStatuses(bills)
 
 candidates = readCandidateData.readLegislators()
