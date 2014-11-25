@@ -26,7 +26,7 @@ def readBills(directory_prefix, bill_type):
     if data["status"]:
         raw_status = data["status"]
     bill_object = Bill.Bill(bill_type, directory, raw_status, sponsor, cosponsors)
-    
+
     if data["actions"]:
         for action in data['actions']:
             if "vote" == action['type']:

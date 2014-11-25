@@ -19,13 +19,13 @@ def createNetwork(nodes):
   return graph
 
 def getBills(bill_type, bill_type_id):
-  for i in range(1000):
+  for i in range(10000):
     bill_name = "%s%d" % (bill_type, i)
     try:
-      filename = "bills/%s/%s/data.json" % (bill_type, bill_name)
+      filename = "112/bills/%s/%s/data.json" % (bill_type, bill_name)
       stream = open(filename, 'r')
     except IOError, e:
-      # print "Can't open file: ", filename
+      print "Can't open file: ", filename
       continue
     data = json.load(stream)
 
@@ -54,7 +54,7 @@ def createSponsorToBillsMap():
         sponsor_bills_map[sponsor] = [key]
 
 getBills("hr", "1")
-getBills("hjres", "2")
+getBills("s", "2")
 createSponsorToBillsMap()
 print "Number of sponsers = ", len(sponsor_bills_map)
 # for key in sponsor_bills_map:
@@ -71,13 +71,14 @@ def createGraphsWithData(nodeMap, edgeMap, limit):
     if limit and len(edges) > maxSponsors:
       continue
     addEdgesToNetwork(graph, edges)
+  snap.PrintInfo(graph)
 
 
   maxDegNId = snap.GetMxDegNId(graph)
   numDeg = graph.GetNI(maxDegNId).GetDeg()
   print "Graph has %d nodes and %d edges" % (graph.GetNodes(), graph.GetEdges())
   print "Its clustering co-efficient is %f" % (snap.GetClustCf(graph))
-  print "Its effective diameter is %d" % (snap.GetBfsEffDiam(graph, 50, False))
+  print "Its effective diameter is %d" % (snap.GetBfsFullDiam(graph, 5, False))
   return graph
 
 
@@ -86,10 +87,11 @@ print "/* BILL <--[cosponsors]--> BILL */"
 billGraph = createGraphsWithData(bill_sponsors_map, sponsor_bills_map, False)
 maxDegNId = snap.GetMxDegNId(billGraph)
 numDeg = billGraph.GetNI(maxDegNId).GetDeg()
+snap.PlotOutDegDistr(billGraph, "billGraph", "billGraph- out-degree Distribution")
 print "Max degree [%d] :: bill hr%d with %d co-sponsors" % (numDeg, maxDegNId, len(bill_sponsors_map[maxDegNId]))
 
 
 print "/* LEGISLATOR <--[cosponsors]--> LEGISLATOR */"
 sponsorGraph = createGraphsWithData(sponsor_bills_map, bill_sponsors_map, True)
-
+snap.PlotOutDegDistr(sponsorGraph, "sponsorGraph", "sponsorGraph- out-degree Distribution")
 
