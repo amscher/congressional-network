@@ -14,11 +14,17 @@ import sklearn.linear_model
 
 import readBills
 
+def isEnacted(bill):
+    return bill.isSuccessful()
+
+def isOutOfCommittee(bill):
+    return bill.isOutOfCommittee()
+
 # shows how many bills passed to create dumb baseline if you always said No for your prediction
-def calculateBaseline(bills):
+def calculateBaseline(bills, predicate):
     passed = 0
     for bill_id in bills:
-        if bills[bill_id].isSuccessful():
+        if predicate(bills[bill_id]):
             passed += 1
     proportion_passed =  passed / float(len(bills))
     print 'Successful bills: {0:.2f}% => baseline is {1:.2f}%'.format(100*proportion_passed, 100 * (1-proportion_passed))
@@ -26,11 +32,12 @@ def calculateBaseline(bills):
 
 # creates Feature matrix and Label vector and returns these as Python lists
 # the features are a list of n-tuples
-def prepareInputData():
+def prepareInputDataAfterCommitteeGettingEnacted():
+    print 'running prepareInputDataAfterCommitteeGettingEnacted()'
     bills = readBills.readAllBills()
     bills = readBills.filterBillsOnlyOutOfCommittee(bills)
     print 'Number of bills out of committee: %d' % len(bills)
-    calculateBaseline(bills)
+    calculateBaseline(bills, isEnacted)
     features = []
     labels = []
     for bill_id in bills:
@@ -40,8 +47,22 @@ def prepareInputData():
         labels.append(1 if bill.isSuccessful() else 0)
     return (features, labels)
 
-def runML():
-    (features, labels) = prepareInputData()
+def prepareInputDataForGettingOutOfCommittee():
+    print 'running prepareInputDataForGettingOutOfCommittee()'
+    bills = readBills.readAllBills()
+    print 'Number of bills (total): %d' % len(bills)
+    calculateBaseline(bills, isOutOfCommittee)
+    features = []
+    labels = []
+    for bill_id in bills:
+        bill = bills[bill_id]
+        features.append((1, len(bill.cosponsors), bill.introduced_month))
+#        features.append((1, len(bill.cosponsors), bill.num_voting_rounds, bill.num_passed_rounds, bill.introduced_month))#, bill.sponsor))
+        labels.append(1 if bill.isOutOfCommittee() else 0)
+    return (features, labels)
+
+def runML(prepareDatasetFunction):
+    (features, labels) = prepareDatasetFunction()
     print ''
     # initialise model with some random parameters
     # extension would be to experiment with these
@@ -71,4 +92,5 @@ def doSVM(X_train, y_train, X_test, y_test):
     return clf.score(X_test, y_test)
 
 if __name__ == '__main__':
-    runML()
+    runML(prepareInputDataForGettingOutOfCommittee)
+    runML(prepareInputDataAfterCommitteeGettingEnacted)
