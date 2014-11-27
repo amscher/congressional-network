@@ -1,0 +1,40 @@
+<bill session="113" type="s" number="2608" updated="2014-11-08T07:40:09-05:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Improved National Monument Designation Process Act</title>
+    <title type="official" as="introduced">A bill to provide for congressional approval of national monuments and restrictions on the use of national monuments, to establish requirements for the declaration of marine national monuments, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412471" joined="2014-07-17"/>
+    <cosponsor id="400418" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4988"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Monuments and memorials"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

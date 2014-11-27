@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-24", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2523-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-24", 
+  "number": "2523", 
+  "official_title": "A bill to designate the facility of the United States Postal Service located at 14 3rd Avenue, NW., in Chisholm, Minnesota, as the \"James L. Oberstar Memorial Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Klobuchar, Amy", 
+    "state": "MN", 
+    "thomas_id": "01826", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-24", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "Minnesota", 
+    "Postal service"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-24", 
+    "text": "Designates the facility of the United States Postal Service located at 14 3rd Avenue, NW, in Chisholm, Minnesota, as the \"James L. Oberstar Memorial Post Office Building.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to designate the facility of the United States Postal Service located at 14 3rd Avenue, NW., in Chisholm, Minnesota, as the \"James L. Oberstar Memorial Post Office Building\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:39:26-05:00"
+}

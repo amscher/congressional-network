@@ -1,0 +1,106 @@
+<bill session="113" type="s" number="2444" updated="2014-11-08T07:38:47-05:00">
+  <state datetime="2014-06-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-05"/>
+  </status>
+  <introduced datetime="2014-06-05"/>
+  <titles>
+    <title type="short" as="introduced">Coast Guard Authorization Act for Fiscal Years 2015 and 2016</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for the Coast Guard for fiscal years 2015 through 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="412326"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2014-06-05"/>
+    <cosponsor id="300084" joined="2014-06-05"/>
+    <cosponsor id="412491" joined="2014-06-05"/>
+    <cosponsor id="400546" joined="2014-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1760"/>
+    <bill relation="unknown" session="113" type="s" number="2131"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Alaska"/>
+    <term name="Appropriations"/>
+    <term name="Arctic Ocean"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Aviation and airports"/>
+    <term name="Child care and development"/>
+    <term name="Civil actions and liability"/>
+    <term name="Coast guard"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Employee hiring"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Health care coverage and access"/>
+    <term name="Land transfers"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Marine pollution"/>
+    <term name="Military education and training"/>
+    <term name="Military facilities and property"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Military readiness"/>
+    <term name="National symbols"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Oil and gas"/>
+    <term name="Personnel records"/>
+    <term name="Pollution liability"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Transportation costs"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2014--Introduced.
+Coast Guard Authorization Act for Fiscal Years 2015 and 2016 - Authorizes FY2015-FY2016 appropriations for the Coast Guard.
+
+Authorizes: (1) specified levels of end-of-year strength for active duty personnel and military training student loads; (2) leasing of submerged lands and tidelands under the control of the Coast Guard for periods longer than five years; (3) the establishment of an Interagency Arctic Maritime Domain Awareness Committee; and (4) the Secretary of Homeland Security (DHS) is operating to construct or lease hangar, berthing, and messing facilities in the Arctic Region and Bering Sea-Aleutian Islands operating area.
+
+Requires the Coast Guard to be the sole supplier of icebreaking services to federal agencies, unless the Coast Guard is unable to provide the services.
+
+Amends policies related to Coast Guard personnel and their families, including retirement, employment, debt cancelation, child care, education, orders to return to active duty for emergencies, medical care reimbursements, and housing.
+
+Increases specified fines and penalties.
+
+Requires the Secretary to provide prompt notice of casualties to state and tribal governments.
+
+Applies the Coast Guard's drug testing reporting requirements to applicants for federal employment.
+
+ Establishes a Support of Seafarers Fund.
+
+Requires the Secretary to publish a final rule implementing the proposed rule "Vessel Requirements for Notices of Arrival and Departure, and Automatic Identification System."
+
+Amends provisions of the Federal Water Pollution Control Act (commonly known as the Clean Water Act) related to area contingency plans for the discharge of oil and hazardous substances
+
+Sets forth provisions concerning the Coast Guard's response to oil spills.</summary>
+</bill>

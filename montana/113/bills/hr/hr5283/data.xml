@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="5283" updated="2014-11-08T07:07:02-05:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Land-Based Marine Debris Reduction Act</title>
+    <title type="official" as="introduced">To establish national goals for the reduction and recycling of municipal solid waste, to address the growing problem of marine debris, to require the Administrator of the Environmental Protection Agency to promulgate regulations to attain those goals, and for other purposes.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2014-09-18"/>
+    <cosponsor id="412215" joined="2014-09-16"/>
+    <cosponsor id="400129" joined="2014-09-16"/>
+    <cosponsor id="400162" joined="2014-09-16"/>
+    <cosponsor id="400237" joined="2014-09-18"/>
+    <cosponsor id="400295" joined="2014-09-17"/>
+    <cosponsor id="412307" joined="2014-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Manufacturing"/>
+    <term name="Marine pollution"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

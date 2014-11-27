@@ -1,0 +1,74 @@
+<bill session="113" type="s" number="2521" updated="2014-11-08T07:39:26-05:00">
+  <state datetime="2014-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Federal Information Security Modernization Act of 2014</title>
+    <title type="short" as="reported to senate">Federal Information Security Modernization Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend chapter 35 of title 44, United States Code, to provide for reform to Federal information security.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="400576" joined="2014-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-09-15">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-256.</text>
+    </action>
+    <calendar datetime="2014-09-15" calendar="Senate Legislative" under="General Orders" number="564">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 564.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1163"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2014--Reported to Senate without amendment.
+Federal Information Security Modernization Act of 2014 - Amends the Federal Information Security Management Act of 2002 (FISMA) to: (1) reestablish the oversight authority of the Director of the Office of Management and Budget (OMB) with respect to agency information security policies, and (2) set forth authority for the Secretary of Homeland Security (DHS) to carry out the operational aspects of such policies for information systems.
+
+Requires the Secretary to develop and oversee implementation of operational directives to agencies to implement the Director's standards and guidelines, as well as the requirements of this Act. Authorizes the Director to repeal operational directives that are not in accordance with the Director's policies.
+
+Requires the Secretary (currently, the Director) to ensure the operation of the federal information security incident center (FISIC).
+
+Provides for OMB's information security authorities to be delegated to the Director of National Intelligence (DNI) for certain systems operated by an element of the intelligence community.
+
+Directs agency heads to ensure that: (1) senior agency officials, including chief information officers, carry out their information security responsibilities; and (2) all personnel are held accountable for complying with the agency-wide information security program.
+
+Requires agencies to notify Congress of discovered security incidents within seven days.
+
+Directs agencies to submit an annual report regarding major incidents to OMB, DHS, Congress, and the Comptroller General (GAO).
+
+Authorizes GAO to provide technical assistance to agencies and inspectors general, including by testing information security controls and procedures.
+
+Directs FISIC to provide agencies with intelligence about cyber threats, vulnerabilities, and incidents for risk assessments.
+
+Requires OMB to revise OMB Circular A-130 to eliminate inefficient and wasteful reporting.
+
+Directs the Information Security and Privacy Advisory Board to advise and provide annual reports to DHS.
+
+Requires OMB to establish procedures for agencies to follow in the event of a breach involving disclosure of personally identifiable information, including requirements for notice to affected individuals, FISIC, and Congress.</summary>
+</bill>

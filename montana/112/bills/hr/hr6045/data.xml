@@ -1,0 +1,39 @@
+<bill session="112" type="h" number="6045" updated="2014-07-31T20:34:51-04:00">
+  <state datetime="2012-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2012-06-27"/>
+  </status>
+  <introduced datetime="2012-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Juvenile Accountability Block Grants Program Reauthorization Act of 2012</title>
+    <title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to reauthorize the juvenile accountability block grants program through fiscal year 2015.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2012-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2012-06-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-07-11">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of Justice"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2012--Introduced.
+Juvenile Accountability Block Grants Program Reauthorization Act of 2012 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to extend through FY2015 the authorization of appropriations for the juvenile accountability block grant program.</summary>
+</bill>

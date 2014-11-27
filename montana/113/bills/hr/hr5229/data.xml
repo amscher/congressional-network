@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="5229" updated="2014-11-08T07:06:35-05:00">
+  <state datetime="2014-09-17">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Warriors Federal Leave Act of 2014</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide leave to any new Federal employee who is a veteran with a service-connected disability rated at 30 percent or more for purposes of undergoing medical treatment for such disability, and for other purposes.</title>
+  </titles>
+  <sponsor id="400249"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2014-07-29"/>
+    <cosponsor id="412236" joined="2014-09-19"/>
+    <cosponsor id="412272" joined="2014-09-19"/>
+    <cosponsor id="400090" joined="2014-07-29"/>
+    <cosponsor id="412482" joined="2014-07-29"/>
+    <cosponsor id="400209" joined="2014-07-31"/>
+    <cosponsor id="400295" joined="2014-09-16"/>
+    <cosponsor id="400355" joined="2014-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-17" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5323"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Disability and paralysis"/>
+    <term name="Employee leave"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Office of Personnel Management (OPM)"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

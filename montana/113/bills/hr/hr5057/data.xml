@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="5057" updated="2014-11-08T07:05:04-05:00">
+  <state datetime="2014-09-11T13:24:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-11T13:24:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">EPS Service Parts Act of 2014</title>
+    <title type="short" as="reported to house">EPS Service Parts Act of 2014</title>
+    <title type="short" as="passed house">EPS Service Parts Act of 2014</title>
+    <title type="official" as="introduced">To amend the Energy Policy and Conservation Act to permit exemptions for external power supplies from certain efficiency standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412319" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-15" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-09-08T14:29:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-574.</text>
+    </action>
+    <calendar datetime="2014-09-08T14:30:00-04:00" calendar="Union" number="425">
+      <text>Placed on the Union Calendar, Calendar No. 425.</text>
+    </calendar>
+    <action datetime="2014-09-10T13:36:00-04:00">
+      <text>Mr. Whitfield moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-09-10T13:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7409-7410" label="consideration"/>
+    </action>
+    <action datetime="2014-09-10T13:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5057.</text>
+    </action>
+    <action datetime="2014-09-10T13:45:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Whitfield objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2014-09-11T13:24:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7439" label="consideration"/>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-09-11T13:24:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 9/10/2014 H7409" label="text"/>
+    </vote>
+    <action datetime="2014-09-11T13:24:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2791"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Energy"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+</bill>
