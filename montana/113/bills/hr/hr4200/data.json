@@ -1,0 +1,207 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-11", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 56 - 0.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4200-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2014-05-15", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "CT", 
+      "thomas_id": "01913", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-03-28", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2014-04-04", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2014-05-06", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2014-05-07", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2014-03-27", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Rothfus, Keith J.", 
+      "sponsored_at": "2014-05-15", 
+      "state": "PA", 
+      "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schneider, Bradley S.", 
+      "sponsored_at": "2014-05-21", 
+      "state": "IL", 
+      "thomas_id": "02124", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-11", 
+  "number": "4200", 
+  "official_title": "To amend the Investment Advisers Act of 1940 to prevent duplicative regulation of advisers of small business investment companies.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5405-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2765-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "SBIC Advisers Relief Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Luetkemeyer, Blaine", 
+    "state": "MO", 
+    "thomas_id": "01931", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-22", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Business investment and capital", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Licensing and registrations", 
+    "Small business", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-11", 
+    "text": "SBIC Advisers Relief Act of 2014 - Amends the Investment Advisers Act of 1940 to exempt specified advisers of small business investment companies (SBICs) from certain: (1) Securities and Exchange Commission (SEC) registration requirements with respect to the provision of investment advice relating to venture capital funds, and (2) SEC registration and reporting requirements with respect to assets under management of private funds.\n\nProvides the same exemption with respect to any state or local law requiring the registration, licensing, or qualifications of investment advisers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SBIC Advisers Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Investment Advisers Act of 1940 to prevent duplicative regulation of advisers of small business investment companies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T06:57:48-05:00"
+}

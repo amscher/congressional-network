@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="5644" updated="2014-11-08T07:10:05-05:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Medicare CGM Access Act of 2014</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to specify coverage of continuous glucose monitoring devices, and for other purposes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="400101" joined="2014-09-18"/>
+    <cosponsor id="400431" joined="2014-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2689"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2014--Introduced.
+Medicare CGM Access Act of 2014 - Amends title XVIII (Medicare) of the Social Security Act to provide Medicare coverage of continuous glucose monitoring (CGM) devices furnished to a CGM qualified individual.
+
+Directs the Secretary of Health and Human Services (HHS) to establish a fee schedule and ensure that CGM qualified individuals are furnished with appropriate device components.</summary>
+</bill>

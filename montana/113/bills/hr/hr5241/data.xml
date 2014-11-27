@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="5241" updated="2014-11-08T07:06:41-05:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Crimea Annexation Non-recognition Act</title>
+    <title type="official" as="introduced">To prohibit United States Government recognition of Russia's annexation of Crimea.</title>
+  </titles>
+  <sponsor id="412272"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2014-07-29"/>
+    <cosponsor id="412421" joined="2014-07-31"/>
+    <cosponsor id="400283" joined="2014-07-31"/>
+    <cosponsor id="412489" joined="2014-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-09-08">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Europe"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Russia"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Ukraine"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2014--Introduced.
+Crimea Annexation Non-recognition Act - Prohibits the U.S. government from recognizing the de jure or de facto sovereignty of the Russian Federation over Crimea, its airspace, or its territorial waters.
+
+Prohibits any federal department or agency from taking any action or extending any assistance that recognizes or implies recognition of the de jure or de facto sovereignty of the Russian Federation over Crimea, its airspace, or its territorial waters.
+
+Authorizes the President to waive such prohibitions if vital to U.S. national security interests.</summary>
+</bill>

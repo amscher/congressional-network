@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="5039" updated="2014-11-08T07:04:55-05:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="official" as="introduced">To make technical amendments to Public Law 93-531, and for other purposes.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Congressional oversight"/>
+    <term name="Government trust funds"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Indian social and development programs"/>
+    <term name="Land transfers"/>
+    <term name="New Mexico"/>
+  </subjects>
+  <amendments/>
+</bill>

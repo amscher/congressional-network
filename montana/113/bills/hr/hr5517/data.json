@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-17", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5517-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-17", 
+  "number": "5517", 
+  "official_title": "To redesignate the Martin Luther King, Junior, National Historic Site in the State of Georgia, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Martin Luther King, Jr. National Historical Park Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lewis, John", 
+    "state": "GA", 
+    "thomas_id": "00688", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-17", 
+  "subjects": [
+    "Georgia", 
+    "Historic sites and heritage areas", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Racial and ethnic relations"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-17", 
+    "text": "Martin Luther King, Jr. National Historical Park Act of 2014 - Redesignates the Martin Luther King, Junior, National Historic Site in the state of Georgia as the \"Martin Luther King, Jr. National Historical Park.\" Replaces the current boundary map with an updated map dated April 2009."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Martin Luther King, Jr. National Historical Park Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To redesignate the Martin Luther King, Junior, National Historic Site in the State of Georgia, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:09:01-05:00"
+}

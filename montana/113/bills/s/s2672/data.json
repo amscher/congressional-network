@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-28", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2672-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-28", 
+  "number": "2672", 
+  "official_title": "A bill to terminate the authority to waive certain provisions of law requiring the imposition of sanctions with respect to Iran, to codify certain sanctions imposed by executive order, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Sanction Iran, Safeguard America Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cruz, Ted", 
+    "state": "TX", 
+    "thomas_id": "02175", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-28", 
+  "subjects": [
+    "Argentina", 
+    "Arms control and nonproliferation", 
+    "Bank accounts, deposits, capital", 
+    "Currency", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Foreign and international banking", 
+    "Foreign property", 
+    "Human rights", 
+    "Insurance industry and regulation", 
+    "International affairs", 
+    "International law and treaties", 
+    "Iran", 
+    "Israel", 
+    "Latin America", 
+    "Manufacturing", 
+    "Marine and inland water transportation", 
+    "Metals", 
+    "Middle East", 
+    "Motor vehicles", 
+    "Navigation, waterways, harbors", 
+    "New York City", 
+    "Nuclear weapons", 
+    "Oil and gas", 
+    "Presidents and presidential powers", 
+    "Public contracts and procurement", 
+    "Religion", 
+    "Sanctions", 
+    "Saudi Arabia", 
+    "Terrorism", 
+    "Trade restrictions"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sanction Iran, Safeguard America Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SISA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to terminate the authority to waive certain provisions of law requiring the imposition of sanctions with respect to Iran, to codify certain sanctions imposed by executive order, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:40:41-05:00"
+}

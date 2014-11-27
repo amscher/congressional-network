@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5544-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "sponsored_at": "2014-09-18", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "sponsored_at": "2014-09-18", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2014-09-18", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5544", 
+  "official_title": "To increase the understanding of the health effects of low doses of ionizing radiation.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4159-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4869-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Low-Dose Radiation Research Act of 2014", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Cell biology and embryology", 
+    "Energy research", 
+    "Health", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Radiation", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Low-Dose Radiation Research Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To increase the understanding of the health effects of low doses of ionizing radiation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:09:14-05:00"
+}

@@ -1,0 +1,233 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-11", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5449-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Railroads, Pipelines, and Hazardous Materials", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2014-09-11", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2014-09-17", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Denham, Jeff", 
+      "sponsored_at": "2014-09-11", 
+      "state": "CA", 
+      "thomas_id": "01995", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2014-09-16", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2014-09-17", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2014-09-11", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "sponsored_at": "2014-09-17", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-11", 
+  "number": "5449", 
+  "official_title": "To reauthorize Federal support for passenger rail programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1710-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1710-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Passenger Rail Reform and Investment Act of 2014", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Shuster, Bill", 
+    "state": "PA", 
+    "thomas_id": "01681", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-17", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Alabama", 
+    "Alternative dispute resolution, mediation, arbitration", 
+    "Animal protection and human-animal relationships", 
+    "Appropriations", 
+    "Commuting", 
+    "Congressional oversight", 
+    "Connecticut", 
+    "Department of Transportation", 
+    "District of Columbia", 
+    "Executive agency funding and structure", 
+    "Florida", 
+    "Food industry and services", 
+    "Government corporations and government-sponsored enterprises", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Historic sites and heritage areas", 
+    "Infrastructure development", 
+    "Intergovernmental relations", 
+    "Licensing and registrations", 
+    "Louisiana", 
+    "Maryland", 
+    "Massachusetts", 
+    "Minority and disadvantaged businesses", 
+    "Mississippi", 
+    "National Railroad Passenger Corporation (Amtrak)", 
+    "New York City", 
+    "New York State", 
+    "Pennsylvania", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Railroads", 
+    "Small business", 
+    "State and local government operations", 
+    "Transportation and public works", 
+    "Transportation programs funding"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Passenger Rail Reform and Investment Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize Federal support for passenger rail programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:08:27-05:00"
+}

@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2485" updated="2014-11-08T07:39:07-05:00">
+  <state datetime="2014-09-17">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Northwest Atlantic Fisheries Convention Amendments Act</title>
+    <title type="official" as="introduced">A bill to implement the Amendment to the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries, as adopted at Lisbon on September 28, 2007.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2014-09-17" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Atlantic Ocean"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+</bill>

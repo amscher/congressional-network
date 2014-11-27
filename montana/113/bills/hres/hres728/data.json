@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-16", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres728-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-16", 
+  "number": "728", 
+  "official_title": "Expressing support for the designation of a \"Small Business Saturday\" and supporting efforts to increase awareness of the value of locally owned small businesses.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres410-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres313-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres548-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Graves, Sam", 
+    "state": "MO", 
+    "thomas_id": "01656", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-16", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Commerce", 
+    "Economic performance and conditions", 
+    "Retail and wholesale trades", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-16", 
+    "text": "Expresses support for: (1) the designation of a Small Business Saturday, (2) efforts to encourage consumers to shop locally, and (3) efforts to increase awareness of the value of locally owned small businesses and their impact on the U.S. economy."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing support for the designation of a \"Small Business Saturday\" and supporting efforts to increase awareness of the value of locally owned small businesses.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T06:22:19-05:00"
+}

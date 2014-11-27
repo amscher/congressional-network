@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="5421" updated="2014-11-08T07:08:13-05:00">
+  <state datetime="2014-09-10">REPORTED</state>
+  <status>
+    <unknown datetime="2014-09-10"/>
+  </status>
+  <introduced datetime="2014-09-09"/>
+  <titles>
+    <title type="short" as="introduced">Financial Institution Bankruptcy Act of 2014</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code in order to facilitate the resolution of an insolvent financial institution in bankruptcy.</title>
+  </titles>
+  <sponsor id="400010"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2014-09-09"/>
+    <cosponsor id="400154" joined="2014-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-09-09">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2014-09-10">
+      <text>Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.</text>
+    </action>
+    <action datetime="2014-09-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1861"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Bankruptcy"/>
+    <term name="Federal Reserve System"/>
+    <term name="Financial services and investments"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/2014--Introduced.
+Financial Institution Bankruptcy Act of 2014 - Amends federal bankruptcy law with respect to a "covered financial corporation" incorporated or organized under any federal or state law (other than a stockbroker, a commodity broker, or a domestic or foreign insurance company or financial institution meeting certain criteria) that is: (1) a bank holding company; or (2) a corporation that exists for the primary purpose of owning, controlling, and financing its subsidiaries, has total consolidated assets of $50 billion or greater, and whose annual gross revenues or consolidated assets meet specified tests.
+
+Adds "Subchapter V - Liquidation, Reorganization, or Recapitalization of a Covered Financial Corporation," setting forth requirements and prohibitions regarding: (1) commencement of a case concerning a covered financial corporation; (2) a special trustee and bridge company; (3) special transfer of the property of the estate in bankruptcy; (4) treatment of qualified financial contracts and affiliate contracts; (5) licenses, permits, and registrations; (6) exemption from securities laws; and (7) inapplicability of certain avoiding powers.
+
+Allows conversion to chapter 7 (Liquidation) of a case under subchapter V if certain conditions are met.
+
+Amends the Judicial Code to require the Chief Justice of the United States to designate: (1) at least three district judges in at least four circuits to serve on an appellate panel available to hear appeals in a bankruptcy case concerning a covered financial corporation, and (2) a panel of at least 10 bankruptcy judges.
+
+Prescribes requirements for the assignment of bankruptcy judges to subchapter V cases.</summary>
+</bill>

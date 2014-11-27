@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5414" updated="2014-11-08T07:08:09-05:00">
+  <state datetime="2014-09-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-08"/>
+  </status>
+  <introduced datetime="2014-09-08"/>
+  <titles>
+    <title type="short" as="introduced">Elkhorn Ranch and White River National Forest Patent Correction Act of 2014</title>
+    <title type="official" as="introduced">To require a patent correction involving the Elkhorn Ranch and the White River National Forest in the State of Colorado to protect bona fide private property rights in the Elkhorn Ranch adversely impacted by a 1949 resurvey of the southern boundary of Section 18 of Township 7 South, Range 93 West, Sixth Principle Meridian, and for other purposes.</title>
+  </titles>
+  <sponsor id="412405"/>
+  <cosponsors>
+    <cosponsor id="412308" joined="2014-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-08" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-09-11">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+</bill>

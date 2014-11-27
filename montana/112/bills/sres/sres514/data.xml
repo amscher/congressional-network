@@ -1,0 +1,35 @@
+<bill session="112" type="sr" number="514" updated="2014-07-31T20:35:54-04:00">
+  <state datetime="2012-06-28">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2012-06-28"/>
+  </status>
+  <introduced datetime="2012-06-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution commemorating the victory of Loyola University Maryland in the 2012 NCAA Division I Men's Lacrosse National Championship.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="2012-06-28"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2012-06-28" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S4729-4730" label="consideration"/>
+      <reference ref="CR S4729-4730" label="text as passed Senate"/>
+      <reference ref="CR S4727" label="text of measure as introduced"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Maryland"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2012--Passed Senate without amendment.
+Congratulates the Loyola University Maryland Greyhounds for winning the 2012 NCAA Division I Men's Lacrosse National Championship.</summary>
+</bill>

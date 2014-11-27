@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres735-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "735", 
+  "official_title": "Expressing the sense of the House of Representatives that recently proposed measures that will reduce transparency and public participation at the International Association of Insurance Supervisors (IAIS) should be disapproved by United States representatives to the IAIS.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres561-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Huizenga, Bill", 
+    "state": "MI", 
+    "thomas_id": "02028", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Consumer affairs", 
+    "Finance and financial sector", 
+    "Insurance industry and regulation", 
+    "International organizations and cooperation"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Expresses the sense of the House of Representatives that all U.S. representatives to the International Association of Insurance Supervisors (IAIS) should oppose certain proposed IAIS procedures and make all appropriate efforts to ensure that proper transparency is restored if the IAIS adopts them."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives that recently proposed measures that will reduce transparency and public participation at the International Association of Insurance Supervisors (IAIS) should be disapproved by United States representatives to the IAIS.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T06:22:23-05:00"
+}
