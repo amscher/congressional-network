@@ -66,3 +66,13 @@ class Vote(object):
 				continue
 			vote_map[legislator_id_map[legislator_id]] = vote_type
 		return vote_map
+	
+	def get_bill_type(self):
+		if "bill" in self.data:
+			return self.data["bill"]["type"]
+		else:
+			return None
+		
+	def get_bill_id(self):
+		if "bill" in self.data:
+			return self.data["bill"]["number"]
