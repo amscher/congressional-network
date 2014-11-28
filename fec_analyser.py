@@ -4,11 +4,12 @@ The levels of success is borrowed from Montana's work.
 '''
 
 import csv
+import math
 import fec_parser
 import readBills
 import readCandidateData
 from matplotlib import pyplot
-from neeral_analyse_graph import calculateCountOfStatuses
+
 
 # adapted from montana/bills-status.py
 status_map = {
@@ -23,20 +24,19 @@ status_map = {
   "SUCCESSFUL" : 5 # not a real state
 }
 max_score = 5.0
+BUCKET_SIZE = 5000
 
 def roundup(x):
-    return math.ceil(x/1000.0)*1000
+    return math.ceil(x/float(BUCKET_SIZE))*BUCKET_SIZE
 
 
 # read FEC data on contributions to candidates
 c = fec_parser.readFECdata('FEC/')
 print 'Number of candidates read in from FEC data file: %d' %len(c)
-print c.get('H4OK06056').name
-print c.get('H4OK06056').displayCandidate()
+print 'Candidate[H4OK06056] =', c.get('H4OK06056').displayCandidate()
 
 # read the bills
 bills = readBills.readAllBills()
-print calculateCountOfStatuses(bills)
 
 # read the legislators files
 candidates = readCandidateData.readLegislators()
@@ -74,7 +74,7 @@ for bill_id in bills.keys():
     status = bill.status
     if bill.isSuccessful():
         score = status_map['SUCCESSFUL'] # 1
-    elif bil.isFailed():
+    elif bill.isFailed():
         score = status_map['FAILED']     # 0
     else:
         score = status_map[status]
@@ -87,13 +87,14 @@ for bill_id in bills.keys():
     if sponsor in candidates:
         spending = candidates[sponsor].amount
         num_bills = candidates[sponsor].getTotalNumberOfBills()
+        setattr(bill, 'amount', spending/float(num_bills))
         setattr(bill, 'bucket_amount', roundup(spending/float(num_bills)))
 
 # aggregating the bills into their buckets
 plotData = {}
 for bill_id in bills.keys():
     bill = bills[bill_id]
-    spending = getattr(bill, 'bucket_amount')
+    spending = getattr(bill, 'bucket_amount', 0)
     status = getattr(bill, 'bucket_status')
     if (spending, status) not in plotData:
         plotData[(spending, status)] = 0
@@ -108,11 +109,14 @@ for (spending, status) in plotData.keys():
     y.append(status)
     s.append(plotData[(spending, status)])
 print 'number of points to plot: %d' % len(plotData)
+print 'highest spend = $%d' % max(x)
 pyplot.scatter(x, y, s=s)
 
-pyplot.title(['Plot of success-ratio of bills' ,'against spending per bill'])
+pyplot.title('Plot of success-ratio of bills against spending per bill - both are buckets')
 pyplot.xlabel('Spend in $')
 pyplot.ylabel('Successfulness of bills')
+pyplot.xlim([0, 2000000])
+pyplot.ylim([0, 1])
 pyplot.show()
 
 # write data to a CSV file
@@ -123,7 +127,11 @@ def write_csv(file_path, bills):
     with open(file_path, 'wb+') as fin:
         csv_file = csv.writer(fin)
         for bill_id in bills.keys():
-            csv_file.writerow([bill_id, amount, bucket_amout, bucket_status])
-    close(file_path)
+            bill = bills[bill_id]
+            csv_file.writerow(
+                [bill_id,
+                getattr(bill, 'amount', 0),
+                getattr(bill, 'bucket_amount', 0),
+                getattr(bill, 'bucket_status')])
 write_csv('./bills_fec_features.csv',bills)
 print 'Done'
