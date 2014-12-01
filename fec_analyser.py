@@ -120,18 +120,28 @@ pyplot.ylim([0, 1])
 pyplot.show()
 
 # write data to a CSV file
-# four columns: bill_id | $ | bucket_$ | bucket_status_score
 def write_csv(file_path, bills):
     print 'Writing to file %s' % file_path
     csv_file = csv.writer(open('file_path', 'wb+'))
     with open(file_path, 'wb+') as fin:
         csv_file = csv.writer(fin)
+        csv_file.writerow(['bill_id', 'intercept_term', 'num_cosponsors', 'introduced_month', 'num_voting_rounds', 'num_passed_rounds', 'amount', 'bucket_amount', 'status', 'bucket_status', 
+])
         for bill_id in bills.keys():
             bill = bills[bill_id]
             csv_file.writerow(
                 [bill_id,
+                1,
+                len(bill.cosponsors),
+                bill.introduced_month,
+                bill.num_voting_rounds,
+                bill.num_passed_rounds,
                 getattr(bill, 'amount', 0),
                 getattr(bill, 'bucket_amount', 0),
+                bill.status,
                 getattr(bill, 'bucket_status')])
-write_csv('./bills_fec_features.csv',bills)
+
+write_csv('./bill_static_and_funding_All.csv',bills)
+bills = readBills.filterBillsOnlyOutOfCommittee(bills)
+write_csv('./bill_static_and_funding_OutOfCommittee.csv', bills)
 print 'Done'
