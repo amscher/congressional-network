@@ -89,16 +89,33 @@ for bill_id in bills.keys():
         num_bills = candidates[sponsor].getTotalNumberOfBills()
         setattr(bill, 'amount', spending/float(num_bills))
         setattr(bill, 'bucket_amount', roundup(spending/float(num_bills)))
+    for cosponsor in bill.cosponsors:
+        amount = getattr(bill, 'amount', 0)
+        if cosponsor in candidates:
+            spending = candidates[cosponsor].amount
+            num_bills = candidates[cosponsor].getTotalNumberOfBills()
+            if num_bills == 0:
+                continue
+            amount += spending/float(num_bills)
+        setattr(bill, 'co-amount', amount)
+        setattr(bill, 'bucket_co-amount', roundup(amount))
+    
+    
 
 # aggregating the bills into their buckets
 plotData = {}
+co_plotData = {}
 for bill_id in bills.keys():
     bill = bills[bill_id]
     spending = getattr(bill, 'bucket_amount', 0)
+    co_spending = getattr(bill, 'bucket_co-amount', 0)
     status = getattr(bill, 'bucket_status')
     if (spending, status) not in plotData:
         plotData[(spending, status)] = 0
+    if (co_spending, status) not in co_plotData:
+        co_plotData[(co_spending, status)] = 0
     plotData[(spending, status)] = plotData[(spending, status)] + 1
+    co_plotData[(co_spending, status)] = co_plotData[(co_spending, status)] + 1
 
 # plotting $ spend against success per bill
 x = [] # spending/$
@@ -118,6 +135,27 @@ pyplot.ylabel('Successfulness of bills')
 pyplot.xlim([0, 2000000])
 pyplot.ylim([0, 1])
 pyplot.show()
+
+
+# plotting co-sponsors $ spend against success per bill
+x = [] # co-sponsors spending/$
+y = [] # success/status
+s = [] # size/count
+for (co_spending, status) in co_plotData.keys():
+    x.append(co_spending)
+    y.append(status)
+    s.append(co_plotData[(co_spending, status)])
+print 'number of points to plot: %d' % len(co_plotData)
+print 'highest spend = $%d' % max(x)
+pyplot.scatter(x, y, s=s)
+
+pyplot.title('Plot of success-ratio of bills against spending per bill - both are buckets')
+pyplot.xlabel('Spend of all cosponsors of a bill in $')
+pyplot.ylabel('Successfulness of bills')
+pyplot.xlim([0, 4000000])
+pyplot.ylim([0, 1])
+pyplot.show()
+
 
 # write data to a CSV file
 def write_csv(file_path, bills):
@@ -141,7 +179,7 @@ def write_csv(file_path, bills):
                 bill.status,
                 getattr(bill, 'bucket_status')])
 
-write_csv('./bill_static_and_funding_All.csv',bills)
-bills = readBills.filterBillsOnlyOutOfCommittee(bills)
-write_csv('./bill_static_and_funding_OutOfCommittee.csv', bills)
+#write_csv('./bill_static_and_funding_All.csv',bills)
+#bills = readBills.filterBillsOnlyOutOfCommittee(bills)
+#write_csv('./bill_static_and_funding_OutOfCommittee.csv', bills)
 print 'Done'
