@@ -19,3 +19,6 @@ class Candidate:
 
     def incrementInProgressCount(self):
         self.inprogress += 1
+
+    def getTotalNumberOfBills(self):
+        return self.successful + self.failed + self.inprogress
