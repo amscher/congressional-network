@@ -16,8 +16,9 @@ if __name__ == '__main__':
     llist = list(legislators.load_legislators("/Users/travis/dev/cs224w/Project/legislators-current.csv"))
     #Load votes
     vlist = list(vote for vote in \
-             votes.read_votes("/Users/travis/dev/cs224w/Project/113/votes/2013","/Users/travis/dev/cs224w/Project/113/votes/2014") \
-             if vote.get_vote_type() == "passage")
+            votes.read_votes("/Users/travis/dev/cs224w/Project/111/votes/2009","/Users/travis/dev/cs224w/Project/111/votes/2010","/Users/travis/dev/cs224w/Project/112/votes/2011","/Users/travis/dev/cs224w/Project/112/votes/2012","/Users/travis/dev/cs224w/Project/113/votes/2013","/Users/travis/dev/cs224w/Project/113/votes/2014") \
+             #votes.read_votes("/Users/travis/dev/cs224w/Project/113/votes/2013","/Users/travis/dev/cs224w/Project/113/votes/2014") \
+            if vote.get_vote_type() == "passage")
     #Map legislator IDs to legislators
     legislator_id_map = legislators.build_id_map(llist)
     #Create vote matrix
@@ -65,16 +66,16 @@ if __name__ == '__main__':
                 column_stack.append(vote)
             r_p = np.hstack(column_stack)
             #Run matrix factorization
-            (p,q,err) = recommender.run_factorization(r_p,40,2500,0.0002)
+            (p,q,bias,err) = recommender.run_factorization(r_p,40,2500,0.0002)
             #Get predicted votes on bill
-            r_hat = p*q.T
+            r_hat = p*q.T + bias
             for i in xrange(len(target_bills)):
                 bill = target_bills[i]
                 predicted_votes = [vote[0,0] for vote in r_hat[:,column_offset + i]]
                 mean = np.mean(predicted_votes)
-                median = np.median(predicted_votes)
                 sd = np.std(predicted_votes)
-                feature_writer.writerow([bill.bill_id, median, mean, sd])
+                hist = list(np.percentile(predicted_votes, [10,25,50,75,90]))
+                feature_writer.writerow([bill.bill_id, mean, sd] + hist)
         
 #         for bill in bills.values():
 #             print("Generating features for bill %s" % bill.bill_id)

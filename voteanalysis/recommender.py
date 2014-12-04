@@ -17,6 +17,13 @@ def create_vote_matrix(legislators_list, votes_list):
 				vote_matrix[l_i][v_i] = -1
 	return np.matrix(vote_matrix)
 
+def get_legislator_bias(r):
+	bill_avg = np.nanmean(r,0,keepdims=True)
+	legislator_difference = r - bill_avg
+	legislator_bias = np.nanmean(legislator_difference,1,keepdims=True)
+	legislator_bias = np.nan_to_num(legislator_bias)
+	return legislator_bias
+
 def sum_square_error(r, r_hat):
 	error = np.nansum(get_squared_error(r,r_hat))
 	return error
@@ -26,29 +33,32 @@ def get_squared_error(r, r_hat):
 	squared_error = np.multiply(errors, errors)
 	return squared_error
 
-def get_gradient(p,q,r):
-	r_hat = p * q.T
+def get_gradient(p,q,r,legislator_bias,beta=0.02):
+	r_hat = p * q.T + legislator_bias
 	e = r - r_hat
-	p_delta = -2 * np.nan_to_num(e) * np.nan_to_num(q) #check this
-	q_delta = -2 * np.nan_to_num(e.T) * np.nan_to_num(p) #np.multiply(-2 * e, p) #check this
+	p_delta = -2 * np.nan_to_num(e) * np.nan_to_num(q) + beta * p #check this
+	q_delta = -2 * np.nan_to_num(e.T) * np.nan_to_num(p) + beta * q #np.multiply(-2 * e, p) #check this
 	return (p_delta, q_delta)
 
-def update_step(alpha,p,q,r):
-	(p_delta, q_delta) = get_gradient(p,q,r)
+def update_step(alpha,p,q,r,legislator_bias):
+	(p_delta, q_delta) = get_gradient(p,q,r,legislator_bias)
 	p_prime = p - alpha * p_delta
 	q_prime = q - alpha * q_delta
 	return (p_prime, q_prime)
 
-def run_factorization(r, k, steps, alpha):
+def run_factorization(r, k, steps, alpha, threshold = 0.001):
 	n = r.shape[0]
 	m = r.shape[1]
 	p = np.matrix(np.random.rand(n, k))
 	q = np.matrix(np.random.rand(m, k))
+	legislator_bias = get_legislator_bias(r)
 	errors = list()
 	for i in xrange(steps):
-		(p,q) = update_step(alpha, p, q, r)
+		(p,q) = update_step(alpha, p, q, r, legislator_bias)
 		errors.append(sum_square_error(r, p*q.T)/float(r.size))
-	return (p,q,errors)
+		if (len(errors) > 2 and abs(errors[-1] - errors[-2])/errors[-2] < threshold):
+			break
+	return (p,q,legislator_bias,errors)
 
 def get_predictions(r_hat):
 	threshold = np.vectorize(lambda x: 1 if x >= 0 else -1)
