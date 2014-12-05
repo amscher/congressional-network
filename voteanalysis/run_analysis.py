@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 if __name__ == '__main__':
     llist = list(legislators.load_legislators("/Users/travis/dev/cs224w/Project/legislators-current.csv"))
-    vlist = [vote for vote in votes.read_votes("/Users/travis/dev/cs224w/Project/113/votes/2013","/Users/travis/dev/cs224w/Project/113/votes/2014") if vote.get_vote_type() == "passage"]
+    vlist = [vote for vote in votes.read_votes("/Users/travis/dev/cs224w/Project/111/votes/2009","/Users/travis/dev/cs224w/Project/111/votes/2010","/Users/travis/dev/cs224w/Project/112/votes/2011","/Users/travis/dev/cs224w/Project/112/votes/2012","/Users/travis/dev/cs224w/Project/113/votes/2013","/Users/travis/dev/cs224w/Project/113/votes/2014") if vote.get_vote_type() == "passage"]
     print("Using %i votes" % len(vlist))
     r = recommender.create_vote_matrix(llist, vlist)
     test_set = get_sample(r, 0.15)
@@ -36,8 +36,8 @@ if __name__ == '__main__':
     print("Accuracy using most likely guess on test set: %f" % most_likely_accuracy)
     
     #matrix factorization
-    (p,q,err) = recommender.run_factorization(r_p,40,2500,0.0002)
-    mfac_accuracy = sample_accuracy(r, recommender.get_predictions(p*q.T), test_set)
+    (p,q,bias,err) = recommender.run_factorization(r_p,40,2500,0.0002)
+    mfac_accuracy = sample_accuracy(r, recommender.get_predictions(p*q.T+bias), test_set)
     plt.plot(err[1:])
     plt.xlabel("Iteration")
     plt.ylabel("Mean squared error")
