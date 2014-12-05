@@ -4,7 +4,7 @@ import Bill
 import ml
 
 def ForwardSearch(file_path, bill_predicate):
-    for col in range(1,7):
+    for col in range(1,9):
         print '\n\n\t\tColumn %d' % col
         features = []
         labels = []
@@ -15,7 +15,7 @@ def ForwardSearch(file_path, bill_predicate):
                 status = row[-1]
                 del row[0]
                 del row[-1]
-                feature = (float(row[0]), float(row[2]), float(row[col]))
+                feature = (float(row[0]), float(row[col]))
                 if ('OutOfCommittee' == bill_predicate):
                     label = 1 if status not in Bill.NOT_OUT_OF_COMMITTEE else 0
                 else:
@@ -28,4 +28,4 @@ def ForwardSearch(file_path, bill_predicate):
         ml.runML((features, labels))
 
 if __name__ == '__main__':
-    ForwardSearch('./bill_combined.csv', 'Enacted')
+    ForwardSearch('./bill_combined_2.csv', 'Enacted')

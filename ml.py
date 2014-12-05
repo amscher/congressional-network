@@ -74,7 +74,7 @@ def runML(prepareDatasetFunction):
     print '%d training examples' % len(X_train)
 
     X_test = numpy.array(features[int(len(features)*.7):])
-    y_test = numpy.array(labels[int(len(labels)*.7):]) 
+    y_test = numpy.array(labels[int(len(labels)*.7):])
     print '%d test samples' % len(X_test)
 
     score = doLogisticRegression(X_train, y_train, X_test, y_test)
@@ -86,7 +86,7 @@ def runML((features, labels)):
     X_train = numpy.array(features[:int(len(features)*.7)])
     y_train = numpy.array(labels[:int(len(labels)*.7)])
     X_test = numpy.array(features[int(len(features)*.7):])
-    y_test = numpy.array(labels[int(len(labels)*.7):]) 
+    y_test = numpy.array(labels[int(len(labels)*.7):])
     print '%d training examples, %d test samples, %d in total' % (len(X_train), len(X_test), len(labels))
 
     (score, classification_report) = doLogisticRegression(X_train, y_train, X_test, y_test)
@@ -122,7 +122,7 @@ def read_csv(file_path, bill_predicate):
             status = row[-1]
             del row[0]
             del row[-1]
-            feature = tuple([int(round(float(item))) for item in row])
+            feature = tuple([float(item) for item in row])
             if ('OutOfCommittee' == bill_predicate):
                 label = 1 if status not in Bill.NOT_OUT_OF_COMMITTEE else 0
             else:
@@ -141,9 +141,9 @@ if __name__ == '__main__':
 
     print '*** Predicting whether a bill will get out of committee ***'
     #runML(prepareInputDataForGettingOutOfCommittee)
-    runML(read_csv('./bill_combined.csv', 'OutOfCommittee'))
+    runML(read_csv('./bill-bipartisan.csv', 'OutOfCommittee'))
     print '\n\n*** Predicting whether a bill will get enacted given it is out of committee ***'
     #runML(prepareInputDataAfterCommitteeGettingEnacted)
-    runML(read_csv('./bill_combined.csv', 'Enacted'))
+    runML(read_csv('./bill-bipartisan.csv', 'Enacted'))
 
 

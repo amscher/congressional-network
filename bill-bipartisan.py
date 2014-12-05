@@ -25,11 +25,11 @@ for i in range(0, num_members):
     party = y_stream[i]["terms"][0]["party"]
     thomas_to_wing_map[thomas] = party
 
-bills = readBills('./montana/113/', "hr")
-# bills_s = readBills('./montana/112/', "s")
-# bills_hjres = readBills('./montana/112/', "hjres")
-# bills_sjres = readBills('./montana/112/', "sjres")
-# bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
+bills_hr = readBills('./montana/113/', "hr")
+bills_s = readBills('./montana/113/', "s")
+bills_hjres = readBills('./montana/113/', "hjres")
+bills_sjres = readBills('./montana/113/', "sjres")
+bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
 
 
 score_number_file = open("bill-numbercosponsors.tab", 'w')
@@ -54,12 +54,10 @@ for bill_id in bills.keys():
       if party == "Republican":
         repCount += 1
     print "republicans: %d, total: %d" % (repCount, total)
+    bipartisanScore = float(repCount)/float(total)
+    binnedScore = round(bipartisanScore, 1)
+    bill_id_to_score_file.write("{0}, {1}, {2}\n".format(bill_id, binnedScore, bipartisanScore))
     if score_map.has_key(bill.status):
-      bipartisanScore = float(repCount)/float(total)
-
-      binnedScore = round(bipartisanScore, 1)
-      bill_id_to_score_file.write("{0}, {1}\n".format(bill_id, binnedScore))
-
       # Used for calculating the percantage of enacted bills per bipartisan score
       if bipartisan_score_count_map.has_key(binnedScore):
         bipartisan_score_count_map[binnedScore][1] += 1
