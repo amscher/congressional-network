@@ -122,7 +122,7 @@ def read_csv(file_path, bill_predicate):
             status = row[-1]
             del row[0]
             del row[-1]
-            feature = tuple([int(round(float(item))) for item in row])
+            feature = tuple([float(item) for item in row])
             if ('OutOfCommittee' == bill_predicate):
                 label = 1 if status not in Bill.NOT_OUT_OF_COMMITTEE else 0
             else:
