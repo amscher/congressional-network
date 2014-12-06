@@ -4,8 +4,10 @@ class Congressman:
         self.thomas_id = thomas_id
         self.num_terms = num_terms
         self.leadership_positions = leadership_positions
-        self.committeesMap = {} # thomas id
+        self.committeesMap = {} # thomas id of committee, and rank of congressman in that committee
         self.party = party
+        self.bills = []
+        self.num_success_bills = 0
 
     def isRepublican(self):
         return self.part == "Republican"

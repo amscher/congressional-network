@@ -15,8 +15,21 @@ class Bill:
         self.sponsor = sponsor # thomas id
         self.cosponsors = cosponsors
         self.introduced_month = int(introduced_at[5:7]) # month when the bill was introduced: "yyyy-MM-dd" -> MM
+        self.introduced_at = introduced_at
         self.num_voting_rounds = 0
         self.num_passed_rounds = 0
+
+    def getDict():
+        dict = {}
+        dict["bill_type_id"] = self.bill_type_id
+        dict["bill_id"] = self.bill_id
+        dict["status"] = self.status
+        dict["sponsor"] = self.sponsor
+        dict["cosponsors"] = self.cosponsors
+        dict["introduced_at"] = self.introduced_at
+        dict["num_voting_rounds"] = self.num_voting_rounds
+        dict["num_passed_rounds"] = self.num_passed_rounds
+        return dict
 
     def isSuccessful(self):
         return self.status in SUCCESSFUL
@@ -35,4 +48,8 @@ class Bill:
         if 'pass' == result:
             self.num_passed_rounds += 1
 
+from json import JSONEncoder
+class Encoder(JSONEncoder):
+    def default(self, o):
+        return o.__dict__
 

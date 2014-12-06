@@ -52,7 +52,9 @@ def filterBillsOnlyOutOfCommittee(bills):
     return out_of_committee_bills
 
 if __name__ == '__main__':
-    bills = readBills('', "hr")
+    bills = readAllBills()
+    billFile = open('bill-data.json', 'w')
+    json.dump(bills, billFile, cls=Bill.Encoder, indent=2, separators=(',', ': '))
     print 'Total number of bills is %d' % (len(bills))
 
 

@@ -32,9 +32,9 @@ bills_sjres = readBills('./montana/113/', "sjres")
 bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
 
 
-score_number_file = open("bill-numbercosponsors.tab", 'w')
-score_status_file = open("bill-bipartisan.tab", 'w')
-score_status_count_file = open("bill-bipartisan-count.tab", 'w')
+score_number_file = open("plotting/bill-numbercosponsors.tab", 'w')
+score_status_file = open("plotting/bill-bipartisan.tab", 'w')
+score_status_count_file = open("plotting/bill-bipartisan-count.tab", 'w')
 bill_id_to_score_file = open("bill-bipartisan.csv", 'w')
 score_number_map = {}
 
