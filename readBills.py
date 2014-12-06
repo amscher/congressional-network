@@ -36,10 +36,10 @@ def readBills(directory_prefix, bill_type):
   return bills
 
 def readAllBills():
-    bills_hr = readBills('./', "hr")
-    bills_s = readBills('./', "s")
-    bills_hjres = readBills('./', "hjres")
-    bills_sjres = readBills('./', "sjres")
+    bills_hr = readBills('./montana/113/', "hr")
+    bills_s = readBills('./montana/113/', "s")
+    bills_hjres = readBills('./montana/113/', "hjres")
+    bills_sjres = readBills('./montana/113/', "sjres")
     bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
     print 'Total number of bills is %d' % (len(bills))
     return bills

@@ -1,9 +1,9 @@
 import yaml
 import Candidate as Candidate
 
-###### legislators ######
+###### gets a map of legislators with fec ids ######
 def readLegislators():
-    stream = open("/home/neeral/Documents/cs224w/project/legislators-current.yaml", 'r')
+    stream = open("data/legislators-current.yaml", 'r')
     y_stream = yaml.load(stream)
 
     thomas_to_member_map = {}
@@ -20,7 +20,7 @@ def readLegislators():
         else:
             # the one member who does not have an offical name
             legislator.name = y_stream[0]["name"]["first"] + " " +  y_stream[0]["name"]["last"]
-        
+
         if "fec" in y_stream[i]["id"]:
             legislator.FEC_Id = y_stream[i]["id"]["fec"]
         thomas_to_member_map[thomas] = legislator

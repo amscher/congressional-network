@@ -1,4 +1,4 @@
-'''This is similar to neeral_analyse_graph.py except it now buckets the contribution amounts and also has levels of success.
+'''This is similar to fec_congressman_billsuccess.py except it now buckets the contribution amounts and also has levels of success.
 The buckets are defined in $10,000 intervals.
 The levels of success is borrowed from Montana's work.
 '''
@@ -7,7 +7,7 @@ import csv
 import math
 import fec_parser
 import readBills
-import readCandidateData
+import readFecCandidateData
 from matplotlib import pyplot
 
 
@@ -99,8 +99,8 @@ for bill_id in bills.keys():
             amount += spending/float(num_bills)
         setattr(bill, 'co-amount', amount)
         setattr(bill, 'bucket_co-amount', roundup(amount))
-    
-    
+
+
 
 # aggregating the bills into their buckets
 plotData = {}
@@ -163,7 +163,7 @@ def write_csv(file_path, bills):
     csv_file = csv.writer(open('file_path', 'wb+'))
     with open(file_path, 'wb+') as fin:
         csv_file = csv.writer(fin)
-        csv_file.writerow(['bill_id', 'intercept_term', 'num_cosponsors', 'introduced_month', 'num_voting_rounds', 'num_passed_rounds', 'amount', 'bucket_amount', 'status', 'bucket_status', 
+        csv_file.writerow(['bill_id', 'intercept_term', 'num_cosponsors', 'introduced_month', 'num_voting_rounds', 'num_passed_rounds', 'amount', 'bucket_amount', 'status', 'bucket_status',
 ])
         for bill_id in bills.keys():
             bill = bills[bill_id]

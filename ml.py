@@ -138,12 +138,11 @@ if __name__ == '__main__':
     #(features, labels) = read_csv('./bill_combined_OutOfCommittee.csv', 'Enacted')
     #(features, labels) = read_csv('./bill_combined_All.csv', 'OutOfCommittee')
     # to find all CSV files: find . -maxdepth 2 -name '*.csv'
-
     print '*** Predicting whether a bill will get out of committee ***'
     #runML(prepareInputDataForGettingOutOfCommittee)
-    runML(read_csv('./bill-bipartisan.csv', 'OutOfCommittee'))
+    runML(read_csv('./bill_combined.csv', 'OutOfCommittee'))
     print '\n\n*** Predicting whether a bill will get enacted given it is out of committee ***'
     #runML(prepareInputDataAfterCommitteeGettingEnacted)
-    runML(read_csv('./bill-bipartisan.csv', 'Enacted'))
+    runML(read_csv('./bill_combined.csv', 'Enacted'))
 
 

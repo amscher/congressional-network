@@ -1,7 +1,7 @@
 import snap
 import fec_parser
 import readBills
-import readCandidateData
+import readFecCandidateData
 from matplotlib import pyplot
 
 def getEdgeWeight(node1, node2, weightDict):
