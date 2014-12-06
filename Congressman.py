@@ -4,8 +4,7 @@ class Congressman:
         self.thomas_id = thomas_id
         self.num_terms = num_terms
         self.leadership_positions = leadership_positions
-        self.committees = committees # thomas id
-        self.cosponsors = cosponsors
+        self.committeesMap = {} # thomas id
         self.party = party
 
     def isRepublican(self):

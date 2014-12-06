@@ -3,7 +3,7 @@ import Candidate as Candidate
 
 ###### gets a map of legislators with fec ids ######
 def readLegislators():
-    stream = open("data/legislators-current.yaml", 'r')
+    stream = open("/home/neeral/Documents/cs224w/project/legislators-current.yaml", 'r')
     y_stream = yaml.load(stream)
 
     thomas_to_member_map = {}
