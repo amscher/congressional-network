@@ -18,18 +18,7 @@ class Bill:
         self.introduced_at = introduced_at
         self.num_voting_rounds = 0
         self.num_passed_rounds = 0
-
-    def getDict():
-        dict = {}
-        dict["bill_type_id"] = self.bill_type_id
-        dict["bill_id"] = self.bill_id
-        dict["status"] = self.status
-        dict["sponsor"] = self.sponsor
-        dict["cosponsors"] = self.cosponsors
-        dict["introduced_at"] = self.introduced_at
-        dict["num_voting_rounds"] = self.num_voting_rounds
-        dict["num_passed_rounds"] = self.num_passed_rounds
-        return dict
+        self.committees = []
 
     def isSuccessful(self):
         return self.status in SUCCESSFUL

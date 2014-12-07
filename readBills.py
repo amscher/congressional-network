@@ -21,17 +21,20 @@ def readBills(directory_prefix, bill_type):
       for i in range(len(data["cosponsors"])):
         cosponsors.append(data["cosponsors"][i]["thomas_id"])
     if data["sponsor"]:
-        sponsor = data["sponsor"]["thomas_id"]
-        cosponsors.append(sponsor)
+      sponsor = data["sponsor"]["thomas_id"]
+      cosponsors.append(sponsor)
     if data["status"]:
-        raw_status = data["status"]
+      raw_status = data["status"]
     if data["introduced_at"]:
-        introduced_at = data["introduced_at"]
+      introduced_at = data["introduced_at"]
     bill_object = Bill.Bill(bill_type, directory, raw_status, sponsor, cosponsors, introduced_at)
     if data["actions"]:
-        for action in data['actions']:
-            if "vote" == action['type']:
-                bill_object.addVotingRound(action['result'])
+      for action in data['actions']:
+        if "vote" == action['type']:
+          bill_object.addVotingRound(action['result'])
+    if data["committees"]:
+      for committee in data["committees"]:
+        bill_object.committees.append(committee["committee_id"])
     bills[directory] = bill_object
   return bills
 
@@ -53,7 +56,7 @@ def filterBillsOnlyOutOfCommittee(bills):
 
 if __name__ == '__main__':
     bills = readAllBills()
-    billFile = open('bill-data.json', 'w')
+    billFile = open('data/bill-data.json', 'w')
     json.dump(bills, billFile, cls=Bill.Encoder, indent=2, separators=(',', ': '))
     print 'Total number of bills is %d' % (len(bills))
 
