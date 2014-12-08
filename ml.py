@@ -140,9 +140,9 @@ if __name__ == '__main__':
     # to find all CSV files: find . -maxdepth 2 -name '*.csv'
     print '*** Predicting whether a bill will get out of committee ***'
     #runML(prepareInputDataForGettingOutOfCommittee)
-    runML(read_csv('csv/legislator_info.csv', 'OutOfCommittee'))
+    runML(read_csv('csv/legislator-info.csv', 'OutOfCommittee'))
     print '\n\n*** Predicting whether a bill will get enacted given it is out of committee ***'
     #runML(prepareInputDataAfterCommitteeGettingEnacted)
-    runML(read_csv('csv/legislator_info.csv', 'Enacted'))
+    runML(read_csv('csv/legislator-info.csv', 'Enacted'))
 
 
