@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-24", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5189-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2014-07-24", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-24", 
+  "number": "5189", 
+  "official_title": "To ensure consideration of water intensity in the Department of Energy's energy research, development, and demonstration programs to help guarantee efficient, reliable, and sustainable delivery of energy and clean water resources.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Energy and Water Research Integration Act of 2014", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-24", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Advisory bodies", 
+    "Alternative and renewable resources", 
+    "Climate change and greenhouse gases", 
+    "Energy efficiency and conservation", 
+    "Energy research", 
+    "Environmental protection", 
+    "Environmental technology", 
+    "Government information and archives", 
+    "Hydrology and hydrography", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Technology transfer and commercialization", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energy and Water Research Integration Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure consideration of water intensity in the Department of Energy's energy research, development, and demonstration programs to help guarantee efficient, reliable, and sustainable delivery of energy and clean water resources.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:06:15-05:00"
+}

@@ -2,7 +2,7 @@ import json
 import Bill
 import generate_leg_success_plots as Legislator
 
-file = open("legislatorinfo.csv", 'w')
+file = open("csv/legislator-info.csv", 'w')
 
 def createCsv():
   stream1 = open("data/legislator-data.json", 'r')
@@ -10,14 +10,14 @@ def createCsv():
   stream2 = open("data/bill-data.json", 'r')
   billData = json.load(stream2)
 
-  # file.write("{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}\n".format(
-  #     "bill_id", 1, "numTerms", "avgRank", "lowestRank", "numCIC", "bill_status"]))
+  file.write("{0}, {1}, {2}, {3}, {4}, {5}, {6}\n".format(
+      "bill_id", 1, "numTerms", "avgRank", "lowestRank", "percentCIC", "bill_status"))
 
   for (bill_id, bill) in billData.iteritems():
     numTerms = 0
     avgRank = 0
     lowestRank = 0
-    numCIC = Legislator.getNumCICForBill(legData, bill_id, bill)
+    numCIC = float(Legislator.getNumCICForBill(legData, bill_id, bill))/float(len(bill["cosponsors"]))
 
     if "sponsor" in bill:
       sponsor = bill["sponsor"]

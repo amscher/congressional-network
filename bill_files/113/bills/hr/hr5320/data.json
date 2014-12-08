@@ -1,0 +1,207 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-26", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5320-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "45", 
+      "name": "Campbell, John", 
+      "sponsored_at": "2014-09-11", 
+      "state": "CA", 
+      "thomas_id": "01816", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2014-09-09", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cotton, Tom", 
+      "sponsored_at": "2014-09-09", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-09-09", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2014-09-08", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-09-09", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "2014-09-09", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2014-07-31", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Rothfus, Keith J.", 
+      "sponsored_at": "2014-09-11", 
+      "state": "PA", 
+      "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2014-07-31", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "5320", 
+  "official_title": "To direct the Attorney General to provide State officials with access to criminal history information with respect to certain financial service providers required to undergo State criminal background checks, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Bachus, Spencer", 
+    "state": "AL", 
+    "thomas_id": "00038", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Criminal justice information and records", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Intergovernmental relations", 
+    "Licensing and registrations", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Attorney General to provide State officials with access to criminal history information with respect to certain financial service providers required to undergo State criminal background checks, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:07:21-05:00"
+}

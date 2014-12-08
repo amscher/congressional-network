@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="2785" updated="2014-11-08T07:41:38-05:00">
+  <state datetime="2014-09-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-10"/>
+  </status>
+  <introduced datetime="2014-09-10"/>
+  <titles>
+    <title type="short" as="introduced">Safe and Secure Drinking Water Protection Act of 2014</title>
+    <title type="official" as="introduced">A bill to direct the Administrator of the Environmental Protection Agency to publish a health advisory and submit reports with respect to microcystins in drinking water.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400325" joined="2014-09-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5439"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental health"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

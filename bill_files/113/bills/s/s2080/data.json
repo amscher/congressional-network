@@ -1,0 +1,159 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-05", 
+      "references": [
+        {
+          "reference": "CR S1317", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-05", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [
+        {
+          "reference": "CR S1317-1322", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "committees": [
+        "SSEV"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Environment and Public Works. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-06-05", 
+      "committee": "Environment and Public Works", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-192.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-06-05", 
+      "calendar": "Senate Legislative", 
+      "number": "424", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 424.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2080-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-04-30", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "sponsored_at": "2014-03-05", 
+      "state": "ID", 
+      "thomas_id": "00250", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-05", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-05", 
+  "number": "2080", 
+  "official_title": "A bill to conserve fish and aquatic communities in the United States through partnerships that foster fish habitat conservation, improve the quality of life for the people of the United States, enhance fish and wildlife-dependent recreation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Fish Habitat Conservation Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-04-03", 
+  "subjects": [
+    "Advisory bodies", 
+    "Aquatic ecology", 
+    "Department of the Interior", 
+    "Executive agency funding and structure", 
+    "Fishes", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-05", 
+    "text": "National Fish Habitat Conservation Act - Establishes the National Fish Habitat Board to: (1) promote, oversee, and coordinate the implementation of this Act and the National Fish Habitat Action Plan (NFHAP); (2) establish national goals and priorities for fish habitat conservation; and (3) review and make recommendations regarding fish habitat conservation projects.\n\nPermits the Board to designate Fish Habitat Partnerships to coordinate implementation of the NFHAP at a regional level and develop and carry out fish habitat conservation projects.\n\nSets forth requirements for approval by the Board of a fish habitat conservation project. Requires property acquired for a project to be open to the public for compatible fish and wildlife-dependent recreation and be closed only to protect public safety, the property, or the habitat. Requires the Director of the U.S. Fish and Wildlife Service (USFWS) to establish the National Fish Habitat Conservation Partnership Program with duties to include providing funding for the operational needs of the Partnerships.\n\nPermits the head of each federal agency to coordinate with the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration (NOAA) and the Director of USFWS to promote healthy fish populations and fish habitats.\n\nRequires the Director of USFWS, the NOAA Assistant Administrator, and the Director of the U.S. Geological Survey (USGS) to provide technical and scientific assistance to the Partnerships, the project participants, and the Board.\n\nProhibits using any funds made available to carry out this Act for fish and wildlife mitigation purposes under any federal law or court settlement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Fish Habitat Conservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "National Fish Habitat Conservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to conserve fish and aquatic communities in the United States through partnerships that foster fish habitat conservation, improve the quality of life for the people of the United States, enhance fish and wildlife-dependent recreation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:35:40-05:00"
+}

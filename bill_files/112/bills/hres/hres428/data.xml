@@ -1,0 +1,43 @@
+<bill session="112" type="hr" number="428" updated="2014-07-31T20:30:18-04:00">
+  <state datetime="2011-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="2011-10-06"/>
+  </status>
+  <introduced datetime="2011-10-06"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the importance of acknowledging the contributions of Dominican-Americans to the United States.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2011-10-06"/>
+    <cosponsor id="400087" joined="2011-10-06"/>
+    <cosponsor id="412451" joined="2011-10-06"/>
+    <cosponsor id="400271" joined="2011-10-06"/>
+    <cosponsor id="400283" joined="2011-10-06"/>
+    <cosponsor id="412306" joined="2011-10-06"/>
+    <cosponsor id="400366" joined="2011-10-06"/>
+    <cosponsor id="400409" joined="2011-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-10-06" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Caribbean area"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Dominican Republic"/>
+    <term name="Latin America"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/2011--Introduced.
+Recognizes the importance of acknowledging the contributions of Dominican-Americans to the United States.
+
+ Supports the establishment of a national month of recognition for Dominican-Americans.</summary>
+</bill>

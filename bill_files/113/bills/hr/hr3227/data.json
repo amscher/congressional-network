@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-01", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3227-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-01", 
+  "number": "3227", 
+  "official_title": "To remove from the John H. Chafee Coastal Barrier Resources System certain properties in South Carolina.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Rice, Tom", 
+    "state": "SC", 
+    "thomas_id": "02160", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "South Carolina"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-10-01", 
+    "text": "Directs the Secretary of the Interior to revise Coastal Barrier Resources System maps relating to the John H. Chafee Coastal Barrier Resources System Unit SC-03 in South Carolina to remove parcels of land at specified addresses on S. Waccamaw Drive and Sailfish Drive in Murrells Inlet, SC 29576, in the property records of Georgetown County, South Carolina."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To remove from the John H. Chafee Coastal Barrier Resources System certain properties in South Carolina.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T06:49:35-05:00"
+}

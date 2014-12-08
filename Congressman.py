@@ -9,9 +9,11 @@ class Congressman:
         self.party = ""
         self.bills = []
         self.num_success_bills = 0
+        self.committee_pagerank = 0
+        self.committee_btwnscore = 0
 
     def isRepublican(self):
-        return self.part == "Republican"
+        return self.party == "Republican"
 
 from json import JSONEncoder
 class Encoder(JSONEncoder):

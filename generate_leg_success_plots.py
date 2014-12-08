@@ -28,15 +28,18 @@ def getSuccessRate(item):
   if len(item["bills"]) == 0:
     return 0
   else:
+    # billsPerTerm = /float(item["num_terms"])
     return float(item["num_success_bills"])/float(len(item["bills"]))
 
-def plot(title, xlabel, ylabel, xVals, yVals, filename, ymax=0.6):
+def plot(title, xlabel, ylabel, xVals, yVals, filename, ymax=1, xlog=False):
   fig1 = plt.figure()
   plt.title(title)
   plt.xlabel(xlabel)
   plt.ylabel(ylabel)
   plt.ylim(ymax=ymax)
   ax = fig1.add_subplot(111)
+  if xlog:
+    ax.set_xscale('log')
   plot = ax.plot(xVals, yVals, 'bo', mec='b', markersize=5, alpha=0.3, label="chart")
   ax.legend(loc='upper right')
   fig1.savefig('plotting/' + filename + '.png')
@@ -63,6 +66,14 @@ def readAndPlotData():
     [v["num_leader_roles"] for v in data.itervalues()],
     [getSuccessRate(v) for v in data.itervalues()], "numLeaderRoles_v_success")
 
+  plot("Page Rank in Committee Graph vs Bill Success Rate", "Page Rank in Committee Graph", "Bill Success Rate",
+    [v["committee_pagerank"] for v in data.itervalues()],
+    [getSuccessRate(v) for v in data.itervalues()], "pageRank_v_success", 1)
+
+  plot("Btwn Score in Committee Graph vs Bill Success Rate", "Btwn Score in Committee Graph", "Bill Success Rate",
+    [v["committee_btwnscore"] for v in data.itervalues()],
+    [getSuccessRate(v) for v in data.itervalues()], "btwnScore_v_success", 0.6)
+
   plot("avg.Rank vs Bill Success Rate", "avg.Rank", "Bill Success Rate",
     [getAvgRank(v) for v in data.itervalues()],
     [getSuccessRate(v) for v in data.itervalues()], "avgLegislatorRank_v_success")
@@ -88,7 +99,7 @@ def getNumCICForBill(legData, thomas, bill):
         # if legData[cosponsor]["committeesMap"][committee] == 1:
   value = 0 if len(bill["committees"]) == 0 else float(numCosponsorsInCommittee)/float(len(bill["cosponsors"]))
   value = round(value, 2)
-  value = value - (value % 0.05)
+  value = value - (value % 0.04)
   return value
 
 def plotNumConsponsorsVBillSuccess():
@@ -97,21 +108,29 @@ def plotNumConsponsorsVBillSuccess():
   stream2 = open("data/bill-data.json", 'r')
   billData = json.load(stream2)
 
-  numcosponsors_map = {}
+ # key = number of cosponsors in referred committee | value = [number of bills,
+ # number of successfull bills, number of out of committee bills]
+  numcic_map = {}
   for (thomas, bill) in billData.iteritems():
     value = getNumCICForBill(legData, thomas, bill)
-    if not numcosponsors_map.has_key(value):
-      numcosponsors_map[value] = [1, 0]
+    if not numcic_map.has_key(value):
+      numcic_map[value] = [1, 0, 0]
     else:
-      numcosponsors_map[value][0] += 1
+      numcic_map[value][0] += 1
+    if bill["status"] not in Bill.NOT_OUT_OF_COMMITTEE:
+      numcic_map[value][1] += 1
     if bill["status"] in Bill.SUCCESSFUL:
-      if numcosponsors_map.has_key(value):
-        numcosponsors_map[value][1] += 1
+      numcic_map[value][2] += 1
+
+  plot("Number of Cosponsors in referred Committee vs. Bill Reported Out Rate", "Num Cosponsors",
+      "Bill Reported Out of Committee Rate", numcic_map.keys(),
+      [float(v[1])/float(v[0]) for v in numcic_map.values()],
+      "numCosponsorsInComm_v_billReported", 1)
 
   plot("Number of Cosponsors in referred Committee vs. Bill Success", "Num Cosponsors",
-      "Bill Success", numcosponsors_map.keys(),
-      [float(v[1])/float(v[0]) for v in numcosponsors_map.values()],
-      "numCosponsorsInComm_v_billSuccess", 0.17)
+      "Bill Success", numcic_map.keys(),
+      [float(v[2])/float(v[0]) for v in numcic_map.values()],
+      "numCosponsorsInComm_v_billSuccess", .6)
 
 
 plotNumConsponsorsVBillSuccess()

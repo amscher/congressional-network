@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-11", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1804-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }, 
+    {
+      "activity": [
+        "other legislative involvement"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2013-12-11", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-11", 
+  "number": "1804", 
+  "official_title": "A bill to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1204-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Aviation Security Stakeholder Participation Act of 2013", 
+  "sponsor": {
+    "district": null, 
+    "name": "Tester, Jon", 
+    "state": "MT", 
+    "thomas_id": "01829", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-23", 
+  "subjects": [
+    "Advisory bodies", 
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-12-11", 
+    "text": "Aviation Security Stakeholder Participation Act of 2013 - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to establish in the TSA an Aviation Security Advisory Committee.\n\nEstablishes within the Advisory Committee: (1) an air cargo security subcommittee; (2) a general aviation security subcommittee; (3) an airport perimeter security, exit lane security, and access control subcommittee; (4) a risk-based subcommittee; and (5) a security technology subcommittee."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:33:22-05:00"
+}

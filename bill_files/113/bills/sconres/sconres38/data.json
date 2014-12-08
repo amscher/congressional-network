@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-26", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S4166-4167", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres38-113", 
+  "bill_type": "sconres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-06-26", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-09-08", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-26", 
+  "number": "38", 
+  "official_title": "A concurrent resolution expressing the sense of Congress that Warren Weinstein should be returned home to his family.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres101-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Mikulski, Barbara A.", 
+    "state": "MD", 
+    "thomas_id": "00802", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-26", 
+  "subjects": [
+    "Asia", 
+    "Congressional oversight", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "International affairs", 
+    "Pakistan", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-26", 
+    "text": "Expresses the sense of Congress that the U.S. government should: (1) use all lawful tools to bring Warren Weinstein, who was abducted in Pakistan in 2011 and currently held captive by al-Qaeda, home to his family; (2) make the return of all U.S. citizens held captive abroad a top priority; and (3) keep Congress apprised of its actions to achieve such goals."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A concurrent resolution expressing the sense of Congress that Warren Weinstein should be returned home to his family.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:18:01-05:00"
+}

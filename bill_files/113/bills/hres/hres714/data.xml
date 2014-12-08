@@ -1,0 +1,64 @@
+<bill session="113" type="hr" number="714" updated="2014-11-08T06:22:12-05:00">
+  <state datetime="2014-09-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-08"/>
+  </status>
+  <introduced datetime="2014-09-08"/>
+  <titles>
+    <title type="official" as="introduced">Reaffirming the peaceful and collaborative resolution of maritime and jurisdictional disputes in the South China Sea and the East China Sea as provided for by universally recognized principles of international law, and reaffirming the strong support of the United States Government for freedom of navigation and other internationally lawful uses of sea and airspace in the Asia-Pacific region.</title>
+  </titles>
+  <sponsor id="400128"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2014-09-16"/>
+    <cosponsor id="400041" joined="2014-09-08"/>
+    <cosponsor id="400071" joined="2014-09-08"/>
+    <cosponsor id="400122" joined="2014-09-08"/>
+    <cosponsor id="400344" joined="2014-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-08" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-09-11">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="ASEAN countries"/>
+    <term name="Asia"/>
+    <term name="Aviation and airports"/>
+    <term name="China"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Pacific Ocean"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <summary>9/8/2014--Introduced.
+Reaffirms U.S. support for the peaceful resolution of maritime territorial disputes in the South China Sea and the East China Sea.
+
+Reaffirms support for freedom of navigation and overflight and condemns coercive actions or the use of force to impede these freedoms in international maritime domains and airspace.
+
+Urges China to refrain from implementing the declared East China Sea Air Defense Identification Zone which is contrary to freedom of overflight in international airspace, and to refrain from taking similar provocative actions elsewhere in the Asia-Pacific region.
+
+Urges the Association of Southeast Asian Nations (ASEAN), U.S. allies and partners, and all claimants to fairly resolve these outstanding disputes, including through developing a Code of Conduct for the South China Sea.
+
+Supports U.S. operations to support freedom of navigation in international waters and air space in the South China Sea and the East China Sea.
+
+ Encourages U.S. efforts to strengthen regional partnerships in support of freedom of navigation, maintenance of peace and stability, and respect for principles of international law.</summary>
+</bill>

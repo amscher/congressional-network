@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-14", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2338-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2014-06-05", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John", 
+      "sponsored_at": "2014-05-14", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-14", 
+  "number": "2338", 
+  "official_title": "A bill to reauthorize the United States Anti-Doping Agency, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5614-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "United States Anti-Doping Agency Reauthorization Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-17", 
+  "subjects": [
+    "Athletes", 
+    "Drug, alcohol, tobacco use", 
+    "Olympic games", 
+    "Sports and recreation"
+  ], 
+  "subjects_top_term": "Sports and recreation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-14", 
+    "text": "United States Anti-Doping Agency Reauthorization Act - Amends the Office of National Drug Control Policy Reauthorization Act of 2006 to: (1) authorize appropriations for the U.S. Anti-Doping Agency for FY2014-FY2020, (2) require that the Agency be recognized worldwide as the independent national anti-doping organization for the United States, and (3) replace the Agency's role in preventing the use by U.S. amateur athletes of performance-enhancing genetic modifications accomplished through gene doping with a role in preventing the use of prohibited performance-enhancing methods adopted by the Agency."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "United States Anti-Doping Agency Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reauthorize the United States Anti-Doping Agency, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:37:50-05:00"
+}

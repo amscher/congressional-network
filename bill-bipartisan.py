@@ -1,8 +1,9 @@
 import snap
 import yaml
 from readBills import readBills
-from matplotlib import pyplot
-from math import log
+import Bill
+import matplotlib
+import matplotlib.pyplot as plt
 
 score_map = {
   "INTRODUCED" : 0,
@@ -14,84 +15,69 @@ score_map = {
   "ENACTED:SIGNED" : 5
 }
 
-stream = open("data/legislators-current.yaml", 'r')
-y_stream = yaml.load(stream)
+def plot(title, xlabel, ylabel, xVals, yVals, filename, ymax=1):
+  fig1 = plt.figure()
+  plt.title(title)
+  plt.xlabel(xlabel)
+  plt.ylabel(ylabel)
+  plt.ylim(ymax=ymax)
+  ax = fig1.add_subplot(111)
+  plot = ax.plot(xVals, yVals, 'bo', mec='b', markersize=5, alpha=0.3, label="chart")
+  fig1.savefig('plotting/' + filename + '.png')
 
-thomas_to_wing_map = {}
-num_members = len(y_stream)
-
-for i in range(0, num_members):
-    thomas = y_stream[i]["id"]["thomas"]
-    party = y_stream[i]["terms"][0]["party"]
-    thomas_to_wing_map[thomas] = party
-
-bills_hr = readBills('./montana/113/', "hr")
-bills_s = readBills('./montana/113/', "s")
-bills_hjres = readBills('./montana/113/', "hjres")
-bills_sjres = readBills('./montana/113/', "sjres")
-bills = dict(bills_hr.items() + bills_s.items() + bills_hjres.items() + bills_sjres.items())
-
-
-score_number_file = open("plotting/bill-numbercosponsors.tab", 'w')
-score_status_file = open("plotting/bill-bipartisan.tab", 'w')
-score_status_count_file = open("plotting/bill-bipartisan-count.tab", 'w')
-bill_id_to_score_file = open("bill-bipartisan.csv", 'w')
-score_number_map = {}
-
+score_numcosponsor_map = {}
 bipartisan_score_count_map = {}
+score_status_map = {}
 
-for bill_id in bills.keys():
+def plotBiPartisanVSuccess():
+  stream = open("data/bill-data.json", 'r')
+  bills = yaml.load(stream)
+
+  bill_id_to_score_file = open("csv/bill-bipartisan_2.csv", 'w')
+
+  for bill_id in bills.iterkeys():
     bill = bills[bill_id]
-    sponsor = bill.sponsor
-    cosponsors = bill.cosponsors
-    total = len(cosponsors)
-    repCount = 0
-    for i in range(len(cosponsors)):
-      if not thomas_to_wing_map.has_key(cosponsors[i]):
-        print "No congressman ", cosponsors[i]
-        continue
-      party = thomas_to_wing_map[cosponsors[i]]
-      if party == "Republican":
-        repCount += 1
-    print "republicans: %d, total: %d" % (repCount, total)
-    bipartisanScore = float(repCount)/float(total)
-    binnedScore = round(bipartisanScore, 1)
-    bill_id_to_score_file.write("{0}, {1}, {2}\n".format(bill_id, binnedScore, bipartisanScore))
-    if score_map.has_key(bill.status):
+    status = bill["status"]
+    bipartisanScore = bill["bipartisan_score"]
+    binnedScore = round(bipartisanScore, 2)
+    binnedScore = binnedScore - (binnedScore % 0.04)
+    bill_id_to_score_file.write("{0}, {1}, {2}, {3}\n".format(bill_id, binnedScore, bipartisanScore, status))
+
+    if score_map.has_key(status):
       # Used for calculating the percantage of enacted bills per bipartisan score
       if bipartisan_score_count_map.has_key(binnedScore):
-        bipartisan_score_count_map[binnedScore][1] += 1
-      else:
-        bipartisan_score_count_map[binnedScore] = [0, 1]
-      if bill.status == "ENACTED:SIGNED":
         bipartisan_score_count_map[binnedScore][0] += 1
+      else:
+        bipartisan_score_count_map[binnedScore] = [1, 0, 0]
+      if status in Bill.SUCCESSFUL:
+        bipartisan_score_count_map[binnedScore][1] += 1
+      if status not in Bill.NOT_OUT_OF_COMMITTEE:
+        bipartisan_score_count_map[binnedScore][2] += 1
 
       # creates score vs status data
-      score_status_file.write("{0} {1}\n".format(binnedScore, score_map[bill.status]))
+      score_status_map[bipartisanScore] = score_map[status]
 
-      # Creates number of cosponsor data
-      # score_number_file.write("{0} {1}\n".format(len(cosponsors), score_map[bill.status]))
-      numCosponsors = len(cosponsors) / 15
-      if score_number_map.has_key(numCosponsors):
-        score_number_map[numCosponsors][1] += 1
+      numCosponsors = len(bill["cosponsors"]) / 5
+      if score_numcosponsor_map.has_key(numCosponsors):
+        score_numcosponsor_map[numCosponsors][0] += 1
       else:
-        score_number_map[numCosponsors] = [0, 1]
-      if bill.status == "ENACTED:SIGNED":
-        score_number_map[numCosponsors][0] += 1
+        score_numcosponsor_map[numCosponsors] = [1, 0]
+      if status in Bill.SUCCESSFUL:
+        score_numcosponsor_map[numCosponsors][1] += 1
 
-for key in bipartisan_score_count_map.keys():
-  success = bipartisan_score_count_map[key][0]
-  total = bipartisan_score_count_map[key][1]
-  score_status_count_file.write("{0} {1}\n".format(key, float(success)/float(total)))
+plotBiPartisanVSuccess()
 
-for key in score_number_map.keys():
-  success = score_number_map[key][0]
-  total = score_number_map[key][1]
-  score_number_file.write("{0} {1}\n".format(key, float(success)/float(total)))
+plot("Percent Republican vs Bill Success", "Percent Republican", "Bill Success",
+    [k for k in score_status_map.iterkeys()],
+    [v for v in score_status_map.itervalues()], "bill-bipartisan", 6)
 
+plot("Percent Republican vs Bill Success", "Percent Republican", "Bill Success",
+    [k for k in bipartisan_score_count_map.iterkeys()],
+    [float(v[1])/float(v[0]) for v in bipartisan_score_count_map.itervalues()], "bill-bipartisan-count", 0.2)
 
-
-
+plot("Number Cosponsors vs Bill Success", "Number Cosponsors", "Bill Success",
+    [k for k in score_numcosponsor_map.iterkeys()],
+    [float(v[1])/float(v[0]) for v in score_numcosponsor_map.itervalues()], "bill-numbercosponsors", 1.1)
 
 
 

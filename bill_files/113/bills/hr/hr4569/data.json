@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-09", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4569-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2014-05-21", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2014-05-06", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-06", 
+  "number": "4569", 
+  "official_title": "To require the Securities and Exchange Commission to make certain improvements to form 10-K and regulation S-K, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5405-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Disclosure Modernization and Simplification Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-22", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Congressional oversight", 
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-06", 
+    "text": "Disclosure Modernization and Simplification Act of 2014 - Directs the Securities and Exchange Commission (SEC) to: (1) issue regulations permitting issuers to submit a summary page on annual and transition report form 10-K if each item on that page cross-references the material contained in form 10-K; (2) revise regulation S-K in order to reduce the burden on smaller issuers, including emerging growth companies, accelerated filers, and smaller reporting companies; and (3) eliminate duplicative, overlapping, outdated, or unnecessary provisions in regulation S-K.\n\nDirects the SEC to study ways to: (1) modernize and simplify the requirements in regulation S-K, (2) improve the readability and navigability of disclosure documents, and (3) discourage repetition and disclosure of immaterial information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disclosure Modernization and Simplification Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Securities and Exchange Commission to make certain improvements to form 10-K and regulation S-K, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-11-08T07:00:54-05:00"
+}
