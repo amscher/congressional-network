@@ -39,7 +39,7 @@ print 'Candidate[H4OK06056] =', c.get('H4OK06056').displayCandidate()
 bills = readBills.readAllBills()
 
 # read the legislators files
-candidates = readCandidateData.readLegislators()
+candidates = readFECCandidateData.readLegislators()
 print 'Number of candidates from readCandidateData.readLegislators(): %d' % len(candidates)
 
 # merge candidates from the FEC data and YAML Legislators file
