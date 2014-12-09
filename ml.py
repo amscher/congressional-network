@@ -13,6 +13,7 @@ http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.sv
 import numpy
 import scipy
 import sklearn.linear_model
+import sklearn.naive_bayes
 from sklearn.metrics import classification_report
 import csv
 
@@ -95,7 +96,9 @@ def runML((features, labels)):
     (score, classification_report) = doSVM(X_train, y_train, X_test, y_test)
     print 'SVM score: {0:.2f}%'.format(100*score)
     print classification_report
-
+    (score, classification_report) = doNaiveBayes(X_train, y_train, X_test, y_test)
+    print '\nNaive Bayes (Gaussian) score: {0:.2f}%'.format(100*score)
+    print classification_report
 
 def doLogisticRegression(X_train, y_train, X_test, y_test):
     # changed to using Stochastic Gradient Ascent as l2 LogisticRegression in sklearn was similar to SVM
@@ -111,13 +114,22 @@ def doSVM(X_train, y_train, X_test, y_test):
     # doesn't matter whether you use a sparse or dense matrix in score()
     return (clf.score(X_test, y_test), classification_report(y_test, predictions))
 
+def doNaiveBayes(X_train, y_train, X_test, y_test):
+    clf = sklearn.naive_bayes.GaussianNB().fit(X_train, y_train)
+    predictions = clf.predict(X_test)
+    return (clf.score(X_test, y_test), classification_report(y_test, predictions))
+
 def read_csv(file_path, bill_predicate):
     features = []
     labels = []
     print 'Reading from file %s' % file_path
     with open(file_path, 'rb') as csvfile:
         csv_reader = csv.reader(csvfile)
+        first = True
         for row in csv_reader:
+            if first:
+                first = False
+                continue
             bill_id = row[0]
             status = row[-1]
             del row[0]
@@ -140,9 +152,9 @@ if __name__ == '__main__':
     # to find all CSV files: find . -maxdepth 2 -name '*.csv'
     print '*** Predicting whether a bill will get out of committee ***'
     #runML(prepareInputDataForGettingOutOfCommittee)
-    runML(read_csv('csv/legislator-info.csv', 'OutOfCommittee'))
+    runML(read_csv('csv/bill-combined_3.csv', 'OutOfCommittee'))
     print '\n\n*** Predicting whether a bill will get enacted given it is out of committee ***'
     #runML(prepareInputDataAfterCommitteeGettingEnacted)
-    runML(read_csv('csv/legislator-info.csv', 'Enacted'))
+    runML(read_csv('csv/bill-combined_3.csv', 'Enacted'))
 
 
