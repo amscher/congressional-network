@@ -79,7 +79,11 @@
     "Research administration and funding"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Reauthorizes the Federal Ocean Acidification Research and Monitoring Act of 2009 through FY2018."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -88,5 +92,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:15-05:00"
+  "updated_at": "2014-12-06T07:09:13-05:00"
 }

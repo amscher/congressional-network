@@ -270,6 +270,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Himes, James A.", 
       "sponsored_at": "2014-09-17", 
@@ -338,6 +347,15 @@
       "sponsored_at": "2014-09-17", 
       "state": "CA", 
       "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "00683", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -612,6 +630,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "23", 
       "name": "Wasserman Schultz, Debbie", 
       "sponsored_at": "2014-09-17", 
@@ -683,5 +710,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:04-05:00"
+  "updated_at": "2014-12-06T07:09:03-05:00"
 }

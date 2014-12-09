@@ -9,6 +9,61 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Financial Services.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:57:00-05:00", 
+      "references": [], 
+      "text": "Mr. Pearce moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8254-8255", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:57:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2790.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:04:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8254", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:04:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +77,13 @@
       ], 
       "committee": "House Financial Services", 
       "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
     }
   ], 
   "congress": "113", 
@@ -50,6 +112,15 @@
       "sponsored_at": "2014-02-26", 
       "state": "VA", 
       "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2014-12-02", 
+      "state": "WA", 
+      "thomas_id": "02169", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -101,9 +172,12 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-02T14:57:00-05:00", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T15:04:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-07-23", 
@@ -120,8 +194,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2013-07-23", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-02T15:04:00-05:00", 
   "subjects": [
     "Homelessness and emergency shelter", 
     "Housing and community development", 
@@ -129,13 +203,19 @@
   ], 
   "subjects_top_term": "Housing and community development", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-07-23", 
+    "as": "Passed House without amendment", 
+    "date": "2014-12-02", 
     "text": "Housing Assistance Efficiency Act - Amends the McKinney-Vento Homeless Assistance Act to allow (in addition to a state, local government, or public housing agency) a private nonprofit organization to administer permanent housing rental assistance provided through the Continuum of Care Program under the Act.\n\nRequires the Secretary of Housing and Urban Development (HUD), at least once (currently, twice) during each fiscal year, to reallocate any housing assistance provided from the Emergency Solutions Grants Program that is unused or returned or that becomes available after the minimum allocation requirements under the Act."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Housing Assistance Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "Housing Assistance Efficiency Act", 
       "type": "short"
@@ -147,5 +227,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:56-05:00"
+  "updated_at": "2014-12-06T06:46:02-05:00"
 }

@@ -54,6 +54,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "16", 
       "name": "Engel, Eliot L.", 
       "sponsored_at": "2014-07-22", 
@@ -135,6 +144,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "18", 
       "name": "Maloney, Sean Patrick", 
       "sponsored_at": "2014-07-22", 
@@ -203,6 +221,15 @@
       "sponsored_at": "2014-07-22", 
       "state": "NY", 
       "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01042", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -279,5 +306,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:21-05:00"
+  "updated_at": "2014-12-06T07:05:24-05:00"
 }

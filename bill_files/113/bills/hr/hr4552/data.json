@@ -99,7 +99,13 @@
   "number": "4552", 
   "official_title": "To encourage and ensure the use of safe equestrian helmets, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2972-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Christen O'Donnell Equestrian Helmet Safety Act of 2013", 
   "sponsor": {
     "district": "4", 
@@ -138,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:45-05:00"
+  "updated_at": "2014-12-06T07:00:51-05:00"
 }

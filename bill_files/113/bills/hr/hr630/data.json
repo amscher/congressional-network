@@ -334,6 +334,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Conyers, John, Jr.", 
       "sponsored_at": "2013-06-04", 
@@ -960,6 +969,15 @@
       "sponsored_at": "2014-04-29", 
       "state": "GA", 
       "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IL", 
+      "thomas_id": "01781", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1813,5 +1831,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:27:45-05:00"
+  "updated_at": "2014-12-06T06:27:52-05:00"
 }

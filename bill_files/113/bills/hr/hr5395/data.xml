@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5395" updated="2014-11-08T07:08:00-05:00">
+<bill session="113" type="h" number="5395" updated="2014-12-06T07:07:58-05:00">
   <state datetime="2014-08-01">REFERRED</state>
   <status>
     <introduced datetime="2014-08-01"/>
@@ -28,9 +28,13 @@
     <action datetime="2014-08-01">
       <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
     <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
     <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
   </committees>

@@ -36,11 +36,47 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2014-11-14", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2014-12-04", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "16", 
       "name": "Renacci, James B.", 
       "sponsored_at": "2014-08-01", 
       "state": "OH", 
       "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2014-12-04", 
+      "state": "IL", 
+      "thomas_id": "01920", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -112,5 +148,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:52-05:00"
+  "updated_at": "2014-12-06T07:07:52-05:00"
 }

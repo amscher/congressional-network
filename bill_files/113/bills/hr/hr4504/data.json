@@ -151,6 +151,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Rangel, Charles B.", 
       "sponsored_at": "2014-09-10", 
@@ -230,5 +239,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:21-05:00"
+  "updated_at": "2014-12-06T07:00:27-05:00"
 }

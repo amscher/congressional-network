@@ -27,11 +27,38 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Grayson, Alan", 
       "sponsored_at": "2014-09-10", 
       "state": "FL", 
       "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2014-11-17", 
+      "state": "TX", 
+      "thomas_id": "00599", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -104,5 +131,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:16-05:00"
+  "updated_at": "2014-12-06T07:04:21-05:00"
 }

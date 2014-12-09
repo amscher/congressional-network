@@ -178,6 +178,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Conyers, John, Jr.", 
       "sponsored_at": "2013-09-06", 
@@ -592,5 +601,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:05-05:00"
+  "updated_at": "2014-12-06T06:37:07-05:00"
 }

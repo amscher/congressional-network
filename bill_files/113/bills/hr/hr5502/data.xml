@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5502" updated="2014-11-08T07:08:53-05:00">
+<bill session="113" type="h" number="5502" updated="2014-12-06T07:08:52-05:00">
   <state datetime="2014-09-17">REFERRED</state>
   <status>
     <introduced datetime="2014-09-17"/>
@@ -48,4 +48,8 @@
     <term name="Government trust funds"/>
   </subjects>
   <amendments/>
+  <summary>9/17/2014--Introduced.
+Fifth Amendment Integrity Restoration Act of 2014 or the FAIR Act - Amends the federal criminal code to increase the federal government's burden of proof in civil forfeiture proceedings to clear and convincing evidence. Requires the government, in addition to showing a substantial connection between the seized property and the offense in a forfeiture proceeding, to establish by clear and convincing evidence that the owner of any interest in the seized property intentionally used the property in connection with the offense or knowingly consented or was willfully blind to the use of the property by another in connection with the offense.
+
+Requires proceeds from the disposition of forfeited property to be deposited into the General Fund of the Treasury, rather than to Department of Justice (DOJ) accounts for law enforcement activities.</summary>
 </bill>

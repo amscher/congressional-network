@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2904" updated="2014-11-08T07:42:37-05:00">
+<bill session="113" type="s" number="2904" updated="2014-12-06T07:43:58-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">A bill to prevent the militarization of Federal, State, and local law enforcement by Federal excess property transfers and grant programs.</title>
   </titles>
   <sponsor id="400576"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412492" joined="2014-11-18"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
       <text>Read twice and referred to the Committee on Armed Services.</text>

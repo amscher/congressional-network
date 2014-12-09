@@ -1142,6 +1142,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Schneider, Bradley S.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IL", 
+      "thomas_id": "02124", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Schwartz, Allyson Y.", 
       "sponsored_at": "2013-05-08", 
@@ -1438,5 +1447,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:04-05:00"
+  "updated_at": "2014-12-06T06:37:07-05:00"
 }

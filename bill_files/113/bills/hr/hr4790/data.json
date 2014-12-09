@@ -135,6 +135,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Shea-Porter, Carol", 
       "sponsored_at": "2014-07-08", 
@@ -212,5 +221,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:49-05:00"
+  "updated_at": "2014-12-06T07:02:55-05:00"
 }

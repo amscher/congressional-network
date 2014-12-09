@@ -2,12 +2,6 @@
   "actions": [
     {
       "acted_at": "2013-12-12T18:39:00-05:00", 
-      "references": [], 
-      "text": "Mr. Ryan (WI) asked unanimous consent to consider as introduced.", 
-      "type": "action"
-    }, 
-    {
-      "acted_at": "2013-12-12T18:39:00-05:00", 
       "references": [
         {
           "reference": "CR H8086", 
@@ -15,6 +9,12 @@
         }
       ], 
       "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-12T18:39:00-05:00", 
+      "references": [], 
+      "text": "Mr. Ryan (WI) asked unanimous consent to consider as introduced.", 
       "type": "action"
     }, 
     {
@@ -116,5 +116,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:12:04-05:00"
+  "updated_at": "2014-12-06T07:13:03-05:00"
 }

@@ -60,6 +60,76 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:27:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-632.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:28:00-05:00", 
+      "calendar": "Union", 
+      "number": "472", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 472.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-01T16:44:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8188-8190", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:44:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2455.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:49:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8188-8189", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:49:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -70,7 +140,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -124,6 +195,8 @@
     "active_at": "2013-07-23", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-01T16:49:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-06-20", 
@@ -140,9 +213,14 @@
       "bill_id": "s2480-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2480-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
-  "short_title": "Nevada Native Nations Lands Act", 
+  "short_title": "Nevada Native Nations Land Act", 
   "sponsor": {
     "district": "2", 
     "name": "Amodei, Mark E.", 
@@ -151,8 +229,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-06-19", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-01T16:49:00-05:00", 
   "subjects": [
     "Federal-Indian relations", 
     "Forests, forestry, trees", 
@@ -181,11 +259,23 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Nevada Native Nations Lands Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Nevada Native Nations Land Act", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To provide for the sale or transfer of certain Federal lands in Nevada, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:08-05:00"
+  "updated_at": "2014-12-06T06:43:13-05:00"
 }

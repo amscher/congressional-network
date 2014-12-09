@@ -94,6 +94,15 @@
     }, 
     {
       "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Hirono, Mazie K.", 
       "sponsored_at": "2013-05-23", 
       "state": "HI", 
@@ -175,6 +184,15 @@
     }, 
     {
       "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-11-13", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Wyden, Ron", 
       "sponsored_at": "2013-06-04", 
       "state": "OR", 
@@ -247,5 +265,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:26:54-05:00"
+  "updated_at": "2014-12-06T07:28:04-05:00"
 }

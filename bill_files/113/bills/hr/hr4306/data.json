@@ -135,6 +135,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "McGovern, James P.", 
       "sponsored_at": "2014-06-02", 
@@ -347,5 +356,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:41-05:00"
+  "updated_at": "2014-12-06T06:58:48-05:00"
 }

@@ -544,6 +544,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Higgins, Brian", 
       "sponsored_at": "2014-02-10", 
@@ -1379,5 +1388,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:33:15-05:00"
+  "updated_at": "2014-12-06T06:33:21-05:00"
 }

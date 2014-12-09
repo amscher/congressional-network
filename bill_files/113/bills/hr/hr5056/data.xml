@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5056" updated="2014-11-08T07:05:03-05:00">
+<bill session="113" type="h" number="5056" updated="2014-12-06T07:05:08-05:00">
   <state datetime="2014-07-14T15:47:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-07-14T15:47:00-04:00"/>
@@ -6,6 +6,7 @@
   <introduced datetime="2014-07-10"/>
   <titles>
     <title type="short" as="introduced">Research and Development Efficiency Act</title>
+    <title type="short" as="passed house">Research and Development Efficiency Act</title>
     <title type="official" as="introduced">To improve the efficiency of Federal research and development, and for other purposes.</title>
   </titles>
   <sponsor id="412427"/>
@@ -68,4 +69,12 @@
     <term name="Research and development"/>
   </subjects>
   <amendments/>
+  <summary>7/14/2014--Passed House without amendment.
+Research and Development Efficiency Act - Requires the Director of Science and Technology Policy (OSTP) to establish a working group under the authority of the National Science and Technology Council that includes the Office of Management and Budget (OMB).
+
+Makes the working group responsible for reviewing federal regulations affecting research and research universities and making recommendations on how to: (1) harmonize, streamline, and eliminate duplicative federal regulations and reporting requirements; and (2) minimize the regulatory burden on U.S. institutions of higher education performing federally funded research while maintaining accountability for federal tax dollars.
+
+Instructs the working group to take into account input and recommendations from specified non-federal stakeholders in ensuring effectiveness, efficiency, and accountability in the performance of scientific research.
+
+Requires the Director to report to Congress on what steps have been taken to carry out the recommendations of the working group.</summary>
 </bill>

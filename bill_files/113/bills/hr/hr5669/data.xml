@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5669" updated="2014-11-08T07:10:17-05:00">
+<bill session="113" type="h" number="5669" updated="2014-12-06T07:10:16-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -14,9 +14,13 @@
     <action datetime="2014-09-18" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2014-11-24">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
   </committees>
   <relatedbills/>
   <subjects>

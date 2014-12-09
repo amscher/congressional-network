@@ -91,6 +91,24 @@
       "thomas_id": "01510", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -142,5 +160,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:53-05:00"
+  "updated_at": "2014-12-06T07:09:51-05:00"
 }

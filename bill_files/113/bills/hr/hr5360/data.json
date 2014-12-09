@@ -601,6 +601,7 @@
     "Business investment and capital", 
     "California", 
     "Canada", 
+    "Charitable contributions", 
     "Civil actions and liability", 
     "Climate change and greenhouse gases", 
     "Coal", 
@@ -689,5 +690,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:41-05:00"
+  "updated_at": "2014-12-06T07:07:41-05:00"
 }

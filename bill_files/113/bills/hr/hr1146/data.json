@@ -311,6 +311,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Johnson, Bill", 
       "sponsored_at": "2013-06-17", 
@@ -397,6 +406,15 @@
       "sponsored_at": "2013-12-19", 
       "state": "GA", 
       "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01781", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -867,5 +885,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:04-05:00"
+  "updated_at": "2014-12-06T06:32:11-05:00"
 }

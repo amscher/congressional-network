@@ -129,7 +129,11 @@
     "Research administration and funding"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-16", 
+    "text": "Secret Science Reform Act of 2014 - Amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to prohibit the Administrator of the Environmental Protection Agency (EPA) from proposing, finalizing, or disseminating a covered action unless all scientific and technical information relied on to support such action is specifically identified and publicly available in a manner sufficient for independent analysis and substantial reproduction of research results.\n\nDefines \"covered action\" as a risk, exposure, or hazard assessment, criteria document, standard, limitation, regulation, regulatory impact analysis, or guidance."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -144,5 +148,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:11-05:00"
+  "updated_at": "2014-12-06T07:41:31-05:00"
 }

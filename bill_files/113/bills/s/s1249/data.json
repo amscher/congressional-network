@@ -325,6 +325,15 @@
     }, 
     {
       "district": null, 
+      "name": "Toomey, Pat", 
+      "sponsored_at": "2014-11-20", 
+      "state": "PA", 
+      "thomas_id": "02085", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Warren, Elizabeth", 
       "sponsored_at": "2014-06-25", 
       "state": "MA", 
@@ -401,5 +410,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:28:43-05:00"
+  "updated_at": "2014-12-06T07:29:53-05:00"
 }

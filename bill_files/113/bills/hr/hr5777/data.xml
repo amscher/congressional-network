@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="5777" updated="2014-12-06T07:11:10-05:00">
+  <state datetime="2014-12-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-01"/>
+  </status>
+  <introduced datetime="2014-12-01"/>
+  <titles>
+    <title type="short" as="introduced">Cryptocurrency Protocol Protection and Moratorium Act</title>
+    <title type="short" as="introduced">CryptPMA</title>
+    <title type="official" as="introduced">To protect cryptocurrencies.</title>
+  </titles>
+  <sponsor id="410396"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-01" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-12-01">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-12-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computers and information technology"/>
+    <term name="Currency"/>
+    <term name="State and local government operations"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+</bill>

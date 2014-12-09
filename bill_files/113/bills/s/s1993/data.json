@@ -52,6 +52,11 @@
       "bill_id": "hr5046-113", 
       "reason": "identical", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5708-113", 
+      "reason": "identical", 
+      "type": "bill"
     }
   ], 
   "short_title": "Veterans Care Financial Protection Act of 2014", 
@@ -92,5 +97,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:34:57-05:00"
+  "updated_at": "2014-12-06T07:36:16-05:00"
 }

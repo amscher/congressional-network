@@ -78,7 +78,11 @@
     "Texas"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-26", 
+    "text": "Red River Private Property Protection Act - Directs the Bureau of Land Management (BLM) to relinquish and transfer, by quitclaim deed, all interest of the United States in and to the lands along the approximately 539-mile stretch of the Red River between Texas and Oklahoma to any claimant who demonstrates that official county or state records indicate that such claimant holds all interest to those lands.\n\nRequires publication in the Federal Register and on official and appropriate websites of a process for receiving submissions of such documents.\n\nInstructs BLM to ensure that no parcels of Red River lands are treated as federal land for the purpose of any resource management plan until the Secretary of the Interior has ensured that such parcels are not subject to transfer by this Act."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -93,5 +97,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:33-05:00"
+  "updated_at": "2014-12-06T07:40:52-05:00"
 }

@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2979" updated="2014-12-06T07:44:37-05:00">
+  <state datetime="2014-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend eligibility for hospital care, medical services, and nursing home and domiciliary care for certain veterans who served in a theater of combat operations.</title>
+  </titles>
+  <sponsor id="412602"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2014-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

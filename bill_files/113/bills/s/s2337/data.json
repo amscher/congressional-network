@@ -62,6 +62,15 @@
     }, 
     {
       "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Feinstein, Dianne", 
       "sponsored_at": "2014-05-14", 
       "state": "CA", 
@@ -173,5 +182,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:50-05:00"
+  "updated_at": "2014-12-06T07:39:09-05:00"
 }

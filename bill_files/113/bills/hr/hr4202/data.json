@@ -98,7 +98,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -150,5 +160,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:49-05:00"
+  "updated_at": "2014-12-06T06:57:56-05:00"
 }

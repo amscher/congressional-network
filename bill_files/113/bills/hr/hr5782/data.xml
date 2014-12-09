@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="5782" updated="2014-12-06T07:11:12-05:00">
+  <state datetime="2014-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-02"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="short" as="introduced">Ukraine Freedom Support Act of 2014</title>
+    <title type="official" as="introduced">To impose sanctions with respect to the Russian Federation, to provide additional assistance to Ukraine, and for other purposes.</title>
+  </titles>
+  <sponsor id="400211"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2014-12-02"/>
+    <cosponsor id="400122" joined="2014-12-02"/>
+    <cosponsor id="400646" joined="2014-12-03"/>
+    <cosponsor id="400142" joined="2014-12-02"/>
+    <cosponsor id="400147" joined="2014-12-02"/>
+    <cosponsor id="412434" joined="2014-12-04"/>
+    <cosponsor id="400641" joined="2014-12-04"/>
+    <cosponsor id="412566" joined="2014-12-04"/>
+    <cosponsor id="412435" joined="2014-12-02"/>
+    <cosponsor id="400238" joined="2014-12-02"/>
+    <cosponsor id="400283" joined="2014-12-02"/>
+    <cosponsor id="400308" joined="2014-12-04"/>
+    <cosponsor id="400309" joined="2014-12-02"/>
+    <cosponsor id="412331" joined="2014-12-02"/>
+    <cosponsor id="412462" joined="2014-12-04"/>
+    <cosponsor id="412461" joined="2014-12-04"/>
+    <cosponsor id="410396" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-02" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2828"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

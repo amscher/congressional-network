@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5058" updated="2014-11-08T07:05:04-05:00">
+<bill session="113" type="h" number="5058" updated="2014-12-06T07:05:09-05:00">
   <state datetime="2014-07-10">REFERRED</state>
   <status>
     <introduced datetime="2014-07-10"/>
@@ -40,4 +40,6 @@
     <term name="Wildlife conservation and habitat protection"/>
   </subjects>
   <amendments/>
+  <summary>7/10/2014--Introduced.
+Wild Horse Oversight Act - Amends the Wild Free-Roaming Horses and Burros Act to direct the Department of the Interior and the Department of Agriculture (USDA), at the request of a state or an Indian tribe, to allow the state or tribe to assume all management and protection functions under the Act with regard to wild free-roaming horses and burros on land within the boundaries of the state or tribe.</summary>
 </bill>

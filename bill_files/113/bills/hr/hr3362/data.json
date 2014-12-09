@@ -138,6 +138,12 @@
     }, 
     {
       "acted_at": "2014-01-16T12:01:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-16T12:01:00-05:00", 
       "how": "roll", 
       "references": [], 
       "result": "pass", 
@@ -148,12 +154,6 @@
       "type": "vote", 
       "vote_type": "vote", 
       "where": "h"
-    }, 
-    {
-      "acted_at": "2014-01-16T12:01:00-05:00", 
-      "references": [], 
-      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
-      "type": "action"
     }, 
     {
       "acted_at": "2014-01-27", 
@@ -375,5 +375,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:50:43-05:00"
+  "updated_at": "2014-12-06T06:50:50-05:00"
 }

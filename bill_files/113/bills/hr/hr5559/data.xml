@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5559" updated="2014-11-08T07:09:22-05:00">
+<bill session="113" type="h" number="5559" updated="2014-12-06T07:09:20-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -10,7 +10,10 @@
   </titles>
   <sponsor id="400033"/>
   <cosponsors>
+    <cosponsor id="412272" joined="2014-11-13"/>
     <cosponsor id="400093" joined="2014-09-18"/>
+    <cosponsor id="400124" joined="2014-11-13"/>
+    <cosponsor id="412511" joined="2014-11-14"/>
     <cosponsor id="400218" joined="2014-09-18"/>
     <cosponsor id="400230" joined="2014-09-18"/>
     <cosponsor id="400233" joined="2014-09-18"/>
@@ -19,6 +22,7 @@
     <cosponsor id="400240" joined="2014-09-18"/>
     <cosponsor id="412209" joined="2014-09-18"/>
     <cosponsor id="400262" joined="2014-09-18"/>
+    <cosponsor id="400263" joined="2014-11-13"/>
     <cosponsor id="400283" joined="2014-09-18"/>
     <cosponsor id="400291" joined="2014-09-18"/>
     <cosponsor id="400309" joined="2014-09-18"/>
@@ -26,7 +30,9 @@
     <cosponsor id="400352" joined="2014-09-18"/>
     <cosponsor id="400355" joined="2014-09-18"/>
     <cosponsor id="400647" joined="2014-09-18"/>
+    <cosponsor id="400378" joined="2014-11-13"/>
     <cosponsor id="400403" joined="2014-09-18"/>
+    <cosponsor id="400415" joined="2014-11-13"/>
   </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
@@ -42,11 +48,11 @@
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="1424"/>
-    <bill relation="unknown" session="113" type="h" number="2003"/>
     <bill relation="unknown" session="113" type="h" number="2502"/>
     <bill relation="unknown" session="113" type="h" number="3017"/>
     <bill relation="unknown" session="113" type="h" number="3758"/>
     <bill relation="unknown" session="113" type="h" number="3951"/>
+    <bill relation="unknown" session="113" type="s" number="2003"/>
     <bill relation="unknown" session="113" type="s" number="2260"/>
   </relatedbills>
   <subjects>

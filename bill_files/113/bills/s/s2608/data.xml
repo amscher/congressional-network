@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2608" updated="2014-11-08T07:40:09-05:00">
+<bill session="113" type="s" number="2608" updated="2014-12-06T07:41:28-05:00">
   <state datetime="2014-07-15">REFERRED</state>
   <status>
     <introduced datetime="2014-07-15"/>
@@ -37,4 +37,8 @@
     <term name="State and local government operations"/>
   </subjects>
   <amendments/>
+  <summary>7/15/2014--Introduced.
+Improved National Monument Designation Process Act - Amends the Antiquities Act of 1906 to bar the President from declaring any area of the exclusive economic zone to be a national monument unless:
+
+ the declaration is specifically authorized by an Act of Congress; the President has submitted a proposal to make such declaration to the governor of each state, and of each territory, any part of which is located within 100 nautical miles of the proposed national monument; each governor submits to the President a notice that the legislature of that state or territory has approved the proposal; and the declaration is substantially the same as the proposal. Prohibits the Department of the Interior or the Department of Commerce, with respect to any area of the exclusive economic zone that is designated as a national monument, from implementing any restrictions on the public use of such a national monument until the expiration of a review period providing for public input and congressional approval.</summary>
 </bill>

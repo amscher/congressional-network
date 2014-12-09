@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="402" updated="2014-11-08T07:21:26-05:00">
+<bill session="113" type="s" number="402" updated="2014-12-06T07:22:37-05:00">
   <state datetime="2013-02-28">REFERRED</state>
   <status>
     <introduced datetime="2013-02-28"/>
@@ -26,6 +26,7 @@
   </committees>
   <relatedbills>
     <bill relation="identical" session="113" type="h" number="931"/>
+    <bill relation="unknown" session="113" type="h" number="5701"/>
   </relatedbills>
   <subjects>
     <term name="Native Americans"/>

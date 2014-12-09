@@ -38,6 +38,76 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:28:00-05:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-612.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:28:00-05:00", 
+      "calendar": "Union", 
+      "number": "454", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 454.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-11-12T16:24:00-05:00", 
+      "references": [], 
+      "text": "Mr. LoBiondo moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T16:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7911-7913", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T16:24:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5266.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T16:35:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7911-7912", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-12T16:36:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -48,7 +118,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Transportation and Infrastructure", 
       "committee_id": "HSPW"
@@ -109,6 +180,8 @@
     "active_at": "2014-09-17", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-12T16:35:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-07-30", 
@@ -131,8 +204,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-17", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-12T16:35:00-05:00", 
   "subjects": [
     "Aquatic ecology", 
     "Environmental Protection Agency (EPA)", 
@@ -148,7 +221,11 @@
     "Wildlife conservation and habitat protection"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-30", 
+    "text": "Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to reauthorize and revise the National Estuary Program for FY2014-FY2018.\n\nRequires the Environmental Protection Agency (EPA) to make competitive awards to address urgent and challenging issues that threaten the economic and ecological well-being of coastal areas, including:\n\n extensive seagrass habitat losses, recurring harmful algae blooms, unusual marine mammal mortalities, invasive exotic species, jellyfish proliferation limiting community access to water during peak tourism seasons, flooding which may be related to sea level rise or wetland degradation or loss, or low dissolved oxygen conditions in estuarine waters. Requires the EPA to give priority to national estuary programs that are not part of the Geographic Programs as described in the Consolidated Appropriations Act, 2014."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -157,5 +234,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:54-05:00"
+  "updated_at": "2014-12-06T07:06:53-05:00"
 }

@@ -36,6 +36,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2014-12-04", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Moran, James P.", 
       "sponsored_at": "2014-09-18", 
@@ -112,5 +121,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:11:26-05:00"
+  "updated_at": "2014-12-06T07:12:25-05:00"
 }

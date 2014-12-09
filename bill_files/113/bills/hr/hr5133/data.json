@@ -79,6 +79,15 @@
       "thomas_id": "01843", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -134,5 +143,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:46-05:00"
+  "updated_at": "2014-12-06T07:05:47-05:00"
 }

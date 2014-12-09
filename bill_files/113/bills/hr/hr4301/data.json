@@ -172,6 +172,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Richmond, Cedric L.", 
       "sponsored_at": "2014-07-17", 
@@ -262,5 +271,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:39-05:00"
+  "updated_at": "2014-12-06T06:58:45-05:00"
 }

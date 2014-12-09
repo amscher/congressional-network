@@ -197,6 +197,7 @@
   "status": "PASS_OVER:HOUSE", 
   "status_at": "2014-07-14T15:25:00-04:00", 
   "subjects": [
+    "Computers and information technology", 
     "Education", 
     "Education programs funding", 
     "Elementary and secondary education", 
@@ -204,10 +205,15 @@
     "Research administration and funding", 
     "Research and development", 
     "Science and engineering education", 
+    "Student aid and college costs", 
     "Teaching, teachers, curricula"
   ], 
   "subjects_top_term": "Education", 
-  "summary": null, 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-07-14", 
+    "text": "STEM Education Act of 2014 - Requires the Director of the National Science Foundation (NSF) to continue to award competitive, merit-reviewed grants to support: (1) research and development of innovative out-of-school STEM (science, technology, engineering, and mathematics) learning and emerging STEM learning environments; and (2) research that advances the field of informal STEM education.\n\nRequires supported activities to include research and development that improves understanding of learning and engagement in informal environments and design and testing of innovative STEM resources for such environments to improve STEM learning outcomes and increase engagement for elementary and secondary school students and teachers and the public.\n\nAmends the National Science Foundation Authorization Act of 2002 to allow award of NSF Master Teaching Fellowships to mathematics and science teachers who possess a bachelor's degree in their field (currently limited to those with a master's degree).\n\nRequires fellowship grants to be used, in the case of Master Teaching Fellowships for teachers with bachelor's degrees in their field who are working toward a master's degree, to: (1) offer academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers, and (2) offer programs both during and after matriculation to enable fellows to become highly effective mathematics and science teachers and to exchange ideas with others in their fields. Limits fellowship support during such a master's degree program to one year, with a prorated amount in the case of enrollment in a part-time program.\n\nIncludes elementary or secondary school computer science teachers as mathematics and science teachers for purposes of the program of teacher recruiting and training grants known as the Robert Noyce Teacher Scholarship Program."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -228,5 +234,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:51-05:00"
+  "updated_at": "2014-12-06T07:04:56-05:00"
 }

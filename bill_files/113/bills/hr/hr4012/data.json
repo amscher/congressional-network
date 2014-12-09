@@ -39,9 +39,214 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T19:48:00-05:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Science, Space, and Technology. H. Rept. 113-619.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T19:48:00-05:00", 
+      "calendar": "Union", 
+      "number": "460", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 460.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-11-17T19:26:00-05:00", 
+      "bill_ids": [
+        "hres756-113", 
+        "hr1422-113", 
+        "hr4795-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 756 Reported to House. Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. The resolution provides for consideration of H.R. 1422, H.R. 4012, and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T13:09:00-05:00", 
+      "bill_ids": [
+        "hres756-113"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8087-8103", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 756.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T13:09:00-05:00", 
+      "bill_ids": [
+        "hr1422-113", 
+        "hr4795-113"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T13:10:00-05:00", 
+      "bill_ids": [
+        "hres756-113"
+      ], 
+      "references": [], 
+      "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 756 and Rule XVIII.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T13:10:00-05:00", 
+      "references": [], 
+      "text": "The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T13:10:00-05:00", 
+      "references": [], 
+      "text": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4012.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T14:07:00-05:00", 
+      "bill_ids": [
+        "hres756-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 756, the House proceeded with 10 minutes of debate on the Gosar Part B amendment No. 1.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T14:15:00-05:00", 
+      "bill_ids": [
+        "hres756-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 756, the House proceeded with 10 minutes of debate on the Kennedy Part B amendment No. 2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T14:53:00-05:00", 
+      "references": [], 
+      "text": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4012.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T14:54:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8100", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T14:54:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8097", 
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ], 
+      "text": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T14:55:00-05:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8100-8102", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8100-8101", 
+          "type": "text"
+        }
+      ], 
+      "text": "Ms. Johnson, E. B. moved to recommit with instructions to the Committee on Science, Space, and Technology.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T14:56:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the E. B. Johnson (TX) motion to recommit with instructions, pending reservation of a point order. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to exempt any Environmental Protection Agency (EPA) regulation that protects communities in an emergency, including an Ebola or pandemic flu outbreak, the release of toxic chemicals, or a nuclear, biological, or terrorist attack. Subsequently, the reservation of a point of order was removed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8101", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:15:00-05:00", 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by recorded vote: 196 - 230 (Roll no. 527).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:22:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "528", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 237 - 190 (Roll no. 528).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:22:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt1146-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1146"
+    }, 
+    {
+      "amendment_id": "hamdt1147-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1147"
+    }
+  ], 
   "bill_id": "hr4012-113", 
   "bill_type": "hr", 
   "by_request": false, 
@@ -49,7 +254,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Science, Space, and Technology", 
       "committee_id": "HSSY"
@@ -63,10 +269,26 @@
       "committee_id": "HSSY", 
       "subcommittee": "Subcommittee on Environment", 
       "subcommittee_id": "18"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
     }
   ], 
   "congress": "113", 
   "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Aderholt, Robert B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AL", 
+      "thomas_id": "01460", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
     {
       "district": "6", 
       "name": "Barton, Joe", 
@@ -542,6 +764,8 @@
     "active_at": "2014-02-11", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-19T15:22:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-02-06", 
@@ -549,6 +773,16 @@
   "official_title": "To prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.", 
   "popular_title": null, 
   "related_bills": [
+    {
+      "bill_id": "hres756-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres756-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
     {
       "bill_id": "s2613-113", 
       "reason": "identical", 
@@ -564,8 +798,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-06-24", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-19T15:22:00-05:00", 
   "subjects": [
     "Administrative law and regulatory procedures", 
     "Environmental Protection Agency (EPA)", 
@@ -577,13 +811,25 @@
   ], 
   "subjects_top_term": "Environmental protection", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-02-06", 
-    "text": "Secret Science Reform Act of 2014 - Amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to prohibit the Administrator of the Environmental Protection Agency (EPA) from proposing, finalizing, or disseminating a covered action unless all scientific and technical information relied on to support such action is specifically identified and publicly available in a manner sufficient for independent analysis and substantial reproduction of research results.\n\nDefines \"covered action\" as a risk, exposure, or hazard assessment, criteria document, standard, limitation, regulation, regulatory impact analysis, or guidance."
+    "as": "Passed House amended", 
+    "date": "2014-11-19", 
+    "text": "Secret Science Reform Act of 2014 - Amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to prohibit the Environmental Protection Agency (EPA) from proposing, finalizing, or disseminating a covered action unless all scientific and technical information relied on to support such action is specifically identified and publicly available online in a manner sufficient for independent analysis and substantial reproduction of research results. Includes as a covered action a risk, exposure, or hazard assessment, criteria document, standard, limitation, regulation, regulatory impact analysis, or guidance."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Secret Science Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Secret Science Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "Secret Science Reform Act of 2014", 
       "type": "short"
@@ -595,5 +841,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:14-05:00"
+  "updated_at": "2014-12-06T06:56:20-05:00"
 }

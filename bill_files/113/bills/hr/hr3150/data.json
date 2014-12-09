@@ -194,6 +194,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "18", 
       "name": "Maloney, Sean Patrick", 
       "sponsored_at": "2014-09-17", 
@@ -334,5 +343,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:57-05:00"
+  "updated_at": "2014-12-06T06:49:04-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5623" updated="2014-11-08T07:09:54-05:00">
+<bill session="113" type="h" number="5623" updated="2014-12-06T07:09:53-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -9,7 +9,10 @@
     <title type="official" as="introduced">To establish a National Parents Corps Program, and for other purposes.</title>
   </titles>
   <sponsor id="400240"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2014-11-12"/>
+    <cosponsor id="400333" joined="2014-11-12"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
       <text>Referred to the House Committee on Education and the Workforce.</text>
@@ -18,9 +21,13 @@
       <text>Sponsor introductory remarks on measure.</text>
       <reference ref="CR E1473"/>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
   </committees>
   <relatedbills/>
   <subjects>

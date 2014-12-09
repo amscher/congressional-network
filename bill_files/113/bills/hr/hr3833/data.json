@@ -144,11 +144,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "Heck, Denny", 
       "sponsored_at": "2014-05-20", 
       "state": "WA", 
       "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "NV", 
+      "thomas_id": "02040", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -185,6 +203,15 @@
       "sponsored_at": "2014-07-16", 
       "state": "OH", 
       "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "00616", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -306,6 +333,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Young, Don", 
       "sponsored_at": "2014-04-02", 
@@ -359,5 +395,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:54:44-05:00"
+  "updated_at": "2014-12-06T06:54:49-05:00"
 }

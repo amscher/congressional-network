@@ -115,6 +115,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Lance, Leonard", 
       "sponsored_at": "2014-07-29", 
@@ -169,6 +178,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "23", 
       "name": "Reed, Tom", 
       "sponsored_at": "2014-04-29", 
@@ -183,6 +201,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "IL", 
       "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "ID", 
+      "thomas_id": "01590", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -289,5 +316,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:34-05:00"
+  "updated_at": "2014-12-06T06:57:41-05:00"
 }

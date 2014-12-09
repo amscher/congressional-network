@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5127" updated="2014-11-08T07:05:43-05:00">
+<bill session="113" type="h" number="5127" updated="2014-12-06T07:05:44-05:00">
   <state datetime="2014-07-16">REFERRED</state>
   <status>
     <introduced datetime="2014-07-16"/>
@@ -16,9 +16,13 @@
     <action datetime="2014-07-16" state="REFERRED">
       <text>Referred to the House Committee on Education and the Workforce.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="756"/>

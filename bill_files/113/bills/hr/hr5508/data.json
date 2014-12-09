@@ -36,6 +36,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "53", 
       "name": "Davis, Susan A.", 
       "sponsored_at": "2014-09-17", 
@@ -133,5 +142,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:56-05:00"
+  "updated_at": "2014-12-06T07:08:55-05:00"
 }

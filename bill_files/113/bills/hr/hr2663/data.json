@@ -783,6 +783,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Terry, Lee", 
       "sponsored_at": "2014-06-09", 
@@ -934,5 +943,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:44:53-05:00"
+  "updated_at": "2014-12-06T06:44:59-05:00"
 }

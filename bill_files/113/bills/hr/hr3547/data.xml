@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3547" updated="2014-11-08T06:52:20-05:00">
+<bill session="113" type="h" number="3547" updated="2014-12-06T06:52:26-05:00">
   <state datetime="2014-01-17">ENACTED:SIGNED</state>
   <status>
     <unknown datetime="2014-01-17"/>
@@ -235,6 +235,7 @@
     <term name="Central African Republic"/>
     <term name="Central Intelligence Agency (CIA)"/>
     <term name="Chad"/>
+    <term name="Charitable contributions"/>
     <term name="Chemical and biological weapons"/>
     <term name="Child health"/>
     <term name="Child safety and welfare"/>

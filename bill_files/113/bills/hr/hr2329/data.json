@@ -68,6 +68,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Benishek, Dan", 
       "sponsored_at": "2013-06-12", 
@@ -315,5 +324,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:42:05-05:00"
+  "updated_at": "2014-12-06T06:42:10-05:00"
 }

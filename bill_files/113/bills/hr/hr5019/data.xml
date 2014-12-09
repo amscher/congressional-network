@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5019" updated="2014-11-08T07:04:45-05:00">
+<bill session="113" type="h" number="5019" updated="2014-12-06T07:04:50-05:00">
   <state datetime="2014-09-08T19:04:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-09-08T19:04:00-04:00"/>
@@ -63,20 +63,29 @@
       <text>Considered as unfinished business.</text>
       <reference ref="CR H7275-7276" label="consideration"/>
     </action>
+    <action datetime="2014-09-08T19:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
     <vote how="roll" type="vote" roll="482" datetime="2014-09-08T19:04:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 482).</text>
       <reference ref="CR H7253" label="text"/>
     </vote>
-    <action datetime="2014-09-08T19:04:00-04:00">
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-    </action>
     <action datetime="2014-09-09">
       <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </action>
+    <calendar datetime="2014-11-12">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-11-13">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2014-11-13" calendar="Senate Legislative" under="General Orders" number="594">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 594.</text>
+    </calendar>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="1512"/>

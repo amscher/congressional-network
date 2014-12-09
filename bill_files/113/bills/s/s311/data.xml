@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="311" updated="2014-11-08T07:20:40-05:00">
+<bill session="113" type="s" number="311" updated="2014-12-06T07:21:52-05:00">
   <state datetime="2014-07-09">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2014-07-09"/>
@@ -83,10 +83,10 @@
   <amendments>
     <amendment number="s3528"/>
   </amendments>
-  <summary>4/22/2013--Reported to Senate amended.
+  <summary>7/9/2014--Passed Senate amended.
 Lower Mississippi River Area Study Act - Directs the Secretary of the Interior, through the National Park Service (NPS), to complete a special resource study that evaluates the national significance of a specified study area located in Plaquemines Parish in Louisiana, and the feasibility of designating such area as a unit of the National Park System.
 
 Requires such study to: (1) include cost estimates for the potential acquisition of the study area, and (2) identify alternatives for the management and protection of such area.
 
-Allows the Secretary to accept donated funds to carry out this Act.</summary>
+Bars the study from being conducted until funding is received either by: (1) the Secretary entering into an agreement with a state, unit of local government, or other entity to conduct the study using non-federal funds; or (2) the Secretary receiving a donation sufficient to pay the cost of conducting the study.</summary>
 </bill>

@@ -271,6 +271,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Wenstrup, Brad R.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "OH", 
+      "thomas_id": "02152", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Wittman, Robert J.", 
       "sponsored_at": "2013-05-23", 
@@ -336,5 +345,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:21-05:00"
+  "updated_at": "2014-12-06T06:37:23-05:00"
 }

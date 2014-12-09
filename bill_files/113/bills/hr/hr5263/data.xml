@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5263" updated="2014-11-08T07:06:52-05:00">
+<bill session="113" type="h" number="5263" updated="2014-12-06T07:06:52-05:00">
   <state datetime="2014-07-30">REFERRED</state>
   <status>
     <introduced datetime="2014-07-30"/>
@@ -16,7 +16,9 @@
     <cosponsor id="400618" joined="2014-07-30"/>
     <cosponsor id="400093" joined="2014-09-18"/>
     <cosponsor id="400646" joined="2014-08-01"/>
+    <cosponsor id="400630" joined="2014-12-04"/>
     <cosponsor id="400295" joined="2014-09-17"/>
+    <cosponsor id="400333" joined="2014-12-04"/>
     <cosponsor id="400361" joined="2014-09-17"/>
     <cosponsor id="412461" joined="2014-09-08"/>
   </cosponsors>
@@ -42,6 +44,9 @@
     <action datetime="2014-08-01">
       <text>Referred to the Subcommittee on Health.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
@@ -49,6 +54,7 @@
     <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
     <committee code="HSHA" name="House Administration" activity="Referral"/>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
     <committee code="HSBA" name="House Financial Services" activity="Referral"/>
   </committees>
   <relatedbills/>

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4309" updated="2014-11-08T06:58:43-05:00">
+<bill session="113" type="h" number="4309" updated="2014-12-08T18:48:41-05:00">
   <state datetime="2014-04-09">REPORTED</state>
   <status>
     <unknown datetime="2014-04-09"/>
@@ -34,6 +34,15 @@
     <action datetime="2014-07-01">
       <text>Referred to the Subcommittee on Readiness.</text>
     </action>
+    <action datetime="2014-12-08T13:00:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-647, Part I.</text>
+    </action>
+    <action datetime="2014-12-08T13:00:00-05:00">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <calendar datetime="2014-12-08T13:00:00-05:00" calendar="Union" number="485">
+      <text>Placed on the Union Calendar, Calendar No. 485.</text>
+    </calendar>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>

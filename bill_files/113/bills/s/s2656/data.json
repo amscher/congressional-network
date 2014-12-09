@@ -61,7 +61,11 @@
     "Metals"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-24", 
+    "text": "Protecting America's Families from Toxic Chemicals Act of 2014 - Requires the Environmental Protection Agency (EPA) to establish criteria to identify chemical substances: (1) that are persistent, bioaccumulative, and toxic, or are transformed through metabolism or environmental degradation into chemical substances that have those characteristics; and (2) for which there is evidence of exposure or likely exposure to humans or the environment.\n\nDirects the EPA to publish a list of the chemical substances that meet those criteria within 180 days of the rule being finalized and update the list at least every three years.\n\nLists chemical substances that are considered to have met the criteria on the basis of existing evidence, including asbestos, lead, and mercury.\n\nRequires the EPA to: (1) identify uses of each substance that are allowed until they are phased out; and (2) phase out the manufacture, processing, and distribution of listed chemicals within five years.\n\nAuthorizes the EPA to allow the manufacturing, processing, and distribution of a listed chemical substance if it determines that the use is a critical and essential use and there is no discernible exposure to humans or the environment. Limits the exemption to a renewable or revisable term of five years.\n\nRequires the EPA to determine whether each new chemical substance subject to notice and testing requirements under the Toxic Substances Control Act meets the criteria for a listing as persistent, bioaccumulative, and toxic during the period of notice review."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -76,5 +80,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:33-05:00"
+  "updated_at": "2014-12-06T07:41:52-05:00"
 }

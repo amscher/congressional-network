@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2909" updated="2014-11-08T07:42:40-05:00">
+<bill session="113" type="s" number="2909" updated="2014-12-06T07:44:02-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -13,6 +13,8 @@
     <cosponsor id="400040" joined="2014-09-18"/>
     <cosponsor id="400064" joined="2014-09-18"/>
     <cosponsor id="412390" joined="2014-09-18"/>
+    <cosponsor id="300038" joined="2014-11-13"/>
+    <cosponsor id="412281" joined="2014-12-04"/>
     <cosponsor id="400194" joined="2014-09-18"/>
     <cosponsor id="412320" joined="2014-09-18"/>
   </cosponsors>
@@ -47,7 +49,7 @@ Global Food Security Act of 2014 - States the policy objective of promoting glob
 
 Requires the Administrator of the United States Agency for International Development (USAID) to coordinate the development and implementation of a Feed the Future Strategy to accomplish these policy objectives.
 
-Requires the Administrator to coordinate the efforts of federal departments and agencies in the implementation of the strategy by: (1) establishing policy coherence, monitoring, and evaluation systems across all relevant U.S. agencies; (2) establishing linkages with other initiatives and strategies at USAID and other departments and agencies; (3) establishing platforms for regular consultation and collaboration with key stakeholders; (4) leveraging the expertise of the U.S. Department of Agriculture (USDA); and (5) establishing and leading regular public consultations in partner countries.
+Requires the Administrator to coordinate the efforts of federal departments and agencies in the implementation of the strategy by: (1) establishing policy coherence, monitoring, and evaluation systems across all relevant U.S. agencies; (2) establishing linkages with other initiatives and strategies at USAID and other departments and agencies; (3) establishing platforms for regular consultation and collaboration with key stakeholders; (4) leveraging the expertise of the Department of Agriculture (USDA); and (5) establishing and leading regular public consultations in partner countries.
 
 Requires the Administrator to submit reports to Congress describing the status of the implementation of the Feed the Future Strategy.</summary>
 </bill>

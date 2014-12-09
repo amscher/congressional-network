@@ -100,6 +100,15 @@
     }, 
     {
       "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Franken, Al", 
       "sponsored_at": "2014-06-05", 
       "state": "MN", 
@@ -122,6 +131,15 @@
       "sponsored_at": "2014-05-13", 
       "state": "IA", 
       "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-11-12", 
+      "state": "ND", 
+      "thomas_id": "02174", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -268,6 +286,15 @@
       "thomas_id": "02182", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-11-12", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -343,5 +370,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:35-05:00"
+  "updated_at": "2014-12-06T07:38:54-05:00"
 }

@@ -94,6 +94,15 @@
     }, 
     {
       "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Cochran, Thad", 
       "sponsored_at": "2013-12-12", 
       "state": "MS", 
@@ -202,6 +211,15 @@
     }, 
     {
       "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Shaheen, Jeanne", 
       "sponsored_at": "2013-04-17", 
       "state": "NH", 
@@ -294,6 +312,7 @@
   "status": "REFERRED", 
   "status_at": "2013-03-12", 
   "subjects": [
+    "Charitable contributions", 
     "Income tax deductions", 
     "Land transfers", 
     "Land use and conservation", 
@@ -321,5 +340,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:22:30-05:00"
+  "updated_at": "2014-12-06T07:23:39-05:00"
 }

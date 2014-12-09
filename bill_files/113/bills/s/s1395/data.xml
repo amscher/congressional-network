@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1395" updated="2014-11-08T07:29:57-05:00">
+<bill session="113" type="s" number="1395" updated="2014-12-06T07:31:12-05:00">
   <state datetime="2013-07-30">REFERRED</state>
   <status>
     <introduced datetime="2013-07-30"/>
@@ -14,6 +14,7 @@
     <cosponsor id="412246" joined="2013-07-30"/>
     <cosponsor id="300023" joined="2013-07-30"/>
     <cosponsor id="400284" joined="2013-07-30"/>
+    <cosponsor id="300093" joined="2014-11-12"/>
   </cosponsors>
   <actions>
     <action datetime="2013-07-30">
@@ -33,6 +34,7 @@
   </relatedbills>
   <subjects>
     <term name="Taxation"/>
+    <term name="Charitable contributions"/>
     <term name="Food assistance and relief"/>
     <term name="Income tax deductions"/>
     <term name="Social work, volunteer service, charitable organizations"/>

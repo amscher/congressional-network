@@ -197,6 +197,16 @@
       "bill_id": "hres409-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hres762-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres580-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": null, 
@@ -229,5 +239,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:15:17-05:00"
+  "updated_at": "2014-12-06T07:16:19-05:00"
 }

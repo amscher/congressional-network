@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5572" updated="2014-11-08T07:09:28-05:00">
+<bill session="113" type="h" number="5572" updated="2014-12-06T07:09:27-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -30,15 +30,20 @@
     <action datetime="2014-09-29">
       <text>Referred to the Subcommittee on Economic Opportunity.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
     <committee code="HSAS" name="House Armed Services" activity="Referral"/>
     <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
     <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="2898"/>
+    <bill relation="unknown" session="113" type="s" number="2954"/>
   </relatedbills>
   <subjects>
     <term name="Education"/>

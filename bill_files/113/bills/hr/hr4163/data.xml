@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4163" updated="2014-11-08T06:57:30-05:00">
+<bill session="113" type="h" number="4163" updated="2014-12-06T06:57:36-05:00">
   <state datetime="2014-03-06">REFERRED</state>
   <status>
     <introduced datetime="2014-03-06"/>
@@ -27,6 +27,7 @@
     <cosponsor id="412584" joined="2014-03-06"/>
     <cosponsor id="412282" joined="2014-03-06"/>
     <cosponsor id="400184" joined="2014-03-12"/>
+    <cosponsor id="412546" joined="2014-11-20"/>
     <cosponsor id="412583" joined="2014-03-06"/>
     <cosponsor id="400218" joined="2014-03-06"/>
     <cosponsor id="412557" joined="2014-03-06"/>
@@ -44,6 +45,7 @@
     <cosponsor id="400291" joined="2014-03-06"/>
     <cosponsor id="412383" joined="2014-03-06"/>
     <cosponsor id="400309" joined="2014-03-06"/>
+    <cosponsor id="412192" joined="2014-11-20"/>
     <cosponsor id="412308" joined="2014-03-06"/>
     <cosponsor id="412331" joined="2014-03-06"/>
     <cosponsor id="400333" joined="2014-03-06"/>
@@ -64,6 +66,7 @@
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="1357"/>
+    <bill relation="unknown" session="113" type="s" number="2964"/>
   </relatedbills>
   <subjects>
     <term name="Foreign trade and international finance"/>

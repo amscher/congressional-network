@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5352" updated="2014-11-08T07:07:37-05:00">
+<bill session="113" type="h" number="5352" updated="2014-12-06T07:07:37-05:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
@@ -89,11 +89,23 @@
     <action datetime="2014-08-01">
       <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
     <committee code="HSHA" name="House Administration" activity="Referral"/>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
     <committee code="HSBA" name="House Financial Services" activity="Referral"/>
     <committee code="HSAG" name="House Agriculture" activity="Referral"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>

@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on the Judiciary.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +29,15 @@
       ], 
       "committee": "House Judiciary", 
       "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
     }
   ], 
   "congress": "113", 
@@ -77,5 +93,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:17-05:00"
+  "updated_at": "2014-12-06T07:10:16-05:00"
 }

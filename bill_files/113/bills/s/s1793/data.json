@@ -20,6 +20,25 @@
       "status": "REPORTED", 
       "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-269.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-12", 
+      "calendar": "Senate Legislative", 
+      "number": "583", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 583.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -30,7 +49,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "Senate Commerce, Science, and Transportation", 
       "committee_id": "SSCM"
@@ -95,7 +115,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-12", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -137,13 +158,19 @@
   ], 
   "subjects_top_term": "Commerce", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-12-10", 
-    "text": "Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2013 - Directs the Consumer Product Safety Commission (CPSC) to establish a grant program to provide assistance to states and local governments that require compliant carbon monoxide alarms to be installed in dwelling units.\n\nDefines \"compliant carbon monoxide alarm\" as an alarm that complies with the American National Standard for Single and Multiple Station Carbon Monoxide Alarms as well as the American National Standard for Gas and Vapor Detectors and Sensors.\n\nPermits states receiving grants to use such funds to: (1) purchase and install such alarms in dwelling units of low-income families or elderly persons, childcare facilities, public schools, senior centers, or student dwelling units owned by public universities; (2) train state or local fire code enforcement officials regarding compliance and installation; and (3) educate the public about the risk of carbon monoxide poisoning."
+    "as": "Reported to Senate amended", 
+    "date": "2014-11-12", 
+    "text": "Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2013 - Directs the Consumer Product Safety Commission (CPSC) to establish a grant program to provide assistance to states that require compliant carbon monoxide alarms to be installed in dwelling units.\n\nDefines \"compliant carbon monoxide alarm\" as an alarm that complies with the American National Standard for Single and Multiple Station Carbon Monoxide Alarms as well as the American National Standard for Gas and Vapor Detectors and Sensors.\n\nDirects the CPSC, in selecting grant recipients, to give favorable consideration to states that: (1) require compliant alarms in specified facilities with fuel-burning appliances or attached garages, including educational facilities, childcare facilities, health care facilities, adult dependent care facilities, government buildings, restaurants, theaters, lodging establishments, or dwelling units; and (2) have strategies to protect vulnerable populations such as children, the elderly, or low-income households.\n\nPermits states receiving grants to use such funds to: (1) purchase and install such alarms in dwelling units of low-income families or elderly persons, childcare facilities, public schools, senior centers, or student dwelling units owned by public universities; (2) train state or local fire code enforcement officials regarding compliance and installation; and (3) educate the public about the risk of carbon monoxide poisoning.\n\nAuthorizes appropriations for FY2015-FY2019 to carry out this Act.\n\nRequires the CPSC to submit reports to Congress regarding the implementation of the grant program."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
       "is_for_portion": false, 
       "title": "Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2013", 
       "type": "short"
@@ -155,5 +182,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:33:16-05:00"
+  "updated_at": "2014-12-06T07:34:36-05:00"
 }

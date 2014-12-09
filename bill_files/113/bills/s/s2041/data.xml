@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2041" updated="2014-11-08T07:35:21-05:00">
+<bill session="113" type="s" number="2041" updated="2014-12-06T07:36:40-05:00">
   <state datetime="2014-06-11">REPORTED</state>
   <status>
     <unknown datetime="2014-06-11"/>
@@ -29,6 +29,9 @@
     <calendar datetime="2014-08-26" calendar="Senate Legislative" under="General Orders" number="539">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 539.</text>
     </calendar>
+    <action datetime="2014-11-13">
+      <text>By Senator Tester from Committee on Indian Affairs filed written report. Report No. 113-271.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting"/>

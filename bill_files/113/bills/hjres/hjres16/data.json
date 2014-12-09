@@ -44,6 +44,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "sponsored_at": "2014-11-12", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Woodall, Rob", 
       "sponsored_at": "2013-01-04", 
@@ -110,5 +119,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:31-05:00"
+  "updated_at": "2014-12-06T07:11:30-05:00"
 }

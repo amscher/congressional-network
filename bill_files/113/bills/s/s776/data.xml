@@ -1,7 +1,7 @@
-<bill session="113" type="s" number="776" updated="2014-11-08T07:24:39-05:00">
-  <state datetime="2013-04-22">REFERRED</state>
+<bill session="113" type="s" number="776" updated="2014-12-06T07:25:49-05:00">
+  <state datetime="2014-11-13">REPORTED</state>
   <status>
-    <introduced datetime="2013-04-22"/>
+    <unknown datetime="2014-11-13"/>
   </status>
   <introduced datetime="2013-04-22"/>
   <titles>
@@ -19,9 +19,12 @@
     <action datetime="2013-11-20">
       <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-342.</text>
     </action>
+    <calendar datetime="2014-11-13" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
     <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
   </committees>
   <relatedbills/>

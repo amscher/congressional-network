@@ -93,6 +93,11 @@
       "bill_id": "hr4163-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2964-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Trade Adjustment Assistance Extension Act of 2013", 
@@ -133,5 +138,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:29:38-05:00"
+  "updated_at": "2014-12-06T07:30:52-05:00"
 }

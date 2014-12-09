@@ -92,6 +92,15 @@
     }, 
     {
       "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-11-13", 
+      "state": "ND", 
+      "thomas_id": "02174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Hoeven, John", 
       "sponsored_at": "2014-06-26", 
       "state": "ND", 
@@ -266,5 +275,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:24:18-05:00"
+  "updated_at": "2014-12-06T07:25:28-05:00"
 }

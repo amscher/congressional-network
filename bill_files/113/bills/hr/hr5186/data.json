@@ -27,6 +27,13 @@
       "references": [], 
       "text": "Referred to House Education and the Workforce", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -47,6 +54,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }
   ], 
   "congress": "113", 
@@ -88,11 +104,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Green, Al", 
       "sponsored_at": "2014-07-24", 
       "state": "TX", 
       "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "00511", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -120,6 +163,15 @@
       "sponsored_at": "2014-09-19", 
       "state": "TX", 
       "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "01501", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -160,11 +212,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Shea-Porter, Carol", 
       "sponsored_at": "2014-09-19", 
       "state": "NH", 
       "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "02110", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -236,5 +306,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:14-05:00"
+  "updated_at": "2014-12-06T07:06:13-05:00"
 }

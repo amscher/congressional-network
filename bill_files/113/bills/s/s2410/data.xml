@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2410" updated="2014-11-08T07:38:30-05:00">
+<bill session="113" type="s" number="2410" updated="2014-12-06T07:39:49-05:00">
   <state datetime="2014-06-02">REPORTED</state>
   <status>
     <unknown datetime="2014-06-02"/>
@@ -36,6 +36,8 @@
     <bill relation="unknown" session="113" type="h" number="2905"/>
     <bill relation="unknown" session="113" type="h" number="3743"/>
     <bill relation="unknown" session="113" type="h" number="3930"/>
+    <bill relation="unknown" session="113" type="h" number="3979"/>
+    <bill relation="unknown" session="113" type="h" number="4435"/>
     <bill relation="unknown" session="113" type="h" number="4492"/>
     <bill relation="unknown" session="113" type="h" number="4730"/>
     <bill relation="unknown" session="113" type="s" number="1076"/>
@@ -407,6 +409,36 @@
     <amendment number="s3920"/>
     <amendment number="s3921"/>
     <amendment number="s3922"/>
+    <amendment number="s3936"/>
+    <amendment number="s3937"/>
+    <amendment number="s3938"/>
+    <amendment number="s3939"/>
+    <amendment number="s3940"/>
+    <amendment number="s3941"/>
+    <amendment number="s3942"/>
+    <amendment number="s3943"/>
+    <amendment number="s3944"/>
+    <amendment number="s3945"/>
+    <amendment number="s3946"/>
+    <amendment number="s3949"/>
+    <amendment number="s3950"/>
+    <amendment number="s3951"/>
+    <amendment number="s3952"/>
+    <amendment number="s3953"/>
+    <amendment number="s3954"/>
+    <amendment number="s3955"/>
+    <amendment number="s3956"/>
+    <amendment number="s3959"/>
+    <amendment number="s3960"/>
+    <amendment number="s3961"/>
+    <amendment number="s3962"/>
+    <amendment number="s3963"/>
+    <amendment number="s3964"/>
+    <amendment number="s3967"/>
+    <amendment number="s3968"/>
+    <amendment number="s3969"/>
+    <amendment number="s3970"/>
+    <amendment number="s3972"/>
   </amendments>
   <summary>6/2/2014--Introduced.
 Carl Levin National Defense Authorization Act for Fiscal Year 2015 - Authorizes FY2015 appropriations for military activities of the Department of Defense (DOD), military construction, and for national security activities of the Department of Energy (DOE). Authorizes military personnel strengths for FY2015.

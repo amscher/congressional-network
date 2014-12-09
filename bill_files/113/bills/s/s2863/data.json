@@ -28,6 +28,15 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Hatch, Orrin G.", 
       "sponsored_at": "2014-09-18", 
       "state": "UT", 
@@ -105,7 +114,11 @@
     "Vocational and technical education"
   ], 
   "subjects_top_term": "Education", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Transparency in Education Act - Prohibits the Secretary of Education from issuing a final rule or implementing a proposed rule affecting the determination as to whether a postsecondary career education program provides training that leads to gainful employment in a recognized occupation, which is required if it is to participate in a program under title IV (Student Assistance) of the Higher Education Act of 1965 (HEA), until 90 days after:\n\n the Secretary publishes a complete data analysis on the impact of such proposed rule on all postsecondary education programs and students at all categories of institutions of higher education that participate in a program under title IV of the HEA, that analysis is published in a format similar to the Gainful Employment 2012 Informational Rate Calculations published by the Department of Education, and the Comptroller General (GAO) issues a report that reviews such data analysis for accuracy and completeness."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -120,5 +133,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:17-05:00"
+  "updated_at": "2014-12-06T07:43:37-05:00"
 }

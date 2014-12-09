@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4946" updated="2014-11-08T07:04:08-05:00">
+<bill session="113" type="h" number="4946" updated="2014-12-06T07:04:13-05:00">
   <state datetime="2014-06-24">REFERRED</state>
   <status>
     <introduced datetime="2014-06-24"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To promote the tracing of firearms used in crimes, and for other purposes.</title>
   </titles>
   <sponsor id="412595"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2014-11-14"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-06-24" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>

@@ -25,7 +25,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -83,5 +93,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:32:17-05:00"
+  "updated_at": "2014-12-06T07:33:32-05:00"
 }

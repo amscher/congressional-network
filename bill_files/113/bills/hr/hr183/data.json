@@ -179,6 +179,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Green, Al", 
       "sponsored_at": "2013-12-04", 
@@ -537,5 +546,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:24:01-05:00"
+  "updated_at": "2014-12-06T06:24:08-05:00"
 }

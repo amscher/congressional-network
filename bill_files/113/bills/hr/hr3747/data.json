@@ -198,6 +198,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-11-17", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Honda, Michael M.", 
       "sponsored_at": "2014-02-25", 
@@ -600,5 +609,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:54:00-05:00"
+  "updated_at": "2014-12-06T06:54:06-05:00"
 }

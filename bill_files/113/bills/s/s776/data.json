@@ -20,6 +20,17 @@
       "references": [], 
       "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-342.", 
       "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -30,6 +41,7 @@
     {
       "activity": [
         "referral", 
+        "markup", 
         "in committee"
       ], 
       "committee": "Senate Energy and Natural Resources", 
@@ -79,8 +91,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2013-04-22", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-13", 
   "subjects": [
     "Forests, forestry, trees", 
     "Land transfers", 
@@ -110,5 +122,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:24:39-05:00"
+  "updated_at": "2014-12-06T07:25:49-05:00"
 }

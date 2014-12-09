@@ -61,6 +61,15 @@
       "thomas_id": "01654", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -123,5 +132,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:08-05:00"
+  "updated_at": "2014-12-06T06:22:03-05:00"
 }

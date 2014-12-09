@@ -116,7 +116,11 @@
     "Washington State"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-09", 
+    "text": "Maritime Washington National Heritage Area Act - Establishes the Maritime Washington National Heritage Area in Whatcom, Skagit, Snohomish, San Juan, Island, King, Pierce, Thurston, Mason, Kitsap, Jefferson, Clallam, and Grays Harbor Counties in the state of Washington.\n\nDesignates the Pacific Northwest Maritime Heritage Advisory Council operating under the Washington Trust for Historic Preservation as the local coordinating entity for the Heritage Area.\n\nRequires the Council to submit a management plan for the Heritage Area."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -131,5 +135,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:54-05:00"
+  "updated_at": "2014-12-06T07:04:59-05:00"
 }

@@ -112,6 +112,15 @@
     }, 
     {
       "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Collins, Susan M.", 
       "sponsored_at": "2014-09-10", 
       "state": "ME", 
@@ -362,5 +371,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:32:25-05:00"
+  "updated_at": "2014-12-06T07:33:40-05:00"
 }

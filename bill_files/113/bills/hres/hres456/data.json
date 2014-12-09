@@ -63,6 +63,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Blumenauer, Earl", 
       "sponsored_at": "2014-05-01", 
@@ -252,6 +261,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Edwards, Donna F.", 
       "sponsored_at": "2014-09-18", 
@@ -320,6 +338,24 @@
       "sponsored_at": "2014-02-11", 
       "state": "AR", 
       "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "sponsored_at": "2014-11-13", 
+      "state": "KY", 
+      "thomas_id": "01922", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -594,6 +630,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "24", 
       "name": "Marchant, Kenny", 
       "sponsored_at": "2014-01-31", 
@@ -676,6 +721,15 @@
     }, 
     {
       "district": null, 
+      "name": "Noem, Kristi L.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "SD", 
+      "thomas_id": "02060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Norton, Eleanor Holmes", 
       "sponsored_at": "2014-01-27", 
       "state": "DC", 
@@ -698,6 +752,15 @@
       "sponsored_at": "2014-03-05", 
       "state": "TX", 
       "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MS", 
+      "thomas_id": "02035", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -945,6 +1008,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2014-12-04", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Tiberi, Patrick J.", 
       "sponsored_at": "2014-01-27", 
@@ -1069,5 +1141,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:20:02-05:00"
+  "updated_at": "2014-12-06T06:19:59-05:00"
 }

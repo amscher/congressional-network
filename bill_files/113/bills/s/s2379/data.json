@@ -31,6 +31,17 @@
       "references": [], 
       "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.", 
       "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -40,7 +51,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "Senate Energy and Natural Resources", 
       "committee_id": "SSEG"
@@ -113,8 +125,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-05-21", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-13", 
   "subjects": [
     "Alternative and renewable resources", 
     "Aquatic ecology", 
@@ -164,5 +176,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:38:11-05:00"
+  "updated_at": "2014-12-06T07:39:30-05:00"
 }

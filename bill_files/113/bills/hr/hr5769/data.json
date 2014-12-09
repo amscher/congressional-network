@@ -1,0 +1,246 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-01", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-03T12:43:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hunter moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T12:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8289-8305", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T12:43:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5769.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T13:13:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8310-8311", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:18:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8289-8301", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "541", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 541).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:18:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5769-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2014-12-01", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-12-03T12:43:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-03T15:18:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-01", 
+  "number": "5769", 
+  "official_title": "To authorize appropriations for the Coast Guard for fiscal year 2015, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Howard Coble Coast Guard and Maritime Transportation Act of 2014", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Hunter, Duncan D.", 
+    "state": "CA", 
+    "thomas_id": "01909", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-03T15:18:00-05:00", 
+  "subjects": [
+    "Accidents", 
+    "Actions and defenses", 
+    "Administrative law and regulatory procedures", 
+    "Advanced technology and technological innovations", 
+    "Advisory bodies", 
+    "Arctic and polar regions", 
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "Canada", 
+    "Caribbean area", 
+    "Child care and development", 
+    "Coast guard", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Congressional oversight", 
+    "Denmark", 
+    "Department of Defense", 
+    "Department of Homeland Security", 
+    "District of Columbia", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Emergency communications systems", 
+    "Emergency planning and evacuation", 
+    "Europe", 
+    "Executive agency funding and structure", 
+    "Federal Maritime Commission", 
+    "Federal-Indian relations", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Great Lakes", 
+    "Higher education", 
+    "Historical and cultural resources", 
+    "Homeland security", 
+    "Iceland", 
+    "International organizations and cooperation", 
+    "Lakes and rivers", 
+    "Land transfers", 
+    "Legal fees and court costs", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Marine pollution", 
+    "Military education and training", 
+    "Military personnel and dependents", 
+    "National Guard and reserves", 
+    "Navigation, waterways, harbors", 
+    "New York State", 
+    "Norway", 
+    "Oil and gas", 
+    "Public contracts and procurement", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Roads and highways", 
+    "Russia", 
+    "Student aid and college costs", 
+    "Transportation and public works", 
+    "Transportation costs", 
+    "Transportation programs funding", 
+    "Transportation safety and security", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands", 
+    "Washington State"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Howard Coble Coast Guard and Maritime Transportation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize appropriations for the Coast Guard for fiscal year 2015, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:11:06-05:00"
+}

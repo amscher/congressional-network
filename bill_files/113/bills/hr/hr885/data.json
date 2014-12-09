@@ -136,6 +136,16 @@
       "references": [], 
       "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.", 
       "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -165,7 +175,8 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "Senate Energy and Natural Resources", 
       "committee_id": "SSEG"
@@ -291,5 +302,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:29:53-05:00"
+  "updated_at": "2014-12-06T06:30:00-05:00"
 }

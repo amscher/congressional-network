@@ -246,10 +246,20 @@
     "Science, technology, communications"
   ], 
   "subjects_top_term": "Science, technology, communications", 
-  "summary": null, 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-07-14", 
+    "text": "Research and Development Efficiency Act - Requires the Director of Science and Technology Policy (OSTP) to establish a working group under the authority of the National Science and Technology Council that includes the Office of Management and Budget (OMB).\n\nMakes the working group responsible for reviewing federal regulations affecting research and research universities and making recommendations on how to: (1) harmonize, streamline, and eliminate duplicative federal regulations and reporting requirements; and (2) minimize the regulatory burden on U.S. institutions of higher education performing federally funded research while maintaining accountability for federal tax dollars.\n\nInstructs the working group to take into account input and recommendations from specified non-federal stakeholders in ensuring effectiveness, efficiency, and accountability in the performance of scientific research.\n\nRequires the Director to report to Congress on what steps have been taken to carry out the recommendations of the working group."
+  }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Research and Development Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "Research and Development Efficiency Act", 
       "type": "short"
@@ -261,5 +271,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:03-05:00"
+  "updated_at": "2014-12-06T07:05:08-05:00"
 }

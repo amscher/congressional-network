@@ -76,10 +76,37 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Blumenthal, Richard", 
       "sponsored_at": "2014-09-17", 
       "state": "CT", 
       "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -130,6 +157,15 @@
     }, 
     {
       "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Franken, Al", 
       "sponsored_at": "2014-09-10", 
       "state": "MN", 
@@ -143,6 +179,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "NY", 
       "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-11-12", 
+      "state": "ND", 
+      "thomas_id": "02174", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -202,6 +247,24 @@
     }, 
     {
       "district": null, 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Whitehouse, Sheldon", 
       "sponsored_at": "2014-09-16", 
       "state": "RI", 
@@ -222,7 +285,13 @@
   "number": "2646", 
   "official_title": "A bill to reauthorize the Runaway and Homeless Youth Act, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2941-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Runaway and Homeless Youth and Trafficking Prevention Act", 
   "sponsor": {
     "district": null, 
@@ -290,5 +359,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:28-05:00"
+  "updated_at": "2014-12-06T07:41:47-05:00"
 }

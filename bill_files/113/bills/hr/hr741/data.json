@@ -45,6 +45,15 @@
   "cosponsors": [
     {
       "district": "1", 
+      "name": "Braley, Bruce L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IA", 
+      "thomas_id": "01845", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
       "name": "Bridenstine, Jim", 
       "sponsored_at": "2014-02-27", 
       "state": "OK", 
@@ -267,5 +276,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:41-05:00"
+  "updated_at": "2014-12-06T06:28:47-05:00"
 }

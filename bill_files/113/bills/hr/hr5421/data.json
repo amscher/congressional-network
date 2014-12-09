@@ -38,6 +38,79 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:00:00-05:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 113-630.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:00:00-05:00", 
+      "calendar": "Union", 
+      "number": "470", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 470.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-01T16:01:00-05:00", 
+      "references": [], 
+      "text": "Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8174-8181", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:01:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5421.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:23:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8174-8177", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:23:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -48,7 +121,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Judiciary", 
       "committee_id": "HSJU"
@@ -62,6 +136,13 @@
       "committee_id": "HSJU", 
       "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
       "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
     }
   ], 
   "congress": "113", 
@@ -91,6 +172,8 @@
     "active_at": "2014-09-10", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-01T16:23:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-09-09", 
@@ -113,8 +196,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-10", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-01T16:23:00-05:00", 
   "subjects": [
     "Banking and financial institutions regulation", 
     "Bankruptcy", 
@@ -144,5 +227,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:13-05:00"
+  "updated_at": "2014-12-06T07:08:11-05:00"
 }

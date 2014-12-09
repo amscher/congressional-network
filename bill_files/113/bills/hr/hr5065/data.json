@@ -153,11 +153,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2014-11-19", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "28", 
       "name": "Schiff, Adam B.", 
       "sponsored_at": "2014-07-29", 
       "state": "CA", 
       "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "01884", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -237,5 +255,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:08-05:00"
+  "updated_at": "2014-12-06T07:05:13-05:00"
 }

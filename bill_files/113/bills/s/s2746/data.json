@@ -37,6 +37,24 @@
     }, 
     {
       "district": null, 
+      "name": "Bennet, Michael F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Booker, Cory A.", 
       "sponsored_at": "2014-09-18", 
       "state": "NJ", 
@@ -46,10 +64,82 @@
     }, 
     {
       "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Franken, Al", 
       "sponsored_at": "2014-09-16", 
       "state": "MN", 
       "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2014-11-19", 
+      "state": "IL", 
+      "thomas_id": "01647", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -77,6 +167,60 @@
       "sponsored_at": "2014-09-16", 
       "state": "NJ", 
       "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2014-11-20", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2014-11-18", 
+      "state": "WA", 
+      "thomas_id": "01409", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2014-11-18", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-11-18", 
+      "state": "RI", 
+      "thomas_id": "01823", 
       "title": "Sen", 
       "withdrawn_at": null
     }
@@ -138,5 +282,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:18-05:00"
+  "updated_at": "2014-12-06T07:42:38-05:00"
 }

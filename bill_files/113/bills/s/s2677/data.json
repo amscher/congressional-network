@@ -111,7 +111,11 @@
     "Wildlife conservation and habitat protection"
   ], 
   "subjects_top_term": "Animals", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-29", 
+    "text": "Lesser Prairie Chicken Voluntary Recovery Act of 2014 - Removes the Department of the Interior's listing of the lesser prairie chicken as threatened under the Endangered Species Act of 1973. Prohibits further treatment of the species as threatened or endangered before January 31, 2020.\n\nRequires Interior to monitor and submit an annual report on progress in the conservation of the lesser prairie chicken under:\n\n the Lesser Prairie-Chicken Range-Wide Conservation Plan of the Western Association of Fish and Wildlife Agencies, all related Candidate Conservation Agreements (agreements to voluntarily undertake measures to conserve a covered species), all related Candidate Conservation Agreements With Assurances (agreements to voluntarily undertake measures to conserve a covered species with assurances that additional measures will not be imposed if the species becomes listed in the future), conservation programs administered by the U.S. Fish and Wildlife Service (USFWS), the Bureau of Land Management (BLM), and the Department of Agriculture (USDA), state conservation programs, and private conservation efforts. Prohibits the lesser prairie chicken from being treated as threatened or endangered beginning on January 31, 2020, unless Interior publishes a determination that conservation efforts under the Range-Wide Plan, agreements, programs, and efforts have not achieved the Plan's conservation goals."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -126,5 +130,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:44-05:00"
+  "updated_at": "2014-12-06T07:42:03-05:00"
 }

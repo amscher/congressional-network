@@ -36,6 +36,17 @@
       "references": [], 
       "text": "Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-428.", 
       "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -45,7 +56,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "Senate Energy and Natural Resources", 
       "committee_id": "SSEG"
@@ -130,8 +142,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-01-29", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-13", 
   "subjects": [
     "Congressional oversight", 
     "Energy", 
@@ -170,5 +182,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:34:46-05:00"
+  "updated_at": "2014-12-06T07:36:05-05:00"
 }

@@ -42,9 +42,165 @@
       "text": "Placed on the Union Calendar, Calendar No. 119.", 
       "type": "calendar", 
       "under": null
+    }, 
+    {
+      "acted_at": "2014-11-17T19:26:00-05:00", 
+      "bill_ids": [
+        "hres756-113", 
+        "hr4012-113", 
+        "hr4795-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 756 Reported to House. Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. The resolution provides for consideration of H.R. 1422, H.R. 4012, and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T13:35:00-05:00", 
+      "bill_ids": [
+        "hres756-113"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8050-8064", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8050-8051", 
+          "type": "text of measure as reported in the House"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 756.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T13:35:00-05:00", 
+      "bill_ids": [
+        "hr4012-113", 
+        "hr4795-113"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. The resolution provides for consideration of H.R. 1422, H.R. 4012, and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T13:37:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 1422.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T14:29:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule 19, further proceedings on H.R. 1422 had been postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T17:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8060-8064", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T17:02:00-05:00", 
+      "bill_ids": [
+        "hres756-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H.Res. 756, the House proceeded with 10 minutes of debate on the Stewart Part A amendment No. 1.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T17:37:00-05:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8062-8063", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H8062", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Maloney, Sean moved to recommit with instructions to the Committee on Science, Space, and Technology.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T17:37:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the Sean Maloney motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit people from serving on the Science Advisory Board if they represent a corporation or a trade association with a financial interest in the outcome of the Boards decisions. The reservation of the point of order was subsequently withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T17:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8062", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T17:53:00-05:00", 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by recorded vote: 195 - 225 (Roll no. 524).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18T18:02:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "525", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 229 - 191 (Roll no. 525).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-18T18:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt1144-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1144"
+    }, 
+    {
+      "amendment_id": "hamdt1145-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1145"
+    }
+  ], 
   "bill_id": "hr1422-113", 
   "bill_type": "hr", 
   "by_request": false, 
@@ -58,6 +214,13 @@
       ], 
       "committee": "House Science, Space, and Technology", 
       "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
     }
   ], 
   "congress": "113", 
@@ -258,6 +421,8 @@
     "active_at": "2013-04-11", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-18T18:02:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-04-09", 
@@ -266,12 +431,22 @@
   "popular_title": null, 
   "related_bills": [
     {
+      "bill_id": "hres756-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres756-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s1853-113", 
       "reason": "related", 
       "type": "bill"
     }
   ], 
-  "short_title": "EPA Science Advisory Board Reform Act of 2013", 
+  "short_title": "EPA Science Advisory Board Reform Act of 2014", 
   "sponsor": {
     "district": "2", 
     "name": "Stewart, Chris", 
@@ -280,8 +455,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2013-04-11", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-18T18:02:00-05:00", 
   "subjects": [
     "Administrative law and regulatory procedures", 
     "Advisory bodies", 
@@ -311,11 +486,17 @@
       "type": "short"
     }, 
     {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "EPA Science Advisory Board Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:34:26-05:00"
+  "updated_at": "2014-12-06T06:34:29-05:00"
 }

@@ -1238,6 +1238,7 @@
     "Caribbean area", 
     "Cemeteries and funerals", 
     "Central Intelligence Agency (CIA)", 
+    "Charitable contributions", 
     "Chemical and biological weapons", 
     "Child health", 
     "Child safety and welfare", 
@@ -1504,5 +1505,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:30:17-05:00"
+  "updated_at": "2014-12-06T06:30:24-05:00"
 }

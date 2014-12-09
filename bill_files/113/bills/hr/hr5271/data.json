@@ -95,6 +95,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Grijalva, Raul M.", 
       "sponsored_at": "2014-07-30", 
@@ -109,6 +118,15 @@
       "sponsored_at": "2014-07-30", 
       "state": "NJ", 
       "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01634", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -131,6 +149,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Norton, Eleanor Holmes", 
       "sponsored_at": "2014-07-30", 
@@ -145,6 +172,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "NY", 
       "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01635", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -225,5 +261,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:56-05:00"
+  "updated_at": "2014-12-06T07:06:56-05:00"
 }

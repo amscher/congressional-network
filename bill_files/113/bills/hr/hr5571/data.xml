@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5571" updated="2014-11-08T07:09:28-05:00">
+<bill session="113" type="h" number="5571" updated="2014-12-06T07:09:26-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -94,9 +94,13 @@
     <action datetime="2014-09-30">
       <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
     <committee code="HSAG" name="House Agriculture" activity="Referral"/>
     <committee activity="Referral" code="HSAG29" subcommittee="Livestock, Rural Development, and Credit" name="House Agriculture"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>

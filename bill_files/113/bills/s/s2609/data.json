@@ -15,6 +15,28 @@
       "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.", 
       "type": "calendar", 
       "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-11-12", 
+      "references": [
+        {
+          "reference": "CR S5885, S5902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12", 
+      "references": [
+        {
+          "reference": "CR S5902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure withdrawn in Senate.", 
+      "type": "action"
     }
   ], 
   "amendments": [
@@ -108,6 +130,15 @@
     }, 
     {
       "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Johnson, Tim", 
       "sponsored_at": "2014-07-16", 
       "state": "SD", 
@@ -172,7 +203,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-12", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -243,5 +275,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:09-05:00"
+  "updated_at": "2014-12-06T07:41:29-05:00"
 }

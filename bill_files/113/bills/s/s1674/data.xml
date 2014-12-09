@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1674" updated="2014-11-08T07:32:17-05:00">
+<bill session="113" type="s" number="1674" updated="2014-12-06T07:33:32-05:00">
   <state datetime="2013-11-07">REFERRED</state>
   <status>
     <introduced datetime="2013-11-07"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">A bill to help establish, enhance, and increase access to early childhood parent education and family engagement programs, and for other purposes.</title>
   </titles>
   <sponsor id="412378"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412323" joined="2014-11-20"/>
+  </cosponsors>
   <actions>
     <action datetime="2013-11-07" state="REFERRED">
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>

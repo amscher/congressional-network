@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="1601" updated="2014-11-08T06:35:59-05:00">
+<bill session="113" type="h" number="1601" updated="2014-12-06T06:36:02-05:00">
   <state datetime="2013-04-17">REFERRED</state>
   <status>
     <introduced datetime="2013-04-17"/>
@@ -10,6 +10,7 @@
   </titles>
   <sponsor id="400162"/>
   <cosponsors>
+    <cosponsor id="412404" joined="2014-11-12"/>
     <cosponsor id="412571" joined="2013-11-19"/>
     <cosponsor id="412379" joined="2013-04-17"/>
     <cosponsor id="412600" joined="2014-05-30"/>
@@ -18,6 +19,7 @@
     <cosponsor id="412215" joined="2013-05-06"/>
     <cosponsor id="412535" joined="2013-08-02"/>
     <cosponsor id="400237" joined="2013-04-17"/>
+    <cosponsor id="400663" joined="2014-11-12"/>
     <cosponsor id="400263" joined="2013-08-02"/>
     <cosponsor id="400661" joined="2013-05-06"/>
     <cosponsor id="400289" joined="2013-05-22"/>

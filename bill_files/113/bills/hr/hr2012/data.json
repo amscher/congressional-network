@@ -197,6 +197,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "McGovern, James P.", 
       "sponsored_at": "2013-12-12", 
@@ -409,5 +418,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:39:26-05:00"
+  "updated_at": "2014-12-06T06:39:29-05:00"
 }

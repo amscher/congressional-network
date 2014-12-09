@@ -37,6 +37,15 @@
     }, 
     {
       "district": null, 
+      "name": "Coats, Daniel", 
+      "sponsored_at": "2014-11-19", 
+      "state": "IN", 
+      "thomas_id": "00209", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Feinstein, Dianne", 
       "sponsored_at": "2014-03-26", 
       "state": "CA", 
@@ -92,7 +101,7 @@
   "summary": {
     "as": "Introduced", 
     "date": "2014-03-26", 
-    "text": "Restoration of America's Wire Act - Amends provisions of the federal criminal code, commonly known as the Wire Act, to provide that the prohibition against transmission of wagering information shall apply to any bet or wager, or information assisting in the placing of any bet or wager (thus making such prohibition applicable to all types of gambling activities, including internet gambling). States that nothing in this Act shall be construed to: (1) preempt any state law prohibiting gambling; or (2) alter, limit, or extend the relationship between the Interstate Horseracing Act of 1978 and other federal laws currently in effect, the ability of a state licensed lottery retailer to make in-person, computer-generated retail lottery sales, or the relationship between federal laws and state charitable gaming laws."
+    "text": "Restoration of America's Wire Act - Amends provisions of the federal criminal code, commonly known as the Wire Act, to provide that the prohibition against transmission of wagering information shall apply to any bet or wager, or information assisting in the placing of any bet or wager (thus making such prohibition applicable to all types of gambling activities, including Internet gambling). States that nothing in this Act shall be construed to: (1) preempt any state law prohibiting gambling; or (2) alter, limit, or extend the relationship between the Interstate Horseracing Act of 1978 and other federal laws currently in effect, the ability of a state licensed lottery retailer to make in-person, computer-generated retail lottery sales, or the relationship between federal laws and state charitable gaming laws."
   }, 
   "titles": [
     {
@@ -108,5 +117,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:36:20-05:00"
+  "updated_at": "2014-12-06T07:37:39-05:00"
 }

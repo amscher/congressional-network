@@ -260,7 +260,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-05-20", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -372,8 +372,8 @@
   ], 
   "subjects_top_term": "Environmental protection", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-03-27", 
+    "as": "Reported to House without amendment", 
+    "date": "2014-07-17", 
     "text": "State, Tribal, and Local Species Transparency and Recovery Act - Amends the Endangered Species Act of 1973 to require the Secretary of the Interior or the Secretary of Commerce, as appropriate, to provide to affected states all data that is used as the basis of a determination on whether a species is an endangered species or a threatened species before making a determination.\n\nRequires the appropriate Secretary to use data submitted by a state, tribal, or county government in making such a determination."
   }, 
   "titles": [
@@ -396,5 +396,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:47-05:00"
+  "updated_at": "2014-12-06T06:58:53-05:00"
 }

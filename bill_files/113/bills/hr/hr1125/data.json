@@ -334,6 +334,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-12-01", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Yoder, Kevin", 
       "sponsored_at": "2013-05-21", 
@@ -418,5 +427,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:31:53-05:00"
+  "updated_at": "2014-12-06T06:32:00-05:00"
 }

@@ -318,6 +318,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Conyers, John, Jr.", 
       "sponsored_at": "2013-05-14", 
@@ -1218,6 +1227,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Sinema, Kyrsten", 
       "sponsored_at": "2014-07-31", 
@@ -1444,5 +1462,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:39:07-05:00"
+  "updated_at": "2014-12-06T06:39:10-05:00"
 }

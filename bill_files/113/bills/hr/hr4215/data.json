@@ -25,7 +25,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -80,5 +90,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:56-05:00"
+  "updated_at": "2014-12-06T06:58:02-05:00"
 }

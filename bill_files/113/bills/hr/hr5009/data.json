@@ -81,6 +81,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Conyers, John, Jr.", 
       "sponsored_at": "2014-07-10", 
@@ -185,6 +194,15 @@
       "sponsored_at": "2014-07-03", 
       "state": "CA", 
       "thomas_id": "02089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WA", 
+      "thomas_id": "02170", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -538,5 +556,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:39-05:00"
+  "updated_at": "2014-12-06T07:04:44-05:00"
 }

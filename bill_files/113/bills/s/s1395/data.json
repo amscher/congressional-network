@@ -72,6 +72,15 @@
       "thomas_id": "01507", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -109,6 +118,7 @@
   "status": "REFERRED", 
   "status_at": "2013-07-30", 
   "subjects": [
+    "Charitable contributions", 
     "Food assistance and relief", 
     "Income tax deductions", 
     "Social work, volunteer service, charitable organizations", 
@@ -134,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:29:57-05:00"
+  "updated_at": "2014-12-06T07:31:12-05:00"
 }

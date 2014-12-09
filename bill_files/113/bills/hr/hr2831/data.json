@@ -81,6 +81,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Grijalva, Raul M.", 
       "sponsored_at": "2013-07-25", 
@@ -241,6 +250,15 @@
       "thomas_id": "02110", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -294,5 +312,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:46:17-05:00"
+  "updated_at": "2014-12-06T06:46:23-05:00"
 }

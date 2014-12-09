@@ -9,6 +9,21 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Natural Resources.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-09-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -22,6 +37,16 @@
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
     }
   ], 
   "congress": "113", 
@@ -209,7 +234,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-04", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -277,5 +303,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:31-05:00"
+  "updated_at": "2014-12-06T06:48:38-05:00"
 }

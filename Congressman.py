@@ -9,6 +9,7 @@ class Congressman:
         self.party = ""
         self.bills = []
         self.num_success_bills = 0
+        self.num_outcomm_bills = 0
         self.committee_pagerank = 0
         self.committee_btwnscore = 0
 

@@ -1,13 +1,14 @@
-<bill session="113" type="s" number="1447" updated="2014-11-08T07:30:23-05:00">
-  <state datetime="2014-06-11">REPORTED</state>
+<bill session="113" type="s" number="1447" updated="2014-12-08T18:48:56-05:00">
+  <state datetime="2014-12-04">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2014-06-11"/>
+    <unknown datetime="2014-12-04"/>
   </status>
   <introduced datetime="2013-08-01"/>
   <titles>
     <title type="short" as="introduced">New Mexico Native American Water Settlements Technical Corrections Act</title>
     <title type="short" as="reported to senate">Navajo Water Settlement Technical Corrections Act</title>
     <title type="official" as="introduced">A bill to make technical corrections to certain Native American water rights settlements in the State of New Mexico, and for other purposes.</title>
+    <title type="official" as="amended by senate">A bill to make technical corrections to the Navajo water rights settlement in the State of New Mexico, and for other purposes.</title>
   </titles>
   <sponsor id="400413"/>
   <cosponsors>
@@ -29,6 +30,18 @@
     <calendar datetime="2014-08-26" calendar="Senate Legislative" under="General Orders" number="536">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+      <reference ref="CR S6355" label="consideration"/>
+      <reference ref="CR S6355" label="text of measure as reported in Senate"/>
+      <reference ref="CR S6355" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-08T12:32:00-05:00">
+      <text>Received in the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting"/>

@@ -1,15 +1,18 @@
-<bill session="113" type="h" number="4012" updated="2014-11-08T06:56:14-05:00">
-  <state datetime="2014-06-24">REPORTED</state>
+<bill session="113" type="h" number="4012" updated="2014-12-06T06:56:20-05:00">
+  <state datetime="2014-11-19T15:22:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2014-06-24"/>
+    <unknown datetime="2014-11-19T15:22:00-05:00"/>
   </status>
   <introduced datetime="2014-02-06"/>
   <titles>
     <title type="short" as="introduced">Secret Science Reform Act of 2014</title>
+    <title type="short" as="reported to house">Secret Science Reform Act of 2014</title>
+    <title type="short" as="passed house">Secret Science Reform Act of 2014</title>
     <title type="official" as="introduced">To prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.</title>
   </titles>
   <sponsor id="412399"/>
   <cosponsors>
+    <cosponsor id="400004" joined="2014-11-12"/>
     <cosponsor id="400018" joined="2014-03-27"/>
     <cosponsor id="412547" joined="2014-06-02"/>
     <cosponsor id="412567" joined="2014-02-06"/>
@@ -79,12 +82,81 @@
     <calendar datetime="2014-06-24" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </calendar>
+    <action datetime="2014-11-12T19:48:00-05:00">
+      <text>Reported by the Committee on Science, Space, and Technology. H. Rept. 113-619.</text>
+    </action>
+    <calendar datetime="2014-11-12T19:48:00-05:00" calendar="Union" number="460">
+      <text>Placed on the Union Calendar, Calendar No. 460.</text>
+    </calendar>
+    <action datetime="2014-11-17T19:26:00-05:00">
+      <text>Rules Committee Resolution H. Res. 756 Reported to House. Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. The resolution provides for consideration of H.R. 1422, H.R. 4012, and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.</text>
+    </action>
+    <action datetime="2014-11-19T13:09:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 756.</text>
+      <reference ref="CR H8087-8103" label="consideration"/>
+    </action>
+    <action datetime="2014-11-19T13:09:00-05:00">
+      <text>Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.</text>
+    </action>
+    <action datetime="2014-11-19T13:10:00-05:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 756 and Rule XVIII.</text>
+    </action>
+    <action datetime="2014-11-19T13:10:00-05:00">
+      <text>The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2014-11-19T13:10:00-05:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4012.</text>
+    </action>
+    <action datetime="2014-11-19T14:07:00-05:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 756, the House proceeded with 10 minutes of debate on the Gosar Part B amendment No. 1.</text>
+    </action>
+    <action datetime="2014-11-19T14:15:00-05:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 756, the House proceeded with 10 minutes of debate on the Kennedy Part B amendment No. 2.</text>
+    </action>
+    <action datetime="2014-11-19T14:53:00-05:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4012.</text>
+    </action>
+    <action datetime="2014-11-19T14:54:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H8100" label="consideration"/>
+    </action>
+    <action datetime="2014-11-19T14:54:00-05:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+      <reference ref="CR H8097" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2014-11-19T14:55:00-05:00">
+      <text>Ms. Johnson, E. B. moved to recommit with instructions to the Committee on Science, Space, and Technology.</text>
+      <reference ref="CR H8100-8102" label="consideration"/>
+      <reference ref="CR H8100-8101" label="text"/>
+    </action>
+    <action datetime="2014-11-19T14:56:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the E. B. Johnson (TX) motion to recommit with instructions, pending reservation of a point order. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to exempt any Environmental Protection Agency (EPA) regulation that protects communities in an emergency, including an Ebola or pandemic flu outbreak, the release of toxic chemicals, or a nuclear, biological, or terrorist attack. Subsequently, the reservation of a point of order was removed.</text>
+    </action>
+    <action datetime="2014-11-19T15:05:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H8101" label="consideration"/>
+    </action>
+    <action datetime="2014-11-19T15:15:00-05:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 196 - 230 (Roll no. 527).</text>
+    </action>
+    <vote how="roll" type="vote" roll="528" datetime="2014-11-19T15:22:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 237 - 190 (Roll no. 528).</text>
+    </vote>
+    <action datetime="2014-11-19T15:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-11-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Hearings" code="HSSY18" subcommittee="Environment" name="House Science, Space, and Technology"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
   </committees>
   <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="756"/>
+    <bill relation="rule" session="113" type="hr" number="756"/>
     <bill relation="identical" session="113" type="s" number="2613"/>
   </relatedbills>
   <subjects>
@@ -96,9 +168,10 @@
     <term name="Government information and archives"/>
     <term name="Research administration and funding"/>
   </subjects>
-  <amendments/>
-  <summary>2/6/2014--Introduced.
-Secret Science Reform Act of 2014 - Amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to prohibit the Administrator of the Environmental Protection Agency (EPA) from proposing, finalizing, or disseminating a covered action unless all scientific and technical information relied on to support such action is specifically identified and publicly available in a manner sufficient for independent analysis and substantial reproduction of research results.
-
-Defines "covered action" as a risk, exposure, or hazard assessment, criteria document, standard, limitation, regulation, regulatory impact analysis, or guidance.</summary>
+  <amendments>
+    <amendment number="h1146"/>
+    <amendment number="h1147"/>
+  </amendments>
+  <summary>11/19/2014--Passed House amended.
+Secret Science Reform Act of 2014 - Amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to prohibit the Environmental Protection Agency (EPA) from proposing, finalizing, or disseminating a covered action unless all scientific and technical information relied on to support such action is specifically identified and publicly available online in a manner sufficient for independent analysis and substantial reproduction of research results. Includes as a covered action a risk, exposure, or hazard assessment, criteria document, standard, limitation, regulation, regulatory impact analysis, or guidance.</summary>
 </bill>

@@ -140,6 +140,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Clarke, Yvette D.", 
       "sponsored_at": "2014-07-30", 
@@ -203,11 +212,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2014-11-12", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Crawford, Eric A. \"Rick\"", 
       "sponsored_at": "2014-06-20", 
       "state": "AR", 
       "thomas_id": "01989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2014-11-19", 
+      "state": "FL", 
+      "thomas_id": "01643", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -262,6 +289,15 @@
       "sponsored_at": "2014-07-14", 
       "state": "NC", 
       "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00368", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -361,6 +397,15 @@
       "sponsored_at": "2014-05-19", 
       "state": "NC", 
       "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02154", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -496,6 +541,15 @@
       "sponsored_at": "2014-07-28", 
       "state": "MN", 
       "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NC", 
+      "thomas_id": "00930", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -775,5 +829,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:58-05:00"
+  "updated_at": "2014-12-06T07:01:04-05:00"
 }

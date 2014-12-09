@@ -1,18 +1,22 @@
-<bill session="113" type="s" number="2520" updated="2014-11-08T07:39:25-05:00">
-  <state datetime="2014-06-24">REFERRED</state>
+<bill session="113" type="s" number="2520" updated="2014-12-06T07:40:44-05:00">
+  <state datetime="2014-11-20">REPORTED</state>
   <status>
-    <introduced datetime="2014-06-24"/>
+    <unknown datetime="2014-11-20"/>
   </status>
   <introduced datetime="2014-06-24"/>
   <titles>
     <title type="short" as="introduced">FOIA Improvement Act of 2014</title>
+    <title type="short" as="reported to senate">FOIA Improvement Act of 2014</title>
     <title type="official" as="introduced">A bill to improve the Freedom of Information Act.</title>
   </titles>
   <sponsor id="300065"/>
   <cosponsors>
+    <cosponsor id="412493" joined="2014-11-20"/>
+    <cosponsor id="412390" joined="2014-11-20"/>
     <cosponsor id="300027" joined="2014-06-24"/>
     <cosponsor id="300048" joined="2014-09-15"/>
     <cosponsor id="412200" joined="2014-07-31"/>
+    <cosponsor id="412320" joined="2014-11-20"/>
     <cosponsor id="400253" joined="2014-07-08"/>
   </cosponsors>
   <actions>
@@ -24,9 +28,18 @@
       <text>Read twice and referred to the Committee on the Judiciary.</text>
       <reference ref="CR S3942-3944" label="text of measure as introduced"/>
     </action>
+    <calendar datetime="2014-11-20" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-11-20">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2014-11-20" calendar="Senate Legislative" under="General Orders" number="605">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 605.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="1211"/>

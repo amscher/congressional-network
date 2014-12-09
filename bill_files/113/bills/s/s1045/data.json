@@ -20,6 +20,25 @@
       "status": "REPORTED", 
       "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-272.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "calendar": "Senate Legislative", 
+      "number": "596", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 596.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -31,6 +50,7 @@
       "activity": [
         "referral", 
         "markup", 
+        "reporting", 
         "in committee"
       ], 
       "committee": "Senate Homeland Security and Governmental Affairs", 
@@ -51,7 +71,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-13", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -85,9 +106,9 @@
   ], 
   "subjects_top_term": "Government operations and politics", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-05-23", 
-    "text": "Makes an individual who has a seriously delinquent tax debt ineligible to be appointed, or to continue serving, as a federal employee. Defines \"seriously delinquent tax debt\" as an outstanding tax debt for which a notice of lien has been filed in public records, excluding a tax debt: (1) that is being paid in a timely manner under an approved installment payment agreement or an offer-in-compromise, and (2) for which a collection due process hearing or relief from tax liability as an innocent spouse has been requested or is pending."
+    "as": "Reported to Senate amended", 
+    "date": "2014-11-13", 
+    "text": "Makes an individual who has a seriously delinquent tax debt ineligible to continue serving as a federal employee or to be appointed as a federal employee. Defines \"seriously delinquent tax debt\" as an outstanding tax debt for which a notice of federal tax lien has been filed in public records, excluding a tax debt: (1) that is being paid in a timely manner under an approved installment payment agreement or an offer-in-compromise, (2) for which a collection due process hearing has been requested or is pending, (3) for which a tax levy has been issued, or (4) with respect to which relief has been granted due to economic hardship.\n\nGives a federal employee who has a seriously delinquent tax debt 150 days after receiving written notice from his or her employing agency to begin repaying such debt in a timely manner under an approved installment payment agreement or an offer-in-compromise. Requires the head of such employing agency to notify any employee who does not begin repaying a tax debt after receiving such notice that such employee must: (1) repay the total amount of the tax debt, or (2) begin repayment of the debt in a timely manner pursuant to an approved installment payment agreement or an offer-in-compromise. Requires the termination of the employment of an employee who does not comply, unless the head of the employing agency determines that the continued service of such employee is in the best interests of the United States.\n\nRequires the head of an agency to: (1) take appropriate measure to ensure that applicants for employment certify under penalty of perjury that they do not have a seriously delinquent tax debt, and (2) establish an appeal process for applicants denied employment. Prohibits an agency head from employing any individual who does not make a certification.\n\nDefines \"agency\" for purposes of this Act as an executive agency, the U.S. Postal Service (USPS), the Postal Regulatory Commission, and an employing authority in the legislative branch."
   }, 
   "titles": [
     {
@@ -97,5 +118,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:26:58-05:00"
+  "updated_at": "2014-12-06T07:28:07-05:00"
 }

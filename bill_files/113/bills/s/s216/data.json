@@ -94,6 +94,11 @@
       "bill_id": "s2164-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2954-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Tyler Clementi Higher Education Anti-Harassment Act of 2013", 
@@ -139,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:19:52-05:00"
+  "updated_at": "2014-12-06T07:21:04-05:00"
 }

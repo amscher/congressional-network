@@ -43,6 +43,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2014-11-18", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Benishek, Dan", 
       "sponsored_at": "2014-04-28", 
@@ -161,7 +170,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-05-19", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -230,5 +239,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:32-05:00"
+  "updated_at": "2014-12-06T06:59:38-05:00"
 }

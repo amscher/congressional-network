@@ -45,6 +45,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Bishop, Timothy H.", 
       "sponsored_at": "2013-06-28", 
@@ -113,6 +122,15 @@
       "sponsored_at": "2014-01-10", 
       "state": "PA", 
       "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2014-11-19", 
+      "state": "MO", 
+      "thomas_id": "01790", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -221,6 +239,15 @@
       "sponsored_at": "2013-08-01", 
       "state": "IL", 
       "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00355", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -347,6 +374,15 @@
       "sponsored_at": "2013-06-28", 
       "state": "TX", 
       "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "GA", 
+      "thomas_id": "01843", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -612,6 +648,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Schwartz, Allyson Y.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "01798", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "32", 
       "name": "Sessions, Pete", 
       "sponsored_at": "2013-11-14", 
@@ -626,6 +671,15 @@
       "sponsored_at": "2013-12-04", 
       "state": "WA", 
       "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -693,6 +747,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "sponsored_at": "2014-11-18", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "24", 
       "name": "Wilson, Frederica S.", 
       "sponsored_at": "2014-02-05", 
@@ -753,5 +816,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:44:17-05:00"
+  "updated_at": "2014-12-06T06:44:23-05:00"
 }

@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2967" updated="2014-12-06T07:44:31-05:00">
+  <state datetime="2014-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-02"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="short" as="introduced">Local Control of Education Act</title>
+    <title type="official" as="introduced">A bill to prohibit the Federal Government from mandating, incentivizing, or coercing States to adopt the Common Core State Standards or any other specific academic standards, instructional content, curricula, assessments, or programs of instruction.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Intergovernmental relations"/>
+    <term name="School administration"/>
+    <term name="State and local government operations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

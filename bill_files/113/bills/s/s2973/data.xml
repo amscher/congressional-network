@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="2973" updated="2014-12-06T07:44:34-05:00">
+  <state datetime="2014-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a grant program to allow National Laboratories to provide vouchers to small business concerns to improve commercialization of technologies developed at National Laboratories and the technology-driven economic impact of commercialization in the regions in which National Laboratories are located, and for other purposes.</title>
+  </titles>
+  <sponsor id="412281"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

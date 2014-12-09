@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4901" updated="2014-11-08T07:03:45-05:00">
+<bill session="113" type="h" number="4901" updated="2014-12-06T07:03:50-05:00">
   <state datetime="2014-06-19">REFERRED</state>
   <status>
     <introduced datetime="2014-06-19"/>
@@ -10,6 +10,7 @@
   </titles>
   <sponsor id="400029"/>
   <cosponsors>
+    <cosponsor id="412379" joined="2014-11-17"/>
     <cosponsor id="400100" joined="2014-06-19"/>
   </cosponsors>
   <actions>
@@ -64,4 +65,14 @@
     <term name="Wyoming"/>
   </subjects>
   <amendments/>
+  <summary>6/19/2014--Introduced.
+Advancing Conservation and Education Act of 2014 - Allows Alaska, Arizona, California, Colorado, Idaho, Montana, New Mexico, North Dakota, Oregon, South Dakota, Utah, Washington, or Wyoming (western states) to relinquish state land grant parcels wholly or primarily within federal conservation areas and to select, in exchange, unappropriated public land within the state. Defines "federal conservation areas" as lands within the outer boundaries of units of the National Park, National Wilderness Preservation, National Wildlife Refuge, or National Landscape Conservation Systems and certain designated lands within the National Forest System.
+
+Directs the Secretary of the Interior to create a process for the relinquishment of such parcels.
+
+Allows a western state to select, and the Secretary to convey, lands that are mineral in character.
+
+Requires the overall value of the state land grant parcels and the unappropriated public land to be conveyed to be equal.
+
+Sets forth requirements regarding records of hazardous materials on land conveyed, water rights, and grazing permits.</summary>
 </bill>

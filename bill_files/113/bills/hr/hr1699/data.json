@@ -278,6 +278,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Kuster, Ann M.", 
       "sponsored_at": "2013-04-24", 
@@ -413,6 +422,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "35", 
+      "name": "Negrete McLeod, Gloria", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Norton, Eleanor Holmes", 
       "sponsored_at": "2013-04-24", 
@@ -463,6 +481,15 @@
       "sponsored_at": "2013-09-19", 
       "state": "NY", 
       "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00997", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -670,5 +697,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:36:48-05:00"
+  "updated_at": "2014-12-06T06:36:51-05:00"
 }

@@ -34,6 +34,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Health.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -63,16 +70,61 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }
   ], 
   "congress": "113", 
   "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2014-11-19", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
     {
       "district": "9", 
       "name": "Pascrell, Bill, Jr.", 
       "sponsored_at": "2014-07-31", 
       "state": "NJ", 
       "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "FL", 
+      "thomas_id": "02004", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -162,5 +214,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:23-05:00"
+  "updated_at": "2014-12-06T07:07:23-05:00"
 }

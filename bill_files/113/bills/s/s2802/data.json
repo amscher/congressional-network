@@ -77,7 +77,11 @@
     "Education"
   ], 
   "subjects_top_term": "Education", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-15", 
+    "text": "Strengthening Research in Adult Education Act - Amends the Education Sciences Reform Act of 2002 to revise the mission statement for the Institute of Education Sciences of the Department of Education to ensure access to, and opportunities for, adult education and literacy activities.\n\nRevises the composition of presidential appointees to the National Board for Education Sciences to include adult educators.\n\nRevises the mission statement for the Institute's National Center for Education Research (Research Center) to include improving the literacy and numeracy skills of individuals who need adult education.\n\nRevises also the Research Center's duties to include research on successful state and local adult education and literacy activities that:\n\n result in increased literacy, numeracy, and educational attainment for adult learners, or prepare students for postsecondary education or employment. Directs the Research Commissioner to support, through national research and development centers or through other means, research on adult education and digital literacy.\n\nRevises duties of the National Center for Education Statistics to require it to include in the statistical data on education in the United States it collects, analyzes, and disseminates data on access to, and opportunity for, adult education and literacy activities.\n\nRequires the National Center for Education and Regional Assistance to disseminate widely certain educational information with respect to educational practices that improve digital literacy.\n\nAmends the Educational Technical Assistance Act of 2002 to revise the composition of regional advisory committees to include representatives of local or regional adult education providers."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -92,5 +96,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:46-05:00"
+  "updated_at": "2014-12-06T07:43:07-05:00"
 }

@@ -67,6 +67,15 @@
     }, 
     {
       "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Booker, Cory A.", 
       "sponsored_at": "2014-09-18", 
       "state": "NJ", 
@@ -80,6 +89,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "CA", 
       "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "DE", 
+      "thomas_id": "01984", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -289,5 +307,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:23:27-05:00"
+  "updated_at": "2014-12-06T07:24:37-05:00"
 }

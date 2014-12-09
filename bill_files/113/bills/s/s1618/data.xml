@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1618" updated="2014-11-08T07:31:49-05:00">
+<bill session="113" type="s" number="1618" updated="2014-12-06T07:33:04-05:00">
   <state datetime="2014-07-30">REPORTED</state>
   <status>
     <unknown datetime="2014-07-30"/>
@@ -6,6 +6,7 @@
   <introduced datetime="2013-10-30"/>
   <titles>
     <title type="short" as="introduced">Enhanced Security Clearance Act of 2013</title>
+    <title type="short" as="reported to senate">Enhanced Security Clearance Act of 2014</title>
     <title type="official" as="introduced">A bill to enhance the Office of Personnel Management background check system for the granting, denial, or revocation of security clearances or access to classified information of employees and contractors of the Federal Government.</title>
   </titles>
   <sponsor id="300025"/>
@@ -29,9 +30,15 @@
     <calendar datetime="2014-07-30" state="REPORTED">
       <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
     </calendar>
+    <action datetime="2014-12-02">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute and an amendment to the title. With written report No. 113-283.</text>
+    </action>
+    <calendar datetime="2014-12-02" calendar="Senate Legislative" under="General Orders" number="610">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 610.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="5482"/>

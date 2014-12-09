@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2758" updated="2014-11-08T07:41:24-05:00">
+<bill session="113" type="s" number="2758" updated="2014-12-06T07:42:45-05:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
@@ -40,4 +40,10 @@
     <term name="Military procurement, research, weapons development"/>
   </subjects>
   <amendments/>
+  <summary>7/31/2014--Introduced.
+Authorizes the Secretary of the Air Force, for purposes of modernizing the C-130 aircraft fleet, to install alternative communication, navigation, surveillance, and air traffic management program kits in lieu of C-130 aircraft avionics modernization program kits if the Secretary determines, on a case-by-case basis, that such alternative program is appropriate and notifies Congress of such determination.
+
+Requires the Secretary to ensure that all C-130 aircraft are capable of meeting applicable regulations of the Federal Aviation Administration (FAA) by January 1, 2020.
+
+Authorizes the Secretary to use amounts made available for FY2013 or FY2014 for the Air Force for the C-130 aircraft avionics modernization program that remain available for obligation to carry out this Act.</summary>
 </bill>

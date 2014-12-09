@@ -90,6 +90,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Labrador, Raul R.", 
       "sponsored_at": "2014-07-11", 
@@ -179,5 +188,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:23-05:00"
+  "updated_at": "2014-12-06T07:05:26-05:00"
 }

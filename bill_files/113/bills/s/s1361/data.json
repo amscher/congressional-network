@@ -40,6 +40,15 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Begich, Mark", 
       "sponsored_at": "2013-10-28", 
       "state": "AK", 
@@ -71,6 +80,15 @@
       "sponsored_at": "2013-07-25", 
       "state": "ME", 
       "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IN", 
+      "thomas_id": "01850", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -158,5 +176,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:29:40-05:00"
+  "updated_at": "2014-12-06T07:30:55-05:00"
 }

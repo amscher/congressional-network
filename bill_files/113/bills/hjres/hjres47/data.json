@@ -179,6 +179,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Lipinski, Daniel", 
       "sponsored_at": "2013-05-22", 
@@ -297,7 +306,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-09-12", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -372,5 +381,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:46-05:00"
+  "updated_at": "2014-12-06T07:11:46-05:00"
 }

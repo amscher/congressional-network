@@ -520,6 +520,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Ryan, Tim", 
       "sponsored_at": "2013-05-09", 
@@ -672,5 +681,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:38:34-05:00"
+  "updated_at": "2014-12-06T06:38:37-05:00"
 }

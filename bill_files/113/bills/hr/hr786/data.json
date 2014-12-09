@@ -143,6 +143,24 @@
       "thomas_id": "01967", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -193,5 +211,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:29:03-05:00"
+  "updated_at": "2014-12-06T06:29:10-05:00"
 }

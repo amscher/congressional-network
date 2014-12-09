@@ -20,6 +20,25 @@
       "status": "REPORTED", 
       "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-279.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-12-01", 
+      "calendar": "Senate Legislative", 
+      "number": "607", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 607.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -30,7 +49,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "Senate Commerce, Science, and Transportation", 
       "committee_id": "SSCM"
@@ -59,7 +79,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-01", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -107,11 +128,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "National Sea Grant College Program Amendments Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:35:15-05:00"
+  "updated_at": "2014-12-06T07:36:35-05:00"
 }

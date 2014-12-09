@@ -9,6 +9,17 @@
       "status": "REFERRED", 
       "text": "Read twice and referred to the Committee on Environment and Public Works.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "committee": "Committee on Environment and Public Works", 
+      "committees": [
+        "SSEV"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Hearings held.", 
+      "type": "hearings"
     }
   ], 
   "amendments": [], 
@@ -18,7 +29,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "hearings"
       ], 
       "committee": "Senate Environment and Public Works", 
       "committee_id": "SSEV"
@@ -119,7 +131,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-02", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -187,5 +200,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:41-05:00"
+  "updated_at": "2014-12-06T07:44:03-05:00"
 }

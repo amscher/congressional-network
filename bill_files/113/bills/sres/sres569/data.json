@@ -25,6 +25,31 @@
       "status": "REFERRED", 
       "text": "Referred to the Committee on the Judiciary.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6356", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
     }
   ], 
   "amendments": [], 
@@ -34,7 +59,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "Senate Judiciary", 
       "committee_id": "SSJU"
@@ -72,9 +98,12 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-04", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-04", 
     "vetoed": false
   }, 
   "introduced_at": "2014-09-18", 
@@ -97,8 +126,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-09-18", 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-12-04", 
   "subjects": [
     "Accidents", 
     "Aging", 
@@ -122,5 +151,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:17:35-05:00"
+  "updated_at": "2014-12-06T07:18:37-05:00"
 }

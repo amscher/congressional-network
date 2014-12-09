@@ -205,6 +205,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Speier, Jackie", 
       "sponsored_at": "2013-10-10", 
@@ -284,5 +293,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:42:54-05:00"
+  "updated_at": "2014-12-06T06:42:58-05:00"
 }

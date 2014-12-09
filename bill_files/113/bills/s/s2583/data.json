@@ -77,6 +77,77 @@
       "references": [], 
       "text": "Held at the desk.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:51:00-05:00", 
+      "references": [], 
+      "text": "Mr. Latta asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7965", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:51:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7965", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:51:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-11-26", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-11-26", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "197", 
+      "references": [], 
+      "text": "Became Public Law No: 113-197.", 
+      "type": "enacted"
+    }, 
+    {
+      "acted_at": "2014-12-01", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "By Senator Rockefeller from Committee on Commerce, Science, and Transportation filed written report. Report No. 113-280.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -106,12 +177,19 @@
       "withdrawn_at": null
     }
   ], 
-  "enacted_as": null, 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "197"
+  }, 
   "history": {
     "active": true, 
     "active_at": "2014-09-17", 
     "awaiting_signature": false, 
-    "enacted": false, 
+    "enacted": true, 
+    "enacted_at": "2014-12-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-13T17:51:00-05:00", 
     "senate_passage_result": "pass", 
     "senate_passage_result_at": "2014-09-18", 
     "vetoed": false
@@ -141,8 +219,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:SENATE", 
-  "status_at": "2014-09-18", 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-11-26", 
   "subjects": [
     "Administrative law and regulatory procedures", 
     "Computers and information technology", 
@@ -154,8 +232,8 @@
   ], 
   "subjects_top_term": "Science, technology, communications", 
   "summary": {
-    "as": "Passed Senate without amendment", 
-    "date": "2014-09-18", 
+    "as": "Public Law", 
+    "date": "2014-11-26", 
     "text": "Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014 or the E-LABEL Act - Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to promulgate regulations or take other appropriate action to allow manufacturers of radiofrequency devices with display the option to use electronic labeling for the equipment in place of affixing physical labels to the equipment.\n\nDefines \"radiofrequency device with display\" as any equipment or device that: (1) requires the FCC's authorization before the equipment or device may be marketed or sold within the United States, and (2) is capable of digitally displaying required labeling and regulatory information."
   }, 
   "titles": [
@@ -172,6 +250,18 @@
       "type": "short"
     }, 
     {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "E-LABEL Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "reported to senate", 
       "is_for_portion": false, 
       "title": "E-LABEL Act", 
@@ -191,6 +281,18 @@
     }, 
     {
       "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "E-LABEL Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
       "is_for_portion": false, 
       "title": "Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014", 
       "type": "short"
@@ -202,5 +304,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:56-05:00"
+  "updated_at": "2014-12-06T07:41:16-05:00"
 }

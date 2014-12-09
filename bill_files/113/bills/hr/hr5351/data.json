@@ -127,7 +127,11 @@
     "Veterans' pensions and compensation"
   ], 
   "subjects_top_term": "Armed forces and national security", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-31", 
+    "text": "Veterans Air Travel Streamlining Act of 2014 - Requires: (1) the Administrator of the Transportation Security Administration (TSA) to waive the application fee for veterans with a service-connected disability rated at 50% or more who apply to participate in TSA's Pre-check program, and (2) the Administrator and the Secretary of Veterans Affairs (VA) to establish a system to verify such a veteran's disability rating and whether such veteran's disability is service-connected."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -142,5 +146,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:37-05:00"
+  "updated_at": "2014-12-06T07:07:36-05:00"
 }

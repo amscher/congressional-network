@@ -25,7 +25,26 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -94,5 +113,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:11-05:00"
+  "updated_at": "2014-12-06T07:43:31-05:00"
 }

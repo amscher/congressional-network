@@ -1,11 +1,12 @@
-<bill session="113" type="h" number="3240" updated="2014-11-08T06:49:42-05:00">
-  <state datetime="2014-07-29">REPORTED</state>
+<bill session="113" type="h" number="3240" updated="2014-12-06T06:49:49-05:00">
+  <state datetime="2014-12-02T16:12:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2014-07-29"/>
+    <unknown datetime="2014-12-02T16:12:00-05:00"/>
   </status>
   <introduced datetime="2013-10-03"/>
   <titles>
     <title type="short" as="introduced">Regulation D Study Act</title>
+    <title type="short" as="passed house">Regulation D Study Act</title>
     <title type="official" as="introduced">To instruct the Comptroller General of the United States to study the impact of Regulation D, and for other purposes.</title>
   </titles>
   <sponsor id="412551"/>
@@ -58,10 +59,44 @@
     <calendar datetime="2014-07-29" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </calendar>
+    <action datetime="2014-12-02T11:42:00-05:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 113-640.</text>
+    </action>
+    <calendar datetime="2014-12-02T11:42:00-05:00" calendar="Union" number="480">
+      <text>Placed on the Union Calendar, Calendar No. 480.</text>
+    </calendar>
+    <action datetime="2014-12-02T14:07:00-05:00">
+      <text>Mr. Luetkemeyer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-02T14:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8244-8246" label="consideration"/>
+    </action>
+    <action datetime="2014-12-02T14:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3240.</text>
+    </action>
+    <action datetime="2014-12-02T14:17:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-12-02T16:04:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8260-8261" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="538" datetime="2014-12-02T16:12:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 538).</text>
+      <reference ref="CR H8244-8245" label="text"/>
+    </vote>
+    <action datetime="2014-12-02T16:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
     <committee activity="Hearings" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

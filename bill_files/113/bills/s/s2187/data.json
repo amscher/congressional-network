@@ -61,6 +61,15 @@
       "thomas_id": "01694", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John", 
+      "sponsored_at": "2014-11-18", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -120,5 +129,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:36:35-05:00"
+  "updated_at": "2014-12-06T07:37:53-05:00"
 }

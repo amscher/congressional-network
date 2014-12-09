@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="4194" updated="2014-11-08T06:57:45-05:00">
-  <state datetime="2014-09-16">PASS_BACK:SENATE</state>
+<bill session="113" type="h" number="4194" updated="2014-12-06T06:57:52-05:00">
+  <state datetime="2014-11-26">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2014-09-16"/>
+    <unknown datetime="2014-11-26"/>
   </status>
   <introduced datetime="2014-03-11"/>
   <titles>
@@ -10,6 +10,7 @@
     <title type="short" as="passed house">Government Reports Elimination Act of 2014</title>
     <title type="short" as="reported to senate">Government Reports Elimination Act of 2014</title>
     <title type="short" as="passed senate">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="enacted">Government Reports Elimination Act of 2014</title>
     <title type="official" as="introduced">To provide for the elimination or modification of Federal reporting requirements.</title>
   </titles>
   <sponsor id="400196"/>
@@ -73,6 +74,36 @@
     <action datetime="2014-09-17">
       <text>Message on Senate action sent to the House.</text>
     </action>
+    <action datetime="2014-11-12T16:00:00-05:00">
+      <text>Mr. Issa moved that the House suspend the rules and agree to the Senate amendment.</text>
+      <reference ref="CR H7907-7910" label="consideration"/>
+    </action>
+    <action datetime="2014-11-12T16:00:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 4194.</text>
+    </action>
+    <action datetime="2014-11-12T16:11:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-11-12T18:55:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7915-7916" label="consideration"/>
+    </action>
+    <vote how="roll" type="pingpong" roll="516" datetime="2014-11-12T18:55:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 516).</text>
+      <reference ref="CR H7907-7909" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2014-11-12T18:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-11-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-11-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-188" type="public" datetime="2014-11-26">
+      <text>Became Public Law No: 113-188.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
@@ -146,7 +177,7 @@
   <amendments>
     <amendment number="s3820"/>
   </amendments>
-  <summary>9/16/2014--Passed Senate amended.
+  <summary>11/26/2014--Public Law.
 Government Reports Elimination Act of 2014 - Provides for the elimination or modification of reporting and notification requirements of specified federal agencies and departments.
 
 Title I: Department of Agriculture - Eliminates:

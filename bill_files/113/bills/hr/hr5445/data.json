@@ -36,6 +36,33 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2014-11-14", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Higgins, Brian", 
       "sponsored_at": "2014-09-15", 
@@ -45,11 +72,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Kaptur, Marcy", 
       "sponsored_at": "2014-09-10", 
       "state": "OH", 
       "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01501", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -77,6 +122,33 @@
       "sponsored_at": "2014-09-18", 
       "state": "WI", 
       "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01042", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -140,5 +212,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:25-05:00"
+  "updated_at": "2014-12-06T07:08:23-05:00"
 }

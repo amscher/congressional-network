@@ -72,7 +72,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Naugatuck River Valley National Heritage Area Study Act - Instructs the Secretary of the Interior to carry out a study on the suitability and feasibility of establishing the Naugatuck River Valley National Heritage Area in Connecticut. Requires submission of the study's results to Congress."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -87,5 +91,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:14-05:00"
+  "updated_at": "2014-12-06T07:43:34-05:00"
 }

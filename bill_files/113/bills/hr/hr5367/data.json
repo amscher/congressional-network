@@ -46,6 +46,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Huizenga, Bill", 
       "sponsored_at": "2014-07-31", 
@@ -128,5 +137,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:45-05:00"
+  "updated_at": "2014-12-06T07:07:44-05:00"
 }

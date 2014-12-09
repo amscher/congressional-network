@@ -297,6 +297,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Ryan, Tim", 
       "sponsored_at": "2013-09-30", 
@@ -386,5 +395,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:57-05:00"
+  "updated_at": "2014-12-06T07:11:57-05:00"
 }

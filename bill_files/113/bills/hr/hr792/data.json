@@ -386,6 +386,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "DesJarlais, Scott", 
       "sponsored_at": "2013-06-11", 
@@ -1115,6 +1124,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Ribble, Reid J.", 
       "sponsored_at": "2013-07-09", 
@@ -1323,7 +1341,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-09-27", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -1586,5 +1604,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:29:06-05:00"
+  "updated_at": "2014-12-06T06:29:13-05:00"
 }

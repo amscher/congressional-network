@@ -51,6 +51,7 @@
   "status_at": "2013-10-30", 
   "subjects": [
     "Capital gains tax", 
+    "Charitable contributions", 
     "Employment taxes", 
     "Housing finance and home ownership", 
     "Income tax credits", 
@@ -84,5 +85,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:31:48-05:00"
+  "updated_at": "2014-12-06T07:33:03-05:00"
 }

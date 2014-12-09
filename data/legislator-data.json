@@ -6,6 +6,7 @@
       "HSAP02": 1,
       "HSAP10": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Rodney P. Frelinghuysen",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -32,6 +33,7 @@
       "HSAG16": 9,
       "HSAG15": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Gloria Negrete McLeod",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -60,6 +62,7 @@
       "HSII": 16,
       "HSII13": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Raul Ruiz",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -90,6 +93,7 @@
       "HSFA05": 2,
       "HSFA16": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Ami Bera",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -116,6 +120,7 @@
       "HSFA18": 6,
       "HSAS28": 10
     },
+    "num_outcomm_bills": 2,
     "name": "Paul Cook",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -148,6 +153,7 @@
       "HSAG16": 11,
       "HSAG14": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Doug LaMalfa",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -171,6 +177,7 @@
       "HSII13": 3,
       "HSII": 15
     },
+    "num_outcomm_bills": 1,
     "name": "Jared Huffman",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -198,6 +205,7 @@
       "HSVR": 4,
       "HSVR03": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Julia Brownley",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -232,6 +240,7 @@
       "HSII06": 8,
       "HSGO27": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Tony C\u00e1rdenas",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -262,6 +271,7 @@
       "HSSY20": 1,
       "HSSY21": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Eric Swalwell",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -272,7 +282,6 @@
       "hr1671",
       "hr3518",
       "hr1022",
-      "hr3438",
       "hr952",
       "hr3771"
     ],
@@ -286,6 +295,7 @@
       "HSAP18": 6,
       "HSAP01": 7
     },
+    "num_outcomm_bills": 1,
     "name": "David G. Valadao",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -310,6 +320,7 @@
       "HSSY": 3,
       "HSSY15": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Daniel Lipinski",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -321,6 +332,7 @@
       "hr3346",
       "hr1322",
       "hr4528",
+      "hr3085",
       "hr4644",
       "hr1986",
       "hr2988",
@@ -328,7 +340,7 @@
       "hr2853"
     ],
     "thomas_id": "01781",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01780": {
     "committeesMap": {
@@ -338,6 +350,7 @@
       "HSIF14": 9,
       "HSIF18": 9
     },
+    "num_outcomm_bills": 0,
     "name": "John Barrow",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -369,6 +382,7 @@
       "HSWM04": 8,
       "HSWM06": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Charles W. Boustany Jr.",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -404,6 +418,7 @@
       "HSJU": 2,
       "HSJU03": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Jerrold Nadler",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -439,6 +454,7 @@
       "HSWM05": 1,
       "HSWM04": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Richard E. Neal",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -477,6 +493,7 @@
       "SSAS20": 3,
       "SSFI": 6
     },
+    "num_outcomm_bills": 7,
     "name": "Bill Nelson",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -524,6 +541,7 @@
       "HLIG05": 4,
       "HLIG": 9
     },
+    "num_outcomm_bills": 2,
     "name": "Michele Bachmann",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -534,12 +552,13 @@
       "hr2091",
       "hr1788",
       "hr42",
+      "hr43",
       "hr46",
       "hr45",
       "hr162"
     ],
     "thomas_id": "01858",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02079": {
     "committeesMap": {
@@ -559,6 +578,7 @@
       "SSAP19": 6,
       "SSAF": 6
     },
+    "num_outcomm_bills": 4,
     "name": "John Hoeven",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -604,6 +624,7 @@
       "SSCM": 1,
       "SSFI": 2
     },
+    "num_outcomm_bills": 6,
     "name": "John D. Rockefeller, IV",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -657,6 +678,7 @@
       "HSWM05": 2,
       "HSWM04": 3
     },
+    "num_outcomm_bills": 1,
     "name": "John B. Larson",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -693,6 +715,7 @@
       "SSAF13": 1,
       "SSAF": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Joe Donnelly",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -719,6 +742,7 @@
       "HSIF03": 4,
       "HSIF02": 9
     },
+    "num_outcomm_bills": 0,
     "name": "John A. Yarmuth",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -745,6 +769,7 @@
       "HSII": 5,
       "HSII06": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Rush Holt",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -786,6 +811,7 @@
       "HSGO25": 2,
       "HSGO27": 6
     },
+    "num_outcomm_bills": 1,
     "name": "Tim Walberg",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -812,6 +838,7 @@
       "HSIF": 18,
       "HSIF14": 12
     },
+    "num_outcomm_bills": 0,
     "name": "John P. Sarbanes",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -836,6 +863,7 @@
       "HSBA": 15,
       "HSBA09": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Keith Ellison",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -875,6 +903,7 @@
       "HSBA04": 4,
       "HSBA": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Gary G. Miller",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -901,6 +930,7 @@
       "HSIF14": 15,
       "HSIF02": 12
     },
+    "num_outcomm_bills": 0,
     "name": "Renee L. Ellmers",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -933,6 +963,7 @@
       "HSII": 2,
       "HSII22": 2
     },
+    "num_outcomm_bills": 9,
     "name": "Don Young",
     "num_leader_roles": 0,
     "num_terms": 21,
@@ -943,7 +974,6 @@
       "hr2718",
       "hr1866",
       "hr4780",
-      "hr4668",
       "hr1306",
       "hr1307",
       "hr588",
@@ -986,6 +1016,7 @@
       "HSAP10": 3,
       "HSAP01": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Alan Nunnelee",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -1012,6 +1043,7 @@
       "HSAS": 26,
       "HSAS28": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Steven M. Palazzo",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -1041,6 +1073,7 @@
       "HSAG16": 8,
       "HSAG14": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Vicky Hartzler",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -1065,6 +1098,7 @@
       "HSIF": 29,
       "HSIF02": 11
     },
+    "num_outcomm_bills": 1,
     "name": "Billy Long",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -1096,6 +1130,7 @@
       "SSAP19": 2,
       "SSAF": 2
     },
+    "num_outcomm_bills": 2,
     "name": "Mitch McConnell",
     "num_leader_roles": 4,
     "num_terms": 5,
@@ -1125,6 +1160,7 @@
       "HSWM03": 1,
       "HSWM": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Lloyd Doggett",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -1157,6 +1193,7 @@
       "HSAS": 24,
       "HSAS28": 8
     },
+    "num_outcomm_bills": 2,
     "name": "Jon Runyan",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -1186,6 +1223,7 @@
       "HSHM": 3,
       "HSJU01": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Sheila Jackson Lee",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -1237,6 +1275,7 @@
       "HSIF14": 7,
       "HSIF18": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Gene Green",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -1270,6 +1309,7 @@
       "HLIG": 2,
       "HSAS": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Mac Thornberry",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -1300,6 +1340,7 @@
       "HSHM11": 5,
       "HSHM": 1
     },
+    "num_outcomm_bills": 2,
     "name": "Bennie G. Thompson",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -1308,12 +1349,12 @@
     "party": "Democrat",
     "bills": [
       "hr2898",
+      "hr1455",
       "hr2271",
       "hr735",
       "hr1245",
       "hr1516",
       "hr1204",
-      "hr1455",
       "hr4409",
       "hr579",
       "hr2326",
@@ -1330,6 +1371,7 @@
       "HSIF14": 1,
       "HSIF18": 5
     },
+    "num_outcomm_bills": 4,
     "name": "Joseph R. Pitts",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -1360,6 +1402,7 @@
       "HSFA07": 3,
       "HSRU04": 3
     },
+    "num_outcomm_bills": 3,
     "name": "Ileana Ros-Lehtinen",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -1381,7 +1424,6 @@
       "hr417",
       "hr3155",
       "hr893",
-      "hr3583",
       "hr938"
     ],
     "thomas_id": "00985",
@@ -1393,6 +1435,7 @@
       "HSWM": 12,
       "HSWM02": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Bill Pascrell Jr.",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -1428,6 +1471,7 @@
       "HSGO24": 2,
       "HSAS29": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Jim Cooper",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -1451,6 +1495,7 @@
       "HSBA": 25,
       "HSBA09": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Kyrsten Sinema",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -1475,6 +1520,7 @@
       "HSBA20": 4,
       "HSBA": 14
     },
+    "num_outcomm_bills": 2,
     "name": "Stevan Pearce",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -1518,6 +1564,7 @@
       "SSJU": 8,
       "SSFR": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Jeff Flake",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -1530,9 +1577,7 @@
       "s2011",
       "s251",
       "s1300",
-      "s1750",
       "s1342",
-      "s2104",
       "s937",
       "s2319",
       "s1915",
@@ -1551,6 +1596,7 @@
       "HLIG": 5,
       "HLZI": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Adam B. Schiff",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -1583,6 +1629,7 @@
       "HSAP": 15,
       "HSAP07": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Michael M. Honda",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -1627,6 +1674,7 @@
       "HSPW12": 6,
       "HSPW14": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Michael H. Michaud",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -1670,6 +1718,7 @@
       "JSPR": 2,
       "HSHA": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Candice S. Miller",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -1697,6 +1746,7 @@
       "HSED10": 2,
       "HSED14": 2
     },
+    "num_outcomm_bills": 4,
     "name": "John Kline",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -1722,6 +1772,7 @@
       "HSBA16": 1,
       "HSBA": 8
     },
+    "num_outcomm_bills": 6,
     "name": "Scott Garrett",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -1731,7 +1782,6 @@
     "bills": [
       "hr2589",
       "hr1256",
-      "hr4569",
       "hr3065",
       "hr2394",
       "hr3928",
@@ -1755,6 +1805,7 @@
       "HSED13": 3,
       "HSAS": 1
     },
+    "num_outcomm_bills": 2,
     "name": "Howard P. \"Buck\" McKeon",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -1782,6 +1833,7 @@
       "HSGO": 11,
       "HSGO27": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Paul A. Gosar",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -1793,6 +1845,7 @@
       "hr448",
       "hr424",
       "hr3557",
+      "hr4924",
       "hr1345",
       "hr1798",
       "hr4142",
@@ -1808,7 +1861,7 @@
       "hr1495"
     ],
     "thomas_id": "01992",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "01188": {
     "committeesMap": {
@@ -1816,6 +1869,7 @@
       "HSAP02": 1,
       "HSAP10": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Peter J. Visclosky",
     "num_leader_roles": 0,
     "num_terms": 15,
@@ -1839,6 +1893,7 @@
       "HSFA07": 4,
       "HSSO": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Theodore E. Deutch",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -1869,6 +1924,7 @@
       "HSAP": 22,
       "HSAP02": 5
     },
+    "num_outcomm_bills": 1,
     "name": "William L. Owens",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -1900,6 +1956,7 @@
       "HSBA": 3,
       "HSSM": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Nydia M. Vel\u00e1zquez",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -1936,6 +1993,7 @@
       "HSAG16": 11,
       "HSAS29": 5
     },
+    "num_outcomm_bills": 0,
     "name": "John Garamendi",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -1956,6 +2014,7 @@
       "HSRU02": 1,
       "JCSE": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Alcee L. Hastings",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -1983,6 +2042,7 @@
     "committeesMap": {
       "HSBA": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Jeb Hensarling",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -2002,6 +2062,7 @@
       "HSBU": 14,
       "HSIF": 12
     },
+    "num_outcomm_bills": 0,
     "name": "Marsha Blackburn",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -2042,6 +2103,7 @@
       "HSIF02": 1,
       "HSIF18": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Tim Murphy",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -2069,6 +2131,7 @@
       "HSAS29": 7,
       "HSAS": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Michael R. Turner",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -2108,6 +2171,7 @@
       "HSED10": 2,
       "HSED13": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Timothy H. Bishop",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -2142,6 +2206,7 @@
       "HSWM05": 4,
       "HSWM02": 6
     },
+    "num_outcomm_bills": 2,
     "name": "Jim Gerlach",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -2176,6 +2241,7 @@
       "HSAP02": 6,
       "HSAP": 13
     },
+    "num_outcomm_bills": 2,
     "name": "Tom Cole",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -2211,6 +2277,7 @@
       "SSGA01": 3,
       "SSFI": 10
     },
+    "num_outcomm_bills": 3,
     "name": "Rob Portman",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -2264,6 +2331,7 @@
       "SSVA": 3,
       "SSBK04": 1
     },
+    "num_outcomm_bills": 2,
     "name": "Mike Johanns",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2286,7 +2354,7 @@
       "s320"
     ],
     "thomas_id": "01899",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01898": {
     "committeesMap": {
@@ -2309,6 +2377,7 @@
       "SSVA": 6,
       "SSGA15": 5
     },
+    "num_outcomm_bills": 7,
     "name": "Mark Begich",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2398,6 +2467,7 @@
       "HSED10": 3,
       "HSAG14": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Marcia L. Fudge",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -2424,6 +2494,7 @@
       "HSSY18": 3,
       "HSSY": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Donna F. Edwards",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -2459,6 +2530,7 @@
       "SSBK": 7,
       "SSFI": 13
     },
+    "num_outcomm_bills": 1,
     "name": "Mark R. Warner",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2479,7 +2551,6 @@
       "s1906",
       "s2075",
       "s1218",
-      "s1000",
       "s1024",
       "s1903",
       "s1209",
@@ -2514,6 +2585,7 @@
       "SLET": 3,
       "SSFR": 2
     },
+    "num_outcomm_bills": 1,
     "name": "James E. Risch",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2537,6 +2609,7 @@
     "committeesMap": {
       "SLIN": 9
     },
+    "num_outcomm_bills": 9,
     "name": "Harry Reid",
     "num_leader_roles": 4,
     "num_terms": 7,
@@ -2576,6 +2649,7 @@
       "HSIF03": 2,
       "HSIF02": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Steve Scalise",
     "num_leader_roles": 1,
     "num_terms": 4,
@@ -2600,6 +2674,7 @@
       "HSIF03": 5,
       "HSIF14": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Eliot L. Engel",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -2608,11 +2683,11 @@
     "party": "Democrat",
     "bills": [
       "hr1887",
-      "hr1327",
       "hr2493",
       "hr1585",
       "hr2075",
       "hr1730",
+      "hr1327",
       "hr1930",
       "hr1915",
       "hr537",
@@ -2647,6 +2722,7 @@
       "SSCM25": 8,
       "SSCM": 10
     },
+    "num_outcomm_bills": 1,
     "name": "Brian Schatz",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2686,6 +2762,7 @@
       "HSFA13": 8,
       "HSFA18": 6
     },
+    "num_outcomm_bills": 2,
     "name": "Joseph P. Kennedy III",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2708,6 +2785,7 @@
       "HSED": 17,
       "HSED10": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Mark Pocan",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2741,6 +2819,7 @@
       "SSAS20": 7,
       "SSEV15": 2
     },
+    "num_outcomm_bills": 2,
     "name": "James M. Inhofe",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -2782,6 +2861,7 @@
       "HSFA14": 7,
       "HSFA16": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Steve Stockman",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -2830,6 +2910,7 @@
       "SSFR06": 2,
       "SSFR": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Tim Kaine",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2871,6 +2952,7 @@
       "SSCM": 9,
       "SSAS20": 6
     },
+    "num_outcomm_bills": 11,
     "name": "Ted Cruz",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2917,6 +2999,7 @@
       "SSGA16": 6,
       "SSBK04": 8
     },
+    "num_outcomm_bills": 1,
     "name": "Heidi Heitkamp",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -2941,6 +3024,7 @@
       "HSBA": 20,
       "HSBU": 22
     },
+    "num_outcomm_bills": 4,
     "name": "Sean P. Duffy",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -2981,6 +3065,7 @@
       "HSBU": 10,
       "HSAG15": 6
     },
+    "num_outcomm_bills": 2,
     "name": "Reid J. Ribble",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -3023,6 +3108,7 @@
       "SSAS20": 1,
       "SSEV15": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Deb Fischer",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -3034,6 +3120,7 @@
       "s2044",
       "s2362",
       "s1792",
+      "s2583",
       "s1539",
       "s2106",
       "s2420",
@@ -3043,7 +3130,7 @@
       "s2007"
     ],
     "thomas_id": "02179",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02071": {
     "committeesMap": {
@@ -3055,6 +3142,7 @@
       "HSSM24": 3,
       "HSSM": 8
     },
+    "num_outcomm_bills": 2,
     "name": "Jaime Herrera Beutler",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -3093,6 +3181,7 @@
       "SSVA": 7,
       "SSCM": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Richard Blumenthal",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -3108,7 +3197,6 @@
       "s876",
       "s174",
       "s1174",
-      "s1624",
       "s1150",
       "s2150",
       "s1602",
@@ -3118,6 +3206,7 @@
       "s863",
       "s1041",
       "s1721",
+      "s1624",
       "s1303",
       "s702",
       "s1696",
@@ -3148,6 +3237,7 @@
       "HSIF03": 11,
       "HSIF18": 10
     },
+    "num_outcomm_bills": 3,
     "name": "David B. McKinley",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -3210,6 +3300,7 @@
       "SPAG": 7,
       "SSGA15": 4
     },
+    "num_outcomm_bills": 5,
     "name": "Kelly Ayotte",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -3249,6 +3340,7 @@
       "HSBA": 12,
       "HSBA09": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Al Green",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3283,6 +3375,7 @@
       "HSED02": 4,
       "HSED": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Kenny Marchant",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3304,6 +3397,7 @@
       "HSAP04": 5,
       "HSAP": 19
     },
+    "num_outcomm_bills": 1,
     "name": "Henry Cuellar",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3332,6 +3426,7 @@
       "HSHM": 1,
       "HSFA07": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Michael T. McCaul",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3367,6 +3462,7 @@
       "HSSO": 1,
       "HSAS28": 2
     },
+    "num_outcomm_bills": 1,
     "name": "K. Michael Conaway",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3389,6 +3485,7 @@
       "HSFA14": 2,
       "HSFA18": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Ted Poe",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3450,6 +3547,7 @@
       "SSAP19": 5,
       "SSCM": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Daniel Coats",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -3481,6 +3579,7 @@
       "HSII06": 2,
       "HSJU08": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Louie Gohmert",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3517,6 +3616,7 @@
       "SSGA16": 5,
       "SSGA15": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Tammy Baldwin",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -3529,7 +3629,6 @@
       "s1992",
       "s2133",
       "s1299",
-      "s2031",
       "s1789",
       "s1552",
       "s1701",
@@ -3548,6 +3647,7 @@
       "HSIF": 8,
       "HSIF03": 6
     },
+    "num_outcomm_bills": 4,
     "name": "Lee Terry",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -3579,6 +3679,7 @@
       "HSIF": 16,
       "HSIF14": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Cathy McMorris Rodgers",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -3610,6 +3711,7 @@
       "HSGO25": 2,
       "HSGO27": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Eleanor Holmes Norton",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -3676,6 +3778,7 @@
       "HSIF": 1,
       "HSIF18": 11
     },
+    "num_outcomm_bills": 0,
     "name": "Henry A. Waxman",
     "num_leader_roles": 0,
     "num_terms": 20,
@@ -3699,6 +3802,7 @@
     "committeesMap": {
       "HSBA": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Maxine Waters",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -3725,6 +3829,7 @@
   },
   "01207": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "Melvin L. Watt",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -3776,6 +3881,7 @@
       "SSEV10": 6,
       "SSFR": 10
     },
+    "num_outcomm_bills": 0,
     "name": "Edward J. Markey",
     "num_leader_roles": 0,
     "num_terms": 21,
@@ -3791,7 +3897,6 @@
       "s1587",
       "s2135",
       "s2136",
-      "s1627",
       "s2158",
       "s2151",
       "hr1508",
@@ -3817,6 +3922,7 @@
       "s2092",
       "s1981",
       "s2373",
+      "s1627",
       "hr1093",
       "s1698",
       "hr601",
@@ -3847,6 +3953,7 @@
       "HSPW12": 19,
       "HSAG16": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Cheri Bustos",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -3871,6 +3978,7 @@
       "HSRU": 1,
       "HSRU04": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Pete Sessions",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -3894,6 +4002,7 @@
       "HSIF14": 4,
       "HSIF18": 1
     },
+    "num_outcomm_bills": 2,
     "name": "John Shimkus",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -3918,6 +4027,7 @@
       "HSFA05": 4,
       "HSFA18": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Brad Sherman",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -3941,6 +4051,7 @@
       "HSAS": 2,
       "HSAS29": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Loretta Sanchez",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -3962,6 +4073,7 @@
       "HSAS": 1,
       "HLZI": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Adam Smith",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -3992,6 +4104,7 @@
       "HLIG": 3,
       "HSIF18": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Janice D. Schakowsky",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -4029,6 +4142,7 @@
       "HSWM": 1,
       "JSTX": 1
     },
+    "num_outcomm_bills": 7,
     "name": "Dave Camp",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -4060,6 +4174,7 @@
       "HSAP10": 4,
       "HSAP": 12
     },
+    "num_outcomm_bills": 1,
     "name": "Ken Calvert",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -4092,6 +4207,7 @@
       "SSBK": 11,
       "SSHR09": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Elizabeth Warren",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -4122,6 +4238,7 @@
       "HSHA": 2,
       "HSIF18": 8
     },
+    "num_outcomm_bills": 2,
     "name": "Gregg Harper",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -4153,6 +4270,7 @@
       "HSWM05": 2,
       "HSWM06": 6
     },
+    "num_outcomm_bills": 3,
     "name": "Erik Paulsen",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -4195,6 +4313,7 @@
       "HSSM25": 3,
       "HSSM": 5
     },
+    "num_outcomm_bills": 3,
     "name": "Blaine Luetkemeyer",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -4209,7 +4328,6 @@
       "hr4521",
       "hr4396",
       "hr1750",
-      "hr4200",
       "hr3329",
       "hr1566",
       "hr3604",
@@ -4230,6 +4348,7 @@
       "HSIF": 18,
       "HSIF14": 10
     },
+    "num_outcomm_bills": 0,
     "name": "Leonard Lance",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -4257,6 +4376,7 @@
       "SLIN": 7,
       "SSEG": 11
     },
+    "num_outcomm_bills": 3,
     "name": "Martin Heinrich",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -4287,6 +4407,7 @@
       "SLIN": 8,
       "SSAS": 14
     },
+    "num_outcomm_bills": 0,
     "name": "Angus S. King, Jr.",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -4310,6 +4431,7 @@
       "HSIF": 22,
       "HSIF02": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Ben Ray Luj\u00e1n",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -4363,6 +4485,7 @@
       "SSGA": 3,
       "SSCM": 5
     },
+    "num_outcomm_bills": 4,
     "name": "Mark L. Pryor",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -4373,7 +4496,6 @@
       "s496",
       "s2084",
       "s2087",
-      "s1625",
       "s463",
       "s686",
       "s1413",
@@ -4382,6 +4504,7 @@
       "s1963",
       "s867",
       "s1722",
+      "s1625",
       "s552",
       "s1367",
       "s1164",
@@ -4409,6 +4532,7 @@
       "JCSE": 2,
       "HSRU04": 2
     },
+    "num_outcomm_bills": 2,
     "name": "Louise McIntosh Slaughter",
     "num_leader_roles": 0,
     "num_terms": 14,
@@ -4434,6 +4558,7 @@
   },
   "01703": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "Jo Bonner",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -4460,6 +4585,7 @@
       "HSAS29": 1,
       "HSAG15": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Mike Rogers",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -4482,6 +4608,7 @@
       "HSJU08": 6,
       "HSAS29": 2
     },
+    "num_outcomm_bills": 2,
     "name": "Trent Franks",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -4496,7 +4623,6 @@
       "hr1797",
       "hr2417",
       "hr2846",
-      "hr3410",
       "hr3629",
       "hr3292",
       "hjres40"
@@ -4514,6 +4640,7 @@
       "HSED": 2,
       "HSED13": 2
     },
+    "num_outcomm_bills": 1,
     "name": "Thomas E. Petri",
     "num_leader_roles": 0,
     "num_terms": 18,
@@ -4552,6 +4679,7 @@
       "HSED02": 12,
       "HLZI": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Susan W. Brooks",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -4578,6 +4706,7 @@
       "HSII06": 9,
       "HSED02": 6
     },
+    "num_outcomm_bills": 1,
     "name": "Ra\u00fal M. Grijalva",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -4592,7 +4721,6 @@
       "hr547",
       "hr545",
       "hr4378",
-      "hr1934",
       "hr2580",
       "hr1834",
       "hr1348",
@@ -4606,6 +4734,7 @@
       "hr1602",
       "hr2516",
       "hr479",
+      "hr1934",
       "hr2515",
       "hr2517",
       "hr1680",
@@ -4628,6 +4757,7 @@
       "JSTX": 2,
       "HSWM02": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Sam Johnson",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -4647,18 +4777,20 @@
       "hr2720",
       "hr556",
       "hr4531",
+      "hr5739",
       "hr781",
       "hr2027",
       "hr2289",
       "hr2557"
     ],
     "thomas_id": "00603",
-    "num_success_bills": 2
+    "num_success_bills": 3
   },
   "00910": {
     "committeesMap": {
       "HSAG": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Collin C. Peterson",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -4680,6 +4812,7 @@
       "HSAS29": 3,
       "HSAS28": 3
     },
+    "num_outcomm_bills": 1,
     "name": "James R. Langevin",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -4723,6 +4856,7 @@
       "SSAP19": 1,
       "SSAP22": 3
     },
+    "num_outcomm_bills": 3,
     "name": "Tim Johnson",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -4747,6 +4881,7 @@
       "HSWM": 6,
       "HSWM05": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Patrick J. Tiberi",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -4754,6 +4889,7 @@
     "committee_btwnscore": 0.0,
     "party": "Republican",
     "bills": [
+      "hr4919",
       "hr4429",
       "hr3823",
       "hr2203",
@@ -4762,10 +4898,11 @@
       "hr3489"
     ],
     "thomas_id": "01664",
-    "num_success_bills": 0
+    "num_success_bills": 2
   },
   "01663": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "Steve Israel",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -4821,6 +4958,7 @@
       "HSAG16": 8,
       "HSAG15": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Timothy J. Walz",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -4833,15 +4971,17 @@
       "hr2785",
       "hr4191",
       "hr3569",
+      "hr3682",
       "hr1727",
       "hr1980",
       "hr975"
     ],
     "thomas_id": "01856",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01255": {
     "committeesMap": {},
+    "num_outcomm_bills": 1,
     "name": "C. W. Bill Young",
     "num_leader_roles": 0,
     "num_terms": 22,
@@ -4871,6 +5011,7 @@
       "HSFA18": 4,
       "HSAS29": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Mo Brooks",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -4897,6 +5038,7 @@
       "HSAP18": 7,
       "HSAP": 27
     },
+    "num_outcomm_bills": 1,
     "name": "Martha Roby",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -4922,6 +5064,7 @@
       "HSSM23": 6,
       "HSSM": 12
     },
+    "num_outcomm_bills": 0,
     "name": "Kerry L. Bentivolio",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -4960,6 +5103,7 @@
       "SSFR": 5,
       "SSBU": 9
     },
+    "num_outcomm_bills": 2,
     "name": "Christopher A. Coons",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -4968,8 +5112,8 @@
     "party": "Democrat",
     "bills": [
       "s795",
-      "s1790",
       "s2346",
+      "s1790",
       "s393",
       "s1745",
       "s2052",
@@ -5003,6 +5147,7 @@
       "SSBK": 10,
       "SSAS20": 5
     },
+    "num_outcomm_bills": 4,
     "name": "Joe Manchin, III",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -5045,6 +5190,7 @@
       "HSWM05": 6,
       "HSWM06": 5
     },
+    "num_outcomm_bills": 2,
     "name": "Tom Reed",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -5083,6 +5229,7 @@
       "HSBA20": 8,
       "HSBA": 25
     },
+    "num_outcomm_bills": 0,
     "name": "Marlin A. Stutzman",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -5109,6 +5256,7 @@
       "HSFA05": 8,
       "HSBU": 19
     },
+    "num_outcomm_bills": 2,
     "name": "Luke Messer",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -5139,6 +5287,7 @@
       "HSAG16": 6,
       "HSAG15": 5
     },
+    "num_outcomm_bills": 2,
     "name": "Eric A. \"Rick\" Crawford",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -5175,6 +5324,7 @@
       "HSBA": 20,
       "HLIG05": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Terri A. Sewell",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -5207,6 +5357,7 @@
       "SSVA": 1,
       "SSHR09": 4
     },
+    "num_outcomm_bills": 11,
     "name": "Bernard Sanders",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -5270,7 +5421,7 @@
       "s1018"
     ],
     "thomas_id": "01010",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "01012": {
     "committeesMap": {
@@ -5282,6 +5433,7 @@
       "HSHM12": 5,
       "HSHM": 17
     },
+    "num_outcomm_bills": 0,
     "name": "Mark Sanford",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5301,6 +5453,7 @@
       "HSWM": 14,
       "HSWM05": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Allyson Y. Schwartz",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -5329,6 +5482,7 @@
       "HSAP": 15,
       "HSSO": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Charles W. Dent",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -5358,6 +5512,7 @@
       "HSGO": 5,
       "HSGO27": 3
     },
+    "num_outcomm_bills": 2,
     "name": "Patrick T. McHenry",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -5380,6 +5535,7 @@
       "HSAP10": 7,
       "HSAP01": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Jeff Fortenberry",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -5406,6 +5562,7 @@
       "HSBA": 13,
       "HSBA09": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Emanuel Cleaver",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -5428,6 +5585,7 @@
       "HSED13": 1,
       "HSRU02": 2
     },
+    "num_outcomm_bills": 4,
     "name": "Virginia Foxx",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -5452,6 +5610,7 @@
       "HSBA": 16,
       "HSBA09": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Michael G. Fitzpatrick",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -5498,6 +5657,7 @@
       "HSHM": 5,
       "HSFA14": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Brian Higgins",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -5530,6 +5690,7 @@
       "SSEG": 7,
       "SSAS20": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Mark Udall",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -5585,6 +5746,7 @@
       "HSIF16": 1,
       "HSIF": 7
     },
+    "num_outcomm_bills": 4,
     "name": "Greg Walden",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -5613,6 +5775,7 @@
       "HSAP": 8,
       "HSAP10": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Michael K. Simpson",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -5644,6 +5807,7 @@
       "HLIG": 2,
       "HLIG08": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Mike Thompson",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -5656,6 +5820,7 @@
       "hr4783",
       "hr3986",
       "hr750",
+      "hr5106",
       "hr3439",
       "hr4285",
       "hr2260",
@@ -5664,7 +5829,7 @@
       "hr932"
     ],
     "thomas_id": "01593",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "00867": {
     "committeesMap": {
@@ -5677,6 +5842,7 @@
       "HSPW12": 13,
       "HSAG15": 4
     },
+    "num_outcomm_bills": 1,
     "name": "Richard M. Nolan",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5689,7 +5855,6 @@
       "hr2432",
       "hr4736",
       "hr4441",
-      "hr4220",
       "hr4115",
       "hr4735",
       "hr2650",
@@ -5705,6 +5870,7 @@
       "HSWM02": 5,
       "HLZI": 4
     },
+    "num_outcomm_bills": 4,
     "name": "Peter J. Roskam",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5741,6 +5907,7 @@
       "HSAS29": 6,
       "HSAS28": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Henry C. \"Hank\" Johnson Jr.",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5767,6 +5934,7 @@
       "HSWM04": 4,
       "HSWM02": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Vern Buchanan",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5796,6 +5964,7 @@
       "HSAS03": 3,
       "HSAS": 11
     },
+    "num_outcomm_bills": 0,
     "name": "David Loebsack",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5828,6 +5997,7 @@
       "SSJU04": 7,
       "SSVA": 8
     },
+    "num_outcomm_bills": 2,
     "name": "Mazie K. Hirono",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5840,6 +6010,7 @@
       "s899",
       "s1588",
       "s1821",
+      "s1108",
       "s1847",
       "s461",
       "s2194",
@@ -5850,7 +6021,6 @@
       "s703",
       "s519",
       "s1107",
-      "s1108",
       "s640",
       "s1868",
       "s2218"
@@ -5864,6 +6034,7 @@
       "HSIF": 20,
       "HSIF02": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Bruce L. Braley",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -5905,6 +6076,7 @@
       "HSBA16": 17,
       "HSBA": 28
     },
+    "num_outcomm_bills": 1,
     "name": "Dennis A. Ross",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -5942,6 +6114,7 @@
       "HSRU04": 4,
       "HSRU02": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Daniel Webster",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -5965,6 +6138,7 @@
       "HSHA": 6,
       "HSRU02": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Richard B. Nugent",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -5994,6 +6168,7 @@
       "HSII22": 6,
       "HSII": 17
     },
+    "num_outcomm_bills": 0,
     "name": "Steve Southerland II",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6024,6 +6199,7 @@
       "SSBU": 2,
       "SSFI": 1
     },
+    "num_outcomm_bills": 14,
     "name": "Ron Wyden",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -6043,11 +6219,9 @@
       "s659",
       "s2157",
       "s467",
-      "s1419",
       "s1414",
       "s1415",
       "s639",
-      "s1784",
       "s1250",
       "s1431",
       "s1437",
@@ -6062,9 +6236,7 @@
       "s783",
       "s256",
       "s2260",
-      "s2261",
       "s1513",
-      "s2379",
       "s1301",
       "s1309",
       "s551",
@@ -6081,7 +6253,8 @@
       "s971",
       "s1228",
       "s1137",
-      "s812"
+      "s812",
+      "s2261"
     ],
     "thomas_id": "01247",
     "num_success_bills": 1
@@ -6097,6 +6270,7 @@
       "HSAG16": 5,
       "HSAG14": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Austin Scott",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6124,6 +6298,7 @@
       "HSGO": 18,
       "HSGO27": 11
     },
+    "num_outcomm_bills": 1,
     "name": "Rob Woodall",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6147,6 +6322,7 @@
       "HSGO": 17,
       "HSGO27": 8
     },
+    "num_outcomm_bills": 1,
     "name": "Michelle Lujan Grisham",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -6178,6 +6354,7 @@
       "HSGO": 16,
       "HSGO27": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Steven A. Horsford",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -6202,6 +6379,7 @@
       "HSGO": 9,
       "HSGO27": 1
     },
+    "num_outcomm_bills": 2,
     "name": "James Lankford",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6227,6 +6405,7 @@
       "HSWM": 4,
       "HSWM02": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Paul Ryan",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -6251,6 +6430,7 @@
       "HSBA": 6,
       "HSSO": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Michael E. Capuano",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -6308,6 +6488,7 @@
       "SSFR": 7,
       "SSAP22": 8
     },
+    "num_outcomm_bills": 10,
     "name": "Tom Udall",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -6319,9 +6500,9 @@
       "s285",
       "s284",
       "s870",
+      "s898",
       "s1131",
       "s773",
-      "s776",
       "s1371",
       "s1805",
       "s1843",
@@ -6356,10 +6537,11 @@
       "s222"
     ],
     "thomas_id": "01567",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "00208": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "James E. Clyburn",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -6388,6 +6570,7 @@
       "SSJU04": 2,
       "SSFI": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Chuck Grassley",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -6422,6 +6605,7 @@
       "HSAP04": 2,
       "HSAP": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Frank R. Wolf",
     "num_leader_roles": 0,
     "num_terms": 17,
@@ -6457,6 +6641,7 @@
       "SSAP24": 6,
       "SSJU04": 3
     },
+    "num_outcomm_bills": 8,
     "name": "Dianne Feinstein",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -6541,6 +6726,7 @@
       "SSAP18": 5,
       "SSAS20": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Lindsey Graham",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -6571,6 +6757,7 @@
       "HSGO25": 1,
       "HSGO27": 9
     },
+    "num_outcomm_bills": 2,
     "name": "Blake Farenthold",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6600,6 +6787,7 @@
       "HSIF": 3,
       "HSIF18": 2
     },
+    "num_outcomm_bills": 1,
     "name": "Frank Pallone Jr.",
     "num_leader_roles": 0,
     "num_terms": 14,
@@ -6620,10 +6808,11 @@
       "hr2960",
       "hr1445",
       "hr626",
+      "hr669",
       "hr2699"
     ],
     "thomas_id": "00887",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "00766": {
     "committeesMap": {
@@ -6631,6 +6820,7 @@
       "HSWM": 3,
       "HSWM02": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Jim McDermott",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -6694,6 +6884,7 @@
       "SLET": 1,
       "SSEV15": 7
     },
+    "num_outcomm_bills": 9,
     "name": "Barbara Boxer",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -6709,6 +6900,7 @@
       "s2324",
       "s2307",
       "s771",
+      "s2673",
       "s1211",
       "s45",
       "s462",
@@ -6748,10 +6940,11 @@
       "s809"
     ],
     "thomas_id": "00116",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "02118": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "Trey Radel",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -6778,6 +6971,7 @@
       "HSAS25": 6,
       "HSAS": 20
     },
+    "num_outcomm_bills": 0,
     "name": "Daniel B. Maffei",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6785,13 +6979,13 @@
     "committee_btwnscore": 98.02574168067329,
     "party": "Democrat",
     "bills": [
-      "hr1295",
       "hr3127",
       "hr4335",
       "hr4204",
       "hr4408",
       "hr3669",
       "hr516",
+      "hr1295",
       "hr2558",
       "hr664",
       "hr3793"
@@ -6817,6 +7011,7 @@
       "SSAP18": 1,
       "SSHR09": 10
     },
+    "num_outcomm_bills": 11,
     "name": "Tom Harkin",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -6841,6 +7036,7 @@
       "s2036",
       "s985",
       "s2223",
+      "s2917",
       "s1151",
       "s1302",
       "s556",
@@ -6862,7 +7058,7 @@
       "s1561"
     ],
     "thomas_id": "00501",
-    "num_success_bills": 2
+    "num_success_bills": 3
   },
   "01940": {
     "committeesMap": {
@@ -6875,6 +7071,7 @@
       "HSPW02": 12,
       "HSVR": 5
     },
+    "num_outcomm_bills": 2,
     "name": "Dina Titus",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6917,6 +7114,7 @@
       "HSII22": 8,
       "HSII06": 11
     },
+    "num_outcomm_bills": 0,
     "name": "Joe Garcia",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -6954,6 +7152,7 @@
       "SSAP18": 4,
       "SSHR09": 8
     },
+    "num_outcomm_bills": 3,
     "name": "Lamar Alexander",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -6961,11 +7160,11 @@
     "committee_btwnscore": 22.27075330552623,
     "party": "Republican",
     "bills": [
-      "s1735",
       "s850",
       "s733",
       "s2321",
       "s1849",
+      "s1735",
       "s2383",
       "s1294",
       "s2178",
@@ -7005,6 +7204,7 @@
       "SSAP19": 4,
       "SSAP22": 6
     },
+    "num_outcomm_bills": 8,
     "name": "Lisa Murkowski",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -7032,7 +7232,6 @@
       "s2196",
       "s630",
       "s181",
-      "s182",
       "s1570",
       "s236",
       "s237",
@@ -7049,8 +7248,7 @@
       "s366",
       "s361",
       "s200",
-      "s340",
-      "s1971"
+      "s340"
     ],
     "thomas_id": "01694",
     "num_success_bills": 1
@@ -7067,6 +7265,7 @@
       "SSJU23": 4,
       "SSJU04": 1
     },
+    "num_outcomm_bills": 3,
     "name": "John Cornyn",
     "num_leader_roles": 1,
     "num_terms": 3,
@@ -7127,6 +7326,7 @@
       "HSAG16": 2,
       "HSBA04": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Randy Neugebauer",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -7162,6 +7362,7 @@
       "HSGO": 20,
       "HSGO25": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Doug Collins",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -7188,6 +7389,7 @@
       "HSAP02": 4,
       "HSAP": 17
     },
+    "num_outcomm_bills": 1,
     "name": "Tim Ryan",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -7222,6 +7424,7 @@
       "HSSO": 1,
       "HSWM06": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Linda T. S\u00e1nchez",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -7250,6 +7453,7 @@
       "HSAP": 11,
       "HSAP19": 5
     },
+    "num_outcomm_bills": 3,
     "name": "John R. Carter",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -7280,6 +7484,7 @@
       "HSSM": 5,
       "HSPW14": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Janice Hahn",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -7315,6 +7520,7 @@
       "HSIF14": 2,
       "HSIF": 11
     },
+    "num_outcomm_bills": 3,
     "name": "Michael C. Burgess",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -7363,6 +7569,7 @@
       "HSFA18": 2,
       "HSFA14": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Alan S. Lowenthal",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -7386,6 +7593,7 @@
       "HSSM26": 3,
       "HSSM": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Bradley S. Schneider",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -7408,6 +7616,7 @@
       "HSAS": 25,
       "HSAG16": 4
     },
+    "num_outcomm_bills": 1,
     "name": "William L. Enyart",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -7434,6 +7643,7 @@
       "HSED13": 1,
       "HSED02": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Rub\u00e9n Hinojosa",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -7465,6 +7675,7 @@
       "HSAG16": 13,
       "HSAG14": 6
     },
+    "num_outcomm_bills": 2,
     "name": "Rodney Davis",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -7493,6 +7704,7 @@
       "HSBA16": 11,
       "HSBA": 21
     },
+    "num_outcomm_bills": 0,
     "name": "Bill Foster",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -7523,6 +7735,7 @@
       "HSAS": 18,
       "HSAS29": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Andr\u00e9 Carson",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -7554,6 +7767,7 @@
       "HSII06": 4,
       "HSAS28": 6
     },
+    "num_outcomm_bills": 3,
     "name": "Robert J. Wittman",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -7581,6 +7795,7 @@
       "HSWM04": 5,
       "HSWM02": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Ron Kind",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -7619,6 +7834,7 @@
       "HSAS": 12,
       "HSII06": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Niki Tsongas",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -7647,6 +7863,7 @@
       "HSIF03": 8,
       "HSIF18": 7
     },
+    "num_outcomm_bills": 6,
     "name": "Robert E. Latta",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -7689,6 +7906,7 @@
       "HSII06": 5,
       "HSSY21": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Paul C. Broun",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -7727,6 +7945,7 @@
       "SSFR": 7,
       "SSEV15": 3
     },
+    "num_outcomm_bills": 5,
     "name": "John Barrasso",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -7754,11 +7973,12 @@
       "s1630",
       "s2427",
       "s603",
+      "s1934",
       "s192",
       "s327"
     ],
     "thomas_id": "01881",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02047": {
     "committeesMap": {
@@ -7766,6 +7986,7 @@
       "HSBA16": 13,
       "HSBA": 23
     },
+    "num_outcomm_bills": 4,
     "name": "Steve Stivers",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -7777,6 +7998,7 @@
       "hr1862",
       "hr1719",
       "hr3364",
+      "hr1391",
       "hr1303",
       "hr797",
       "hr677",
@@ -7786,10 +8008,11 @@
       "hr1393",
       "hr1838",
       "hr3584",
-      "hr1021"
+      "hr1021",
+      "hr4189"
     ],
     "thomas_id": "02047",
-    "num_success_bills": 0
+    "num_success_bills": 2
   },
   "02128": {
     "committeesMap": {
@@ -7801,6 +8024,7 @@
       "HSAS": 33,
       "HSBU": 18
     },
+    "num_outcomm_bills": 1,
     "name": "Jackie Walorski",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -7828,6 +8052,7 @@
       "HSSM23": 1,
       "HSSM": 9
     },
+    "num_outcomm_bills": 3,
     "name": "Richard L. Hanna",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -7857,6 +8082,7 @@
       "HSAS": 21,
       "HSAG16": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Christopher P. Gibson",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -7890,6 +8116,7 @@
       "HSBA": 22,
       "HSBA09": 6
     },
+    "num_outcomm_bills": 4,
     "name": "Michael G. Grimm",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -7938,6 +8165,7 @@
       "SSFR": 8,
       "SSHR09": 5
     },
+    "num_outcomm_bills": 12,
     "name": "Rand Paul",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8003,6 +8231,7 @@
       "SSCM": 12,
       "SSEV15": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Cory A. Booker",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8025,6 +8254,7 @@
       "HLIG": 6,
       "HLIG08": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Luis V. Guti\u00e9rrez",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -8047,6 +8277,7 @@
       "HSAP10": 4,
       "HSAP18": 4
     },
+    "num_outcomm_bills": 1,
     "name": "Chaka Fattah",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -8080,6 +8311,7 @@
       "HSWM03": 5,
       "HSWM": 23
     },
+    "num_outcomm_bills": 1,
     "name": "James B. Renacci",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -8106,6 +8338,7 @@
       "HSAP24": 5,
       "HSAP07": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Chris Stewart",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8114,10 +8347,9 @@
     "party": "Republican",
     "bills": [
       "hr758",
-      "hr1422",
+      "hr2427",
       "hr3311",
       "hr4256",
-      "hr2427",
       "hr4682"
     ],
     "thomas_id": "02168",
@@ -8132,6 +8364,7 @@
       "HSAS": 21,
       "HSAS28": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Derek Kilmer",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8167,6 +8400,7 @@
       "HSAS": 26,
       "HSAG16": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Pete P. Gallego",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8192,6 +8426,7 @@
       "HSPW14": 15,
       "HSPW05": 14
     },
+    "num_outcomm_bills": 1,
     "name": "Roger Williams",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8216,6 +8451,7 @@
       "HSAS": 27,
       "HSAS29": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Marc A. Veasey",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8237,6 +8473,7 @@
       "HSAG16": 2,
       "HSAG29": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Filemon Vela",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8262,6 +8499,7 @@
       "HSSM24": 6,
       "HSSM": 14
     },
+    "num_outcomm_bills": 0,
     "name": "Tom Rice",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8281,6 +8519,7 @@
       "HSFA13": 6,
       "HSFA16": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Randy K. Weber Sr.",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8302,6 +8541,7 @@
       "HSHM": 10,
       "HSVR": 10
     },
+    "num_outcomm_bills": 0,
     "name": "Beto O'Rourke",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8331,6 +8571,7 @@
       "HSAS": 22,
       "HSAS26": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Joaquin Castro",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -8353,6 +8594,7 @@
       "HSAP24": 2,
       "HSAP": 6
     },
+    "num_outcomm_bills": 1,
     "name": "James P. Moran",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -8383,6 +8625,7 @@
       "HSBA16": 9,
       "HSBA": 13
     },
+    "num_outcomm_bills": 4,
     "name": "Kevin McCarthy",
     "num_leader_roles": 3,
     "num_terms": 4,
@@ -8390,6 +8633,7 @@
     "committee_btwnscore": 0.0,
     "party": "Republican",
     "bills": [
+      "hjres129",
       "hr1673",
       "hr3576",
       "hr2661",
@@ -8399,7 +8643,7 @@
       "hr4458"
     ],
     "thomas_id": "01833",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "01832": {
     "committeesMap": {
@@ -8408,6 +8652,7 @@
       "HSIF03": 2,
       "HSIF18": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Jerry McNerney",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8447,6 +8692,7 @@
       "SSFR": 8,
       "SSHR09": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Christopher Murphy",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8481,6 +8727,7 @@
       "HSAS": 10,
       "HSAS28": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Joe Courtney",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8508,6 +8755,7 @@
       "HSBA": 16,
       "HSBA09": 4
     },
+    "num_outcomm_bills": 1,
     "name": "Ed Perlmutter",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8537,6 +8785,7 @@
       "HSII06": 1,
       "HSAS29": 3
     },
+    "num_outcomm_bills": 4,
     "name": "Doug Lamborn",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8549,6 +8798,7 @@
       "hr326",
       "hr1604",
       "hr3455",
+      "hr3375",
       "hr2597",
       "hr3271",
       "hr1063",
@@ -8557,7 +8807,7 @@
       "hr1965"
     ],
     "thomas_id": "01834",
-    "num_success_bills": 0
+    "num_success_bills": 2
   },
   "01839": {
     "committeesMap": {
@@ -8567,6 +8817,7 @@
       "HSIF02": 6,
       "HSIF14": 11
     },
+    "num_outcomm_bills": 0,
     "name": "Kathy Castor",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8593,6 +8844,7 @@
       "HSIF": 27,
       "HSIF18": 11
     },
+    "num_outcomm_bills": 2,
     "name": "Gus M. Bilirakis",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8633,6 +8885,7 @@
       "HSAP": 8,
       "HSAP18": 3
     },
+    "num_outcomm_bills": 0,
     "name": "David E. Price",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -8663,6 +8916,7 @@
       "SSAP19": 2,
       "SSHR09": 3
     },
+    "num_outcomm_bills": 9,
     "name": "Patty Murray",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -8717,6 +8971,7 @@
       "HSIF03": 10,
       "HSIF18": 10
     },
+    "num_outcomm_bills": 0,
     "name": "Doris O. Matsui",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -8747,6 +9002,7 @@
   },
   "01379": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "John F. Kerry",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -8769,6 +9025,7 @@
       "HSIF": 1,
       "HSIF18": 14
     },
+    "num_outcomm_bills": 3,
     "name": "Fred Upton",
     "num_leader_roles": 0,
     "num_terms": 14,
@@ -8777,13 +9034,14 @@
     "party": "Republican",
     "bills": [
       "hr3677",
+      "hr5728",
       "hr3204",
       "hr682",
       "hr3350",
       "hr3683"
     ],
     "thomas_id": "01177",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "00484": {
     "committeesMap": {
@@ -8794,6 +9052,7 @@
       "HSIF": 2,
       "HSIF18": 3
     },
+    "num_outcomm_bills": 3,
     "name": "Ralph M. Hall",
     "num_leader_roles": 0,
     "num_terms": 17,
@@ -8820,6 +9079,7 @@
       "HSWM": 7,
       "HSWM04": 3
     },
+    "num_outcomm_bills": 4,
     "name": "David G. Reichert",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -8839,7 +9099,6 @@
       "hr1896",
       "hr4634",
       "hr1148",
-      "hr1785",
       "hr892",
       "hr1982",
       "hr4454",
@@ -8855,6 +9114,7 @@
       "HSWM": 4,
       "HSWM06": 1
     },
+    "num_outcomm_bills": 1,
     "name": "John Lewis",
     "num_leader_roles": 0,
     "num_terms": 14,
@@ -8889,6 +9149,7 @@
       "HSIF02": 8,
       "HSIF18": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Paul Tonko",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -8916,6 +9177,7 @@
       "HSWM": 1,
       "JSTX": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Sander M. Levin",
     "num_leader_roles": 0,
     "num_terms": 16,
@@ -8942,6 +9204,7 @@
       "HSBA": 2,
       "HSGO": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Carolyn B. Maloney",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -9008,6 +9271,7 @@
       "SSCM": 1,
       "SSFI": 7
     },
+    "num_outcomm_bills": 2,
     "name": "John Thune",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -9051,6 +9315,7 @@
       "HSED13": 2,
       "HSED": 5
     },
+    "num_outcomm_bills": 0,
     "name": "John F. Tierney",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -9088,6 +9353,7 @@
       "SSVA": 1,
       "SSHR09": 3
     },
+    "num_outcomm_bills": 2,
     "name": "Richard Burr",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -9138,6 +9404,7 @@
       "SSAF": 1,
       "SSFI": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Debbie Stabenow",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -9173,6 +9440,7 @@
       "HSAP18": 1,
       "HSAP01": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Sanford D. Bishop Jr.",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -9194,6 +9462,7 @@
       "HSGO": 1,
       "HLZI": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Elijah E. Cummings",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -9212,11 +9481,12 @@
       "hr3694",
       "hr1706",
       "hr1234",
+      "hr1233",
       "hr2690",
       "hr2129"
     ],
     "thomas_id": "00256",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "00250": {
     "committeesMap": {
@@ -9237,6 +9507,7 @@
       "SSBU": 4,
       "SSEV09": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Mike Crapo",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -9244,6 +9515,7 @@
     "committee_btwnscore": 26.67810961737706,
     "party": "Republican",
     "bills": [
+      "s2040",
       "s906",
       "s847",
       "s1854",
@@ -9251,10 +9523,11 @@
       "s165"
     ],
     "thomas_id": "00250",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02189": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "William M. Cowan",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -9279,6 +9552,7 @@
       "HSAS": 17,
       "HSAS28": 3
     },
+    "num_outcomm_bills": 3,
     "name": "Duncan Hunter",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -9314,6 +9588,7 @@
       "HSII13": 1,
       "HSII": 9
     },
+    "num_outcomm_bills": 5,
     "name": "Tom McClintock",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -9342,6 +9617,7 @@
       "HSPW02": 11,
       "HSVR": 6
     },
+    "num_outcomm_bills": 2,
     "name": "Ann Kirkpatrick",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -9380,6 +9656,7 @@
       "SSAS20": 1,
       "SSHR09": 1
     },
+    "num_outcomm_bills": 5,
     "name": "Kay R. Hagan",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -9432,6 +9709,7 @@
       "SSFR06": 4,
       "SSAS20": 6
     },
+    "num_outcomm_bills": 9,
     "name": "Jeanne Shaheen",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -9505,6 +9783,7 @@
       "SSAP19": 8,
       "SSEV15": 4
     },
+    "num_outcomm_bills": 1,
     "name": "Jeff Merkley",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -9549,6 +9828,7 @@
       "HSWM04": 1,
       "HLIG08": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Devin Nunes",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -9575,6 +9855,7 @@
       "HSAP23": 2,
       "HSAP": 14
     },
+    "num_outcomm_bills": 0,
     "name": "Mario Diaz-Balart",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -9605,6 +9886,7 @@
       "SSAS20": 2,
       "SSFR": 6
     },
+    "num_outcomm_bills": 0,
     "name": "John McCain",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -9629,6 +9911,7 @@
       "HSAP": 16,
       "HSAP02": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Betty McCollum",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -9652,6 +9935,7 @@
       "HSAP02": 6,
       "HSAP10": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Marcy Kaptur",
     "num_leader_roles": 0,
     "num_terms": 16,
@@ -9690,6 +9974,7 @@
       "HSPW14": 5,
       "HSSM": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Sam Graves",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -9726,6 +10011,7 @@
       "HSAS06": 4,
       "HSAS02": 2
     },
+    "num_outcomm_bills": 2,
     "name": "Walter B. Jones",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -9763,6 +10049,7 @@
       "HSBA": 8,
       "HSGO": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Wm. Lacy Clay",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -9779,6 +10066,7 @@
   },
   "00021": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "Robert E. Andrews",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -9807,6 +10095,7 @@
       "HSII06": 3,
       "HSII": 4
     },
+    "num_outcomm_bills": 7,
     "name": "Rob Bishop",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -9837,6 +10126,7 @@
       "HSWM03": 4,
       "HSWM": 22
     },
+    "num_outcomm_bills": 1,
     "name": "Tim Griffin",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -9876,6 +10166,7 @@
       "HSAP02": 7,
       "HSAP": 18
     },
+    "num_outcomm_bills": 1,
     "name": "Steve Womack",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -9901,6 +10192,7 @@
       "HSHM11": 4,
       "HSFA05": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Tulsi Gabbard",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -9927,6 +10219,7 @@
       "HSGO27": 5,
       "HLZI": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Tammy Duckworth",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -9951,6 +10244,7 @@
       "HSSM27": 6,
       "HSSM": 11
     },
+    "num_outcomm_bills": 0,
     "name": "David Schweikert",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -9984,6 +10278,7 @@
       "HSAG29": 11,
       "HSAG14": 3
     },
+    "num_outcomm_bills": 3,
     "name": "Jeff Denham",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10018,6 +10313,7 @@
       "HSFA16": 1,
       "HSJU03": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Karen Bass",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10048,6 +10344,7 @@
       "HSSM23": 4,
       "HSSM": 7
     },
+    "num_outcomm_bills": 3,
     "name": "Scott R. Tipton",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10074,6 +10371,7 @@
       "HSIF03": 12,
       "HSIF02": 8
     },
+    "num_outcomm_bills": 3,
     "name": "Cory Gardner",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10091,7 +10389,6 @@
       "hr1032",
       "hr774",
       "hr2689",
-      "hr1561",
       "hr4332",
       "hr1408",
       "hr3174",
@@ -10112,6 +10409,7 @@
       "HSBA16": 12,
       "HSBA": 19
     },
+    "num_outcomm_bills": 1,
     "name": "John C. Carney Jr.",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10122,14 +10420,14 @@
       "hr4414",
       "hr2664",
       "hr905",
-      "hr703",
       "hr3881",
       "hr3880",
       "hr3882",
       "hr2929",
       "hr644",
       "hr3735",
-      "hr4758"
+      "hr4758",
+      "hr703"
     ],
     "thomas_id": "01999",
     "num_success_bills": 0
@@ -10150,6 +10448,7 @@
       "JSEC": 2,
       "SSJU01": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Mike Lee",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10203,6 +10502,7 @@
       "SSGA15": 1,
       "SSFR": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Ron Johnson",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10234,6 +10534,7 @@
       "SSBK": 6,
       "SSFI": 11
     },
+    "num_outcomm_bills": 0,
     "name": "Patrick J. Toomey",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -10262,7 +10563,6 @@
       "s1658",
       "s2232",
       "s2257",
-      "s229",
       "s1779"
     ],
     "thomas_id": "02085",
@@ -10284,6 +10584,7 @@
       "SSCM": 4,
       "SSFR": 3
     },
+    "num_outcomm_bills": 2,
     "name": "Marco Rubio",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10328,6 +10629,7 @@
       "HSFA07": 1,
       "HSFA05": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Matt Salmon",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -10366,6 +10668,7 @@
       "HSIF": 4,
       "HSIF03": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Bobby L. Rush",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -10394,6 +10697,7 @@
     "committeesMap": {
       "HSAP": 1
     },
+    "num_outcomm_bills": 11,
     "name": "Harold Rogers",
     "num_leader_roles": 0,
     "num_terms": 17,
@@ -10427,6 +10731,7 @@
       "HSFA14": 1,
       "HSFA05": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Dana Rohrabacher",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -10452,6 +10757,7 @@
       "HSGO": 14,
       "HSIF": 21
     },
+    "num_outcomm_bills": 0,
     "name": "Peter Welch",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -10494,6 +10800,7 @@
       "HSJU10": 1,
       "HSJU03": 12
     },
+    "num_outcomm_bills": 0,
     "name": "Steve Cohen",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -10559,6 +10866,7 @@
       "SSAP18": 4,
       "SSFR": 6
     },
+    "num_outcomm_bills": 4,
     "name": "Richard J. Durbin",
     "num_leader_roles": 5,
     "num_terms": 10,
@@ -10622,6 +10930,7 @@
       "HSGO": 4,
       "HSPW14": 2
     },
+    "num_outcomm_bills": 1,
     "name": "John J. Duncan Jr.",
     "num_leader_roles": 0,
     "num_terms": 14,
@@ -10649,6 +10958,7 @@
       "HSIF02": 9,
       "HSIF14": 13
     },
+    "num_outcomm_bills": 0,
     "name": "H. Morgan Griffith",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10679,6 +10989,7 @@
       "HSAP": 5,
       "HSAP01": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Rosa L. DeLauro",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -10687,7 +10998,6 @@
     "party": "Democrat",
     "bills": [
       "hr2934",
-      "hr1833",
       "hr1286",
       "hr3497",
       "hr1737",
@@ -10698,6 +11008,7 @@
       "hr3666",
       "hr2512",
       "hr2553",
+      "hr1833",
       "hr4576",
       "hr3712",
       "hr3019",
@@ -10723,6 +11034,7 @@
       "HSAS": 31,
       "HSAS29": 10
     },
+    "num_outcomm_bills": 1,
     "name": "Jim Bridenstine",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10747,6 +11059,7 @@
       "HSAP": 24,
       "HSAP07": 4
     },
+    "num_outcomm_bills": 0,
     "name": "David P. Joyce",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10774,6 +11087,7 @@
       "HSFA05": 6,
       "HSFA18": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Scott Perry",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10802,6 +11116,7 @@
       "HSII": 20,
       "HSII06": 13
     },
+    "num_outcomm_bills": 1,
     "name": "Markwayne Mullin",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10829,6 +11144,7 @@
       "HSAG14": 7,
       "HSSM": 13
     },
+    "num_outcomm_bills": 2,
     "name": "Chris Collins",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10853,6 +11169,7 @@
       "HSWM": 20,
       "HSWM05": 7
     },
+    "num_outcomm_bills": 4,
     "name": "Todd C. Young",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10875,6 +11192,7 @@
       "HSBA": 26,
       "HSBA09": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Joyce Beatty",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10904,6 +11222,7 @@
       "HSAS": 32,
       "HSVR10": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Brad R. Wenstrup",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -10926,6 +11245,7 @@
       "HSFA18": 3,
       "HSIF": 25
     },
+    "num_outcomm_bills": 1,
     "name": "Adam Kinzinger",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10950,6 +11270,7 @@
       "HSBA": 27,
       "HSSY15": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Randy Hultgren",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -10975,6 +11296,7 @@
       "HSAG29": 2,
       "HSAG": 2
     },
+    "num_outcomm_bills": 7,
     "name": "Bob Goodlatte",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -11009,6 +11331,7 @@
       "HSII06": 10,
       "HSAS28": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Colleen W. Hanabusa",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -11040,6 +11363,7 @@
       "HSJU01": 6,
       "HSJU08": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Ra\u00fal R. Labrador",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -11075,6 +11399,7 @@
       "SSAP19": 3,
       "SSAS20": 2
     },
+    "num_outcomm_bills": 11,
     "name": "Jack Reed",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -11112,6 +11437,7 @@
       "s1387",
       "s2149",
       "s2148",
+      "s2141",
       "s2441",
       "s454",
       "s1873",
@@ -11124,10 +11450,11 @@
       "s349"
     ],
     "thomas_id": "00949",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01381": {
     "committeesMap": {},
+    "num_outcomm_bills": 2,
     "name": "Frank R. Lautenberg",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -11171,6 +11498,7 @@
     "committeesMap": {
       "HSED": 1
     },
+    "num_outcomm_bills": 1,
     "name": "George Miller",
     "num_leader_roles": 0,
     "num_terms": 20,
@@ -11218,6 +11546,7 @@
       "HSGO24": 1,
       "HSGO06": 3
     },
+    "num_outcomm_bills": 0,
     "name": "John L. Mica",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -11251,6 +11580,7 @@
       "SSAP19": 9,
       "SSHR09": 2
     },
+    "num_outcomm_bills": 5,
     "name": "Barbara A. Mikulski",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -11261,6 +11591,7 @@
       "s1172",
       "s900",
       "s2437",
+      "s1086",
       "s2199",
       "s1329",
       "s1345",
@@ -11272,7 +11603,7 @@
       "s84"
     ],
     "thomas_id": "00802",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "00211": {
     "committeesMap": {
@@ -11284,6 +11615,7 @@
       "HSJU03": 1,
       "HSJU08": 3
     },
+    "num_outcomm_bills": 2,
     "name": "Howard Coble",
     "num_leader_roles": 0,
     "num_terms": 15,
@@ -11313,6 +11645,7 @@
       "SSGA16": 5,
       "SSGA15": 5
     },
+    "num_outcomm_bills": 3,
     "name": "Tom Coburn",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -11363,6 +11696,7 @@
       "SSAP18": 2,
       "SSAF": 1
     },
+    "num_outcomm_bills": 4,
     "name": "Thad Cochran",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -11382,7 +11716,7 @@
       "s1890"
     ],
     "thomas_id": "00213",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "01477": {
     "committeesMap": {
@@ -11393,6 +11727,7 @@
       "HSGO": 13,
       "HSGO27": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Danny K. Davis",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -11416,6 +11751,7 @@
       "HSIF03": 11,
       "HSIF14": 10
     },
+    "num_outcomm_bills": 1,
     "name": "Donna M. Christensen",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -11446,6 +11782,7 @@
       "HSIF02": 1,
       "HSIF18": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Diana DeGette",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -11489,6 +11826,7 @@
       "SSEV16": 1,
       "SSAS20": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Roger F. Wicker",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -11517,6 +11855,7 @@
       "HSPW05": 14,
       "HSPW14": 14
     },
+    "num_outcomm_bills": 0,
     "name": "Nick J. Rahall II",
     "num_leader_roles": 0,
     "num_terms": 19,
@@ -11544,6 +11883,7 @@
       "HSIF14": 3,
       "HSIF18": 4
     },
+    "num_outcomm_bills": 1,
     "name": "Ed Whitfield",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -11579,6 +11919,7 @@
       "JSTX": 2,
       "HSWM04": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Charles B. Rangel",
     "num_leader_roles": 0,
     "num_terms": 22,
@@ -11599,6 +11940,7 @@
       "hr1629",
       "hr4339",
       "hr4117",
+      "hr4443",
       "hr872",
       "hr873",
       "hr2001",
@@ -11611,7 +11953,7 @@
       "hr3618"
     ],
     "thomas_id": "00944",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02018": {
     "committeesMap": {
@@ -11626,6 +11968,7 @@
       "HSED10": 7,
       "HSSY15": 1
     },
+    "num_outcomm_bills": 2,
     "name": "Larry Bucshon",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -11655,6 +11998,7 @@
       "HSAG16": 7,
       "HSAG14": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Sean Patrick Maloney",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -11677,6 +12021,7 @@
   },
   "00066": {
     "committeesMap": {},
+    "num_outcomm_bills": 6,
     "name": "Max Baucus",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -11723,6 +12068,7 @@
       "HLIG09": 2,
       "HLIG": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Ed Pastor",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -11746,6 +12092,7 @@
       "HSIF02": 10,
       "HSIF18": 12
     },
+    "num_outcomm_bills": 7,
     "name": "Bill Johnson",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -11781,6 +12128,7 @@
       "HSBA": 5,
       "HSBA16": 6
     },
+    "num_outcomm_bills": 4,
     "name": "Frank D. Lucas",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -11799,6 +12147,7 @@
   },
   "00102": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "John A. Boehner",
     "num_leader_roles": 2,
     "num_terms": 12,
@@ -11818,6 +12167,7 @@
       "HSVR": 4,
       "HSED": 9
     },
+    "num_outcomm_bills": 4,
     "name": "David P. Roe",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -11849,6 +12199,7 @@
       "HSIF03": 10,
       "HSIF02": 7
     },
+    "num_outcomm_bills": 2,
     "name": "Pete Olson",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -11856,6 +12207,7 @@
     "committee_btwnscore": 0.0,
     "party": "Republican",
     "bills": [
+      "hr846",
       "hr1280",
       "hr1074",
       "hr2993",
@@ -11863,7 +12215,6 @@
       "hr1959",
       "hr2135",
       "hr4799",
-      "hr846",
       "hr271"
     ],
     "thomas_id": "01955",
@@ -11881,6 +12232,7 @@
       "HSGO27": 5,
       "HSHM05": 4
     },
+    "num_outcomm_bills": 8,
     "name": "Jason Chaffetz",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -11926,6 +12278,7 @@
       "HSED10": 6,
       "HSHA": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Todd Rokita",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -11955,6 +12308,7 @@
       "HSAG14": 1,
       "HSAG15": 6
     },
+    "num_outcomm_bills": 3,
     "name": "Kurt Schrader",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -11996,6 +12350,7 @@
       "HSII06": 7,
       "HSAG15": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Glenn Thompson",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -12026,6 +12381,7 @@
       "HSJU08": 2,
       "HSSO": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Pedro R. Pierluisi",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12058,6 +12414,7 @@
       "HSGO": 10,
       "HSGO27": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Matt Cartwright",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -12115,6 +12472,7 @@
       "HLIG05": 1,
       "HLIG": 11
     },
+    "num_outcomm_bills": 5,
     "name": "Joseph J. Heck",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12148,6 +12506,7 @@
       "HSGO": 8,
       "HSGO24": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Gerald E. Connolly",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -12187,6 +12546,7 @@
       "HSBA": 33,
       "HSBA09": 11
     },
+    "num_outcomm_bills": 0,
     "name": "Keith J. Rothfus",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -12211,6 +12571,7 @@
       "HSAP23": 1,
       "HSAP": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Jos\u00e9 E. Serrano",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -12247,6 +12608,7 @@
       "HSJU08": 1,
       "HSSY21": 2
     },
+    "num_outcomm_bills": 4,
     "name": "F. James Sensenbrenner Jr.",
     "num_leader_roles": 0,
     "num_terms": 18,
@@ -12298,6 +12660,7 @@
       "SSAP18": 3,
       "SSAP19": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Richard C. Shelby",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -12328,6 +12691,7 @@
       "HSAS": 13,
       "HSPW14": 18
     },
+    "num_outcomm_bills": 5,
     "name": "Bill Shuster",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -12339,9 +12703,9 @@
       "hr3300",
       "hr2916",
       "hr4076",
-      "hr4446",
       "hr3080",
       "hr3628",
+      "hr4446",
       "hr1481",
       "hr2125"
     ],
@@ -12357,6 +12721,7 @@
       "HSJU08": 5,
       "HSAS28": 1
     },
+    "num_outcomm_bills": 0,
     "name": "J. Randy Forbes",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -12385,6 +12750,7 @@
       "HSAS": 5,
       "HLIG09": 2
     },
+    "num_outcomm_bills": 12,
     "name": "Jeff Miller",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -12394,6 +12760,7 @@
     "bills": [
       "hr3671",
       "hr449",
+      "hjres105",
       "hr4102",
       "hr2954",
       "hr562",
@@ -12403,6 +12770,7 @@
       "hr322",
       "hr323",
       "hr324",
+      "hr5441",
       "hr1095",
       "hr2726",
       "hr602",
@@ -12416,7 +12784,7 @@
       "hr2327"
     ],
     "thomas_id": "01685",
-    "num_success_bills": 2
+    "num_success_bills": 4
   },
   "01686": {
     "committeesMap": {
@@ -12427,6 +12795,7 @@
       "HSGO": 6,
       "HSGO25": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Stephen F. Lynch",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -12472,6 +12841,7 @@
       "SSVA": 5,
       "SSEV15": 1
     },
+    "num_outcomm_bills": 2,
     "name": "John Boozman",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -12510,6 +12880,7 @@
       "HSFA18": 2,
       "HSAS29": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Joe Wilson",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -12534,6 +12905,7 @@
       "HSIF14": 8,
       "HSIF02": 5
     },
+    "num_outcomm_bills": 2,
     "name": "G. K. Butterfield",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -12561,6 +12933,7 @@
       "HSAG16": 4,
       "HSAG15": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Bob Gibbs",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12575,6 +12948,7 @@
   },
   "01481": {
     "committeesMap": {},
+    "num_outcomm_bills": 1,
     "name": "Jo Ann Emerson",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -12598,6 +12972,7 @@
       "HSAP04": 1,
       "HSAP02": 3
     },
+    "num_outcomm_bills": 2,
     "name": "Kay Granger",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -12624,6 +12999,7 @@
       "HSIF": 3,
       "HSIF18": 13
     },
+    "num_outcomm_bills": 0,
     "name": "Joe Barton",
     "num_leader_roles": 0,
     "num_terms": 15,
@@ -12644,6 +13020,7 @@
       "HSAP18": 2,
       "HSAP01": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Sam Farr",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -12665,6 +13042,7 @@
       "HSWM": 21,
       "HSWM06": 7
     },
+    "num_outcomm_bills": 2,
     "name": "Mike Kelly",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12696,6 +13074,7 @@
       "HSGO27": 7,
       "HSPW14": 11
     },
+    "num_outcomm_bills": 1,
     "name": "Patrick Meehan",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12725,6 +13104,7 @@
       "HSFA14": 3,
       "HSJU05": 4
     },
+    "num_outcomm_bills": 1,
     "name": "Tom Marino",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12761,6 +13141,7 @@
       "HSHM11": 5,
       "HSED02": 10
     },
+    "num_outcomm_bills": 2,
     "name": "Lou Barletta",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12778,7 +13159,7 @@
       "hr2857"
     ],
     "thomas_id": "02054",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02055": {
     "committeesMap": {
@@ -12789,6 +13170,7 @@
       "HSFA13": 4,
       "HSJU05": 5
     },
+    "num_outcomm_bills": 0,
     "name": "David N. Cicilline",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12827,6 +13209,7 @@
       "SSHR": 10,
       "SSCM": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Tim Scott",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12854,6 +13237,7 @@
       "HSII06": 10,
       "HSFA07": 5
     },
+    "num_outcomm_bills": 1,
     "name": "Jeff Duncan",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12887,6 +13271,7 @@
       "HSSO": 4,
       "HLZI": 1
     },
+    "num_outcomm_bills": 2,
     "name": "Trey Gowdy",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12912,6 +13297,7 @@
       "HSSM23": 3,
       "HSSM": 6
     },
+    "num_outcomm_bills": 1,
     "name": "Mick Mulvaney",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -12940,6 +13326,7 @@
       "HSFA05": 1,
       "HSII": 2
     },
+    "num_outcomm_bills": 1,
     "name": "Eni F. H. Faleomavaega",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -12965,6 +13352,7 @@
       "HSFA": 19,
       "HSFA13": 10
     },
+    "num_outcomm_bills": 0,
     "name": "Lois Frankel",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -12981,6 +13369,7 @@
       "HSBA": 30,
       "HSBA09": 9
     },
+    "num_outcomm_bills": 4,
     "name": "Ann Wagner",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -12999,6 +13388,7 @@
   },
   "00566": {
     "committeesMap": {},
+    "num_outcomm_bills": 1,
     "name": "Steny H. Hoyer",
     "num_leader_roles": 4,
     "num_terms": 17,
@@ -13021,6 +13411,7 @@
       "HSVR": 3,
       "HSVR10": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Mark Takano",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13049,6 +13440,7 @@
       "HSAS": 24,
       "HSAS28": 8
     },
+    "num_outcomm_bills": 1,
     "name": "Scott H. Peters",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13070,7 +13462,6 @@
       "hr3507",
       "hr3758",
       "hr3757",
-      "hr2790",
       "hr2422",
       "hr1943"
     ],
@@ -13088,6 +13479,7 @@
       "HSAG16": 5,
       "HSAG14": 6
     },
+    "num_outcomm_bills": 1,
     "name": "Juan Vargas",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13110,6 +13502,7 @@
       "HSFA18": 8,
       "HSAG14": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Ted S. Yoho",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13135,6 +13528,7 @@
       "HSSY": 14,
       "HSSY15": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Elizabeth H. Esty",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13164,6 +13558,7 @@
       "HSBA": 23,
       "HSSM": 11
     },
+    "num_outcomm_bills": 0,
     "name": "Patrick Murphy",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13175,9 +13570,9 @@
       "hr4646",
       "hr2956",
       "hr3146",
+      "hr1999",
       "hr2295",
       "hr4019",
-      "hr1999",
       "hr1974",
       "hr4132",
       "hr4133",
@@ -13199,6 +13594,7 @@
       "HSGO": 23,
       "HSGO25": 5
     },
+    "num_outcomm_bills": 2,
     "name": "Ron DeSantis",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13224,6 +13620,7 @@
       "HSBA16": 14,
       "HSBA": 22
     },
+    "num_outcomm_bills": 0,
     "name": "Daniel T. Kildee",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13251,6 +13648,7 @@
       "HSBA": 24,
       "HSBA09": 6
     },
+    "num_outcomm_bills": 1,
     "name": "John K. Delaney",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13272,6 +13670,7 @@
       "HSBA": 31,
       "HSBA09": 10
     },
+    "num_outcomm_bills": 3,
     "name": "Andy Barr",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -13314,6 +13713,7 @@
       "SSAF": 10,
       "SSHR09": 5
     },
+    "num_outcomm_bills": 3,
     "name": "Robert P. Casey, Jr.",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13328,6 +13728,7 @@
       "s1135",
       "s502",
       "s759",
+      "s1157",
       "s901",
       "s656",
       "s1453",
@@ -13346,7 +13747,6 @@
       "s1495",
       "s313",
       "s1185",
-      "s1157",
       "s128",
       "s142",
       "s143",
@@ -13386,6 +13786,7 @@
       "SSGA17": 5,
       "SSGA01": 5
     },
+    "num_outcomm_bills": 7,
     "name": "Jon Tester",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13397,6 +13798,7 @@
       "s549",
       "s1809",
       "s1394",
+      "s1155",
       "s671",
       "s1276",
       "s426",
@@ -13409,7 +13811,6 @@
       "s2098",
       "s294",
       "s845",
-      "s1155",
       "s1208",
       "s161",
       "s1120",
@@ -13452,6 +13853,7 @@
       "SSBK": 3,
       "SSFR": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Bob Corker",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13494,6 +13896,7 @@
       "SSCM": 7,
       "SSAF": 5
     },
+    "num_outcomm_bills": 7,
     "name": "Amy Klobuchar",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13568,6 +13971,7 @@
       "SSGA16": 3,
       "SSGA15": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Claire McCaskill",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13619,6 +14023,7 @@
       "SSJU22": 1,
       "SSEV15": 3
     },
+    "num_outcomm_bills": 2,
     "name": "Sheldon Whitehouse",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13661,6 +14066,7 @@
       "HSFA14": 1,
       "HSFA05": 6
     },
+    "num_outcomm_bills": 0,
     "name": "William R. Keating",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13687,6 +14093,7 @@
       "HSAG16": 10,
       "HSAG15": 8
     },
+    "num_outcomm_bills": 3,
     "name": "Dan Benishek",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13714,6 +14121,7 @@
       "HSAP19": 4,
       "HSAP07": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Andy Harris",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13742,6 +14150,7 @@
       "HSAP": 17,
       "HSAP01": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Kevin Yoder",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13768,6 +14177,7 @@
       "HSSM23": 5,
       "HSSM": 10
     },
+    "num_outcomm_bills": 1,
     "name": "Tim Huelskamp",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13792,6 +14202,7 @@
       "HSJU08": 6,
       "HSHM07": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Cedric L. Richmond",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13800,6 +14211,7 @@
     "party": "Democrat",
     "bills": [
       "hr1570",
+      "hr4812",
       "hr2895",
       "hr2199",
       "hr4480",
@@ -13813,7 +14225,7 @@
       "hr2966"
     ],
     "thomas_id": "02023",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02022": {
     "committeesMap": {
@@ -13826,6 +14238,7 @@
       "HLIG": 12,
       "HLZI": 5
     },
+    "num_outcomm_bills": 2,
     "name": "Mike Pompeo",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13862,6 +14275,7 @@
       "SSGA01": 1,
       "SSAS20": 8
     },
+    "num_outcomm_bills": 3,
     "name": "Carl Levin",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -13905,6 +14319,7 @@
       "HSIF": 10,
       "HSIF03": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Michael F. Doyle",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -13927,6 +14342,7 @@
       "HSGO06": 5,
       "HSGO": 10
     },
+    "num_outcomm_bills": 0,
     "name": "Justin Amash",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13951,6 +14367,7 @@
       "HSBA16": 11,
       "HSBA": 19
     },
+    "num_outcomm_bills": 3,
     "name": "Bill Huizenga",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -13989,6 +14406,7 @@
       "SSAP14": 2,
       "SSAF": 2
     },
+    "num_outcomm_bills": 15,
     "name": "Patrick J. Leahy",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -14005,6 +14423,7 @@
       "sjres40",
       "s2177",
       "s443",
+      "s2295",
       "s822",
       "sjres28",
       "sjres29",
@@ -14013,7 +14432,6 @@
       "s1720",
       "s517",
       "s1599",
-      "s2295",
       "s54",
       "s1215",
       "s645",
@@ -14023,6 +14441,7 @@
       "s1897",
       "s607",
       "s1421",
+      "s2685",
       "s227",
       "sjres32"
     ],
@@ -14043,6 +14462,7 @@
       "HSII": 21,
       "HSII06": 14
     },
+    "num_outcomm_bills": 5,
     "name": "Steve Daines",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -14080,6 +14500,7 @@
       "HLIG05": 3,
       "HLIG": 6
     },
+    "num_outcomm_bills": 1,
     "name": "Frank A. LoBiondo",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -14103,6 +14524,7 @@
   },
   "02200": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "Curtis Clawson",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -14119,6 +14541,7 @@
       "HSAP07": 2,
       "HSAP": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Lucille Roybal-Allard",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -14149,6 +14572,7 @@
       "HSED13": 5,
       "HSBA": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Carolyn McCarthy",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -14176,6 +14600,7 @@
       "HSAP04": 3,
       "HSAP": 13
     },
+    "num_outcomm_bills": 1,
     "name": "Barbara Lee",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -14229,6 +14654,7 @@
       "SSAP18": 1,
       "SSVA": 4
     },
+    "num_outcomm_bills": 3,
     "name": "Jerry Moran",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -14264,6 +14690,7 @@
       "HSFA14": 2,
       "HSFA07": 2
     },
+    "num_outcomm_bills": 1,
     "name": "Gregory W. Meeks",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -14271,10 +14698,11 @@
     "committee_btwnscore": 370.4763656217167,
     "party": "Democrat",
     "bills": [
-      "hr1551"
+      "hr1551",
+      "hr3957"
     ],
     "thomas_id": "01506",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01505": {
     "committeesMap": {
@@ -14286,6 +14714,7 @@
       "HSAG15": 5,
       "HSAS28": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Mike McIntyre",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -14315,6 +14744,7 @@
       "HSAG": 8,
       "HSRU04": 1
     },
+    "num_outcomm_bills": 0,
     "name": "James P. McGovern",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -14341,6 +14771,7 @@
       "HSBA16": 5,
       "HSBA": 4
     },
+    "num_outcomm_bills": 9,
     "name": "Edward R. Royce",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -14362,6 +14793,7 @@
       "hjres112",
       "hr3470",
       "hr3868",
+      "hr5681",
       "hr1768",
       "hr2449",
       "hr850",
@@ -14370,13 +14802,14 @@
       "hr4278"
     ],
     "thomas_id": "00998",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "00229": {
     "committeesMap": {
       "HSJU": 1,
       "HSJU03": 2
     },
+    "num_outcomm_bills": 0,
     "name": "John Conyers Jr.",
     "num_leader_roles": 0,
     "num_terms": 25,
@@ -14425,6 +14858,7 @@
       "HSII": 24,
       "HSJU05": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Jason T. Smith",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -14446,6 +14880,7 @@
       "HSGO06": 5,
       "HSSY15": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Robin L. Kelly",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -14476,6 +14911,7 @@
       "HSED02": 8,
       "HSRU02": 2
     },
+    "num_outcomm_bills": 1,
     "name": "Jared Polis",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -14523,6 +14959,7 @@
       "HSAS29": 4,
       "HSAS28": 7
     },
+    "num_outcomm_bills": 5,
     "name": "Mike Coffman",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -14555,6 +14992,7 @@
       "HSAP10": 6,
       "HSAP18": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Tom Graves",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -14581,6 +15019,7 @@
       "HSFA13": 5,
       "HSFA07": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Alan Grayson",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -14675,6 +15114,7 @@
       "HSBA": 15,
       "HSBA20": 5
     },
+    "num_outcomm_bills": 2,
     "name": "Bill Posey",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -14687,24 +15127,25 @@
       "hr440",
       "hr792",
       "hr1757",
-      "hr1756",
       "hr2299",
       "hr2198",
       "hr3764",
       "hr3762",
       "hr3763",
       "hr450",
+      "hr451",
       "hr4627",
       "hr3170",
       "hr605",
       "hr1446",
       "hr2049",
+      "hr1756",
       "hr4557",
       "hr1726",
       "hr927"
     ],
     "thomas_id": "01915",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "01916": {
     "committeesMap": {
@@ -14716,6 +15157,7 @@
       "HLIG": 10,
       "HSAP18": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Thomas J. Rooney",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -14748,6 +15190,7 @@
       "SSAP19": 1,
       "SSHR09": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Mark Kirk",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -14774,7 +15217,6 @@
       "s1026",
       "s1709",
       "s1984",
-      "s1328",
       "s571",
       "s1146",
       "s1466",
@@ -14792,6 +15234,7 @@
       "HSJU05": 3,
       "HSGO": 1
     },
+    "num_outcomm_bills": 17,
     "name": "Darrell E. Issa",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -14807,6 +15250,7 @@
       "hr3220",
       "hr779",
       "hr4192",
+      "hr4194",
       "hr2131",
       "hr4174",
       "hr2438",
@@ -14832,7 +15276,7 @@
       "hr457"
     ],
     "thomas_id": "01640",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "01641": {
     "committeesMap": {
@@ -14843,6 +15287,7 @@
       "HSAS26": 2,
       "HSAS": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Susan A. Davis",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -14877,6 +15322,7 @@
     "committeesMap": {
       "HSBU": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Chris Van Hollen",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -14907,6 +15353,7 @@
       "HSAP23": 1,
       "HSAP02": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Ander Crenshaw",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -14924,6 +15371,7 @@
   },
   "01727": {
     "committeesMap": {},
+    "num_outcomm_bills": 1,
     "name": "Rodney Alexander",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -14948,6 +15396,7 @@
       "HSII": 25,
       "HSII22": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Vance M. McAllister",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -14975,6 +15424,7 @@
       "HSSM23": 2,
       "HSSM": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Steve King",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -15007,6 +15457,7 @@
       "HSII": 7,
       "HSII22": 4
     },
+    "num_outcomm_bills": 3,
     "name": "Madeleine Z. Bordallo",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -15033,6 +15484,7 @@
       "HSBA": 11,
       "HSAG16": 1
     },
+    "num_outcomm_bills": 0,
     "name": "David Scott",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -15052,6 +15504,7 @@
       "HSHA": 3,
       "HSIF18": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Phil Gingrey",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -15090,6 +15543,7 @@
       "HSII22": 10,
       "HSAS28": 11
     },
+    "num_outcomm_bills": 0,
     "name": "Bradley Byrne",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -15111,6 +15565,7 @@
       "HSED02": 9,
       "HSED13": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Frederica S. Wilson",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15137,6 +15592,7 @@
       "HSAP": 5,
       "HSAP01": 2
     },
+    "num_outcomm_bills": 2,
     "name": "Tom Latham",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -15163,6 +15619,7 @@
   },
   "02199": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "David W. Jolly",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -15193,6 +15650,7 @@
       "SLET": 3,
       "SSAF": 4
     },
+    "num_outcomm_bills": 3,
     "name": "Sherrod Brown",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -15253,6 +15711,7 @@
       "HSJU05": 1,
       "HSJU08": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Spencer Bachus",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -15278,6 +15737,7 @@
       "HSSM23": 3,
       "HSSM": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Judy Chu",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -15306,6 +15766,7 @@
       "HSVR": 2,
       "HSPW14": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Corrine Brown",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -15325,6 +15786,7 @@
       "HSWM04": 4,
       "HSWM02": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Earl Blumenauer",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -15344,7 +15806,6 @@
       "hr1890",
       "hr609",
       "hr2921",
-      "hr2901",
       "hr2240",
       "hr4594",
       "hr3733",
@@ -15369,6 +15830,7 @@
       "HSGO24": 5,
       "HSGO27": 12
     },
+    "num_outcomm_bills": 0,
     "name": "Thomas Massie",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15395,6 +15857,7 @@
       "HSAG14": 2,
       "HSAG15": 7
     },
+    "num_outcomm_bills": 2,
     "name": "Suzan K. DelBene",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15423,6 +15886,7 @@
       "HSHM12": 1,
       "HSSM": 6
     },
+    "num_outcomm_bills": 1,
     "name": "Donald M. Payne Jr.",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15449,6 +15913,7 @@
       "HSAP24": 4,
       "HSAP19": 7
     },
+    "num_outcomm_bills": 5,
     "name": "Mark E. Amodei",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15484,6 +15949,7 @@
       "HSED02": 10,
       "HSED13": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Suzanne Bonamici",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15516,6 +15982,7 @@
       "HSSM25": 4,
       "HSSM": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Ron Barber",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15547,6 +16014,7 @@
       "HSFA13": 5,
       "HSFA18": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Tom Cotton",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -15574,6 +16042,7 @@
       "HSIF14": 4,
       "HSIF18": 5
     },
+    "num_outcomm_bills": 3,
     "name": "Lois Capps",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -15623,6 +16092,7 @@
       "SSHR": 7,
       "SSHR09": 6
     },
+    "num_outcomm_bills": 2,
     "name": "Al Franken",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -15633,6 +16103,7 @@
       "s878",
       "s504",
       "s2281",
+      "s1156",
       "s1621",
       "s1452",
       "s2434",
@@ -15648,7 +16119,6 @@
       "s1940",
       "s860",
       "s840",
-      "s1156",
       "s1065",
       "s2359",
       "s162",
@@ -15683,6 +16153,7 @@
       "SSAF": 6,
       "SSHR09": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Michael F. Bennet",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -15699,7 +16170,6 @@
       "s651",
       "s2417",
       "s1043",
-      "s841",
       "s849",
       "s2372",
       "s570",
@@ -15727,6 +16197,7 @@
       "HSAP23": 2,
       "HSAP": 21
     },
+    "num_outcomm_bills": 1,
     "name": "Mike Quigley",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -15758,6 +16229,7 @@
       "HSII06": 8,
       "HSGO": 17
     },
+    "num_outcomm_bills": 6,
     "name": "Cynthia M. Lummis",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -15792,6 +16264,7 @@
       "HSII": 9,
       "HSII22": 1
     },
+    "num_outcomm_bills": 4,
     "name": "Gregorio Kilili Camacho Sablan",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -15829,6 +16302,7 @@
       "HSJU08": 1,
       "HSED02": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Robert C. \"Bobby\" Scott",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -15871,6 +16345,7 @@
       "SSBK": 3,
       "SSJU04": 1
     },
+    "num_outcomm_bills": 6,
     "name": "Charles E. Schumer",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -15920,7 +16395,7 @@
       "s1959"
     ],
     "thomas_id": "01036",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01860": {
     "committeesMap": {
@@ -15928,6 +16403,7 @@
       "HSWM04": 5,
       "HSWM02": 9
     },
+    "num_outcomm_bills": 0,
     "name": "Adrian Smith",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -15952,6 +16428,7 @@
       "HSII": 17,
       "HSII22": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Carol Shea-Porter",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -15995,6 +16472,7 @@
       "SSVA": 6,
       "SSCM": 6
     },
+    "num_outcomm_bills": 5,
     "name": "Dean Heller",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -16052,6 +16530,7 @@
       "HSSO": 4,
       "HSSM": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Yvette D. Clarke",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -16083,6 +16562,7 @@
       "SSAS20": 7,
       "SSEV15": 5
     },
+    "num_outcomm_bills": 4,
     "name": "Kirsten E. Gillibrand",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -16147,6 +16627,7 @@
   },
   "00905": {
     "committeesMap": {},
+    "num_outcomm_bills": 0,
     "name": "Nancy Pelosi",
     "num_leader_roles": 2,
     "num_terms": 14,
@@ -16170,6 +16651,7 @@
       "HSGO27": 4,
       "HLZI": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Jim Jordan",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -16203,6 +16685,7 @@
       "SLET": 2,
       "SSHR09": 7
     },
+    "num_outcomm_bills": 0,
     "name": "Pat Roberts",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -16245,6 +16728,7 @@
       "HSIF14": 2,
       "HSIF18": 7
     },
+    "num_outcomm_bills": 0,
     "name": "John D. Dingell",
     "num_leader_roles": 0,
     "num_terms": 30,
@@ -16263,6 +16747,7 @@
       "HSIF16": 1,
       "HSIF": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Anna G. Eshoo",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -16285,6 +16770,7 @@
       "HSBA16": 2,
       "HSBA": 21
     },
+    "num_outcomm_bills": 3,
     "name": "Robert Hurt",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16310,6 +16796,7 @@
       "HSAS03": 10,
       "HSAS28": 4
     },
+    "num_outcomm_bills": 0,
     "name": "E. Scott Rigell",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16333,6 +16820,7 @@
       "HSII": 22,
       "HSII06": 15
     },
+    "num_outcomm_bills": 1,
     "name": "Kevin Cramer",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16358,6 +16846,7 @@
       "HSAG14": 5,
       "HSSM": 10
     },
+    "num_outcomm_bills": 1,
     "name": "Ann M. Kuster",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16366,13 +16855,13 @@
     "party": "Democrat",
     "bills": [
       "hr4601",
+      "hr1747",
       "hr4501",
       "hr2439",
       "hr1805",
       "hr3645",
       "hr1092",
       "hr3115",
-      "hr1747",
       "hr1856"
     ],
     "thomas_id": "02145",
@@ -16391,6 +16880,7 @@
       "HSGO": 21,
       "HSGO24": 2
     },
+    "num_outcomm_bills": 3,
     "name": "Mark Meadows",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16422,6 +16912,7 @@
       "HSFA14": 6,
       "HSJU05": 5
     },
+    "num_outcomm_bills": 2,
     "name": "George Holding",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16449,6 +16940,7 @@
       "HSHM": 13,
       "HSAG16": 12
     },
+    "num_outcomm_bills": 2,
     "name": "Richard Hudson",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16462,11 +16954,12 @@
       "hr3874",
       "hr3814",
       "hr1954",
+      "hr5462",
       "hr3179",
       "hr1803"
     ],
     "thomas_id": "02140",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "02141": {
     "committeesMap": {
@@ -16474,6 +16967,7 @@
       "HSBA20": 10,
       "HSBA": 29
     },
+    "num_outcomm_bills": 1,
     "name": "Robert Pittenger",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16496,6 +16990,7 @@
       "HSAP": 22,
       "HSAP10": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Charles J. \"Chuck\" Fleischmann",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16521,6 +17016,7 @@
       "HSAG16": 9,
       "HSAS28": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Kristi L. Noem",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16552,6 +17048,7 @@
       "HSWM": 18,
       "HSWM06": 2
     },
+    "num_outcomm_bills": 2,
     "name": "Diane Black",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16595,6 +17092,7 @@
       "HSGO": 13,
       "HSGO27": 8
     },
+    "num_outcomm_bills": 0,
     "name": "Scott DesJarlais",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16619,6 +17117,7 @@
       "HSBU": 11,
       "HSII06": 12
     },
+    "num_outcomm_bills": 2,
     "name": "Bill Flores",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16652,6 +17151,7 @@
       "HSBA": 24,
       "HSAG14": 4
     },
+    "num_outcomm_bills": 3,
     "name": "Stephen Lee Fincher",
     "num_leader_roles": 0,
     "num_terms": 2,
@@ -16686,6 +17186,7 @@
       "HSSM25": 3,
       "HSSM": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Grace Meng",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16711,6 +17212,7 @@
       "HSBU": 9,
       "HSJU05": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Hakeem S. Jeffries",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -16721,6 +17223,7 @@
       "hr3878",
       "hr2695",
       "hr1501",
+      "hr5108",
       "hr3646",
       "hr554",
       "hr4130",
@@ -16732,7 +17235,7 @@
       "hr1537"
     ],
     "thomas_id": "02149",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "00791": {
     "committeesMap": {
@@ -16753,6 +17256,7 @@
       "SSFR": 1,
       "SSFI": 7
     },
+    "num_outcomm_bills": 14,
     "name": "Robert Menendez",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -16768,7 +17272,6 @@
       "s2345",
       "s1075",
       "s568",
-      "s1683",
       "s508",
       "s2139",
       "s905",
@@ -16830,6 +17333,7 @@
       "HLIG09": 3,
       "HLIG": 8
     },
+    "num_outcomm_bills": 0,
     "name": "James A. Himes",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -16868,6 +17372,7 @@
       "SSGA01": 3,
       "SSGA15": 4
     },
+    "num_outcomm_bills": 5,
     "name": "Mary L. Landrieu",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -16922,6 +17427,7 @@
       "HSSM24": 2,
       "HSSM": 2
     },
+    "num_outcomm_bills": 4,
     "name": "Steve Chabot",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -16953,6 +17459,7 @@
       "HSBA": 11,
       "JSEC": 2
     },
+    "num_outcomm_bills": 1,
     "name": "John Campbell",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -16975,6 +17482,7 @@
       "HSBA16": 5,
       "HSBA": 14
     },
+    "num_outcomm_bills": 1,
     "name": "Gwen Moore",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -17012,6 +17520,7 @@
       "SSGA15": 3,
       "SSHR09": 1
     },
+    "num_outcomm_bills": 3,
     "name": "Michael B. Enzi",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -17051,6 +17560,7 @@
       "SSAP01": 4,
       "SSAP19": 3
     },
+    "num_outcomm_bills": 2,
     "name": "Susan M. Collins",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -17072,7 +17582,6 @@
       "s444",
       "s1085",
       "s1089",
-      "s398",
       "s1188",
       "s701",
       "s573",
@@ -17104,6 +17613,7 @@
       "SSAF13": 1,
       "SSAF": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Saxby Chambliss",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -17126,6 +17636,7 @@
       "HSFA07": 1,
       "HSFA14": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Albio Sires",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -17165,6 +17676,7 @@
       "SSEV16": 2,
       "SSEV15": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Jeff Sessions",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -17184,6 +17696,7 @@
       "HSWM": 3,
       "JSTX": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Kevin Brady",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -17196,10 +17709,10 @@
       "hr1176",
       "hr1174",
       "hr2053",
-      "hr2925",
       "hr2073",
       "hr2265",
       "hr3863",
+      "hr2925",
       "hr4310",
       "hr3581",
       "hr2429",
@@ -17216,6 +17729,7 @@
       "HSHA": 1,
       "HSAS02": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Robert A. Brady",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -17252,6 +17766,7 @@
       "SSAP24": 7,
       "SSCM": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Roy Blunt",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -17293,6 +17808,7 @@
       "HSSY": 1,
       "HSSY21": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Eddie Bernice Johnson",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -17319,6 +17835,7 @@
       "HSBA": 27,
       "HSBA09": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Denny Heck",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -17341,6 +17858,7 @@
       "HSAP19": 3,
       "HSAP01": 1
     },
+    "num_outcomm_bills": 4,
     "name": "Robert B. Aderholt",
     "num_leader_roles": 0,
     "num_terms": 9,
@@ -17371,6 +17889,7 @@
       "HSGO27": 10,
       "HSII06": 17
     },
+    "num_outcomm_bills": 11,
     "name": "Doc Hastings",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -17415,6 +17934,7 @@
       "SSHR": 6,
       "SSHR09": 6
     },
+    "num_outcomm_bills": 7,
     "name": "Orrin G. Hatch",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -17427,6 +17947,7 @@
       "s1031",
       "s2301",
       "s509",
+      "s2539",
       "s26",
       "s27",
       "s25",
@@ -17447,12 +17968,13 @@
       "sjres17"
     ],
     "thomas_id": "01351",
-    "num_success_bills": 1
+    "num_success_bills": 2
   },
   "01728": {
     "committeesMap": {
       "HLIG": 1
     },
+    "num_outcomm_bills": 0,
     "name": "C. A. Dutch Ruppersberger",
     "num_leader_roles": 0,
     "num_terms": 6,
@@ -17479,6 +18001,7 @@
       "SLET": 1,
       "SSHR09": 4
     },
+    "num_outcomm_bills": 1,
     "name": "Johnny Isakson",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -17515,6 +18038,7 @@
       "SSAS20": 5,
       "SSEV09": 5
     },
+    "num_outcomm_bills": 1,
     "name": "David Vitter",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -17534,6 +18058,7 @@
       "s111",
       "s110",
       "s873",
+      "s874",
       "s135",
       "s137",
       "s136",
@@ -17548,7 +18073,6 @@
       "s1629",
       "s902",
       "s2156",
-      "s874",
       "s108",
       "s1667",
       "sjres2",
@@ -17602,6 +18126,7 @@
       "HSII13": 1,
       "HSII": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Grace F. Napolitano",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -17622,6 +18147,7 @@
       "HSWM": 13,
       "HSWM06": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Joseph Crowley",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -17647,6 +18173,7 @@
       "HSWM01": 1,
       "HSWM": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Xavier Becerra",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -17665,6 +18192,7 @@
       "HSAP04": 1,
       "HSAP": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Nita M. Lowey",
     "num_leader_roles": 0,
     "num_terms": 13,
@@ -17696,6 +18224,7 @@
       "HSJU01": 1,
       "HSHA": 2
     },
+    "num_outcomm_bills": 0,
     "name": "Zoe Lofgren",
     "num_leader_roles": 0,
     "num_terms": 10,
@@ -17739,6 +18268,7 @@
       "SSGA15": 7,
       "SSEV15": 2
     },
+    "num_outcomm_bills": 5,
     "name": "Thomas R. Carper",
     "num_leader_roles": 0,
     "num_terms": 8,
@@ -17782,6 +18312,7 @@
       "SSCM25": 3,
       "SSCM": 4
     },
+    "num_outcomm_bills": 4,
     "name": "Maria Cantwell",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -17823,6 +18354,7 @@
       "SSFR": 3,
       "SSEV15": 1
     },
+    "num_outcomm_bills": 6,
     "name": "Benjamin L. Cardin",
     "num_leader_roles": 0,
     "num_terms": 12,
@@ -17879,6 +18411,7 @@
       "HSII22": 9,
       "HSII06": 15
     },
+    "num_outcomm_bills": 0,
     "name": "Peter A. DeFazio",
     "num_leader_roles": 0,
     "num_terms": 14,
@@ -17917,6 +18450,7 @@
       "HSWM04": 7,
       "HSWM06": 3
     },
+    "num_outcomm_bills": 4,
     "name": "Lynn Jenkins",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -17925,7 +18459,6 @@
     "party": "Republican",
     "bills": [
       "hr2711",
-      "hr4333",
       "hr529",
       "hr1475",
       "hr4781",
@@ -17936,11 +18469,13 @@
       "hr4118",
       "hr1708",
       "hr721",
+      "hr4333",
+      "hr4067",
       "hr2835",
       "hr2879"
     ],
     "thomas_id": "01921",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01920": {
     "committeesMap": {
@@ -17950,6 +18485,7 @@
       "HSWM04": 6,
       "HSHA": 4
     },
+    "num_outcomm_bills": 3,
     "name": "Aaron Schock",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -17986,6 +18522,7 @@
       "HSIF14": 12,
       "HSIF": 20
     },
+    "num_outcomm_bills": 1,
     "name": "Brett Guthrie",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -18013,6 +18550,7 @@
       "HSIF14": 11,
       "HSIF18": 9
     },
+    "num_outcomm_bills": 1,
     "name": "Bill Cassidy",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -18054,6 +18592,7 @@
       "HSII06": 6,
       "HSAS29": 8
     },
+    "num_outcomm_bills": 3,
     "name": "John Fleming",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -18067,10 +18606,11 @@
       "hr38",
       "hr3280",
       "hr2045",
+      "hr5069",
       "hr910"
     ],
     "thomas_id": "01924",
-    "num_success_bills": 0
+    "num_success_bills": 1
   },
   "01927": {
     "committeesMap": {
@@ -18078,6 +18618,7 @@
       "HSAP": 20,
       "HSAP01": 4
     },
+    "num_outcomm_bills": 2,
     "name": "Chellie Pingree",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -18102,6 +18643,7 @@
       "HSII06": 12,
       "HSII": 21
     },
+    "num_outcomm_bills": 0,
     "name": "Katherine M. Clark",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -18120,6 +18662,7 @@
       "HSBA16": 9,
       "HSBA": 18
     },
+    "num_outcomm_bills": 0,
     "name": "Gary C. Peters",
     "num_leader_roles": 0,
     "num_terms": 3,
@@ -18158,6 +18701,7 @@
       "SSCM": 13,
       "SSAF": 11
     },
+    "num_outcomm_bills": 0,
     "name": "John E. Walsh",
     "num_leader_roles": 0,
     "num_terms": 1,
@@ -18189,6 +18733,7 @@
       "HSGO": 9,
       "HSGO27": 1
     },
+    "num_outcomm_bills": 1,
     "name": "Jackie Speier",
     "num_leader_roles": 0,
     "num_terms": 4,
@@ -18227,6 +18772,7 @@
       "HSAG16": 10,
       "HSAG14": 3
     },
+    "num_outcomm_bills": 0,
     "name": "Jim Costa",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -18253,6 +18799,7 @@
       "HSAP04": 4,
       "HSAP24": 1
     },
+    "num_outcomm_bills": 0,
     "name": "Debbie Wasserman Schultz",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -18274,6 +18821,7 @@
       "HSIF14": 5,
       "HLIG": 1
     },
+    "num_outcomm_bills": 4,
     "name": "Mike Rogers",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -18309,6 +18857,7 @@
       "HSJU01": 3,
       "HSSY21": 6
     },
+    "num_outcomm_bills": 4,
     "name": "Lamar Smith",
     "num_leader_roles": 0,
     "num_terms": 14,
@@ -18337,6 +18886,7 @@
       "HSED10": 3,
       "HSBU": 6
     },
+    "num_outcomm_bills": 3,
     "name": "Tom Price",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -18375,6 +18925,7 @@
       "HLIG": 8,
       "HLZI": 2
     },
+    "num_outcomm_bills": 1,
     "name": "Lynn A. Westmoreland",
     "num_leader_roles": 0,
     "num_terms": 5,
@@ -18395,6 +18946,7 @@
       "JCSE": 1,
       "HSFA16": 1
     },
+    "num_outcomm_bills": 6,
     "name": "Christopher H. Smith",
     "num_leader_roles": 0,
     "num_terms": 17,
@@ -18436,6 +18988,7 @@
       "HSAP02": 2,
       "HSAP": 3
     },
+    "num_outcomm_bills": 1,
     "name": "Jack Kingston",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -18482,6 +19035,7 @@
       "HLIG08": 2,
       "HLIG": 5
     },
+    "num_outcomm_bills": 0,
     "name": "Peter T. King",
     "num_leader_roles": 0,
     "num_terms": 11,
@@ -18525,6 +19079,7 @@
       "HSAS29": 4,
       "HSAS28": 4
     },
+    "num_outcomm_bills": 0,
     "name": "Rick Larsen",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -18557,6 +19112,7 @@
       "HSBA04": 5,
       "HSBA": 7
     },
+    "num_outcomm_bills": 1,
     "name": "Shelley Moore Capito",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -18586,6 +19142,7 @@
       "HSIF": 12,
       "HSIF14": 6
     },
+    "num_outcomm_bills": 0,
     "name": "Jim Matheson",
     "num_leader_roles": 0,
     "num_terms": 7,
@@ -18613,6 +19170,7 @@
       "HSAP": 9,
       "HSAP18": 1
     },
+    "num_outcomm_bills": 3,
     "name": "John Abney Culberson",
     "num_leader_roles": 0,
     "num_terms": 7,

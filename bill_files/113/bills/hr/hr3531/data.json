@@ -243,6 +243,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Rothfus, Keith J.", 
       "sponsored_at": "2014-07-08", 
@@ -349,5 +358,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:52:11-05:00"
+  "updated_at": "2014-12-06T06:52:18-05:00"
 }

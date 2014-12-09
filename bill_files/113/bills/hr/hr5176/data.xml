@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="5176" updated="2014-11-08T07:06:07-05:00">
-  <state datetime="2014-07-23">REFERRED</state>
+<bill session="113" type="h" number="5176" updated="2014-12-06T07:06:08-05:00">
+  <state datetime="2014-11-19">REPORTED</state>
   <status>
-    <introduced datetime="2014-07-23"/>
+    <unknown datetime="2014-11-19"/>
   </status>
   <introduced datetime="2014-07-23"/>
   <titles>
@@ -21,10 +21,19 @@
     <action datetime="2014-09-17">
       <text>Subcommittee Hearings Held.</text>
     </action>
+    <action datetime="2014-11-19">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-11-19" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
-    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
   </committees>
   <relatedbills/>
   <subjects>

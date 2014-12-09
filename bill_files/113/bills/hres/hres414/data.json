@@ -218,7 +218,18 @@
   "number": "414", 
   "official_title": "Supporting the goals and ideals of American Education Week.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hres755-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres591-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": "11", 
@@ -253,5 +264,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:19:41-05:00"
+  "updated_at": "2014-12-06T06:19:37-05:00"
 }

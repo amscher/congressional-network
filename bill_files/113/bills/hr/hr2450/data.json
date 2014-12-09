@@ -45,6 +45,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "21", 
       "name": "Deutch, Theodore E.", 
       "sponsored_at": "2014-09-10", 
@@ -236,5 +245,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:06-05:00"
+  "updated_at": "2014-12-06T06:43:10-05:00"
 }

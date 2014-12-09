@@ -78,6 +78,58 @@
       "text": "Placed on the Union Calendar, Calendar No. 450.", 
       "type": "calendar", 
       "under": null
+    }, 
+    {
+      "acted_at": "2014-11-13T12:39:00-05:00", 
+      "references": [], 
+      "text": "Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7951-7952", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:39:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4867.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:43:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7951", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:43:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -152,6 +204,8 @@
     "active_at": "2014-07-15", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-13T12:43:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-06-12", 
@@ -174,8 +228,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-07-30", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-13T12:43:00-05:00", 
   "subjects": [
     "California", 
     "Indian lands and resources rights", 
@@ -183,7 +237,11 @@
     "Native Americans"
   ], 
   "subjects_top_term": "Native Americans", 
-  "summary": null, 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-11-13", 
+    "text": "Economic Development Through Tribal Land Exchange Act - Provides for the disposition of four parcels of land in California.\n\nDirects the Secretary of the Interior to convey approximately 41.15 acres designated as Morongo lands to Lloyd L. Fields in exchange for 41.15 acres owned by Fields to be held in trust for the Morongo Band of Mission Indians.\n\nGrants an easement to the city of Banning for a public right-of-way in exchange for 1.21 acres of land to be held in trust for the Tribe."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -198,11 +256,17 @@
       "type": "short"
     }, 
     {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Economic Development Through Tribal Land Exchange Act", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To provide for certain land to be taken into trust for the benefit of Morongo Band of Mission Indians, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:28-05:00"
+  "updated_at": "2014-12-06T07:03:33-05:00"
 }

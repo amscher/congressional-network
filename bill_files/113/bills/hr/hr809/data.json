@@ -266,6 +266,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Nugent, Richard B.", 
       "sponsored_at": "2013-04-12", 
@@ -467,5 +476,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:29:15-05:00"
+  "updated_at": "2014-12-06T06:29:21-05:00"
 }

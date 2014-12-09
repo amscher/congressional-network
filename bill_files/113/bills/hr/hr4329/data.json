@@ -24,6 +24,79 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 11.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-20T12:28:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 113-628.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20T12:29:00-05:00", 
+      "calendar": "Union", 
+      "number": "468", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 468.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-02T14:17:00-05:00", 
+      "references": [], 
+      "text": "Mr. Pearce moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8246-8254", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:17:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4329.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:56:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8246-8250", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:56:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -34,10 +107,18 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Financial Services", 
       "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
     }
   ], 
   "congress": "113", 
@@ -67,6 +148,8 @@
     "active_at": "2014-07-30", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T14:56:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-03-27", 
@@ -83,8 +166,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-07-30", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-02T14:56:00-05:00", 
   "subjects": [
     "Advisory bodies", 
     "Congressional oversight", 
@@ -118,11 +201,29 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To reauthorize the Native American Housing Assistance and Self-Determination Act of 1996, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:53-05:00"
+  "updated_at": "2014-12-06T06:58:59-05:00"
 }

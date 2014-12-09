@@ -70,6 +70,12 @@
     }, 
     {
       "acted_at": "2014-09-16T18:42:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16T18:42:00-04:00", 
       "how": "roll", 
       "references": [
         {
@@ -85,12 +91,6 @@
       "type": "vote", 
       "vote_type": "vote", 
       "where": "h"
-    }, 
-    {
-      "acted_at": "2014-09-16T18:42:00-04:00", 
-      "references": [], 
-      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
-      "type": "action"
     }, 
     {
       "acted_at": "2014-09-17", 
@@ -388,5 +388,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:05-05:00"
+  "updated_at": "2014-12-06T07:08:03-05:00"
 }

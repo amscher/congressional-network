@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2634" updated="2014-11-08T07:40:22-05:00">
+<bill session="113" type="s" number="2634" updated="2014-12-06T07:41:41-05:00">
   <state datetime="2014-07-22">REFERRED</state>
   <status>
     <introduced datetime="2014-07-22"/>
@@ -12,6 +12,7 @@
   <cosponsors>
     <cosponsor id="412330" joined="2014-07-22"/>
     <cosponsor id="412598" joined="2014-07-22"/>
+    <cosponsor id="400064" joined="2014-11-18"/>
     <cosponsor id="412223" joined="2014-07-22"/>
     <cosponsor id="300063" joined="2014-07-22"/>
     <cosponsor id="400272" joined="2014-07-22"/>
@@ -36,6 +37,7 @@
   <subjects>
     <term name="Taxation"/>
     <term name="Business investment and capital"/>
+    <term name="Charitable contributions"/>
     <term name="Credit and credit markets"/>
     <term name="Disaster relief and insurance"/>
     <term name="Employee benefits and pensions"/>

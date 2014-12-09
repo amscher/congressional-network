@@ -297,6 +297,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Herrera Beutler, Jaime", 
       "sponsored_at": "2014-07-15", 
@@ -522,6 +531,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Nolan, Richard M.", 
       "sponsored_at": "2014-05-20", 
@@ -703,7 +721,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-05-21", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -891,5 +909,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:03-05:00"
+  "updated_at": "2014-12-06T06:56:10-05:00"
 }

@@ -16,6 +16,14 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Courts, Intellectual Property, And The Internet.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -33,7 +41,8 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "hearings"
       ], 
       "committee": "House Judiciary", 
       "committee_id": "HSJU", 
@@ -91,7 +100,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-03", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -147,5 +157,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:30:09-05:00"
+  "updated_at": "2014-12-06T06:30:16-05:00"
 }

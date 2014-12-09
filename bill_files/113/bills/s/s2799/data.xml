@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2799" updated="2014-11-08T07:41:45-05:00">
+<bill session="113" type="s" number="2799" updated="2014-12-08T18:49:00-05:00">
   <state datetime="2014-09-17">REPORTED</state>
   <status>
     <unknown datetime="2014-09-17"/>
@@ -34,6 +34,7 @@
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="4572"/>
     <bill relation="unknown" session="113" type="h" number="5036"/>
+    <bill relation="unknown" session="113" type="h" number="5728"/>
     <bill relation="unknown" session="113" type="s" number="2454"/>
   </relatedbills>
   <subjects>
@@ -52,7 +53,7 @@
   </subjects>
   <amendments/>
   <summary>9/17/2014--Reported to Senate amended.
-Satellite Television Access and Viewer Rights Act - Title I: Satellite Television - (Sec. 101) Amends the Communications Act of 1934, as amended by the Satellite Television Extension and Localism Act of 2010 (STELA), to extend until December 31, 2019, the exemption from retransmission consent requirements (which prohibit cable systems or other multichannel video programming distributors [MVPDs] from retransmitting broadcasting station signals without the authority of the originating station) for satellite retransmissions of network station signals to subscribers located outside of a station's local market who reside in unserved households (commonly referred to as "distant signals"). Extends until January 1, 2020: (1) the prohibition on exclusive retransmission consent contracts, and (2) the requirement that television broadcast stations and MVPDs negotiate in good faith.
+Satellite Television Access and Viewer Rights Act - Title I: Satellite Television - (Sec. 101) Amends the Communications Act of 1934 to extend until December 31, 2019, the exemption from retransmission consent requirements (which prohibit cable systems or other multichannel video programming distributors [MVPDs] from retransmitting broadcasting station signals without the authority of the originating station) for satellite retransmissions of network station signals to subscribers located outside of a station's local market who reside in unserved households (commonly referred to as "distant signals"). Extends until January 1, 2020: (1) the prohibition on exclusive retransmission consent contracts, and (2) the requirement that television broadcast stations and MVPDs negotiate in good faith.
 
 (Sec. 102) Limits the definition of "local market," in the case of both commercial and noncommercial television broadcast stations, to the designated market area in which a television broadcast station is located, including with respect to a commercial television broadcast station any modifications made by the Federal Communications Commission (FCC) under procedures set forth in this Act to add communities to or exclude communities from a station's local market following a written request. (Currently, the definition incorporates federal copyright laws that expand the definition of a local market to include all commercial television broadcast stations licensed to a community within the same designated market area, stations licensed to a community within the same designated market area as a noncommercial educational television broadcast station, and the county in which the station's community of license is located.)
 
@@ -80,5 +81,5 @@ Directs the FCC to review and update its totality of the circumstances test for 
 
 (Sec. 205) Requires the FCC to submit to Congress: (1) an analysis of consumers' access to broadcast programming from television broadcast stations located outside their local market, (2) alternatives to designated market areas to provide consumers with more local programming options, and (3) recommendations to increase localism in counties served by out-of-state designated market areas.
 
-Title III: Miscellaneous - Directs the FCC to prescribe regulations to implement this Act. Prohibits the remainder of this Act from being affected if any provision is held to be unconstitutional.</summary>
+Title III: Miscellaneous - Directs the FCC to prescribe regulations to implement this Act. Provides that if any provision of this Act is held to be unconstitutional, the other provisions shall not be affected.</summary>
 </bill>

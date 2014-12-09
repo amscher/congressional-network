@@ -221,6 +221,15 @@
       "thomas_id": "02110", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2014-12-01", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -284,5 +293,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:28-05:00"
+  "updated_at": "2014-12-06T06:56:34-05:00"
 }

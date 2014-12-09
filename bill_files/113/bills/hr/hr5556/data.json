@@ -86,6 +86,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Scott, David", 
       "sponsored_at": "2014-09-18", 
@@ -145,5 +154,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:20-05:00"
+  "updated_at": "2014-12-06T07:09:19-05:00"
 }

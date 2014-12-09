@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2233" updated="2014-11-08T07:36:57-05:00">
+<bill session="113" type="s" number="2233" updated="2014-12-06T07:38:16-05:00">
   <state datetime="2014-04-09">REFERRED</state>
   <status>
     <introduced datetime="2014-04-09"/>
@@ -34,6 +34,7 @@
   <subjects>
     <term name="Taxation"/>
     <term name="Business investment and capital"/>
+    <term name="Charitable contributions"/>
     <term name="Credit and credit markets"/>
     <term name="Disaster relief and insurance"/>
     <term name="Employee benefits and pensions"/>

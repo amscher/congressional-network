@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Coble, Howard", 
       "sponsored_at": "2014-07-22", 
@@ -68,6 +77,15 @@
       "sponsored_at": "2014-07-16", 
       "state": "WY", 
       "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NC", 
+      "thomas_id": "02142", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -130,5 +148,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:37-05:00"
+  "updated_at": "2014-12-06T07:05:40-05:00"
 }

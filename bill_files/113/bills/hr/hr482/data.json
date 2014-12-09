@@ -188,6 +188,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "02190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Kilmer, Derek", 
       "sponsored_at": "2014-05-29", 
@@ -384,6 +393,15 @@
       "thomas_id": "01535", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2014-12-01", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -405,6 +423,11 @@
     }, 
     {
       "bill_id": "s2164-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2954-113", 
       "reason": "related", 
       "type": "bill"
     }
@@ -452,5 +475,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:26:30-05:00"
+  "updated_at": "2014-12-06T06:26:37-05:00"
 }

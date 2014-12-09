@@ -339,6 +339,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Enyart, William L.", 
       "sponsored_at": "2013-05-09", 
@@ -492,6 +501,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2014-12-02", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Johnson, Henry C. \"Hank,\" Jr.", 
       "sponsored_at": "2013-07-08", 
@@ -533,6 +551,15 @@
       "sponsored_at": "2014-04-30", 
       "state": "MA", 
       "thomas_id": "02172", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2014-12-03", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -596,6 +623,15 @@
       "sponsored_at": "2013-05-14", 
       "state": "NY", 
       "thomas_id": "01943", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NY", 
+      "thomas_id": "00729", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -780,6 +816,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Shea-Porter, Carol", 
       "sponsored_at": "2013-05-16", 
@@ -931,6 +976,15 @@
       "thomas_id": "01779", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -989,5 +1043,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:17:48-05:00"
+  "updated_at": "2014-12-06T06:17:43-05:00"
 }

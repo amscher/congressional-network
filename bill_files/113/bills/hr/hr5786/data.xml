@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5786" updated="2014-12-08T12:48:47-05:00">
+  <state datetime="2014-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-03"/>
+  </status>
+  <introduced datetime="2014-12-03"/>
+  <titles>
+    <title type="short" as="introduced">Small Financial Institutions Regulatory Relief Act of 2014</title>
+    <title type="official" as="introduced">To amend certain banking statutes to exempt community banks from certain regulatory requirements, to include a community bank representative in the membership of the Board of Governors of the Federal Reserve System, to create a process for a county to be designated as a rural area, and for other purposes.</title>
+  </titles>
+  <sponsor id="412464"/>
+  <cosponsors>
+    <cosponsor id="412239" joined="2014-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-03" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1750"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

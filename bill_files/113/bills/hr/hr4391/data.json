@@ -68,6 +68,11 @@
       "bill_id": "s2204-113", 
       "reason": "identical", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2954-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Proprietary Education Oversight Coordination Improvement Act", 
@@ -119,5 +124,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:24-05:00"
+  "updated_at": "2014-12-06T06:59:30-05:00"
 }

@@ -27,6 +27,13 @@
       "references": [], 
       "text": "Referred to House Appropriations", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -40,6 +47,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }, 
     {
       "activity": [
@@ -106,7 +122,11 @@
     "Women's education"
   ], 
   "subjects_top_term": "Education", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-22", 
+    "text": "Advancing Girls in STEM Act of 2014 - Directs the Department of Education to award grants to states to carry out programs that promote the involvement of elementary and secondary female students in STEM (science, technology, engineering, and mathematics) fields.\n\n Transfers $20 million of unobligated funds made available to the Office of Nuclear Warhead Protection in the National Nuclear Security Administration to the Department of Education to carry out this Act."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -121,5 +141,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:02-05:00"
+  "updated_at": "2014-12-06T07:06:03-05:00"
 }

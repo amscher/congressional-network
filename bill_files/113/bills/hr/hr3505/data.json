@@ -369,6 +369,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Quigley, Mike", 
       "sponsored_at": "2014-04-09", 
@@ -587,5 +596,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:58-05:00"
+  "updated_at": "2014-12-06T06:52:05-05:00"
 }

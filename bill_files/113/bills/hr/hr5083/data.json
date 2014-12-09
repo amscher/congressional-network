@@ -113,11 +113,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Capito, Shelley Moore", 
       "sponsored_at": "2014-07-24", 
       "state": "WV", 
       "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "01643", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -194,6 +221,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Kelly, Mike", 
       "sponsored_at": "2014-09-11", 
@@ -217,6 +253,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "IA", 
       "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "RI", 
+      "thomas_id": "01668", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -284,6 +329,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Miller, Jeff", 
       "sponsored_at": "2014-09-18", 
@@ -302,11 +356,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Nunnelee, Alan", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MS", 
+      "thomas_id": "02034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Peterson, Collin C.", 
       "sponsored_at": "2014-09-18", 
       "state": "MN", 
       "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2014-12-01", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IN", 
+      "thomas_id": "02017", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -445,5 +526,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:19-05:00"
+  "updated_at": "2014-12-06T07:05:22-05:00"
 }

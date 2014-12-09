@@ -113,6 +113,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Holt, Rush", 
       "sponsored_at": "2013-06-12", 
@@ -272,5 +281,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:38:07-05:00"
+  "updated_at": "2014-12-06T06:38:10-05:00"
 }

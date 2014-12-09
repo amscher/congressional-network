@@ -106,6 +106,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Noem, Kristi L.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "SD", 
+      "thomas_id": "02060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Pittenger, Robert", 
       "sponsored_at": "2014-06-26", 
@@ -156,6 +165,15 @@
       "sponsored_at": "2014-06-26", 
       "state": "TX", 
       "thomas_id": "01114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MO", 
+      "thomas_id": "02137", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -235,5 +253,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:05-05:00"
+  "updated_at": "2014-12-06T07:02:11-05:00"
 }

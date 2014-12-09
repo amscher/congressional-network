@@ -725,6 +725,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Rokita, Todd", 
       "sponsored_at": "2014-04-04", 
@@ -989,5 +998,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:50:46-05:00"
+  "updated_at": "2014-12-06T06:50:52-05:00"
 }

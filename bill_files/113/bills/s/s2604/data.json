@@ -66,7 +66,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-15", 
+    "text": "Chattahoochee-Oconee National Forest Land Adjustment Act of 2014 - Authorizes the Department of Agriculture (USDA) to sell or exchange any or all interest of the United States in 30 tracts of National Forest System land in Georgia totaling approximately 3,841 acres.\n\nAuthorizes USDA to reserve any rights-of-way or other rights or interests in land sold or exchanged under this Act that is considered necessary for management purposes or to protect the public interest.\n\nProhibits USDA from selling or exchanging land under this Act for less than market value, as determined by an appraisal or through a competitive bid.\n\n Requires proceeds to be used for the acquisition of land for national forest purposes in Georgia."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -81,5 +85,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:07-05:00"
+  "updated_at": "2014-12-06T07:41:26-05:00"
 }

@@ -45,6 +45,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TN", 
+      "thomas_id": "02061", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "22", 
       "name": "Hanna, Richard L.", 
       "sponsored_at": "2014-09-18", 
@@ -95,6 +104,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "AZ", 
       "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "WI", 
+      "thomas_id": "01041", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -159,5 +177,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:42-05:00"
+  "updated_at": "2014-12-06T07:09:40-05:00"
 }

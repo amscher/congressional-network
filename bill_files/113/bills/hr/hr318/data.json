@@ -296,6 +296,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CT", 
+      "thomas_id": "01913", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Hultgren, Randy", 
       "sponsored_at": "2013-01-18", 
@@ -458,6 +467,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Posey, Bill", 
       "sponsored_at": "2013-09-26", 
@@ -576,7 +594,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-01-15", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -714,5 +732,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:25:08-05:00"
+  "updated_at": "2014-12-06T06:25:15-05:00"
 }

@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-14", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-14", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-14", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5715-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-14", 
+  "number": "5715", 
+  "official_title": "To adjust the age limitations under the Social Security program for payment of child's insurance benefits to certain disabled individuals and for calculation of recent work for determining eligibility for Social Security disability insurance benefits.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Child's Insurance Benefits Improvement Act of 2014", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Schwartz, Allyson Y.", 
+    "state": "PA", 
+    "thomas_id": "01798", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-14", 
+  "subjects": [
+    "Disability and paralysis", 
+    "Disability assistance", 
+    "Social security and elderly assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Child's Insurance Benefits Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To adjust the age limitations under the Social Security program for payment of child's insurance benefits to certain disabled individuals and for calculation of recent work for determining eligibility for Social Security disability insurance benefits.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:10:39-05:00"
+}

@@ -270,6 +270,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "McCollum, Betty", 
       "sponsored_at": "2013-08-02", 
@@ -552,5 +570,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:47:36-05:00"
+  "updated_at": "2014-12-06T06:47:42-05:00"
 }

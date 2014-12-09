@@ -1,7 +1,7 @@
-<bill session="113" type="s" number="885" updated="2014-11-08T07:25:33-05:00">
-  <state datetime="2013-08-01">PASS_OVER:SENATE</state>
+<bill session="113" type="s" number="885" updated="2014-12-06T07:26:43-05:00">
+  <state datetime="2014-11-26">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2013-08-01"/>
+    <unknown datetime="2014-11-26"/>
   </status>
   <introduced datetime="2013-05-07"/>
   <titles>
@@ -38,6 +38,32 @@
     <action datetime="2013-08-02">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
     </action>
+    <action datetime="2014-11-17T14:58:00-05:00">
+      <text>Mr. Issa moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-11-17T14:58:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8009" label="consideration"/>
+    </action>
+    <action datetime="2014-11-17T14:58:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 885.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-11-17T15:03:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8009" label="text"/>
+    </vote>
+    <action datetime="2014-11-17T15:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-11-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-11-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-189" type="public" datetime="2014-11-26">
+      <text>Became Public Law No: 113-189.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting, In Committee"/>
@@ -56,6 +82,6 @@
     <term name="Vermont"/>
   </subjects>
   <amendments/>
-  <summary>5/7/2013--Introduced.
+  <summary>11/26/2014--Public Law.
 Designates the facility of the United States Postal Service located at 35 Park Street in Danville, Vermont, as the "Thaddeus Stevens Post Office."</summary>
 </bill>

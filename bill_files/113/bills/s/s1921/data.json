@@ -46,6 +46,15 @@
     }, 
     {
       "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2014-12-03", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Rubio, Marco", 
       "sponsored_at": "2014-01-14", 
       "state": "FL", 
@@ -109,5 +118,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:34:21-05:00"
+  "updated_at": "2014-12-06T07:35:40-05:00"
 }

@@ -113,6 +113,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "24", 
       "name": "Wilson, Frederica S.", 
       "sponsored_at": "2013-10-04", 
@@ -175,5 +184,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:53-05:00"
+  "updated_at": "2014-12-06T06:49:00-05:00"
 }

@@ -43,6 +43,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "WA", 
+      "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "23", 
       "name": "Gallego, Pete P.", 
       "sponsored_at": "2014-07-30", 
@@ -159,5 +168,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:10-05:00"
+  "updated_at": "2014-12-06T07:04:15-05:00"
 }

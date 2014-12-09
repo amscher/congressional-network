@@ -169,7 +169,11 @@
     "Water use and supply"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "WaterSense Efficiency, Conservation, and Adaptation Act of 2014 - Establishes within the Environmental Protection Agency (EPA) a WaterSense program to identify and promote water efficient products, buildings, landscapes, facilities, processes, and services so as to:\n\n reduce water use; reduce the strain on water, wastewater, and stormwater infrastructure; conserve energy used to pump, heat, transport, and treat water; and preserve water resources through the voluntary labeling of, or other forms of communications about, products, buildings, landscapes, facilities, processes, and services that meet the highest water efficiency and performance criteria. Requires the Administrator of EPA to identify other voluntary approaches to encourage recycling and reuse technologies to improve water efficiency or lower water use and to implement those approaches, if appropriate.\n\nEstablishes a State Residential Water Efficiency and Conservation Incentives Program to provide financial incentives for consumers to purchase and install products, buildings, landscapes, facilities, processes, and services labeled under the WaterSense program.\n\nRequires the Administrator to make grants to owners or operators of water systems to address, mitigate, and adapt to address any ongoing or forecasted impact of climate change on the water quality or quantity of a U.S. region."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -184,5 +188,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:54-05:00"
+  "updated_at": "2014-12-06T07:05:55-05:00"
 }

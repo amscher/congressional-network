@@ -142,6 +142,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "19", 
       "name": "Lofgren, Zoe", 
       "sponsored_at": "2013-12-03", 
@@ -174,6 +183,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "CA", 
       "thomas_id": "02108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-11-14", 
+      "state": "DC", 
+      "thomas_id": "00868", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -302,5 +320,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:52:02-05:00"
+  "updated_at": "2014-12-06T06:52:09-05:00"
 }

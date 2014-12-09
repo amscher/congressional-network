@@ -5,7 +5,7 @@ import yaml
 import Congressman
 import Committee
 import Bill
-import CommitteeNetworkData as NW
+import LegisCommitteeNetworkData as NW
 import CommitteeData
 
 
@@ -81,6 +81,8 @@ def ingestBillInfoForLegislator(thomas_data_map):
             thomas_data_map[billSponsorId] = createLegislator(item)
 
     thomas_data_map[billSponsorId].bills.append(k)
+    if v["status"] not in Bill.NOT_OUT_OF_COMMITTEE:
+      thomas_data_map[billSponsorId].num_outcomm_bills += 1
     if v["status"] in Bill.SUCCESSFUL:
       thomas_data_map[billSponsorId].num_success_bills += 1
 
@@ -118,6 +120,7 @@ def dataMapFromFile():
     cm.committeesMap = v["committeesMap"]
     cm.party = v["party"]
     cm.bills = v["bills"]
+    cm.num_outcomm_bills = v["num_outcomm_bills"]
     cm.num_success_bills = v["num_success_bills"]
     cm.committee_pagerank = v["committee_pagerank"]
     cm.committee_btwnscore = v["committee_btwnscore"]

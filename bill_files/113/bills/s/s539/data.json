@@ -79,10 +79,28 @@
     }, 
     {
       "district": null, 
+      "name": "Carper, Thomas R.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "DE", 
+      "thomas_id": "00179", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Collins, Susan M.", 
       "sponsored_at": "2013-03-12", 
       "state": "ME", 
       "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "DE", 
+      "thomas_id": "01984", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -164,6 +182,15 @@
       "sponsored_at": "2014-05-12", 
       "state": "MA", 
       "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -281,5 +308,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:22:36-05:00"
+  "updated_at": "2014-12-06T07:23:46-05:00"
 }

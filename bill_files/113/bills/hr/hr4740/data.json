@@ -72,6 +72,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Gardner, Cory", 
       "sponsored_at": "2014-07-22", 
@@ -198,6 +207,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Rangel, Charles B.", 
       "sponsored_at": "2014-06-24", 
@@ -270,11 +288,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Velazquez, Nydia M.", 
       "sponsored_at": "2014-07-22", 
       "state": "NY", 
       "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-14", 
+      "state": "VT", 
+      "thomas_id": "01879", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -347,5 +383,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:24-05:00"
+  "updated_at": "2014-12-06T07:02:29-05:00"
 }

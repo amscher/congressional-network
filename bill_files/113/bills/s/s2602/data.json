@@ -20,6 +20,17 @@
       "references": [], 
       "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.", 
       "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -29,7 +40,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "Senate Energy and Natural Resources", 
       "committee_id": "SSEG"
@@ -84,8 +96,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-07-15", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-13", 
   "subjects": [
     "Historic sites and heritage areas", 
     "Land use and conservation", 
@@ -95,7 +107,11 @@
     "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-15", 
+    "text": "Mountains to Sound Greenway National Heritage Area Act - Establishes the Mountains to Sound Greenway National Heritage Area in the state of Washington.\n\nDesignates the Mountains to Sound Greenway Trust as the local coordinating entity for the Heritage Area.\n\nRequires the Mountains to Sound Greenway Trust to prepare and submit a management plan for the Heritage Area."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -110,5 +126,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:06-05:00"
+  "updated_at": "2014-12-06T07:41:25-05:00"
 }

@@ -79,6 +79,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Coffman, Mike", 
       "sponsored_at": "2014-06-24", 
@@ -192,6 +201,15 @@
       "sponsored_at": "2014-07-24", 
       "state": "CA", 
       "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NC", 
+      "thomas_id": "00612", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -471,5 +489,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:15-05:00"
+  "updated_at": "2014-12-06T07:01:22-05:00"
 }

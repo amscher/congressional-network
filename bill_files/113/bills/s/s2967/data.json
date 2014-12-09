@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2967-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-02", 
+  "number": "2967", 
+  "official_title": "A bill to prohibit the Federal Government from mandating, incentivizing, or coercing States to adopt the Common Core State Standards or any other specific academic standards, instructional content, curricula, assessments, or programs of instruction.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Local Control of Education Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-02", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Education", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Intergovernmental relations", 
+    "School administration", 
+    "State and local government operations", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Local Control of Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prohibit the Federal Government from mandating, incentivizing, or coercing States to adopt the Common Core State Standards or any other specific academic standards, instructional content, curricula, assessments, or programs of instruction.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:31-05:00"
+}

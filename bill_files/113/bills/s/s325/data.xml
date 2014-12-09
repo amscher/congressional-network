@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="325" updated="2014-11-08T07:20:47-05:00">
+<bill session="113" type="s" number="325" updated="2014-12-06T07:21:59-05:00">
   <state datetime="2013-02-14">REFERRED</state>
   <status>
     <introduced datetime="2013-02-14"/>
@@ -35,7 +35,9 @@
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5740"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Child health"/>

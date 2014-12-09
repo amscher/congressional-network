@@ -71,6 +71,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "24", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Castor, Kathy", 
       "sponsored_at": "2013-03-20", 
@@ -480,5 +489,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:26:56-05:00"
+  "updated_at": "2014-12-06T06:27:03-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5166" updated="2014-11-08T07:06:02-05:00">
+<bill session="113" type="h" number="5166" updated="2014-12-06T07:06:03-05:00">
   <state datetime="2014-07-22">REFERRED</state>
   <status>
     <introduced datetime="2014-07-22"/>
@@ -57,9 +57,13 @@
     <action datetime="2014-09-02">
       <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
     <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
     <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
     <committee code="HSJU" name="House Judiciary" activity="Referral"/>

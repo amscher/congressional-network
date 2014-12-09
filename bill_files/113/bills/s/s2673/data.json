@@ -71,6 +71,52 @@
       "references": [], 
       "text": "Held at the desk.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:49:00-05:00", 
+      "references": [], 
+      "text": "Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8354-8358", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:50:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2673.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T19:08:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8354-8355", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-03T19:08:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
     }
   ], 
   "amendments": [
@@ -814,6 +860,8 @@
     "active_at": "2014-09-18", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-03T19:08:00-05:00", 
     "senate_passage_result": "pass", 
     "senate_passage_result_at": "2014-09-18", 
     "vetoed": false
@@ -832,8 +880,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:SENATE", 
-  "status_at": "2014-09-18", 
+  "status": "PASSED:BILL", 
+  "status_at": "2014-12-03T19:08:00-05:00", 
   "subjects": [
     "Advanced technology and technological innovations", 
     "Agricultural trade", 
@@ -882,6 +930,12 @@
       "type": "short"
     }, 
     {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "United States-Israel Strategic Partnership Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "passed senate", 
       "is_for_portion": false, 
       "title": "United States-Israel Strategic Partnership Act of 2014", 
@@ -894,5 +948,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:42-05:00"
+  "updated_at": "2014-12-06T07:42:01-05:00"
 }

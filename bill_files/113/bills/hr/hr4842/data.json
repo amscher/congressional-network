@@ -38,6 +38,13 @@
       "references": [], 
       "text": "Referred to House Education and the Workforce", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Workforce Protections.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -58,10 +65,37 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Workforce Protections", 
+      "subcommittee_id": "10"
     }
   ], 
   "congress": "113", 
   "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
     {
       "district": "4", 
       "name": "Smith, Christopher H.", 
@@ -131,5 +165,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:15-05:00"
+  "updated_at": "2014-12-06T07:03:21-05:00"
 }

@@ -207,6 +207,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Hanabusa, Colleen W.", 
       "sponsored_at": "2014-05-21", 
@@ -516,5 +525,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:56-05:00"
+  "updated_at": "2014-12-06T06:54:03-05:00"
 }

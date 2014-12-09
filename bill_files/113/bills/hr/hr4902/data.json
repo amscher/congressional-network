@@ -20,6 +20,13 @@
       ], 
       "text": "Sponsor introductory remarks on measure.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -33,6 +40,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
     }
   ], 
   "congress": "113", 
@@ -575,5 +591,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:46-05:00"
+  "updated_at": "2014-12-06T07:03:51-05:00"
 }

@@ -70,6 +70,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Butterfield, G. K.", 
       "sponsored_at": "2014-05-20", 
@@ -250,6 +259,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Lipinski, Daniel", 
       "sponsored_at": "2014-05-13", 
@@ -345,6 +363,15 @@
       "sponsored_at": "2014-06-19", 
       "state": "CO", 
       "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NC", 
+      "thomas_id": "00930", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -479,5 +506,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:26-05:00"
+  "updated_at": "2014-12-06T06:59:32-05:00"
 }

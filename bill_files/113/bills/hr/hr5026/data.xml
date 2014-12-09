@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5026" updated="2014-11-08T07:04:48-05:00">
+<bill session="113" type="h" number="5026" updated="2014-12-06T07:04:53-05:00">
   <state datetime="2014-07-30">REPORTED</state>
   <status>
     <unknown datetime="2014-07-30"/>
@@ -58,4 +58,8 @@
     <term name="Marine and coastal resources, fisheries"/>
   </subjects>
   <amendments/>
+  <summary>7/8/2014--Introduced.
+Fish Hatchery Protection Act - Prohibits the Secretary of the Interior from permanently closing, reprograming, repurposing, decommissioning, significantly altering, or moving to caretaker status any fish and other aquatic species propagation hatchery or propagation program within the National Fish Hatchery System unless such action is expressly authorized by an Act of Congress.
+
+Makes this Act effective from November 1, 2013, to ten years after this Act's enactment.</summary>
 </bill>

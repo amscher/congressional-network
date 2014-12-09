@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2616" updated="2014-11-08T07:40:13-05:00">
+<bill session="113" type="s" number="2616" updated="2014-12-06T07:41:32-05:00">
   <state datetime="2014-07-16">REFERRED</state>
   <status>
     <introduced datetime="2014-07-16"/>
@@ -37,4 +37,6 @@
     <term name="Land transfers"/>
   </subjects>
   <amendments/>
+  <summary>7/16/2014--Introduced.
+Idaho County Shooting Range Land Conveyance Act - Directs the Secretary of the Interior to convey to Idaho County in Idaho approximately 31 acres of land managed by the Bureau of Land Management (BLM) for use as a shooting range.</summary>
 </bill>

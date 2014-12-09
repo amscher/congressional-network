@@ -97,7 +97,11 @@
     "Government studies and investigations"
   ], 
   "subjects_top_term": "Government operations and politics", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-16", 
+    "text": "Inspector General Empowerment Act of 2014 - Amends the Inspector General Act of 1978 to: (1) grant inspectors general additional subpoena authority to compel the attendance and testimony of certain witnesses, including\u00a0federal government contractors and former federal employees, necessary in the performance of functions assigned by such Act; (2) authorize appropriations for the Council of the Inspectors General on Integrity and Efficiency through FY2021;\u00a0(3) assign the Council additional responsibilities with respect to disputes involving the jurisdiction of more than one federal agency or entity; and (4) set forth procedures for considering allegations of wrongdoing against the Special Counsel and Deputy Special Counsel (officials appointed to investigate prohibited personal practices and government waste and abuse).\n\nExempts from requirements relating to the authority of federal agencies to collect information for investigations: (1) information collected during any evaluation by the Federal Accountability and Spending Transparency Board; and (2) information collected during any audit, investigation, inspection, evaluation, or other review conducted by the Council or any Office of the Inspector General, including any Office of Special Inspector General.\n\nRequires: (1) the Comptroller General (GAO) to study and report on prolonged vacancies in the Offices of the Inspector General, and (2) the Council to conduct and report on an analysis of critical issues that involve the jurisdiction of more than one individual federal agency or entity."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -112,5 +116,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:48-05:00"
+  "updated_at": "2014-12-06T07:08:47-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="83" updated="2014-11-08T06:23:10-05:00">
+<bill session="113" type="h" number="83" updated="2014-12-06T06:23:18-05:00">
   <state datetime="2014-09-18">PASS_BACK:SENATE</state>
   <status>
     <unknown datetime="2014-09-18"/>
@@ -115,8 +115,10 @@
   <amendments>
     <amendment number="s3928"/>
   </amendments>
-  <summary>1/3/2013--Introduced.
-Requires the Secretary of the Interior to establish a team of technical, policy, and financial experts to: (1) develop an energy action plan addressing the energy needs of each of the insular areas (American Samoa, the Northern Mariana Islands, Puerto Rico, Guam, and the Virgin Islands) and Freely Associated States (the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau); and (2) assist each of the insular areas and Freely Associated States in implementing such plan.
+  <summary>6/19/2014--Reported to House amended.
+Requires the Secretary of the Interior to establish a team of technical, policy, and financial experts to develop and assist in implementing energy action plans addressing the immediate, near-term, and long-term energy and environmental needs of each of the insular areas (American Samoa, the Northern Mariana Islands, Puerto Rico, Guam, and the Virgin Islands) and Freely Associated States (the Federated States of Micronesia, Marshall Islands, and Palau).
 
-Requires such plan to include: (1) recommendations to reduce reliance and expenditures on imported fossil fuels, to develop indigenous, nonfossil fuel energy sources, and to improve performance of energy infrastructure and overall energy efficiency; (2) a schedule for implementation of such recommendations and identification and prioritization of specific projects; (3) a financial and engineering plan for implementing and sustaining projects; and (4) benchmarks for measuring progress toward implementation.</summary>
+Requires such plan to include: (1) recommendations to promote access to affordable, reliable energy, to develop indigenous, nonfossil fuel energy resources, and to improve performance of energy infrastructure and overall energy efficiency; (2) a schedule for implementation of the recommendations and identification and prioritization of specific projects; (3) a financial and engineering plan for implementing and sustaining projects; and (4) benchmarks for measuring progress toward implementation.
+
+Establishes reporting requirements.</summary>
 </bill>

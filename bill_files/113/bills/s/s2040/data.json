@@ -90,6 +90,76 @@
       "references": [], 
       "text": "Held at the desk.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:38:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:38:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8187-8188", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:38:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2040.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:43:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T12:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8237-8238", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:25:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 12/1/2014 H8187-8188", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "534", 
+      "status": "PASSED:BILL", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 534).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:25:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
     }
   ], 
   "amendments": [
@@ -131,8 +201,11 @@
   "history": {
     "active": true, 
     "active_at": "2014-05-07", 
-    "awaiting_signature": false, 
+    "awaiting_signature": true, 
+    "awaiting_signature_since": "2014-12-08", 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T13:25:00-05:00", 
     "senate_passage_result": "pass", 
     "senate_passage_result_at": "2014-09-18", 
     "vetoed": false
@@ -146,6 +219,11 @@
       "bill_id": "hr5049-113", 
       "reason": "identical", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5049-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Blackfoot River Land Exchange Act of 2014", 
@@ -157,8 +235,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:SENATE", 
-  "status_at": "2014-09-18", 
+  "status": "PASSED:BILL", 
+  "status_at": "2014-12-02T13:25:00-05:00", 
   "subjects": [
     "Floods and storm protection", 
     "Idaho", 
@@ -169,13 +247,19 @@
   ], 
   "subjects_top_term": "Native Americans", 
   "summary": {
-    "as": "Reported to Senate without amendment", 
-    "date": "2014-08-05", 
-    "text": "Blackfoot River Land Exchange Act of 2014 - Extinguishes all claims and all right, title, and interest in and to specified Indian and non-Indian land as part of the settlement of disputes within the Fort Hall Indian Reservation of the Shoshone and Bannock Indian Tribes in Idaho resulting from the realignment of the Blackfoot River by the Corps of Engineers in 1964.\n\nRequires the non-Indian land to be held in trust for the Tribes.\n\nDirects the Secretary of the Interior to transfer the Indian land to the Blackfoot River Flood Control District No. 7, which is to use the proceeds from the sale of such land to compensate: (1) each non-Indian landowner for his or her loss of land resulting from this Act's implementation at fair market value, and (2) itself for any expenses it incurs in carrying out this Act.\n\nAuthorizes the Blackfoot River Flood Control District No. 7 to dispose of the land or proceeds that remain after it meets those priorities in any manner it determines to be appropriate."
+    "as": "Passed Senate amended", 
+    "date": "2014-09-18", 
+    "text": "Blackfoot River Land Exchange Act of 2014 - (Sec. 4) Extinguishes all claims and all right, title, and interest in specified Indian and non-Indian land as part of the settlement of disputes within the Fort Hall Indian Reservation of the Shoshone-Bannock Indian Tribes in Idaho resulting from the realignment of the Blackfoot River by the Corps of Engineers in 1964.\n\n(Sec. 5) Requires the non-Indian land to be held in trust by the United States for the Tribes.\n\n(Sec. 6) Directs the Secretary of the Interior to transfer the Indian land to the Blackfoot River Flood Control District No. 7 for use or sale. Requires any proceeds from the sale of the land to be used to compensate: (1) each non-Indian landowner at fair market value for his or her loss of land resulting from this Act's implementation, and (2) the Blackfoot River Flood Control District No. 7 for any expenses it incurs in carrying out this Act.\n\nAuthorizes the Blackfoot River Flood Control District No. 7 to dispose of the land or proceeds that remain in any manner it determines to be appropriate."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Blackfoot River Land Exchange Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "Blackfoot River Land Exchange Act of 2014", 
       "type": "short"
@@ -199,5 +283,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:35:20-05:00"
+  "updated_at": "2014-12-08T18:48:58-05:00"
 }

@@ -194,6 +194,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Clay, Wm. Lacy", 
       "sponsored_at": "2014-07-22", 
@@ -352,6 +361,15 @@
       "sponsored_at": "2014-06-23", 
       "state": "FL", 
       "thomas_id": "02120", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VA", 
+      "thomas_id": "00446", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -545,6 +563,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Lipinski, Daniel", 
       "sponsored_at": "2014-06-19", 
@@ -559,6 +586,15 @@
       "sponsored_at": "2014-05-06", 
       "state": "IA", 
       "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00701", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -653,6 +689,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Michaud, Michael H.", 
       "sponsored_at": "2014-09-17", 
@@ -721,6 +766,15 @@
       "sponsored_at": "2014-06-09", 
       "state": "CA", 
       "thomas_id": "01710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02162", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1094,6 +1148,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KY", 
+      "thomas_id": "01853", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Young, Don", 
       "sponsored_at": "2014-05-29", 
@@ -1156,5 +1219,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:43-05:00"
+  "updated_at": "2014-12-06T06:57:50-05:00"
 }

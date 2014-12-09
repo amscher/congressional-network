@@ -1,14 +1,16 @@
-<bill session="113" type="s" number="1389" updated="2014-11-08T07:29:54-05:00">
+<bill session="113" type="s" number="1389" updated="2014-12-06T07:31:09-05:00">
   <state datetime="2013-07-30">REFERRED</state>
   <status>
     <introduced datetime="2013-07-30"/>
   </status>
   <introduced datetime="2013-07-30"/>
   <titles>
-    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to study the suitability and feasibility of designating the Prison Ship Martyrs?' Monument in Fort Greene Park, in the New York City borough of Brooklyn, as a unit of the National Park System.</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to study the suitability and feasibility of designating the Prison Ship Martyrs' Monument in Fort Greene Park, in the New York City borough of Brooklyn, as a unit of the National Park System.</title>
   </titles>
   <sponsor id="412223"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2014-11-18"/>
+  </cosponsors>
   <actions>
     <action datetime="2013-07-30" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>

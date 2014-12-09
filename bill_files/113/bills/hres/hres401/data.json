@@ -504,7 +504,13 @@
   "number": "401", 
   "official_title": "Expressing support for designation of the third Tuesday of November as \"National Entrepreneurs Day\".", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "sres582-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": "52", 
@@ -535,5 +541,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:19:35-05:00"
+  "updated_at": "2014-12-06T06:19:30-05:00"
 }

@@ -28,6 +28,15 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Paul, Rand", 
+      "sponsored_at": "2014-11-13", 
+      "state": "KY", 
+      "thomas_id": "02082", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Whitehouse, Sheldon", 
       "sponsored_at": "2014-09-18", 
       "state": "RI", 
@@ -100,5 +109,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:16-05:00"
+  "updated_at": "2014-12-06T07:43:37-05:00"
 }

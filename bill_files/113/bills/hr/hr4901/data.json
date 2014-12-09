@@ -84,6 +84,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "DeFazio, Peter A.", 
       "sponsored_at": "2014-06-19", 
@@ -145,7 +154,11 @@
     "Wyoming"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-19", 
+    "text": "Advancing Conservation and Education Act of 2014 - Allows Alaska, Arizona, California, Colorado, Idaho, Montana, New Mexico, North Dakota, Oregon, South Dakota, Utah, Washington, or Wyoming (western states) to relinquish state land grant parcels wholly or primarily within federal conservation areas and to select, in exchange, unappropriated public land within the state. Defines \"federal conservation areas\" as lands within the outer boundaries of units of the National Park, National Wilderness Preservation, National Wildlife Refuge, or National Landscape Conservation Systems and certain designated lands within the National Forest System.\n\nDirects the Secretary of the Interior to create a process for the relinquishment of such parcels.\n\nAllows a western state to select, and the Secretary to convey, lands that are mineral in character.\n\nRequires the overall value of the state land grant parcels and the unappropriated public land to be conveyed to be equal.\n\nSets forth requirements regarding records of hazardous materials on land conveyed, water rights, and grazing permits."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -160,5 +173,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:45-05:00"
+  "updated_at": "2014-12-06T07:03:50-05:00"
 }

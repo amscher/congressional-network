@@ -71,6 +71,43 @@
       "references": [], 
       "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6305", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
     }
   ], 
   "amendments": [], 
@@ -96,7 +133,8 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "Senate Veterans' Affairs", 
       "committee_id": "SSVA"
@@ -172,10 +210,13 @@
   "history": {
     "active": true, 
     "active_at": "2014-06-17T16:29:00-04:00", 
-    "awaiting_signature": false, 
+    "awaiting_signature": true, 
+    "awaiting_signature_since": "2014-12-08", 
     "enacted": false, 
     "house_passage_result": "pass", 
     "house_passage_result_at": "2014-06-17T16:33:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-03", 
     "vetoed": false
   }, 
   "introduced_at": "2013-12-09", 
@@ -192,8 +233,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:HOUSE", 
-  "status_at": "2014-06-17T16:33:00-04:00", 
+  "status": "PASSED:BILL", 
+  "status_at": "2014-12-03", 
   "subjects": [
     "Armed forces and national security", 
     "Congressional tributes", 
@@ -206,8 +247,8 @@
   ], 
   "subjects_top_term": "Armed forces and national security", 
   "summary": {
-    "as": "Passed House without amendment", 
-    "date": "2014-06-17", 
+    "as": "Passed Senate without amendment", 
+    "date": "2014-12-03", 
     "text": "Designates the community based outpatient clinic of the Department of Veterans Affairs (VA) located at 1961 Premier Drive in Mankato, Minnesota, as the \"Lyle C. Pearson Community Based Outpatient Clinic.\""
   }, 
   "titles": [
@@ -218,5 +259,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:27-05:00"
+  "updated_at": "2014-12-08T18:48:39-05:00"
 }

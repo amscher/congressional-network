@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="4668" updated="2014-11-08T07:01:48-05:00">
-  <state datetime="2014-05-15">REFERRED</state>
+<bill session="113" type="h" number="4668" updated="2014-12-06T07:01:53-05:00">
+  <state datetime="2014-11-19">REPORTED</state>
   <status>
-    <introduced datetime="2014-05-15"/>
+    <unknown datetime="2014-11-19"/>
   </status>
   <introduced datetime="2014-05-15"/>
   <titles>
@@ -38,11 +38,23 @@
     <action datetime="2014-09-10">
       <text>Subcommittee Hearings Held.</text>
     </action>
+    <action datetime="2014-11-19">
+      <text>Subcommittee Indian and Alaska Native Affairs Discharged.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-11-19" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
-    <committee activity="Referral, Hearings" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
-    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
     <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
   </committees>

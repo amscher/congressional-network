@@ -47,6 +47,15 @@
     }, 
     {
       "district": null, 
+      "name": "Cruz, Ted", 
+      "sponsored_at": "2014-11-17", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Inhofe, James M.", 
       "sponsored_at": "2013-03-19", 
       "state": "OK", 
@@ -140,5 +149,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:23:09-05:00"
+  "updated_at": "2014-12-06T07:24:19-05:00"
 }

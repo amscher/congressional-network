@@ -138,6 +138,24 @@
       "thomas_id": "00949", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-11-17", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -205,5 +223,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:35:58-05:00"
+  "updated_at": "2014-12-06T07:37:17-05:00"
 }

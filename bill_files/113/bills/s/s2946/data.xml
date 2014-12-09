@@ -1,0 +1,48 @@
+<bill session="113" type="s" number="2946" updated="2014-12-06T07:44:21-05:00">
+  <state datetime="2014-12-04">REPORTED</state>
+  <status>
+    <unknown datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Senator Paul Simon Water for the World Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide improved water, sanitation, and hygiene programs for high priority developing countries, and for other purposes.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2014-11-19"/>
+    <cosponsor id="412248" joined="2014-11-19"/>
+    <cosponsor id="400134" joined="2014-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S6154-6156" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2014-12-04" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+    <term name="Women's education"/>
+    <term name="Women's health"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+</bill>

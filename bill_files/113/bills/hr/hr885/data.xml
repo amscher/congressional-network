@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="885" updated="2014-11-08T06:29:53-05:00">
+<bill session="113" type="h" number="885" updated="2014-12-06T06:30:00-05:00">
   <state datetime="2013-06-03T17:25:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2013-06-03T17:25:00-04:00"/>
@@ -69,11 +69,14 @@
     <action datetime="2013-07-31">
       <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
     </action>
+    <calendar datetime="2014-11-13">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup"/>
     <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
   </committees>
   <relatedbills/>

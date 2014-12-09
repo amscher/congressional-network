@@ -36,6 +36,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CT", 
+      "thomas_id": "01913", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Kelly, Mike", 
       "sponsored_at": "2014-06-17", 
@@ -164,5 +173,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:55-05:00"
+  "updated_at": "2014-12-06T06:59:01-05:00"
 }

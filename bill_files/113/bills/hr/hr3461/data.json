@@ -115,6 +115,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Brownley, Julia", 
       "sponsored_at": "2014-01-28", 
@@ -192,6 +201,15 @@
       "sponsored_at": "2014-06-02", 
       "state": "TX", 
       "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VI", 
+      "thomas_id": "01474", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1386,5 +1404,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:33-05:00"
+  "updated_at": "2014-12-06T06:51:39-05:00"
 }

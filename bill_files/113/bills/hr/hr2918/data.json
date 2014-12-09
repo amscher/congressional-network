@@ -149,6 +149,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Bustos, Cheri", 
       "sponsored_at": "2013-12-19", 
@@ -248,6 +257,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Cramer, Kevin", 
       "sponsored_at": "2014-07-14", 
@@ -271,6 +289,15 @@
       "sponsored_at": "2014-02-10", 
       "state": "PA", 
       "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "sponsored_at": "2014-11-17", 
+      "state": "TN", 
+      "thomas_id": "02062", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -527,6 +554,33 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Nunnelee, Alan", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MS", 
+      "thomas_id": "02034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Rahall, Nick J., II", 
       "sponsored_at": "2013-08-01", 
@@ -541,6 +595,15 @@
       "sponsored_at": "2014-09-17", 
       "state": "WI", 
       "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "LA", 
+      "thomas_id": "02023", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -815,5 +878,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:47:01-05:00"
+  "updated_at": "2014-12-06T06:47:07-05:00"
 }

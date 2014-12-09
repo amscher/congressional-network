@@ -120,6 +120,15 @@
     }, 
     {
       "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Coons, Christopher A.", 
       "sponsored_at": "2014-09-18", 
       "state": "DE", 
@@ -459,5 +468,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:17:37-05:00"
+  "updated_at": "2014-12-06T07:18:39-05:00"
 }

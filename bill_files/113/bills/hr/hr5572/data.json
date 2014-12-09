@@ -43,6 +43,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Economic Opportunity.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -56,6 +63,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
     }, 
     {
       "activity": [
@@ -127,6 +143,11 @@
       "bill_id": "s2898-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2954-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Protecting Students from Worthless Degrees Act", 
@@ -173,5 +194,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:28-05:00"
+  "updated_at": "2014-12-06T07:09:27-05:00"
 }

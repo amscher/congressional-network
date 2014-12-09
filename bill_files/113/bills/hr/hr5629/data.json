@@ -16,6 +16,79 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:59:00-05:00", 
+      "references": [], 
+      "text": "Mr. Meehan moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8192-8194", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:59:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5629.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T17:10:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T18:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8198", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T18:57:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8192", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "532", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 11 (Roll no. 532).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-01T18:57:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -38,6 +111,13 @@
       "committee_id": "HSHM", 
       "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies", 
       "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
     }
   ], 
   "congress": "113", 
@@ -54,9 +134,12 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-01T16:59:00-05:00", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-01T18:57:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-09-18", 
@@ -73,8 +156,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-09-18", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-01T18:57:00-05:00", 
   "subjects": [
     "Congressional oversight", 
     "Crime prevention", 
@@ -90,10 +173,20 @@
     "Urban and suburban affairs and development"
   ], 
   "subjects_top_term": "Emergency management", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Strengthening Domestic Nuclear Security Act of 2014 - Amends the Homeland Security Act of 2002 to require the Director for Domestic Nuclear Detection: (1) in carrying out the mission of the Domestic Nuclear Detention Office, to provide support for planning, organization, equipment, training, exercises, and operational assessments to federal, state, local, territorial, and tribal entities to assist in implementing radiological and nuclear detection capabilities in the event of a radiological or nuclear act of terror or other attack; and (2) to establish the Securing the Cities (STC) program to enhance the ability of the United States to detect and prevent a radiological or nuclear act of terror or other attack in high-risk urban areas."
+  }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Strengthening Domestic Nuclear Security Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "Strengthening Domestic Nuclear Security Act of 2014", 
       "type": "short"
@@ -105,5 +198,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:57-05:00"
+  "updated_at": "2014-12-06T07:09:56-05:00"
 }

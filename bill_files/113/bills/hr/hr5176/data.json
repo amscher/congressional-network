@@ -24,6 +24,28 @@
       "references": [], 
       "text": "Subcommittee Hearings Held.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Energy and Mineral Resources Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -33,7 +55,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -41,7 +64,8 @@
     {
       "activity": [
         "referral", 
-        "hearings"
+        "hearings", 
+        "discharged"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII", 
@@ -83,8 +107,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-07-23", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-19", 
   "subjects": [
     "Coal", 
     "Energy", 
@@ -108,5 +132,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:07-05:00"
+  "updated_at": "2014-12-06T07:06:08-05:00"
 }

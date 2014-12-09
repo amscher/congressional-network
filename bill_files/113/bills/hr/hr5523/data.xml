@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5523" updated="2014-11-08T07:09:04-05:00">
+<bill session="113" type="h" number="5523" updated="2014-12-06T07:09:02-05:00">
   <state datetime="2014-09-17">REFERRED</state>
   <status>
     <introduced datetime="2014-09-17"/>
@@ -16,9 +16,13 @@
     <action datetime="2014-09-17" state="REFERRED">
       <text>Referred to the House Committee on Education and the Workforce.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and the Workforce"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="2418"/>

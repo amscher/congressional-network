@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4840" updated="2014-11-08T07:03:14-05:00">
+<bill session="113" type="h" number="4840" updated="2014-12-06T07:03:20-05:00">
   <state datetime="2014-06-11">REFERRED</state>
   <status>
     <introduced datetime="2014-06-11"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To amend title II of the Social Security Act to preclude use of the social security account number on Government-issued identification cards issued in connection with Medicare, Medicaid, and SCHIP benefits, and for other purposes.</title>
   </titles>
   <sponsor id="400195"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412560" joined="2014-12-04"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-06-11" state="REFERRED">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>

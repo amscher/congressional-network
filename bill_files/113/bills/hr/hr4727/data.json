@@ -154,6 +154,15 @@
       "thomas_id": "01930", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -202,5 +211,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:17-05:00"
+  "updated_at": "2014-12-06T07:02:23-05:00"
 }

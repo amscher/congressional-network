@@ -54,6 +54,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-12-01", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Conyers, John, Jr.", 
       "sponsored_at": "2014-07-07", 
@@ -122,6 +131,15 @@
       "sponsored_at": "2014-05-07", 
       "state": "IL", 
       "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Labrador, Raul R.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "ID", 
+      "thomas_id": "02011", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -269,5 +287,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:06-05:00"
+  "updated_at": "2014-12-06T07:01:12-05:00"
 }

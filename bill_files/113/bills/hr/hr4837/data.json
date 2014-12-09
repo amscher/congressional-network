@@ -36,6 +36,13 @@
       "references": [], 
       "text": "Referred to House Small Business", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -61,12 +68,30 @@
       "activity": [
         "referral"
       ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Health, Employment, Labor, and Pensions", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
       "committee": "House Small Business", 
       "committee_id": "HSSM"
     }
   ], 
   "congress": "113", 
   "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
     {
       "district": "3", 
       "name": "Blumenauer, Earl", 
@@ -118,6 +143,24 @@
       "sponsored_at": "2014-07-29", 
       "state": "CT", 
       "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2014-11-14", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "IL", 
+      "thomas_id": "01477", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -194,6 +237,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2014-11-13", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Moore, Gwen", 
       "sponsored_at": "2014-07-08", 
@@ -208,6 +269,15 @@
       "sponsored_at": "2014-06-11", 
       "state": "MA", 
       "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Negrete McLeod, Gloria", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "02108", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -289,6 +359,24 @@
       "sponsored_at": "2014-07-31", 
       "state": "IL", 
       "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "sponsored_at": "2014-12-08", 
+      "state": "MO", 
+      "thomas_id": "02191", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -380,5 +468,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:13-05:00"
+  "updated_at": "2014-12-08T18:48:45-05:00"
 }

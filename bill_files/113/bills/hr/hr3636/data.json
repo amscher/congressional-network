@@ -36,7 +36,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -86,5 +96,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:04-05:00"
+  "updated_at": "2014-12-06T06:53:11-05:00"
 }

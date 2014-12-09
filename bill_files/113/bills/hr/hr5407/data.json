@@ -82,6 +82,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Clarke, Yvette D.", 
       "sponsored_at": "2014-09-10", 
@@ -159,6 +168,15 @@
       "sponsored_at": "2014-09-10", 
       "state": "OH", 
       "thomas_id": "01895", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -289,6 +307,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Scott, David", 
       "sponsored_at": "2014-09-10", 
@@ -380,5 +407,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:06-05:00"
+  "updated_at": "2014-12-06T07:08:04-05:00"
 }

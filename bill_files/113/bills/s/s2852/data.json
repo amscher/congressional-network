@@ -47,7 +47,13 @@
   "number": "2852", 
   "official_title": "A bill to clarify membership requirements for the Board of Directors of the Federal Deposit Insurance Corporation.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr5749-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "State Regulatory Representation Clarification Act of 2014", 
   "sponsor": {
     "district": null, 
@@ -88,5 +94,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:11-05:00"
+  "updated_at": "2014-12-06T07:43:32-05:00"
 }

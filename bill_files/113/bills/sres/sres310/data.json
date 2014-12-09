@@ -52,7 +52,13 @@
   "number": "310", 
   "official_title": "A resolution designating December 3, 2013, as \"National Phenylketonuria Awareness Day\".", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "sres585-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": null, 
@@ -86,5 +92,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:15:26-05:00"
+  "updated_at": "2014-12-06T07:16:27-05:00"
 }

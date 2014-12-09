@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2159" updated="2014-11-08T07:36:20-05:00">
+<bill session="113" type="s" number="2159" updated="2014-12-06T07:37:39-05:00">
   <state datetime="2014-03-26">REFERRED</state>
   <status>
     <introduced datetime="2014-03-26"/>
@@ -11,6 +11,7 @@
   <sponsor id="300047"/>
   <cosponsors>
     <cosponsor id="412493" joined="2014-03-26"/>
+    <cosponsor id="402675" joined="2014-11-19"/>
     <cosponsor id="300043" joined="2014-03-26"/>
     <cosponsor id="412495" joined="2014-03-26"/>
   </cosponsors>
@@ -32,5 +33,5 @@
   </subjects>
   <amendments/>
   <summary>3/26/2014--Introduced.
-Restoration of America's Wire Act - Amends provisions of the federal criminal code, commonly known as the Wire Act, to provide that the prohibition against transmission of wagering information shall apply to any bet or wager, or information assisting in the placing of any bet or wager (thus making such prohibition applicable to all types of gambling activities, including internet gambling). States that nothing in this Act shall be construed to: (1) preempt any state law prohibiting gambling; or (2) alter, limit, or extend the relationship between the Interstate Horseracing Act of 1978 and other federal laws currently in effect, the ability of a state licensed lottery retailer to make in-person, computer-generated retail lottery sales, or the relationship between federal laws and state charitable gaming laws.</summary>
+Restoration of America's Wire Act - Amends provisions of the federal criminal code, commonly known as the Wire Act, to provide that the prohibition against transmission of wagering information shall apply to any bet or wager, or information assisting in the placing of any bet or wager (thus making such prohibition applicable to all types of gambling activities, including Internet gambling). States that nothing in this Act shall be construed to: (1) preempt any state law prohibiting gambling; or (2) alter, limit, or extend the relationship between the Interstate Horseracing Act of 1978 and other federal laws currently in effect, the ability of a state licensed lottery retailer to make in-person, computer-generated retail lottery sales, or the relationship between federal laws and state charitable gaming laws.</summary>
 </bill>

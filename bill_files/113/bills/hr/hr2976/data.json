@@ -182,6 +182,15 @@
     }, 
     {
       "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-12-01", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
       "name": "Keating, William R.", 
       "sponsored_at": "2013-08-01", 
       "state": "MA", 
@@ -422,5 +431,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:47:30-05:00"
+  "updated_at": "2014-12-06T06:47:36-05:00"
 }

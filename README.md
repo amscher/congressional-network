@@ -20,11 +20,12 @@ CongressmenData.py
 - Functions that allow you to add more data per congressman to the data/legislator-data.json file.
 
 
+
 data/legislator-data.json
 --------------------------
 To reload this file run..
   python CongressmenData.py
-  python CommiteeNetworkData.py
+  python LegisCommiteeNetworkData.py
 
 This file contains a lot of the calculated info we need for each legislator...
 You can access each legislator's infor using their thomas id.
@@ -67,6 +68,8 @@ The rest is pretty self explanatory
 
 data/bill-data.json
 -------------------
+To regenerate run: python readBills.py
+
 This file synthesizes a lot of the info that we need for bills, and makes it much
 faster to ingest the data than called readBills all the time.
 Each bill can be indexed by it's id, and one bill object looks like this...
@@ -95,6 +98,8 @@ The rest is pretty self explanatory
 
 data/committee-data.json
 ------------------------
+to regenerate run: python CommitteeData.py
+
 This file synthesizes a lot of the info that we need about a commiteee.
 Each committee can be indexed by it's thomas id, and one committee object looks like this...
   "HSAG": {

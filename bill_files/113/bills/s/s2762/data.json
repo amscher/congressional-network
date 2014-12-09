@@ -28,10 +28,28 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Baldwin, Tammy", 
       "sponsored_at": "2014-07-31", 
       "state": "WI", 
       "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-11-19", 
+      "state": "OH", 
+      "thomas_id": "00136", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -50,6 +68,24 @@
       "sponsored_at": "2014-09-18", 
       "state": "KS", 
       "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Vitter, David", 
+      "sponsored_at": "2014-11-19", 
+      "state": "LA", 
+      "thomas_id": "01609", 
       "title": "Sen", 
       "withdrawn_at": null
     }
@@ -120,5 +156,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:26-05:00"
+  "updated_at": "2014-12-06T07:42:47-05:00"
 }

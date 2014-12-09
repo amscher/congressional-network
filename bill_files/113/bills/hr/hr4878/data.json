@@ -83,6 +83,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Long, Billy", 
       "sponsored_at": "2014-07-25", 
@@ -183,7 +192,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-09-18", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -267,5 +276,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:33-05:00"
+  "updated_at": "2014-12-06T07:03:39-05:00"
 }

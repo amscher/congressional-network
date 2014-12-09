@@ -56,7 +56,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-15", 
+    "text": "Authorizes the Department of Agriculture to sell specified federal land in Winn Parish, Louisiana. Requires USDA to sell a portion of that land to Collins Camp Properties for the Collins Campsites.\n\nRequires sale proceeds to be used for the acquisition of lands and interests in the Kisatchie National Forest in Louisiana."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -71,5 +75,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:06-05:00"
+  "updated_at": "2014-12-06T07:41:26-05:00"
 }

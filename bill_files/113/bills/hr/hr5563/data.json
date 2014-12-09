@@ -34,6 +34,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Economic Opportunity.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Workforce Protections.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -47,6 +54,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Workforce Protections", 
+      "subcommittee_id": "10"
     }, 
     {
       "activity": [
@@ -131,6 +147,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "33", 
       "name": "Veasey, Marc A.", 
       "sponsored_at": "2014-09-18", 
@@ -191,5 +216,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:24-05:00"
+  "updated_at": "2014-12-06T07:09:22-05:00"
 }

@@ -278,6 +278,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Quigley, Mike", 
       "sponsored_at": "2013-02-06", 
@@ -420,5 +429,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:35-05:00"
+  "updated_at": "2014-12-06T07:11:34-05:00"
 }

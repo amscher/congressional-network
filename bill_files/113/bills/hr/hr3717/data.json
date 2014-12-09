@@ -389,6 +389,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Coffman, Mike", 
       "sponsored_at": "2014-01-09", 
@@ -421,6 +430,15 @@
       "sponsored_at": "2014-01-08", 
       "state": "AR", 
       "thomas_id": "01989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "01643", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -578,6 +596,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Hartzler, Vicky", 
       "sponsored_at": "2014-01-27", 
@@ -664,6 +691,15 @@
       "sponsored_at": "2013-12-12", 
       "state": "TX", 
       "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NC", 
+      "thomas_id": "00612", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -920,6 +956,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Richmond, Cedric L.", 
       "sponsored_at": "2014-03-27", 
@@ -1114,6 +1159,15 @@
       "sponsored_at": "2014-02-11", 
       "state": "IN", 
       "thomas_id": "02128", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MN", 
+      "thomas_id": "01856", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1320,5 +1374,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:45-05:00"
+  "updated_at": "2014-12-06T06:53:51-05:00"
 }

@@ -88,6 +88,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Hinojosa, Ruben", 
       "sponsored_at": "2014-09-16", 
@@ -142,6 +151,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Matsui, Doris O.", 
       "sponsored_at": "2014-09-16", 
@@ -156,6 +174,15 @@
       "sponsored_at": "2014-09-16", 
       "state": "NH", 
       "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01069", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -236,5 +263,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:45-05:00"
+  "updated_at": "2014-12-06T07:08:44-05:00"
 }

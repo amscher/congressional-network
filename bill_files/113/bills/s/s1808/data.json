@@ -210,6 +210,7 @@
   "status": "REFERRED", 
   "status_at": "2013-12-12", 
   "subjects": [
+    "Charitable contributions", 
     "Civil actions and liability", 
     "Civil rights and liberties, minority issues", 
     "Employee benefits and pensions", 
@@ -248,5 +249,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:33:24-05:00"
+  "updated_at": "2014-12-06T07:34:43-05:00"
 }

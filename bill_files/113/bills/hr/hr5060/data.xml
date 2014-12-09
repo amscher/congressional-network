@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5060" updated="2014-11-08T07:05:05-05:00">
+<bill session="113" type="h" number="5060" updated="2014-12-06T07:05:10-05:00">
   <state datetime="2014-07-10">REFERRED</state>
   <status>
     <introduced datetime="2014-07-10"/>
@@ -6,8 +6,6 @@
   <introduced datetime="2014-07-10"/>
   <titles>
     <title type="short" as="introduced">Hardrock Mining and Reclamation Act of 2014</title>
-    <title type="short" as="introduced">Materials Act of 1947</title>
-    <title type="short" as="introduced">Surface Resources Act of 1955</title>
     <title type="short" as="introduced" partial="1">Good Samaritan Cleanup of Abandoned Hardrock Mines Act of 2014</title>
     <title type="official" as="introduced">To modify the requirements applicable to locatable minerals on public domain lands, consistent with the principles of self-initiation of mining claims, and for other purposes.</title>
   </titles>

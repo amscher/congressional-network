@@ -82,7 +82,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -145,5 +155,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:27-05:00"
+  "updated_at": "2014-12-06T07:00:34-05:00"
 }

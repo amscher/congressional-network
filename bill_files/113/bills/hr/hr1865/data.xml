@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="1865" updated="2014-11-08T06:38:12-05:00">
+<bill session="113" type="h" number="1865" updated="2014-12-06T06:38:14-05:00">
   <state datetime="2014-06-17T14:48:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-06-17T14:48:00-04:00"/>
@@ -39,10 +39,19 @@
     <action datetime="2014-06-18">
       <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </action>
+    <calendar datetime="2014-11-12">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-11-13">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2014-11-13" calendar="Senate Legislative" under="General Orders" number="588">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 588.</text>
+    </calendar>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, In Committee"/>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
   </committees>
   <relatedbills>
     <bill relation="identical" session="113" type="s" number="885"/>

@@ -79,6 +79,11 @@
       "type": "bill"
     }, 
     {
+      "bill_id": "hr5720-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s2234-113", 
       "reason": "identical", 
       "type": "bill"
@@ -130,5 +135,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:32-05:00"
+  "updated_at": "2014-12-06T07:09:30-05:00"
 }

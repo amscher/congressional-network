@@ -50,6 +50,42 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.", 
       "type": "calendar", 
       "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6355", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6355", 
+          "type": "text of measure as reported in Senate"
+        }, 
+        {
+          "reference": "CR S6355", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08T12:32:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -86,11 +122,13 @@
     "active_at": "2013-09-10", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-04", 
     "vetoed": false
   }, 
   "introduced_at": "2013-08-01", 
   "number": "1447", 
-  "official_title": "A bill to make technical corrections to certain Native American water rights settlements in the State of New Mexico, and for other purposes.", 
+  "official_title": "A bill to make technical corrections to the Navajo water rights settlement in the State of New Mexico, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [
     {
@@ -108,8 +146,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-06-11", 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-12-04", 
   "subjects": [
     "Historical and cultural resources", 
     "Indian claims", 
@@ -144,7 +182,13 @@
       "is_for_portion": false, 
       "title": "A bill to make technical corrections to certain Native American water rights settlements in the State of New Mexico, and for other purposes.", 
       "type": "official"
+    }, 
+    {
+      "as": "amended by senate", 
+      "is_for_portion": false, 
+      "title": "A bill to make technical corrections to the Navajo water rights settlement in the State of New Mexico, and for other purposes.", 
+      "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:30:23-05:00"
+  "updated_at": "2014-12-08T18:48:56-05:00"
 }

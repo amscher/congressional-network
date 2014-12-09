@@ -142,6 +142,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MN", 
+      "thomas_id": "00867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Peterson, Collin C.", 
       "sponsored_at": "2014-09-18", 
@@ -165,6 +174,15 @@
       "sponsored_at": "2014-07-29", 
       "state": "IN", 
       "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NE", 
+      "thomas_id": "01566", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -228,5 +246,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:20:42-05:00"
+  "updated_at": "2014-12-06T06:20:39-05:00"
 }

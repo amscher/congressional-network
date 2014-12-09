@@ -387,18 +387,6 @@
     }, 
     {
       "as": "introduced", 
-      "is_for_portion": false, 
-      "title": "Materials Act of 1947", 
-      "type": "short"
-    }, 
-    {
-      "as": "introduced", 
-      "is_for_portion": false, 
-      "title": "Surface Resources Act of 1955", 
-      "type": "short"
-    }, 
-    {
-      "as": "introduced", 
       "is_for_portion": true, 
       "title": "Good Samaritan Cleanup of Abandoned Hardrock Mines Act of 2014", 
       "type": "short"
@@ -410,5 +398,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:05-05:00"
+  "updated_at": "2014-12-06T07:05:10-05:00"
 }

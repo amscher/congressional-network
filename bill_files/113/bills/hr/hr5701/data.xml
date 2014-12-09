@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="5701" updated="2014-12-06T07:10:32-05:00">
+  <state datetime="2014-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-13"/>
+  </status>
+  <introduced datetime="2014-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Western Oregon Indian Tribal Lands Act</title>
+    <title type="short" as="introduced" partial="1">Cow Creek Umpqua Land Conveyance Act</title>
+    <title type="short" as="introduced" partial="1">Oregon Coastal Lands Act</title>
+    <title type="official" as="introduced">To require that certain Federal lands be held in trust by the United States for the benefit of federally recognized tribes in the State of Oregon, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="412315" joined="2014-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="841"/>
+    <bill relation="unknown" session="113" type="h" number="931"/>
+    <bill relation="unknown" session="113" type="h" number="5511"/>
+    <bill relation="unknown" session="113" type="h" number="5512"/>
+    <bill relation="unknown" session="113" type="s" number="402"/>
+    <bill relation="unknown" session="113" type="s" number="416"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Oregon"/>
+  </subjects>
+  <amendments/>
+</bill>

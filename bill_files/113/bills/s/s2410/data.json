@@ -1454,6 +1454,186 @@
       "amendment_type": "samdt", 
       "chamber": "s", 
       "number": "3922"
+    }, 
+    {
+      "amendment_id": "samdt3936-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3936"
+    }, 
+    {
+      "amendment_id": "samdt3937-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3937"
+    }, 
+    {
+      "amendment_id": "samdt3938-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3938"
+    }, 
+    {
+      "amendment_id": "samdt3939-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3939"
+    }, 
+    {
+      "amendment_id": "samdt3940-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3940"
+    }, 
+    {
+      "amendment_id": "samdt3941-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3941"
+    }, 
+    {
+      "amendment_id": "samdt3942-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3942"
+    }, 
+    {
+      "amendment_id": "samdt3943-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3943"
+    }, 
+    {
+      "amendment_id": "samdt3944-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3944"
+    }, 
+    {
+      "amendment_id": "samdt3945-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3945"
+    }, 
+    {
+      "amendment_id": "samdt3946-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3946"
+    }, 
+    {
+      "amendment_id": "samdt3949-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3949"
+    }, 
+    {
+      "amendment_id": "samdt3950-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3950"
+    }, 
+    {
+      "amendment_id": "samdt3951-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3951"
+    }, 
+    {
+      "amendment_id": "samdt3952-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3952"
+    }, 
+    {
+      "amendment_id": "samdt3953-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3953"
+    }, 
+    {
+      "amendment_id": "samdt3954-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3954"
+    }, 
+    {
+      "amendment_id": "samdt3955-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3955"
+    }, 
+    {
+      "amendment_id": "samdt3956-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3956"
+    }, 
+    {
+      "amendment_id": "samdt3959-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3959"
+    }, 
+    {
+      "amendment_id": "samdt3960-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3960"
+    }, 
+    {
+      "amendment_id": "samdt3961-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3961"
+    }, 
+    {
+      "amendment_id": "samdt3962-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3962"
+    }, 
+    {
+      "amendment_id": "samdt3963-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3963"
+    }, 
+    {
+      "amendment_id": "samdt3964-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3964"
+    }, 
+    {
+      "amendment_id": "samdt3967-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3967"
+    }, 
+    {
+      "amendment_id": "samdt3968-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3968"
+    }, 
+    {
+      "amendment_id": "samdt3969-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3969"
+    }, 
+    {
+      "amendment_id": "samdt3970-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3970"
+    }, 
+    {
+      "amendment_id": "samdt3972-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3972"
     }
   ], 
   "bill_id": "s2410-113", 
@@ -1505,6 +1685,16 @@
     }, 
     {
       "bill_id": "hr3930-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3979-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4435-113", 
       "reason": "related", 
       "type": "bill"
     }, 
@@ -1756,5 +1946,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:38:30-05:00"
+  "updated_at": "2014-12-06T07:39:49-05:00"
 }

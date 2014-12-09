@@ -50,6 +50,24 @@
       "thomas_id": "01730", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-11-19", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2014-12-01", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -110,5 +128,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:16-05:00"
+  "updated_at": "2014-12-06T07:09:14-05:00"
 }

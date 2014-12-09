@@ -88,7 +88,11 @@
     "Sports and recreation"
   ], 
   "subjects_top_term": "Sports and recreation", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "United States Anti-Doping Agency Reauthorization Act - Amends the Office of National Drug Control Policy Reauthorization Act of 2006 to: (1) authorize appropriations for the U.S. Anti-Doping Agency for FY2014-FY2020, (2) require that the Agency be recognized worldwide as the independent national anti-doping organization for the United States, and (3) replace the Agency's role in preventing the use by U.S. amateur athletes of performance-enhancing genetic modifications accomplished through gene doping with a role in preventing the use of prohibited performance-enhancing methods adopted by the Agency."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -103,5 +107,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:49-05:00"
+  "updated_at": "2014-12-06T07:09:48-05:00"
 }

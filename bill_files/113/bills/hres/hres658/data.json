@@ -45,6 +45,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Shea-Porter, Carol", 
       "sponsored_at": "2014-09-18", 
@@ -97,5 +106,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:21:43-05:00"
+  "updated_at": "2014-12-06T06:21:40-05:00"
 }

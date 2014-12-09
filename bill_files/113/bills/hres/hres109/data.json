@@ -222,6 +222,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "24", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Capuano, Michael E.", 
       "sponsored_at": "2014-01-28", 
@@ -573,6 +582,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2014-12-03", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Franks, Trent", 
       "sponsored_at": "2014-06-12", 
@@ -735,6 +753,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Jenkins, Lynn", 
       "sponsored_at": "2013-07-08", 
@@ -767,6 +794,15 @@
       "sponsored_at": "2014-02-25", 
       "state": "MA", 
       "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kennedy, Joseph P. III", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "02172", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -983,6 +1019,15 @@
       "sponsored_at": "2014-06-17", 
       "state": "NC", 
       "thomas_id": "01505", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "sponsored_at": "2014-12-03", 
+      "state": "WA", 
+      "thomas_id": "01809", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1266,6 +1311,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Sarbanes, John P.", 
       "sponsored_at": "2014-06-17", 
@@ -1464,6 +1518,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "23", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2014-12-03", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "43", 
       "name": "Waters, Maxine", 
       "sponsored_at": "2014-06-23", 
@@ -1589,5 +1652,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:17:07-05:00"
+  "updated_at": "2014-12-06T06:17:03-05:00"
 }

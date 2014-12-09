@@ -23,6 +23,35 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Energy and Mineral Resources Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -32,14 +61,16 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII", 
@@ -48,7 +79,8 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII", 
@@ -60,7 +92,8 @@
   "cosponsors": [], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-19", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -85,8 +118,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-03-12", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-19", 
   "subjects": [
     "Elementary and secondary education", 
     "Land transfers", 
@@ -113,5 +146,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:58-05:00"
+  "updated_at": "2014-12-06T06:58:05-05:00"
 }

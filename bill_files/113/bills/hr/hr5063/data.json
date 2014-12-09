@@ -52,6 +52,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2014-12-01", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "27", 
       "name": "Collins, Chris", 
       "sponsored_at": "2014-07-28", 
@@ -84,6 +93,15 @@
       "sponsored_at": "2014-07-28", 
       "state": "NY", 
       "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02170", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -221,7 +239,11 @@
     "Technology transfer and commercialization"
   ], 
   "subjects_top_term": "Science, technology, communications", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-10", 
+    "text": "American Space Technology for Exploring Resource Opportunities In Deep Space Act or the ASTEROIDS Act - Directs the President through the National Aeronautics and Space Administration (NASA), the Federal Aviation Administration (FAA), and other appropriate federal agencies to\n\n facilitate the commercial exploration and utilization of asteroid resources to meet national needs; discourage government barriers to the development of economically viable, safe, and stable industries for the exploration and utilization of asteroid resources in outer space in manners consistent with the existing international obligations of the United States; promote the right of U.S. commercial entities to explore and utilize resources from asteroids in outer space, in accordance with such obligations, free from harmful interference, and to transfer or sell such resources; and develop the frameworks necessary to meet the international obligations of the United States."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -242,5 +264,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:07-05:00"
+  "updated_at": "2014-12-06T07:05:12-05:00"
 }

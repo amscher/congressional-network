@@ -28,6 +28,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "McCarthy, Carolyn", 
       "sponsored_at": "2013-05-24", 
@@ -87,5 +96,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:41:06-05:00"
+  "updated_at": "2014-12-06T06:41:10-05:00"
 }

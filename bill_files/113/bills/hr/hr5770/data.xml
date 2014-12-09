@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5770" updated="2014-12-06T07:11:06-05:00">
+  <state datetime="2014-12-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-01"/>
+  </status>
+  <introduced datetime="2014-12-01"/>
+  <titles>
+    <title type="short" as="introduced">Disaster Assistance Recoupment Fairness Act of 2014</title>
+    <title type="official" as="introduced">To amend the Disaster Assistance Recoupment Fairness Act of 2011 to extend authority granted to the Administrator of the Federal Emergency Management Agency to waive certain debts relating to disaster assistance provided to individuals and households, and for other purposes.</title>
+  </titles>
+  <sponsor id="400271"/>
+  <cosponsors>
+    <cosponsor id="412451" joined="2014-12-01"/>
+    <cosponsor id="400219" joined="2014-12-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-01" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+  </subjects>
+  <amendments/>
+</bill>

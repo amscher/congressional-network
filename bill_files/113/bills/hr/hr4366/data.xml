@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4366" updated="2014-11-08T06:59:12-05:00">
+<bill session="113" type="h" number="4366" updated="2014-12-06T06:59:18-05:00">
   <state datetime="2014-05-08T19:12:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-05-08T19:12:00-04:00"/>
@@ -8,6 +8,7 @@
     <title type="short" as="introduced">Strengthening Education through Research Act</title>
     <title type="short" as="reported to house">Strengthening Education through Research Act</title>
     <title type="short" as="passed house">Strengthening Education through Research Act</title>
+    <title type="short" as="reported to senate">Strengthening Education through Research Act</title>
     <title type="official" as="introduced">To strengthen the Federal education research system to make research and evaluations more timely and relevant to State and local needs in order to increase student achievement.</title>
   </titles>
   <sponsor id="412426"/>
@@ -63,10 +64,16 @@
     <calendar datetime="2014-09-17">
       <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
     </calendar>
+    <action datetime="2014-11-17">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-275.</text>
+    </action>
+    <calendar datetime="2014-11-17" calendar="Senate Legislative" under="General Orders" number="600">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 600.</text>
+    </calendar>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral, Markup, Reporting"/>
-    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
   </committees>
   <relatedbills/>
   <subjects>

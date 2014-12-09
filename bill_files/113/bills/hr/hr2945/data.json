@@ -54,6 +54,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-11-19", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2014-11-19", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Cartwright, Matt", 
       "sponsored_at": "2014-01-03", 
@@ -135,6 +153,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "24", 
+      "name": "Maffei, Daniel B.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NY", 
+      "thomas_id": "01943", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "McGovern, James P.", 
       "sponsored_at": "2014-05-21", 
@@ -197,6 +224,7 @@
   "status": "REFERRED", 
   "status_at": "2013-08-01", 
   "subjects": [
+    "Charitable contributions", 
     "Food assistance and relief", 
     "Income tax deductions", 
     "Social work, volunteer service, charitable organizations", 
@@ -216,5 +244,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:47:14-05:00"
+  "updated_at": "2014-12-06T06:47:20-05:00"
 }

@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="5697" updated="2014-12-06T07:10:30-05:00">
+  <state datetime="2014-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-13"/>
+  </status>
+  <introduced datetime="2014-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Equal Treatment of Public Servants Act of 2014</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to repeal the windfall elimination provision and protect the retirement of public servants.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412482" joined="2014-11-20"/>
+    <cosponsor id="412435" joined="2014-12-02"/>
+    <cosponsor id="400654" joined="2014-11-19"/>
+    <cosponsor id="400291" joined="2014-11-13"/>
+    <cosponsor id="412302" joined="2014-12-02"/>
+    <cosponsor id="400406" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+</bill>

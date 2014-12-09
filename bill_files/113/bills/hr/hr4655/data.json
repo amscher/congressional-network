@@ -110,7 +110,13 @@
   "number": "4655", 
   "official_title": "To amend the Unfunded Mandates Reform Act of 1995 to provide for regulatory impact analyses for certain rules, consideration of the least burdensome regulatory alternative, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2931-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Unfunded Mandates Accountability Act of 2013", 
   "sponsor": {
     "district": "3", 
@@ -152,5 +158,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:37-05:00"
+  "updated_at": "2014-12-06T07:01:43-05:00"
 }

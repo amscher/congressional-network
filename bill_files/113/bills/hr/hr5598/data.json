@@ -129,7 +129,11 @@
     "Travel and tourism"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Travel and Resource Access Including Local Stakeholders Act - Requires the Director of the Bureau of Land Management (BLM), as a condition on the preparation of an environmental impact statement or environmental assessment under the National Environmental Policy Act of 1969 (NEPA) for a proposed access travel management action, to consult with affected counties for the purpose of incorporating their needs, uses, and input. Prohibits the Secretary from implementing such an action until the Secretary: (1) complies with such consultation requirement, and (2) obtains the concurrence of each affected county.\n\nDefines an \"access travel management action\" as a BLM action that will alter public access to public lands, including any change in access to mining claims or access using motorized vehicles or nonmotorized means resulting from the decommissioning of a road or trail, a change in the status of a road as open or closed, or a change in road densities."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -144,5 +148,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:41-05:00"
+  "updated_at": "2014-12-06T07:09:40-05:00"
 }

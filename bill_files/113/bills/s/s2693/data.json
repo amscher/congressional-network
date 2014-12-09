@@ -53,6 +53,15 @@
     }, 
     {
       "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Boxer, Barbara", 
       "sponsored_at": "2014-07-31", 
       "state": "CA", 
@@ -102,6 +111,15 @@
       "sponsored_at": "2014-07-30", 
       "state": "NH", 
       "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "01531", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -194,5 +212,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:52-05:00"
+  "updated_at": "2014-12-06T07:42:11-05:00"
 }

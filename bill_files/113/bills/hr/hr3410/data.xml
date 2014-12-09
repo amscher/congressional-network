@@ -1,18 +1,21 @@
-<bill session="113" type="h" number="3410" updated="2014-11-08T06:51:07-05:00">
-  <state datetime="2013-10-30">REFERRED</state>
+<bill session="113" type="h" number="3410" updated="2014-12-06T06:51:14-05:00">
+  <state datetime="2014-12-01T17:28:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2013-10-30"/>
+    <unknown datetime="2014-12-01T17:28:00-05:00"/>
   </status>
   <introduced datetime="2013-10-30"/>
   <titles>
     <title type="short" as="introduced">CIPA</title>
     <title type="short" as="introduced">Critical Infrastructure Protection Act</title>
+    <title type="short" as="passed house">CIPA</title>
+    <title type="short" as="passed house">Critical Infrastructure Protection Act</title>
     <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to secure critical infrastructure against electromagnetic pulses, and for other purposes.</title>
   </titles>
   <sponsor id="400141"/>
   <cosponsors>
     <cosponsor id="400032" joined="2013-11-20"/>
     <cosponsor id="412221" joined="2014-02-11"/>
+    <cosponsor id="400089" joined="2014-11-19"/>
     <cosponsor id="412526" joined="2013-11-20"/>
     <cosponsor id="412476" joined="2013-11-18"/>
     <cosponsor id="412382" joined="2014-02-21"/>
@@ -39,10 +42,31 @@
     <action datetime="2013-11-12">
       <text>Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.</text>
     </action>
+    <action datetime="2014-12-01T17:11:00-05:00">
+      <text>Mr. Meehan moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-12-01T17:11:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8194-8196" label="consideration"/>
+    </action>
+    <action datetime="2014-12-01T17:11:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3410.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-12-01T17:28:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8194" label="text"/>
+    </vote>
+    <action datetime="2014-12-01T17:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
     <committee activity="Referral" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

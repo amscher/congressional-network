@@ -24,6 +24,28 @@
       "references": [], 
       "text": "Subcommittee Hearings Held.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -33,7 +55,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -41,7 +64,8 @@
     {
       "activity": [
         "referral", 
-        "hearings"
+        "hearings", 
+        "discharged"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII", 
@@ -89,8 +113,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-07-11", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-19", 
   "subjects": [
     "Federal-Indian relations", 
     "Government studies and investigations", 
@@ -102,7 +126,11 @@
     "U.S. history"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-11", 
+    "text": "Amends the National Trails System Act to direct the Secretary of the Interior to conduct a study on feasibility of designating as a national historic trail the Chief Standing Bear Trail extending approximately 550 miles from Ponca City, Oklahoma, through Omaha, Nebraska, which follows the route taken by Chief Standing Bear and the Ponca people during federal Indian removal, and approximately 550 miles from Ponca City through Omaha to Niobrara, Nebraska, which follows the return route taken by Chief Standing Bear and the Ponca people."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -111,5 +139,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:21-05:00"
+  "updated_at": "2014-12-06T07:05:23-05:00"
 }

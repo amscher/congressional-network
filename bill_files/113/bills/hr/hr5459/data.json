@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Clarke, Yvette D.", 
       "sponsored_at": "2014-09-11", 
@@ -232,5 +241,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:32-05:00"
+  "updated_at": "2014-12-06T07:08:30-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2851" updated="2014-11-08T07:42:11-05:00">
+<bill session="113" type="s" number="2851" updated="2014-12-06T07:43:31-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -9,7 +9,10 @@
     <title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for the expansion, intensification, and coordination of the programs and activities of the National Institutes of Health with respect to Tourette syndrome.</title>
   </titles>
   <sponsor id="400272"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2014-11-12"/>
+    <cosponsor id="300087" joined="2014-11-12"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>

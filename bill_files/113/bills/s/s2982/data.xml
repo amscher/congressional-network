@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="2982" updated="2014-12-06T07:44:39-05:00">
+  <state datetime="2014-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the issuance of a forever stamp to honor the sacrifices of the brave men and women of the Armed Forces who are still prisoner, missing, or unaccounted for, and for other purposes.</title>
+  </titles>
+  <sponsor id="400408"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

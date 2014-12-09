@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1616" updated="2014-11-08T07:31:48-05:00">
+<bill session="113" type="s" number="1616" updated="2014-12-06T07:33:03-05:00">
   <state datetime="2013-10-30">REFERRED</state>
   <status>
     <introduced datetime="2013-10-30"/>
@@ -22,6 +22,7 @@
   <subjects>
     <term name="Taxation"/>
     <term name="Capital gains tax"/>
+    <term name="Charitable contributions"/>
     <term name="Employment taxes"/>
     <term name="Housing finance and home ownership"/>
     <term name="Income tax credits"/>

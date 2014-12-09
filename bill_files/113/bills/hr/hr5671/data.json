@@ -53,7 +53,13 @@
   "number": "5671", 
   "official_title": "To amend the Indian Employment, Training and Related Services Demonstration Act of 1992 to facilitate the ability of Indian tribes to integrate the employment, training, and related services from diverse Federal sources, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s1574-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Indian Employment, Training and Related Services Consolidation Act of 2014", 
   "sponsor": {
     "district": null, 
@@ -95,5 +101,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:18-05:00"
+  "updated_at": "2014-12-06T07:10:17-05:00"
 }

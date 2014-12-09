@@ -46,6 +46,24 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Unanimous Consent.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:31:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 113-635.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:31:00-05:00", 
+      "calendar": "Union", 
+      "number": "475", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 475.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -57,6 +75,7 @@
       "activity": [
         "referral", 
         "markup", 
+        "reporting", 
         "in committee"
       ], 
       "committee": "House Natural Resources", 
@@ -113,9 +132,9 @@
   ], 
   "subjects_top_term": "Public lands and natural resources", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-04-26", 
-    "text": "Replaces the map subtitled \"Gasparilla Island Unit FL-70P\" included in the set of maps entitled \"Coastal Barrier Resources System\" (referred to in specified provisions of the Coastal Barrier Resources Act and relating to the Gasparilla Island Unit in Florida) with another map relating to the same unit entitled \"John H. Chafee Coastal Barrier Resources System Corrected Gasparilla Unit FL-70/FL-70P,\" draft dated May 23, 2012."
+    "as": "Reported to House without amendment", 
+    "date": "2014-12-01", 
+    "text": "Revises the boundaries of the Gasparilla Island Unit FL-70P in the John H. Chafee Coastal Barrier Resources System in Florida."
   }, 
   "titles": [
     {
@@ -125,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:44-05:00"
+  "updated_at": "2014-12-06T06:37:46-05:00"
 }

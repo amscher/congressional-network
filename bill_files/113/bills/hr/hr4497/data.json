@@ -67,6 +67,7 @@
   "status_at": "2014-04-28", 
   "subjects": [
     "Business expenses", 
+    "Charitable contributions", 
     "Disaster relief and insurance", 
     "Income tax deductions", 
     "Natural disasters", 
@@ -87,5 +88,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:17-05:00"
+  "updated_at": "2014-12-06T07:00:24-05:00"
 }

@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="5206" updated="2014-11-08T07:06:24-05:00">
-  <state datetime="2014-07-25">REFERRED</state>
+<bill session="113" type="h" number="5206" updated="2014-12-06T07:06:23-05:00">
+  <state datetime="2014-11-20">REPORTED</state>
   <status>
-    <introduced datetime="2014-07-25"/>
+    <unknown datetime="2014-11-20"/>
   </status>
   <introduced datetime="2014-07-25"/>
   <titles>
@@ -21,9 +21,15 @@
     <action datetime="2014-07-25">
       <text>Referred to House Oversight and Government Reform</text>
     </action>
+    <action datetime="2014-11-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-11-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
     <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
   </committees>
   <relatedbills/>
@@ -35,4 +41,6 @@
     <term name="Government employee pay, benefits, personnel management"/>
   </subjects>
   <amendments/>
+  <summary>7/25/2014--Introduced.
+Amends the Foreign Service Act of 1980 to permit employees of the Foreign Service and other executive branch employees to designate beneficiaries of their death benefits.</summary>
 </bill>

@@ -361,6 +361,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Jordan, Jim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "01868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Kingston, Jack", 
       "sponsored_at": "2013-05-07", 
@@ -880,5 +889,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:34:45-05:00"
+  "updated_at": "2014-12-06T06:34:48-05:00"
 }

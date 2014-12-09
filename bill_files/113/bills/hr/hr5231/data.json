@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Bachmann, Michele", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MN", 
+      "thomas_id": "01858", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Bordallo, Madeleine Z.", 
       "sponsored_at": "2014-09-09", 
@@ -99,6 +108,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Walz, Timothy J.", 
       "sponsored_at": "2014-09-09", 
@@ -165,5 +183,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:36-05:00"
+  "updated_at": "2014-12-06T07:06:36-05:00"
 }

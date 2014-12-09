@@ -116,6 +116,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-12-08", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "35", 
       "name": "Negrete McLeod, Gloria", 
       "sponsored_at": "2013-06-25", 
@@ -189,5 +198,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:47-05:00"
+  "updated_at": "2014-12-08T18:48:34-05:00"
 }

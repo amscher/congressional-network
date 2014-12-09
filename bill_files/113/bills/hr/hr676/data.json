@@ -371,6 +371,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "30", 
       "name": "Johnson, Eddie Bernice", 
       "sponsored_at": "2013-02-13", 
@@ -759,5 +768,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:08-05:00"
+  "updated_at": "2014-12-06T06:28:15-05:00"
 }

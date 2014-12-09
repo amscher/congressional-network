@@ -286,6 +286,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "41", 
       "name": "Takano, Mark", 
       "sponsored_at": "2013-06-20", 
@@ -364,5 +373,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:42:16-05:00"
+  "updated_at": "2014-12-06T06:42:20-05:00"
 }

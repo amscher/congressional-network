@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2314" updated="2014-11-08T07:37:38-05:00">
+<bill session="113" type="s" number="2314" updated="2014-12-06T07:38:57-05:00">
   <state datetime="2014-05-08">REFERRED</state>
   <status>
     <introduced datetime="2014-05-08"/>
@@ -19,6 +19,7 @@
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
   </committees>
   <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5682"/>
     <bill relation="unknown" session="113" type="s" number="2280"/>
     <bill relation="unknown" session="113" type="s" number="2554"/>
   </relatedbills>

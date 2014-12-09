@@ -328,6 +328,15 @@
     }, 
     {
       "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
       "name": "Lankford, James", 
       "sponsored_at": "2013-12-09", 
       "state": "OK", 
@@ -644,5 +653,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:49-05:00"
+  "updated_at": "2014-12-06T06:51:55-05:00"
 }

@@ -55,6 +55,26 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 576.", 
       "type": "calendar", 
       "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6306-6307", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6306-6307", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
     }
   ], 
   "amendments": [], 
@@ -74,6 +94,15 @@
   ], 
   "congress": "113", 
   "cosponsors": [
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
     {
       "district": null, 
       "name": "McCain, John", 
@@ -108,6 +137,8 @@
     "active_at": "2014-09-18", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-03", 
     "vetoed": false
   }, 
   "introduced_at": "2014-09-10", 
@@ -124,8 +155,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-18", 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-12-03", 
   "subjects": [
     "Commemorative events and holidays", 
     "Diplomacy, foreign officials, Americans abroad", 
@@ -139,8 +170,8 @@
   ], 
   "subjects_top_term": "International affairs", 
   "summary": {
-    "as": "Reported to Senate without amendment", 
-    "date": "2014-09-18", 
+    "as": "Passed Senate without amendment", 
+    "date": "2014-12-03", 
     "text": "Supports the goals of the International Day of Democracy.\n\n Recognizes the importance of civil society to the healthy development of nations.\n\nReaffirms the commitment of the United States to the protection and advancement of democracy throughout the world.\n\nCondemns the use of restrictions, coercion, threats, or force to impede the activities of civil society organizations.\n\nRecognizes the important role diplomacy plays in defending global civil society and creating new openings for civic space."
   }, 
   "titles": [
@@ -151,5 +182,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:17:21-05:00"
+  "updated_at": "2014-12-06T07:18:23-05:00"
 }

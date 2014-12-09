@@ -118,6 +118,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Gosar, Paul A.", 
       "sponsored_at": "2014-09-19", 
@@ -163,6 +172,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Messer, Luke", 
       "sponsored_at": "2014-09-19", 
@@ -204,6 +222,15 @@
       "sponsored_at": "2014-09-19", 
       "state": "TN", 
       "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01525", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -284,5 +311,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:20-05:00"
+  "updated_at": "2014-12-06T07:09:18-05:00"
 }

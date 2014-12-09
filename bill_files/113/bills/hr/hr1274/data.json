@@ -104,6 +104,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Cohen, Steve", 
       "sponsored_at": "2014-06-09", 
@@ -140,11 +149,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Johnson, Bill", 
       "sponsored_at": "2014-06-02", 
       "state": "OH", 
       "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IL", 
+      "thomas_id": "01781", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -287,5 +314,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:33:09-05:00"
+  "updated_at": "2014-12-06T06:33:15-05:00"
 }

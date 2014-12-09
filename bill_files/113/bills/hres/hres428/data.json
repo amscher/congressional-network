@@ -51,11 +51,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Duncan, John J., Jr.", 
       "sponsored_at": "2014-07-31", 
       "state": "TN", 
       "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "00462", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -110,6 +137,15 @@
       "sponsored_at": "2014-09-10", 
       "state": "MA", 
       "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "2014-12-03", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -225,5 +261,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:19:48-05:00"
+  "updated_at": "2014-12-06T06:19:45-05:00"
 }

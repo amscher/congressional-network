@@ -70,17 +70,17 @@
     }, 
     {
       "acted_at": "2014-05-01T09:12:00-04:00", 
+      "references": [], 
+      "text": "The Speaker designated the Honorable Ileana Ros-Lehtinen to act as Chairwoman of the Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01T09:12:00-04:00", 
       "bill_ids": [
         "hres557-113"
       ], 
       "references": [], 
       "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 557 and Rule XVIII.", 
-      "type": "action"
-    }, 
-    {
-      "acted_at": "2014-05-01T09:12:00-04:00", 
-      "references": [], 
-      "text": "The Speaker designated the Honorable Ileana Ros-Lehtinen to act as Chairwoman of the Committee.", 
       "type": "action"
     }, 
     {
@@ -510,5 +510,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:12-05:00"
+  "updated_at": "2014-12-06T07:00:19-05:00"
 }

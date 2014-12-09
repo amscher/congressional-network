@@ -763,6 +763,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "30", 
       "name": "Johnson, Eddie Bernice", 
       "sponsored_at": "2013-06-26", 
@@ -1119,6 +1128,15 @@
       "sponsored_at": "2013-06-26", 
       "state": "CA", 
       "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "00854", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1729,5 +1747,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:43-05:00"
+  "updated_at": "2014-12-06T06:43:49-05:00"
 }

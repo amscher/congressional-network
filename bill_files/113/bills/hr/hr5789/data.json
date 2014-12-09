@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5789-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-03", 
+  "number": "5789", 
+  "official_title": "To establish a system for integration of Rapid DNA instruments for use by law enforcement to reduce violent crime and reduce the current DNA analysis backlog.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Rapid DNA Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-03", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rapid DNA Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a system for integration of Rapid DNA instruments for use by law enforcement to reduce violent crime and reduce the current DNA analysis backlog.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-08T12:48:48-05:00"
+}

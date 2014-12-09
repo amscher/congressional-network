@@ -169,6 +169,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Meng, Grace", 
       "sponsored_at": "2013-06-20", 
@@ -282,5 +291,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:07-05:00"
+  "updated_at": "2014-12-06T06:43:11-05:00"
 }

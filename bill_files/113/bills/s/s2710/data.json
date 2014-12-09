@@ -28,6 +28,15 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "King, Angus S. Jr.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "ME", 
+      "thomas_id": "02185", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Klobuchar, Amy", 
       "sponsored_at": "2014-07-31", 
       "state": "MN", 
@@ -119,5 +128,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:00-05:00"
+  "updated_at": "2014-12-06T07:42:20-05:00"
 }

@@ -77,7 +77,11 @@
     "Water use and supply"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-24", 
+    "text": "Energy and Water Research Integration Act of 2014 - Requires the Department of Energy (DOE) to integrate water considerations into its energy research, development, and demonstration programs and projects by: (1) advancing energy and energy efficiency technologies and practices that meet the objectives of minimizing freshwater withdrawal and consumption, increasing water use efficiency, and utilizing nontraditional water sources with efforts to improve the quality of the water from those sources; (2) considering the effects climate variability may have on water supplies and quality for energy generation and fuel production; and (3) improving the understanding of the energy required to provide reliable water supplies and the water required to provide reliable energy supplies.\n\nDirects DOE to develop and update every five years a strategic plan to carry out the integration.\n\nRequires DOE to establish an Energy-Water Subcommittee of the Energy Advisory Board to promote and enable improved energy and water resource data collection, reporting, and technological innovation.\n\nProhibits this Act from being construed to require state, tribal, or local governments to take any action that may result in an increased financial burden by restricting their water use."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -92,5 +96,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:15-05:00"
+  "updated_at": "2014-12-06T07:06:15-05:00"
 }

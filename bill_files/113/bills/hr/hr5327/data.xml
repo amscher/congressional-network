@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5327" updated="2014-11-08T07:07:25-05:00">
+<bill session="113" type="h" number="5327" updated="2014-12-06T07:07:24-05:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
@@ -17,14 +17,19 @@
     <cosponsor id="400295" joined="2014-07-31"/>
     <cosponsor id="400333" joined="2014-09-15"/>
     <cosponsor id="412520" joined="2014-09-17"/>
+    <cosponsor id="412522" joined="2014-11-12"/>
   </cosponsors>
   <actions>
     <action datetime="2014-07-31" state="REFERRED">
       <text>Referred to the House Committee on Education and the Workforce.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
   </committees>
   <relatedbills/>
   <subjects>

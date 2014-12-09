@@ -1,0 +1,175 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-08T14:08:00-05:00", 
+      "bill_ids": [
+        "hres770-113"
+      ], 
+      "references": [], 
+      "text": "Considered under the provisions of rule H. Res. 770.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08T14:08:00-05:00", 
+      "bill_ids": [
+        "hr3979-113", 
+        "hr5759-113"
+      ], 
+      "references": [], 
+      "text": "Resolution provides for consideration of the Senate amendment to H.R. 3979; consideration of the bill H.R. 5759; and consideration of the bill H.R. 5781.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08T14:08:00-05:00", 
+      "bill_ids": [
+        "hres770-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 770, the House proceeded with one hour of debate on H.R. 5781.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5781-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "42", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "McCarthy, Kevin", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "01833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Nunes, Devin", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "01710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-12-08T14:08:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-02", 
+  "number": "5781", 
+  "official_title": "To provide short-term water supplies to drought-stricken California.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres770-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "California Emergency Drought Relief Act of 2014", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Valadao, David G.", 
+    "state": "CA", 
+    "thomas_id": "02105", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-02", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "California", 
+    "Department of Commerce", 
+    "Department of the Interior", 
+    "Disaster relief and insurance", 
+    "Endangered and threatened species", 
+    "Environmental assessment, monitoring, research", 
+    "Fishes", 
+    "Lakes and rivers", 
+    "Marine and coastal resources, fisheries", 
+    "Water resources development", 
+    "Water resources funding", 
+    "Water use and supply", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "California Emergency Drought Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide short-term water supplies to drought-stricken California.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-08T18:48:53-05:00"
+}

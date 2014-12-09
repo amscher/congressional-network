@@ -49,6 +49,11 @@
   "popular_title": null, 
   "related_bills": [
     {
+      "bill_id": "hr5771-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s2261-113", 
       "reason": "related", 
       "type": "bill"
@@ -67,6 +72,7 @@
   "status_at": "2014-09-18", 
   "subjects": [
     "General taxation matters", 
+    "Tax administration and collection, taxpayers", 
     "Taxation"
   ], 
   "subjects_top_term": "Taxation", 
@@ -89,5 +95,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:06-05:00"
+  "updated_at": "2014-12-06T07:09:05-05:00"
 }

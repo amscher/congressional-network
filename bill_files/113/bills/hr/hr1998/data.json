@@ -278,6 +278,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "DeLauro, Rosa L.", 
       "sponsored_at": "2013-07-10", 
@@ -369,6 +378,15 @@
     }, 
     {
       "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
       "name": "Frelinghuysen, Rodney P.", 
       "sponsored_at": "2014-05-30", 
       "state": "NJ", 
@@ -422,6 +440,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Himes, James A.", 
       "sponsored_at": "2013-07-16", 
@@ -454,6 +481,15 @@
       "sponsored_at": "2013-08-02", 
       "state": "NY", 
       "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "00588", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1127,5 +1163,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:39:19-05:00"
+  "updated_at": "2014-12-06T06:39:21-05:00"
 }

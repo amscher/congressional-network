@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="1942" updated="2014-11-08T06:38:50-05:00">
+<bill session="113" type="h" number="1942" updated="2014-12-06T06:38:53-05:00">
   <state datetime="2013-05-09">REFERRED</state>
   <status>
     <introduced datetime="2013-05-09"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To assure quality and best value with respect to Federal construction projects by prohibiting the practice known as bid shopping.</title>
   </titles>
   <sponsor id="400251"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400249" joined="2014-11-18"/>
+  </cosponsors>
   <actions>
     <action datetime="2013-05-09">
       <text>Sponsor introductory remarks on measure.</text>

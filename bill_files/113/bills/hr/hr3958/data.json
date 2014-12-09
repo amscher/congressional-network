@@ -99,7 +99,13 @@
   "number": "3958", 
   "official_title": "To provide for a one-year extension of the Department of Veterans Affairs pilot program on assisted living services for veterans with traumatic brain injury.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr5771-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Healing Our Heroes Act", 
   "sponsor": {
     "district": "10", 
@@ -138,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:47-05:00"
+  "updated_at": "2014-12-06T06:55:53-05:00"
 }

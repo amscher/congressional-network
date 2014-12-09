@@ -115,6 +115,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "27", 
       "name": "Farenthold, Blake", 
       "sponsored_at": "2014-07-29", 
@@ -277,6 +286,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Palazzo, Steven M.", 
       "sponsored_at": "2014-05-28", 
@@ -367,6 +385,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Walorski, Jackie", 
       "sponsored_at": "2014-09-08", 
@@ -445,5 +472,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:52-05:00"
+  "updated_at": "2014-12-06T06:59:58-05:00"
 }

@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5774" updated="2014-12-06T07:11:08-05:00">
+  <state datetime="2014-12-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-01"/>
+  </status>
+  <introduced datetime="2014-12-01"/>
+  <titles>
+    <title type="short" as="introduced">No Social Security Numbers and Benefits for Illegal Aliens Act of 2014</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to prohibit the assignment of social security account numbers to certain individuals seeking employment in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-01" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Foreign labor"/>
+    <term name="Government information and archives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

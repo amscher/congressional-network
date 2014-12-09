@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4655" updated="2014-11-08T07:01:37-05:00">
+<bill session="113" type="h" number="4655" updated="2014-12-06T07:01:43-05:00">
   <state datetime="2014-05-09">REFERRED</state>
   <status>
     <introduced datetime="2014-05-09"/>
@@ -37,7 +37,9 @@
     <committee code="HSRU" name="House Rules" activity="Referral"/>
     <committee code="HSBU" name="House Budget" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2931"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
     <term name="Administrative law and regulatory procedures"/>

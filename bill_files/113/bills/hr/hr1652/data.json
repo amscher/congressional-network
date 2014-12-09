@@ -600,6 +600,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Garcia, Joe", 
       "sponsored_at": "2013-04-18", 
@@ -785,6 +794,15 @@
       "sponsored_at": "2013-04-18", 
       "state": "TX", 
       "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "02149", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1843,5 +1861,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:36:25-05:00"
+  "updated_at": "2014-12-06T06:36:27-05:00"
 }

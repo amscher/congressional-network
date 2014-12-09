@@ -308,6 +308,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Meng, Grace", 
       "sponsored_at": "2013-12-12", 
@@ -487,5 +496,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:29-05:00"
+  "updated_at": "2014-12-06T06:51:35-05:00"
 }

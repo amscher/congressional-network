@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="5471" updated="2014-11-08T07:08:38-05:00">
-  <state datetime="2014-09-15">REFERRED</state>
+<bill session="113" type="h" number="5471" updated="2014-12-06T07:08:36-05:00">
+  <state datetime="2014-12-02T14:07:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2014-09-15"/>
+    <unknown datetime="2014-12-02T14:07:00-05:00"/>
   </status>
   <introduced datetime="2014-09-15"/>
   <titles>
@@ -26,11 +26,32 @@
     <action datetime="2014-09-22">
       <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
     </action>
+    <action datetime="2014-12-02T13:49:00-05:00">
+      <text>Mr. Luetkemeyer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-02T13:49:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8240-8244" label="consideration"/>
+    </action>
+    <action datetime="2014-12-02T13:49:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5471.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-12-02T14:07:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8240" label="text"/>
+    </vote>
+    <action datetime="2014-12-02T14:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBA" name="House Financial Services" activity="Referral"/>
     <committee code="HSAG" name="House Agriculture" activity="Referral"/>
     <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="4413"/>

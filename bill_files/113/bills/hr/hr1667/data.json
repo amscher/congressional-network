@@ -98,6 +98,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-11-18", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Schakowsky, Janice D.", 
       "sponsored_at": "2013-08-02", 
@@ -186,5 +195,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:36:32-05:00"
+  "updated_at": "2014-12-06T06:36:35-05:00"
 }

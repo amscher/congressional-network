@@ -66,6 +66,15 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.", 
       "type": "calendar", 
       "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-11-12", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "By Senator Rockefeller from Committee on Commerce, Science, and Transportation filed written report. Report No. 113-270.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -165,5 +174,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:29:36-05:00"
+  "updated_at": "2014-12-06T07:30:50-05:00"
 }

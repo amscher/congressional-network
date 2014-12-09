@@ -64,6 +64,15 @@
     }, 
     {
       "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "King, Angus S. Jr.", 
       "sponsored_at": "2014-07-30", 
       "state": "ME", 
@@ -232,5 +241,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:38:01-05:00"
+  "updated_at": "2014-12-08T18:48:59-05:00"
 }

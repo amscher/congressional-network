@@ -98,6 +98,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "McCollum, Betty", 
       "sponsored_at": "2013-05-17", 
@@ -199,13 +208,7 @@
   "number": "2003", 
   "official_title": "To amend the Federal Food, Drug, and Cosmetic Act to require the label of drugs intended for human use to contain a parenthetical statement identifying the source of any ingredient constituting or derived from a grain or starch-containing ingredient.", 
   "popular_title": null, 
-  "related_bills": [
-    {
-      "bill_id": "hr5559-113", 
-      "reason": "related", 
-      "type": "bill"
-    }
-  ], 
+  "related_bills": [], 
   "short_title": "Gluten in Medicine Disclosure Act of 2013", 
   "sponsor": {
     "district": "13", 
@@ -243,5 +246,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:39:21-05:00"
+  "updated_at": "2014-12-06T06:39:24-05:00"
 }

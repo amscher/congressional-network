@@ -96,6 +96,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Massie, Thomas", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KY", 
+      "thomas_id": "02094", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Stivers, Steve", 
       "sponsored_at": "2013-07-09", 
@@ -153,5 +162,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:11:48-05:00"
+  "updated_at": "2014-12-06T07:12:47-05:00"
 }

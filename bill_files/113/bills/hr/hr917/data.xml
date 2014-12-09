@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="917" updated="2014-11-08T06:30:09-05:00">
+<bill session="113" type="h" number="917" updated="2014-12-06T06:30:16-05:00">
   <state datetime="2013-02-28">REFERRED</state>
   <status>
     <introduced datetime="2013-02-28"/>
@@ -23,10 +23,13 @@
     <action datetime="2013-04-08">
       <text>Referred to the Subcommittee on Courts, Intellectual Property, And The Internet.</text>
     </action>
+    <action datetime="2014-12-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
-    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+    <committee activity="Referral, Hearings" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="405"/>

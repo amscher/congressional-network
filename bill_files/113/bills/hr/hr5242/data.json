@@ -27,6 +27,13 @@
       "references": [], 
       "text": "Referred to House Education and the Workforce", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -47,6 +54,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }
   ], 
   "congress": "113", 
@@ -268,6 +284,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "28", 
       "name": "Schiff, Adam B.", 
       "sponsored_at": "2014-09-16", 
@@ -365,5 +390,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:42-05:00"
+  "updated_at": "2014-12-06T07:06:41-05:00"
 }

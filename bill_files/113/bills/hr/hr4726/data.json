@@ -79,6 +79,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Enyart, William L.", 
       "sponsored_at": "2014-06-18", 
@@ -186,5 +195,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:17-05:00"
+  "updated_at": "2014-12-06T07:02:22-05:00"
 }

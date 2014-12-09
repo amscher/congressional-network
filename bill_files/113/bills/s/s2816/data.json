@@ -25,7 +25,26 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-11-13", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -90,5 +109,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:53-05:00"
+  "updated_at": "2014-12-06T07:43:14-05:00"
 }

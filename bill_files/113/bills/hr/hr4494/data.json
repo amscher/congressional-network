@@ -52,6 +52,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MN", 
+      "thomas_id": "00867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Paulsen, Erik", 
       "sponsored_at": "2014-04-28", 
@@ -127,5 +136,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:16-05:00"
+  "updated_at": "2014-12-06T07:00:22-05:00"
 }

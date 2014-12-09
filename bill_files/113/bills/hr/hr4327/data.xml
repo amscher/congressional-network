@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4327" updated="2014-11-08T06:58:52-05:00">
+<bill session="113" type="h" number="4327" updated="2014-12-06T06:58:58-05:00">
   <state datetime="2014-03-27">REFERRED</state>
   <status>
     <introduced datetime="2014-03-27"/>
@@ -23,7 +23,9 @@
     <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
     <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2928"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Administrative law and regulatory procedures"/>

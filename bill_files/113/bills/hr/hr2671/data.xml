@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="2671" updated="2014-11-08T06:44:57-05:00">
+<bill session="113" type="h" number="2671" updated="2014-12-06T06:45:03-05:00">
   <state datetime="2013-07-11">REFERRED</state>
   <status>
     <introduced datetime="2013-07-11"/>
@@ -42,6 +42,7 @@
   <subjects>
     <term name="Taxation"/>
     <term name="Agricultural research"/>
+    <term name="Charitable contributions"/>
     <term name="Higher education"/>
     <term name="Income tax deductions"/>
     <term name="Public participation and lobbying"/>

@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2863" updated="2014-11-08T07:42:17-05:00">
+<bill session="113" type="s" number="2863" updated="2014-12-06T07:43:37-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -10,6 +10,7 @@
   </titles>
   <sponsor id="400134"/>
   <cosponsors>
+    <cosponsor id="300041" joined="2014-11-12"/>
     <cosponsor id="300052" joined="2014-09-18"/>
     <cosponsor id="400194" joined="2014-09-18"/>
     <cosponsor id="300071" joined="2014-09-18"/>
@@ -39,4 +40,8 @@
     <term name="Vocational and technical education"/>
   </subjects>
   <amendments/>
+  <summary>9/18/2014--Introduced.
+Transparency in Education Act - Prohibits the Secretary of Education from issuing a final rule or implementing a proposed rule affecting the determination as to whether a postsecondary career education program provides training that leads to gainful employment in a recognized occupation, which is required if it is to participate in a program under title IV (Student Assistance) of the Higher Education Act of 1965 (HEA), until 90 days after:
+
+ the Secretary publishes a complete data analysis on the impact of such proposed rule on all postsecondary education programs and students at all categories of institutions of higher education that participate in a program under title IV of the HEA, that analysis is published in a format similar to the Gainful Employment 2012 Informational Rate Calculations published by the Department of Education, and the Comptroller General (GAO) issues a report that reviews such data analysis for accuracy and completeness.</summary>
 </bill>

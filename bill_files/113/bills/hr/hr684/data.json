@@ -548,6 +548,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Sinema, Kyrsten", 
       "sponsored_at": "2013-04-23", 
@@ -706,5 +715,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:12-05:00"
+  "updated_at": "2014-12-06T06:28:19-05:00"
 }

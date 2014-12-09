@@ -102,6 +102,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Jones, Walter B., Jr.", 
       "sponsored_at": "2014-02-14", 
@@ -170,5 +179,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:33-05:00"
+  "updated_at": "2014-12-06T06:45:39-05:00"
 }

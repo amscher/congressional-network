@@ -30,6 +30,79 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by the Yeas and Nays: 56 - 0.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-02T11:47:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 113-641.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T11:47:00-05:00", 
+      "calendar": "Union", 
+      "number": "481", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 481.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-02T13:44:00-05:00", 
+      "references": [], 
+      "text": "Mr. Luetkemeyer moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8239-8240", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:44:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4200.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:49:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8239-8240", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:49:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -40,7 +113,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Financial Services", 
       "committee_id": "HSBA"
@@ -53,6 +127,13 @@
       "committee_id": "HSBA", 
       "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
       "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
     }
   ], 
   "congress": "113", 
@@ -145,6 +226,8 @@
     "active_at": "2014-04-09", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T13:49:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-03-11", 
@@ -172,8 +255,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-05-22", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-02T13:49:00-05:00", 
   "subjects": [
     "Banking and financial institutions regulation", 
     "Business investment and capital", 
@@ -185,13 +268,25 @@
   ], 
   "subjects_top_term": "Finance and financial sector", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-03-11", 
+    "as": "Passed House without amendment", 
+    "date": "2014-12-02", 
     "text": "SBIC Advisers Relief Act of 2014 - Amends the Investment Advisers Act of 1940 to exempt specified advisers of small business investment companies (SBICs) from certain: (1) Securities and Exchange Commission (SEC) registration requirements with respect to the provision of investment advice relating to venture capital funds, and (2) SEC registration and reporting requirements with respect to assets under management of private funds.\n\nProvides the same exemption with respect to any state or local law requiring the registration, licensing, or qualifications of investment advisers."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SBIC Advisers Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "SBIC Advisers Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "SBIC Advisers Relief Act of 2014", 
       "type": "short"
@@ -203,5 +298,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:48-05:00"
+  "updated_at": "2014-12-06T06:57:55-05:00"
 }

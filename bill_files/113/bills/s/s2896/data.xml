@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2896" updated="2014-11-08T07:42:33-05:00">
+<bill session="113" type="s" number="2896" updated="2014-12-06T07:43:54-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -36,4 +36,6 @@
     <term name="Student aid and college costs"/>
   </subjects>
   <amendments/>
+  <summary>9/18/2014--Introduced.
+Social Security Garnishment Modernization Act of 2014 - Exempts an inflation-adjusted $9,000 each year of an individual's benefits under the Social Security Act from being used by the Department of Education to offset the amount the individual owes on a defaulted student loan under title IV (Student Assistance) of the Higher Education Act of 1965.</summary>
 </bill>

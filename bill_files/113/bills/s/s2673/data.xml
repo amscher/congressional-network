@@ -1,11 +1,12 @@
-<bill session="113" type="s" number="2673" updated="2014-11-08T07:40:42-05:00">
-  <state datetime="2014-09-18">PASS_OVER:SENATE</state>
+<bill session="113" type="s" number="2673" updated="2014-12-06T07:42:01-05:00">
+  <state datetime="2014-12-03T19:08:00-05:00">PASSED:BILL</state>
   <status>
-    <unknown datetime="2014-09-18"/>
+    <unknown datetime="2014-12-03T19:08:00-05:00"/>
   </status>
   <introduced datetime="2014-07-28"/>
   <titles>
     <title type="short" as="introduced">United States-Israel Strategic Partnership Act of 2014</title>
+    <title type="short" as="passed house">United States-Israel Strategic Partnership Act of 2014</title>
     <title type="short" as="passed senate">United States-Israel Strategic Partnership Act of 2014</title>
     <title type="official" as="introduced">A bill to enhance the strategic partnership between the United States and Israel.</title>
   </titles>
@@ -119,6 +120,23 @@
     </action>
     <action datetime="2014-09-19T15:18:00-04:00">
       <text>Held at the desk.</text>
+    </action>
+    <action datetime="2014-12-03T18:49:00-05:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-03T18:50:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8354-8358" label="consideration"/>
+    </action>
+    <action datetime="2014-12-03T18:50:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2673.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-12-03T19:08:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8354-8355" label="text"/>
+    </vote>
+    <action datetime="2014-12-03T19:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees/>

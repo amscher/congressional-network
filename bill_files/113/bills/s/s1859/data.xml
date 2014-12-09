@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1859" updated="2014-11-08T07:33:49-05:00">
+<bill session="113" type="s" number="1859" updated="2014-12-06T07:35:09-05:00">
   <state datetime="2013-12-20">REPORTED</state>
   <status>
     <unknown datetime="2013-12-20"/>
@@ -47,6 +47,7 @@
     <bill relation="unknown" session="113" type="h" number="4464"/>
     <bill relation="unknown" session="113" type="h" number="4469"/>
     <bill relation="unknown" session="113" type="h" number="4789"/>
+    <bill relation="unknown" session="113" type="h" number="5771"/>
     <bill relation="unknown" session="113" type="s" number="41"/>
     <bill relation="unknown" session="113" type="s" number="127"/>
     <bill relation="unknown" session="113" type="s" number="1498"/>
@@ -62,6 +63,7 @@
     <term name="Alternative and renewable resources"/>
     <term name="Business investment and capital"/>
     <term name="Capital gains tax"/>
+    <term name="Charitable contributions"/>
     <term name="Coal"/>
     <term name="Commuting"/>
     <term name="Computers and information technology"/>

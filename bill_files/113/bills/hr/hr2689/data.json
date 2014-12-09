@@ -38,6 +38,24 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-19T13:16:00-05:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-627.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T13:17:00-05:00", 
+      "calendar": "Union", 
+      "number": "467", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 467.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -48,7 +66,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Energy and Commerce", 
       "committee_id": "HSIF"
@@ -585,7 +604,7 @@
       "type": "bill"
     }
   ], 
-  "short_title": "Energy Savings Through Public-Private Partnerships Act of 2013", 
+  "short_title": "Energy Savings Through Public-Private Partnerships Act of 2014", 
   "sponsor": {
     "district": "4", 
     "name": "Gardner, Cory", 
@@ -620,11 +639,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Energy Savings Through Public-Private Partnerships Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To amend the National Energy Conservation Policy Act to encourage the increased use of performance contracting in Federal facilities.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:06-05:00"
+  "updated_at": "2014-12-06T06:45:12-05:00"
 }

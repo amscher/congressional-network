@@ -74,7 +74,11 @@
     "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Directs the Secretary of Agriculture (USDA) to convey a 2,025-acre parcel of real property known as the Lake Fannin Tract of the Caddo National Grasslands in Fannin County, Texas, to Fannin County, without consideration, for the purpose of permitting the County to protect and restore the historic structures on the property and to use the property for recreational purposes.\n\nDirects the Secretary to: (1) require the County to cover costs incurred by the Secretary to carry out the conveyance, and (2) adjust the boundaries of the Caddo National Grasslands to reflect the conveyance."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -83,5 +87,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:44-05:00"
+  "updated_at": "2014-12-06T07:09:42-05:00"
 }

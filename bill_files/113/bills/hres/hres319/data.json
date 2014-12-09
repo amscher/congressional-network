@@ -248,6 +248,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "47", 
       "name": "Lowenthal, Alan S.", 
       "sponsored_at": "2013-07-30", 
@@ -490,5 +499,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:18:54-05:00"
+  "updated_at": "2014-12-06T06:18:49-05:00"
 }

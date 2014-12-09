@@ -2082,6 +2082,7 @@
   "status": "REPORTED", 
   "status_at": "2014-05-29", 
   "subjects": [
+    "Charitable contributions", 
     "Income tax deductions", 
     "Land transfers", 
     "Land use and conservation", 
@@ -2114,5 +2115,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:46:05-05:00"
+  "updated_at": "2014-12-06T06:46:11-05:00"
 }

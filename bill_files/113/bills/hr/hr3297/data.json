@@ -108,6 +108,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "McGovern, James P.", 
       "sponsored_at": "2013-10-28", 
@@ -122,6 +131,15 @@
       "sponsored_at": "2013-10-23", 
       "state": "WI", 
       "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00944", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -191,5 +209,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:50:10-05:00"
+  "updated_at": "2014-12-06T06:50:17-05:00"
 }

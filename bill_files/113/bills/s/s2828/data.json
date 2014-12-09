@@ -41,7 +41,14 @@
       "under": "General Orders"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3966-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3966"
+    }
+  ], 
   "bill_id": "s2828-113", 
   "bill_type": "s", 
   "by_request": false, 
@@ -60,10 +67,37 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Cardin, Benjamin L.", 
       "sponsored_at": "2014-09-16", 
       "state": "MD", 
       "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coats, Daniel", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IN", 
+      "thomas_id": "00209", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -78,10 +112,73 @@
     }, 
     {
       "district": null, 
+      "name": "Cruz, Ted", 
+      "sponsored_at": "2014-11-20", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-12-02", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2014-11-19", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Markey, Edward J.", 
       "sponsored_at": "2014-09-16", 
       "state": "MA", 
       "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "sponsored_at": "2014-11-17", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "sponsored_at": "2014-11-20", 
+      "state": "PA", 
+      "thomas_id": "02085", 
       "title": "Sen", 
       "withdrawn_at": null
     }
@@ -98,7 +195,13 @@
   "number": "2828", 
   "official_title": "A bill to impose sanctions with respect to the Russian Federation, to provide additional assistance to Ukraine, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr5782-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Ukraine Freedom Support Act of 2014", 
   "sponsor": {
     "district": null, 
@@ -180,5 +283,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:59-05:00"
+  "updated_at": "2014-12-06T07:43:20-05:00"
 }

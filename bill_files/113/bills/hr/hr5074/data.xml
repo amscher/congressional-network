@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5074" updated="2014-11-08T07:05:14-05:00">
+<bill session="113" type="h" number="5074" updated="2014-12-06T07:05:17-05:00">
   <state datetime="2014-07-11">REFERRED</state>
   <status>
     <introduced datetime="2014-07-11"/>
@@ -52,4 +52,8 @@
     <term name="Property rights"/>
   </subjects>
   <amendments/>
+  <summary>7/11/2014--Introduced.
+Land Adjacency Notification and Disclosure Act or LAND Act - Amends the Federal Land Policy and Management Act of 1976 to instruct the Department of the Interior or the Department of Agriculture (USDA) to provide advance written notification to each owner of land that is adjacent to a parcel to be acquired to become public lands or National Forest System (NFS) lands.
+
+Instructs Interior or USDA to provide advance written notification to each owner of land that is adjacent to a parcel of public lands or NFS lands to be conveyed by sale, exchange, or other disposal method.</summary>
 </bill>

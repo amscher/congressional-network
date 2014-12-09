@@ -126,6 +126,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "44", 
+      "name": "Hahn, Janice", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "02089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "20", 
       "name": "Hastings, Alcee L.", 
       "sponsored_at": "2014-06-13", 
@@ -162,6 +171,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Kildee, Daniel T", 
       "sponsored_at": "2013-11-20", 
@@ -189,11 +207,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2014-11-18", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "47", 
       "name": "Lowenthal, Alan S.", 
       "sponsored_at": "2014-06-13", 
       "state": "CA", 
       "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "MA", 
+      "thomas_id": "01686", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -225,6 +261,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Miller, George", 
       "sponsored_at": "2013-11-20", 
@@ -239,6 +284,15 @@
       "sponsored_at": "2013-11-20", 
       "state": "WI", 
       "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-12-04", 
+      "state": "DC", 
+      "thomas_id": "00868", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -311,6 +365,15 @@
       "sponsored_at": "2014-02-18", 
       "state": "NH", 
       "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "01069", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -406,5 +469,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:52:18-05:00"
+  "updated_at": "2014-12-06T06:52:24-05:00"
 }

@@ -371,6 +371,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Shea-Porter, Carol", 
       "sponsored_at": "2014-07-15", 
@@ -471,5 +480,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:41-05:00"
+  "updated_at": "2014-12-06T06:58:47-05:00"
 }

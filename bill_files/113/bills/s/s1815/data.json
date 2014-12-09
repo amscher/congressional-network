@@ -25,7 +25,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-11-20", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -88,5 +98,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:33:27-05:00"
+  "updated_at": "2014-12-06T07:34:47-05:00"
 }

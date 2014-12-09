@@ -108,6 +108,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Garcia, Joe", 
       "sponsored_at": "2014-04-01", 
@@ -140,6 +149,24 @@
       "sponsored_at": "2013-10-07", 
       "state": "IL", 
       "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "UT", 
+      "thomas_id": "01671", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -242,5 +269,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:11:54-05:00"
+  "updated_at": "2014-12-06T07:12:53-05:00"
 }

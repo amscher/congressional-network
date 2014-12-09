@@ -111,7 +111,11 @@
     "Wildlife conservation and habitat protection"
   ], 
   "subjects_top_term": "Water resources development", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-09", 
+    "text": "Prohibits the use of federal funds made available for FY2015 for the Bay Delta Conservation Plan."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -120,5 +124,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:15-05:00"
+  "updated_at": "2014-12-06T07:08:13-05:00"
 }

@@ -41,7 +41,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -129,5 +139,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:40-05:00"
+  "updated_at": "2014-12-06T06:45:46-05:00"
 }

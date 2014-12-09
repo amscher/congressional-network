@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5447" updated="2014-11-08T07:08:26-05:00">
+<bill session="113" type="h" number="5447" updated="2014-12-06T07:08:24-05:00">
   <state datetime="2014-09-10">REFERRED</state>
   <status>
     <introduced datetime="2014-09-10"/>
@@ -8,7 +8,10 @@
     <title type="official" as="introduced">To amend the Federal Insecticide, Fungicide, and Rodenticide Act to increase the availability of pesticides for the management of parasitic pests that adversely impact the health of managed pollinator bees, and for other purposes.</title>
   </titles>
   <sponsor id="412417"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412552" joined="2014-11-12"/>
+    <cosponsor id="410396" joined="2014-11-12"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-10" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>

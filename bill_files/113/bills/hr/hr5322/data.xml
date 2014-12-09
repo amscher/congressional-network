@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5322" updated="2014-11-08T07:07:22-05:00">
+<bill session="113" type="h" number="5322" updated="2014-12-06T07:07:22-05:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
@@ -57,6 +57,7 @@
     <term name="Environmental Protection Agency (EPA)"/>
     <term name="Environmental assessment, monitoring, research"/>
     <term name="Environmental health"/>
+    <term name="Environmental technology"/>
     <term name="Executive agency funding and structure"/>
     <term name="Federal Energy Regulatory Commission (FERC)"/>
     <term name="Federal officials"/>

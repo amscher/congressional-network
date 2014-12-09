@@ -119,17 +119,17 @@
     }, 
     {
       "acted_at": "2013-07-25T09:17:00-04:00", 
+      "references": [], 
+      "text": "The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-07-25T09:17:00-04:00", 
       "bill_ids": [
         "hres315-113"
       ], 
       "references": [], 
       "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 315 and Rule XVIII.", 
-      "type": "action"
-    }, 
-    {
-      "acted_at": "2013-07-25T09:17:00-04:00", 
-      "references": [], 
-      "text": "The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.", 
       "type": "action"
     }, 
     {
@@ -929,5 +929,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:41:09-05:00"
+  "updated_at": "2014-12-06T06:41:13-05:00"
 }

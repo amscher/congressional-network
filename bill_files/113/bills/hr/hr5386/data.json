@@ -24,6 +24,61 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:38:00-05:00", 
+      "references": [], 
+      "text": "Mr. Issa moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8006-8007", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:39:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5386.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:48:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8006", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:48:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -38,6 +93,13 @@
       ], 
       "committee": "House Oversight and Government Reform", 
       "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
     }
   ], 
   "congress": "113", 
@@ -98,7 +160,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-07-31", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -112,6 +174,8 @@
     "active_at": "2014-09-17", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-17T14:48:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-07-31", 
@@ -128,8 +192,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-17", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-17T14:48:00-05:00", 
   "subjects": [
     "Congressional tributes", 
     "Government buildings, facilities, and property", 
@@ -152,5 +216,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:55-05:00"
+  "updated_at": "2014-12-06T07:07:54-05:00"
 }

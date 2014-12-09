@@ -40,6 +40,15 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Bennet, Michael F.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Blumenthal, Richard", 
       "sponsored_at": "2014-07-07", 
       "state": "CT", 
@@ -49,10 +58,28 @@
     }, 
     {
       "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Cantwell, Maria", 
       "sponsored_at": "2014-09-18", 
       "state": "WA", 
       "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MD", 
+      "thomas_id": "00174", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -116,6 +143,15 @@
       "sponsored_at": "2014-07-23", 
       "state": "MA", 
       "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MO", 
+      "thomas_id": "01820", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -279,5 +315,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:30:31-05:00"
+  "updated_at": "2014-12-06T07:31:46-05:00"
 }

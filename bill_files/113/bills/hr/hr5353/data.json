@@ -43,11 +43,47 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Grijalva, Raul M.", 
       "sponsored_at": "2014-09-15", 
       "state": "AZ", 
       "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NY", 
+      "thomas_id": "00944", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -107,5 +143,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:38-05:00"
+  "updated_at": "2014-12-06T07:07:37-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3636" updated="2014-11-08T06:53:04-05:00">
+<bill session="113" type="h" number="3636" updated="2014-12-06T06:53:11-05:00">
   <state datetime="2013-12-03">REFERRED</state>
   <status>
     <introduced datetime="2013-12-03"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the excise tax on gasoline, diesel, and kerosene fuels.</title>
   </titles>
   <sponsor id="400033"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400318" joined="2014-12-01"/>
+  </cosponsors>
   <actions>
     <action datetime="2013-12-03">
       <text>Sponsor introductory remarks on measure.</text>

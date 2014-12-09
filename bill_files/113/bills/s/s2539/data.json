@@ -88,6 +88,68 @@
       "references": [], 
       "text": "Held at the desk.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:50:00-05:00", 
+      "references": [], 
+      "text": "Mr. Latta asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7964", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:51:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7964", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-13T17:51:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-11-26", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-11-26", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "196", 
+      "references": [], 
+      "text": "Became Public Law No: 113-196.", 
+      "type": "enacted"
     }
   ], 
   "amendments": [], 
@@ -135,12 +197,19 @@
       "withdrawn_at": null
     }
   ], 
-  "enacted_as": null, 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "196"
+  }, 
   "history": {
     "active": true, 
     "active_at": "2014-07-23", 
     "awaiting_signature": false, 
-    "enacted": false, 
+    "enacted": true, 
+    "enacted_at": "2014-11-26", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-13T17:51:00-05:00", 
     "senate_passage_result": "pass", 
     "senate_passage_result_at": "2014-09-16", 
     "vetoed": false
@@ -159,8 +228,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:SENATE", 
-  "status_at": "2014-09-16", 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-11-26", 
   "subjects": [
     "Child health", 
     "Congressional oversight", 
@@ -176,13 +245,19 @@
   ], 
   "subjects_top_term": "Health", 
   "summary": {
-    "as": "Passed Senate amended", 
-    "date": "2014-09-16", 
+    "as": "Public Law", 
+    "date": "2014-11-26", 
     "text": "Traumatic Brain Injury Reauthorization Act of 2014 - (Sec. 2) Amends the Public Health Service Act to reauthorize through FY2019 traumatic brain injury (TBI) prevention and surveillance or registry programs.\n\n (Sec. 3) Reauthorizes through FY2019 the programs of grants to states and Indian consortia for TBI services, and protection and advocacy systems to provide services to individuals with TBI.\n\n (Sec. 5) Directs the Secretary of Health and Human Services (HHS) to develop a plan for the improved coordination of federal activities with respect to TBI that will:\n\n review interagency coordination efforts; identify areas for improved coordination between federal agencies and programs, including those with a focus on serving individuals with disabilities; identify adopted recommendations from the report on development and improvement of TBI diagnostic tools and treatments and describe plans to address each recommendation that has not been adopted; and incorporate feedback from stakeholders, including individuals with TBI and their caregivers. (Sec. 6) Directs the Centers for Disease Control and Prevention (CDC) to review the scientific evidence related to brain injury management in children and identify opportunities for research."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Traumatic Brain Injury Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "Traumatic Brain Injury Reauthorization Act of 2014", 
       "type": "short"
@@ -200,11 +275,17 @@
       "type": "short"
     }, 
     {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Traumatic Brain Injury Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to amend the Public Health Service Act to reauthorize certain programs relating to traumatic brain injury and to trauma research.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:34-05:00"
+  "updated_at": "2014-12-06T07:40:54-05:00"
 }

@@ -169,6 +169,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2014-12-08", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Cohen, Steve", 
       "sponsored_at": "2013-09-17", 
@@ -196,11 +205,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "DeFazio, Peter A.", 
       "sponsored_at": "2013-11-12", 
       "state": "OR", 
       "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2014-12-08", 
+      "state": "CT", 
+      "thomas_id": "00281", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -255,6 +282,15 @@
       "sponsored_at": "2013-12-19", 
       "state": "AZ", 
       "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "02041", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -740,5 +776,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:41:12-05:00"
+  "updated_at": "2014-12-08T18:48:36-05:00"
 }

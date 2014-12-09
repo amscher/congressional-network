@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5159" updated="2014-11-08T07:05:59-05:00">
+<bill session="113" type="h" number="5159" updated="2014-12-06T07:06:00-05:00">
   <state datetime="2014-07-22">REFERRED</state>
   <status>
     <introduced datetime="2014-07-22"/>
@@ -43,6 +43,7 @@
     <cosponsor id="400263" joined="2014-07-24"/>
     <cosponsor id="400661" joined="2014-07-22"/>
     <cosponsor id="400289" joined="2014-07-22"/>
+    <cosponsor id="400290" joined="2014-11-12"/>
     <cosponsor id="400295" joined="2014-07-22"/>
     <cosponsor id="412506" joined="2014-07-31"/>
     <cosponsor id="412305" joined="2014-07-31"/>
@@ -50,6 +51,7 @@
     <cosponsor id="412585" joined="2014-07-22"/>
     <cosponsor id="400333" joined="2014-07-22"/>
     <cosponsor id="400360" joined="2014-07-22"/>
+    <cosponsor id="412259" joined="2014-11-12"/>
     <cosponsor id="412520" joined="2014-07-22"/>
     <cosponsor id="412412" joined="2014-07-22"/>
   </cosponsors>
@@ -72,9 +74,13 @@
     <action datetime="2014-09-02">
       <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
     <committee code="HSHA" name="House Administration" activity="Referral"/>
     <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
     <committee code="HSJU" name="House Judiciary" activity="Referral"/>

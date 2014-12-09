@@ -45,6 +45,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-12-02", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Brownley, Julia", 
       "sponsored_at": "2014-07-22", 
@@ -189,6 +198,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Higgins, Brian", 
       "sponsored_at": "2014-05-21", 
@@ -252,6 +270,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "McDermott, Jim", 
       "sponsored_at": "2014-06-24", 
@@ -284,6 +311,15 @@
       "sponsored_at": "2014-06-09", 
       "state": "FL", 
       "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01602", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -509,5 +545,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:46-05:00"
+  "updated_at": "2014-12-06T07:01:51-05:00"
 }

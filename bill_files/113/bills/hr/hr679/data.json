@@ -412,6 +412,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "McGovern, James P.", 
       "sponsored_at": "2013-07-09", 
@@ -674,5 +683,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:09-05:00"
+  "updated_at": "2014-12-06T06:28:16-05:00"
 }

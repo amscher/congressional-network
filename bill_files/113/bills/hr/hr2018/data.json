@@ -80,6 +80,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Pingree, Chellie", 
       "sponsored_at": "2013-12-03", 
@@ -171,5 +180,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:39:29-05:00"
+  "updated_at": "2014-12-06T06:39:32-05:00"
 }

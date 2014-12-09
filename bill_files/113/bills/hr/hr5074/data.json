@@ -162,7 +162,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-11", 
+    "text": "Land Adjacency Notification and Disclosure Act or LAND Act - Amends the Federal Land Policy and Management Act of 1976 to instruct the Department of the Interior or the Department of Agriculture (USDA) to provide advance written notification to each owner of land that is adjacent to a parcel to be acquired to become public lands or National Forest System (NFS) lands.\n\nInstructs Interior or USDA to provide advance written notification to each owner of land that is adjacent to a parcel of public lands or NFS lands to be conveyed by sale, exchange, or other disposal method."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -183,5 +187,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:14-05:00"
+  "updated_at": "2014-12-06T07:05:17-05:00"
 }

@@ -348,6 +348,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2014-11-18", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Crawford, Eric A. \"Rick\"", 
       "sponsored_at": "2014-07-28", 
@@ -470,6 +479,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "TN", 
       "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MN", 
+      "thomas_id": "01857", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -650,6 +668,15 @@
       "sponsored_at": "2014-06-13", 
       "state": "NY", 
       "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-12-04", 
+      "state": "VA", 
+      "thomas_id": "00446", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1293,6 +1320,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Nugent, Richard B.", 
       "sponsored_at": "2014-07-28", 
@@ -1815,6 +1851,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Terry, Lee", 
       "sponsored_at": "2014-05-29", 
@@ -2080,5 +2125,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:24-05:00"
+  "updated_at": "2014-12-06T07:00:30-05:00"
 }

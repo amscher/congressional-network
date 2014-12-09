@@ -28,6 +28,24 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-12-03", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Boxer, Barbara", 
       "sponsored_at": "2014-09-09", 
       "state": "CA", 
@@ -46,10 +64,37 @@
     }, 
     {
       "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Landrieu, Mary L.", 
       "sponsored_at": "2014-07-30", 
       "state": "LA", 
       "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OR", 
+      "thomas_id": "01900", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -82,6 +127,15 @@
     }, 
     {
       "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Schatz, Brian", 
       "sponsored_at": "2014-09-09", 
       "state": "HI", 
@@ -95,6 +149,15 @@
       "sponsored_at": "2014-09-11", 
       "state": "NH", 
       "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MI", 
+      "thomas_id": "01531", 
       "title": "Sen", 
       "withdrawn_at": null
     }
@@ -154,5 +217,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:52-05:00"
+  "updated_at": "2014-12-06T07:42:12-05:00"
 }

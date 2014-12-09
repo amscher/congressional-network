@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Brown, Corrine", 
       "sponsored_at": "2014-07-31", 
@@ -68,6 +77,15 @@
       "sponsored_at": "2014-07-15", 
       "state": "NY", 
       "thomas_id": "01864", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "00229", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -297,6 +315,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Ryan, Tim", 
       "sponsored_at": "2014-09-18", 
@@ -347,6 +374,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "AZ", 
       "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01069", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -413,5 +449,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:47-05:00"
+  "updated_at": "2014-12-06T07:04:52-05:00"
 }

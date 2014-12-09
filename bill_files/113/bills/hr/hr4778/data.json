@@ -108,6 +108,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Jones, Walter B., Jr.", 
       "sponsored_at": "2014-05-30", 
@@ -126,6 +135,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Peterson, Collin C.", 
       "sponsored_at": "2014-07-17", 
@@ -140,6 +158,15 @@
       "sponsored_at": "2014-07-09", 
       "state": "WV", 
       "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "00979", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -203,5 +230,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:43-05:00"
+  "updated_at": "2014-12-06T07:02:48-05:00"
 }

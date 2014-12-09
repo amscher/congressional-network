@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4497" updated="2014-11-08T07:00:17-05:00">
+<bill session="113" type="h" number="4497" updated="2014-12-06T07:00:24-05:00">
   <state datetime="2014-04-28">REFERRED</state>
   <status>
     <introduced datetime="2014-04-28"/>
@@ -25,6 +25,7 @@
   <subjects>
     <term name="Taxation"/>
     <term name="Business expenses"/>
+    <term name="Charitable contributions"/>
     <term name="Disaster relief and insurance"/>
     <term name="Income tax deductions"/>
     <term name="Natural disasters"/>

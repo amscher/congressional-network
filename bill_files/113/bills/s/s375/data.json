@@ -457,6 +457,15 @@
     }, 
     {
       "district": null, 
+      "name": "Thune, John", 
+      "sponsored_at": "2014-11-12", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Udall, Mark", 
       "sponsored_at": "2013-02-25", 
       "state": "CO", 
@@ -506,6 +515,15 @@
       "sponsored_at": "2013-02-26", 
       "state": "RI", 
       "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MS", 
+      "thomas_id": "01226", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -586,5 +604,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:21:13-05:00"
+  "updated_at": "2014-12-06T07:22:24-05:00"
 }

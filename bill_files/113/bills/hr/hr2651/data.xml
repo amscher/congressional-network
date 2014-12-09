@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="2651" updated="2014-11-08T06:44:47-05:00">
+<bill session="113" type="h" number="2651" updated="2014-12-06T06:44:53-05:00">
   <state datetime="2013-07-10">REFERRED</state>
   <status>
     <introduced datetime="2013-07-10"/>
@@ -42,9 +42,12 @@
     <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
     <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2966"/>
+  </relatedbills>
   <subjects>
     <term name="Health"/>
+    <term name="Department of Health and Human Services"/>
     <term name="Emergency medical services and trauma care"/>
     <term name="Executive agency funding and structure"/>
     <term name="Government studies and investigations"/>
@@ -53,6 +56,7 @@
     <term name="Health programs administration and funding"/>
     <term name="Health technology, devices, supplies"/>
     <term name="Medical research"/>
+    <term name="National Institutes of Health (NIH)"/>
     <term name="Public-private cooperation"/>
   </subjects>
   <amendments/>

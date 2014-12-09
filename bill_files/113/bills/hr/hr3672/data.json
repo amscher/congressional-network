@@ -70,6 +70,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Nugent, Richard B.", 
       "sponsored_at": "2013-12-05", 
@@ -135,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:22-05:00"
+  "updated_at": "2014-12-06T06:53:29-05:00"
 }

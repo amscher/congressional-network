@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3362" updated="2014-11-08T06:50:43-05:00">
+<bill session="113" type="h" number="3362" updated="2014-12-06T06:50:50-05:00">
   <state datetime="2014-01-16T12:01:00-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-01-16T12:01:00-05:00"/>
@@ -67,12 +67,12 @@
       <text>On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 226 (Roll no. 22).</text>
       <reference ref="CR H1228" label="consideration"/>
     </action>
-    <vote how="roll" type="vote" roll="23" datetime="2014-01-16T12:01:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
-      <text>On passage Passed by the Yeas and Nays: 259 - 154 (Roll no. 23).</text>
-    </vote>
     <action datetime="2014-01-16T12:01:00-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <vote how="roll" type="vote" roll="23" datetime="2014-01-16T12:01:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 259 - 154 (Roll no. 23).</text>
+    </vote>
     <action datetime="2014-01-27">
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
     </action>

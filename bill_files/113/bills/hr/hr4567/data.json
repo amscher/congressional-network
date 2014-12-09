@@ -37,6 +37,15 @@
     }, 
     {
       "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
       "name": "DelBene, Suzan K.", 
       "sponsored_at": "2014-05-30", 
       "state": "WA", 
@@ -226,5 +235,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:53-05:00"
+  "updated_at": "2014-12-06T07:00:59-05:00"
 }

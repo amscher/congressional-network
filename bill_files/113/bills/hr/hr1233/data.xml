@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="1233" updated="2014-11-08T06:32:48-05:00">
-  <state datetime="2014-09-10">PASS_BACK:SENATE</state>
+<bill session="113" type="h" number="1233" updated="2014-12-06T06:32:54-05:00">
+  <state datetime="2014-11-26">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2014-09-10"/>
+    <unknown datetime="2014-11-26"/>
   </status>
   <introduced datetime="2013-03-18"/>
   <titles>
@@ -10,6 +10,7 @@
     <title type="short" as="passed house">Presidential and Federal Records Act Amendments of 2014</title>
     <title type="short" as="reported to senate">Presidential and Federal Records Act Amendments of 2014</title>
     <title type="short" as="passed senate">Presidential and Federal Records Act Amendments of 2014</title>
+    <title type="short" as="enacted">Presidential and Federal Records Act Amendments of 2014</title>
     <title type="official" as="introduced">To amend chapter 22 of title 44, United States Code, popularly known as the Presidential Records Act, to establish procedures for the consideration of claims of constitutionally based privilege against disclosure of Presidential records, and for other purposes.</title>
   </titles>
   <sponsor id="400090"/>
@@ -71,6 +72,29 @@
     <action datetime="2014-09-11">
       <text>Message on Senate action sent to the House.</text>
     </action>
+    <action datetime="2014-11-12T16:11:00-05:00">
+      <text>Mr. Issa moved that the House suspend the rules and agree to the Senate amendments.</text>
+      <reference ref="CR H7910-7911" label="consideration"/>
+    </action>
+    <action datetime="2014-11-12T16:12:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the Senate amendments to H.R. 1233.</text>
+    </action>
+    <vote how="by voice vote" type="pingpong" datetime="2014-11-12T16:23:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text>
+      <reference ref="CR H7910" label="text as House agreed to Senate amendments"/>
+    </vote>
+    <action datetime="2014-11-12T16:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-11-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-11-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-187" type="public" datetime="2014-11-26">
+      <text>Became Public Law No: 113-187.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting, In Committee"/>

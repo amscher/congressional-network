@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5699" updated="2014-12-06T07:10:31-05:00">
+  <state datetime="2014-11-19">REPORTED</state>
+  <status>
+    <unknown datetime="2014-11-19"/>
+  </status>
+  <introduced datetime="2014-11-13"/>
+  <titles>
+    <title type="short" as="introduced">John Muir National Historic Site Expansion Act</title>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, and for other purposes.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-11-19" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -37,6 +37,24 @@
     }, 
     {
       "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Blumenthal, Richard", 
       "sponsored_at": "2014-09-09", 
       "state": "CT", 
@@ -64,10 +82,37 @@
     }, 
     {
       "district": null, 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Carper, Thomas R.", 
       "sponsored_at": "2014-09-17", 
       "state": "DE", 
       "thomas_id": "00179", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "00188", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -86,6 +131,15 @@
       "sponsored_at": "2014-09-17", 
       "state": "ME", 
       "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "ID", 
+      "thomas_id": "00250", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -127,6 +181,15 @@
     }, 
     {
       "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Heinrich, Martin", 
       "sponsored_at": "2014-09-17", 
       "state": "NM", 
@@ -149,6 +212,15 @@
       "sponsored_at": "2014-09-16", 
       "state": "OK", 
       "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "01608", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -199,6 +271,15 @@
     }, 
     {
       "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "McConnell, Mitch", 
       "sponsored_at": "2014-09-15", 
       "state": "KY", 
@@ -235,6 +316,24 @@
     }, 
     {
       "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Schatz, Brian", 
       "sponsored_at": "2014-09-18", 
       "state": "HI", 
@@ -257,6 +356,33 @@
       "sponsored_at": "2014-09-18", 
       "state": "NH", 
       "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "02085", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "02182", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -320,5 +446,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:36-05:00"
+  "updated_at": "2014-12-08T18:48:59-05:00"
 }

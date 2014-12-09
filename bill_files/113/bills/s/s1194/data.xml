@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1194" updated="2014-11-08T07:28:12-05:00">
+<bill session="113" type="s" number="1194" updated="2014-12-06T07:29:22-05:00">
   <state datetime="2013-06-20">REFERRED</state>
   <status>
     <introduced datetime="2013-06-20"/>
@@ -28,6 +28,7 @@
   </relatedbills>
   <subjects>
     <term name="Taxation"/>
+    <term name="Charitable contributions"/>
     <term name="Food assistance and relief"/>
     <term name="Food industry and services"/>
     <term name="Income tax deductions"/>

@@ -2,7 +2,7 @@ import yaml
 import json
 import snap
 import Bill
-import generate_leg_success_plots as plots
+import gen_legis_info_plots as plots
 import Committee
 
 # Reads in committees-data file and returns a map of thomas ids to
@@ -137,6 +137,7 @@ def genBillCommitteeCsv():
 
 
 if __name__ == '__main__':
+  ingestCommittees(True)
   addDataToCommitteeInfo()
   genBillCommitteeCsv()
 

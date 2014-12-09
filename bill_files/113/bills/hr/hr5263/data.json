@@ -61,6 +61,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Health.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Workforce Protections.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -104,6 +111,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Workforce Protections", 
+      "subcommittee_id": "10"
     }, 
     {
       "activity": [
@@ -170,11 +186,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-12-04", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Norton, Eleanor Holmes", 
       "sponsored_at": "2014-09-17", 
       "state": "DC", 
       "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NY", 
+      "thomas_id": "00944", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -253,5 +287,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:52-05:00"
+  "updated_at": "2014-12-06T07:06:52-05:00"
 }

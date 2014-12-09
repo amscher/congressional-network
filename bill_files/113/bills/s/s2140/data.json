@@ -20,6 +20,25 @@
       "status": "REPORTED", 
       "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "calendar": "Senate Legislative", 
+      "number": "612", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 612.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -30,7 +49,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "Senate Commerce, Science, and Transportation", 
       "committee_id": "SSCM"
@@ -86,7 +106,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-04", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -132,5 +153,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:36:11-05:00"
+  "updated_at": "2014-12-06T07:37:30-05:00"
 }

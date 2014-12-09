@@ -136,6 +136,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Castor, Kathy", 
       "sponsored_at": "2013-09-18", 
@@ -195,6 +204,15 @@
       "sponsored_at": "2013-09-20", 
       "state": "CT", 
       "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01641", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -451,6 +469,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "23", 
       "name": "Wasserman Schultz, Debbie", 
       "sponsored_at": "2013-05-22", 
@@ -530,5 +557,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:40:11-05:00"
+  "updated_at": "2014-12-06T06:40:13-05:00"
 }

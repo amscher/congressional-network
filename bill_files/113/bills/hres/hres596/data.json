@@ -43,11 +43,47 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Bachmann, Michele", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MN", 
+      "thomas_id": "01858", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Blumenauer, Earl", 
       "sponsored_at": "2014-07-23", 
       "state": "OR", 
       "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2014-11-14", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2014-11-18", 
+      "state": "OH", 
+      "thomas_id": "00186", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -61,11 +97,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-11-18", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Kline, John", 
       "sponsored_at": "2014-07-16", 
       "state": "MN", 
       "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "02111", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -97,6 +151,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Rigell, E. Scott", 
+      "sponsored_at": "2014-11-19", 
+      "state": "VA", 
+      "thomas_id": "02068", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "48", 
       "name": "Rohrabacher, Dana", 
       "sponsored_at": "2014-09-10", 
@@ -106,11 +169,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Sensenbrenner, F. James, Jr.", 
       "sponsored_at": "2014-07-16", 
       "state": "WI", 
       "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-11-18", 
+      "state": "MD", 
+      "thomas_id": "01729", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -167,5 +248,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:21:12-05:00"
+  "updated_at": "2014-12-06T06:21:09-05:00"
 }

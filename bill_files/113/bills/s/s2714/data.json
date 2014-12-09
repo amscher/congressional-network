@@ -73,6 +73,15 @@
     }, 
     {
       "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Booker, Cory A.", 
       "sponsored_at": "2014-09-18", 
       "state": "NJ", 
@@ -361,6 +370,15 @@
     }, 
     {
       "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2014-12-02", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Kaine, Tim", 
       "sponsored_at": "2014-09-18", 
       "state": "VA", 
@@ -428,6 +446,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "MO", 
       "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -723,5 +750,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:02-05:00"
+  "updated_at": "2014-12-06T07:42:22-05:00"
 }

@@ -97,6 +97,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Grijalva, Raul M.", 
       "sponsored_at": "2014-04-08", 
@@ -212,5 +221,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:42-05:00"
+  "updated_at": "2014-12-06T06:59:49-05:00"
 }

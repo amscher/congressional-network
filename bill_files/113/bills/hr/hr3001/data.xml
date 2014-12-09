@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3001" updated="2014-11-08T06:47:42-05:00">
+<bill session="113" type="h" number="3001" updated="2014-12-06T06:47:48-05:00">
   <state datetime="2013-08-02">REFERRED</state>
   <status>
     <introduced datetime="2013-08-02"/>
@@ -18,7 +18,9 @@
   <committees>
     <committee code="HSAG" name="House Agriculture" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5714"/>
+  </relatedbills>
   <subjects>
     <term name="Agriculture and food"/>
     <term name="Business records"/>
@@ -29,5 +31,5 @@
   </subjects>
   <amendments/>
   <summary>8/2/2013--Introduced.
-21st Century Pest Management Records Act - Amends the Food, Agriculture, Conservation, and Trade Act of 1990 to authorize commercial applicators of pesticides, including commercial applicators of restricted use pesticides, to create, retain, submit, and convey a pesticide application-related record, report, data, or other information in electronic form in order to satisfy any requirement for such creation, retention, submission, or conveyance, respectively, under any law.</summary>
+21st Century Pest Management Records Act - Amends the Food, Agriculture, Conservation, and Trade Act of 1990 to authorize commercial applicators of pesticides to create, retain, submit, and convey a pesticide application-related record, report, data, or other information in electronic form to satisfy any federal, state, or local law.</summary>
 </bill>

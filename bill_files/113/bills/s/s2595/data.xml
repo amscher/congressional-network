@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2595" updated="2014-11-08T07:40:02-05:00">
+<bill session="113" type="s" number="2595" updated="2014-12-06T07:41:22-05:00">
   <state datetime="2014-07-10">REFERRED</state>
   <status>
     <introduced datetime="2014-07-10"/>
@@ -36,4 +36,6 @@
     <term name="Vermont"/>
   </subjects>
   <amendments/>
+  <summary>7/10/2014--Introduced.
+North Country National Scenic Trail Route Adjustment Act - Amends the National Trails System Act to extend the North Country National Scenic Trail into Vermont.</summary>
 </bill>

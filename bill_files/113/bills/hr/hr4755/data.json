@@ -63,6 +63,15 @@
       "thomas_id": "01798", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Shea-Porter, Carol", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NH", 
+      "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -114,5 +123,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:31-05:00"
+  "updated_at": "2014-12-06T07:02:37-05:00"
 }

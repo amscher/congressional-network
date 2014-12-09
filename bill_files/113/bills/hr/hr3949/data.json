@@ -39,6 +39,11 @@
   "popular_title": null, 
   "related_bills": [
     {
+      "bill_id": "hr5771-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s1859-113", 
       "reason": "related", 
       "type": "bill"
@@ -56,6 +61,7 @@
   "status": "REFERRED", 
   "status_at": "2014-01-28", 
   "subjects": [
+    "Charitable contributions", 
     "Food assistance and relief", 
     "Income tax deductions", 
     "Social work, volunteer service, charitable organizations", 
@@ -75,5 +81,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:42-05:00"
+  "updated_at": "2014-12-06T06:55:48-05:00"
 }

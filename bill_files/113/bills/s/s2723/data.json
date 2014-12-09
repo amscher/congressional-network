@@ -37,6 +37,24 @@
     }, 
     {
       "district": null, 
+      "name": "King, Angus S. Jr.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "ME", 
+      "thomas_id": "02185", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Murray, Patty", 
       "sponsored_at": "2014-07-31", 
       "state": "WA", 
@@ -50,6 +68,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "OH", 
       "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MA", 
+      "thomas_id": "02182", 
       "title": "Sen", 
       "withdrawn_at": null
     }
@@ -105,5 +132,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:07-05:00"
+  "updated_at": "2014-12-06T07:42:26-05:00"
 }

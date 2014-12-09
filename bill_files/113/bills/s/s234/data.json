@@ -207,6 +207,15 @@
     }, 
     {
       "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Shaheen, Jeanne", 
       "sponsored_at": "2013-07-23", 
       "state": "NH", 
@@ -314,5 +323,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:20:01-05:00"
+  "updated_at": "2014-12-06T07:21:13-05:00"
 }

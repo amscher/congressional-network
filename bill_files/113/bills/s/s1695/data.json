@@ -46,6 +46,15 @@
     }, 
     {
       "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-11-19", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Durbin, Richard", 
       "sponsored_at": "2014-04-07", 
       "state": "IL", 
@@ -113,6 +122,15 @@
       "sponsored_at": "2014-05-14", 
       "state": "MO", 
       "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -256,5 +274,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:32:27-05:00"
+  "updated_at": "2014-12-06T07:33:42-05:00"
 }

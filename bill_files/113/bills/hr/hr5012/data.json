@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Education and the Workforce.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +29,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }
   ], 
   "congress": "113", 
@@ -41,6 +57,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "IN", 
       "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "01839", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -243,6 +268,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Meng, Grace", 
       "sponsored_at": "2014-09-18", 
@@ -324,6 +358,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2014-11-17", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Sarbanes, John P.", 
       "sponsored_at": "2014-09-18", 
@@ -356,6 +399,15 @@
       "sponsored_at": "2014-09-19", 
       "state": "NH", 
       "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01069", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -443,5 +495,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:41-05:00"
+  "updated_at": "2014-12-06T07:04:46-05:00"
 }

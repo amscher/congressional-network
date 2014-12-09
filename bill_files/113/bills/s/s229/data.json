@@ -20,6 +20,57 @@
       "references": [], 
       "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-203.", 
       "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6305", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6305", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-04T12:25:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -31,10 +82,18 @@
       "activity": [
         "referral", 
         "hearings", 
+        "discharged", 
         "in committee"
       ], 
       "committee": "Senate Veterans' Affairs", 
       "committee_id": "SSVA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
     }
   ], 
   "congress": "113", 
@@ -55,6 +114,8 @@
     "active_at": "2013-05-09", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-03", 
     "vetoed": false
   }, 
   "introduced_at": "2013-02-07", 
@@ -97,8 +158,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2013-02-07", 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-12-03", 
   "subjects": [
     "Armed forces and national security", 
     "Congressional tributes", 
@@ -110,13 +171,19 @@
   ], 
   "subjects_top_term": "Armed forces and national security", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-02-07", 
+    "as": "Passed Senate without amendment", 
+    "date": "2014-12-03", 
     "text": "Corporal Michael J. Crescenz Act of 2013 - Designates the Department of Veterans Affairs (VA) medical center at 3900 Woodland Avenue in Philadelphia, Pennsylvania, as the \"Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center.\""
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Corporal Michael J. Crescenz Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
       "is_for_portion": false, 
       "title": "Corporal Michael J. Crescenz Act of 2013", 
       "type": "short"
@@ -128,5 +195,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:19:59-05:00"
+  "updated_at": "2014-12-06T07:21:10-05:00"
 }

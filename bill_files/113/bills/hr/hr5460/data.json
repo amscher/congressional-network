@@ -68,6 +68,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-11-18", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Bonamici, Suzanne", 
       "sponsored_at": "2014-09-18", 
@@ -77,11 +86,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-11-18", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Griffin, Tim", 
       "sponsored_at": "2014-09-16", 
       "state": "AR", 
       "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "OH", 
+      "thomas_id": "02154", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -100,6 +127,15 @@
       "sponsored_at": "2014-09-11", 
       "state": "CA", 
       "thomas_id": "01710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "00944", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -168,5 +204,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:32-05:00"
+  "updated_at": "2014-12-06T07:08:31-05:00"
 }

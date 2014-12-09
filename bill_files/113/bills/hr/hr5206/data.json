@@ -27,6 +27,21 @@
       "references": [], 
       "text": "Referred to House Oversight and Government Reform", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -36,7 +51,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "House Foreign Affairs", 
       "committee_id": "HSFA"
@@ -63,7 +79,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-20", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -82,8 +99,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-07-25", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-20", 
   "subjects": [
     "Administrative law and regulatory procedures", 
     "Department of State", 
@@ -92,7 +109,11 @@
     "Government operations and politics"
   ], 
   "subjects_top_term": "Government operations and politics", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-25", 
+    "text": "Amends the Foreign Service Act of 1980 to permit employees of the Foreign Service and other executive branch employees to designate beneficiaries of their death benefits."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -101,5 +122,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:24-05:00"
+  "updated_at": "2014-12-06T07:06:23-05:00"
 }

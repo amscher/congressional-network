@@ -1,7 +1,7 @@
-<bill session="113" type="hj" number="105" updated="2014-11-08T07:11:16-05:00">
-  <state datetime="2014-07-28T15:15:00-04:00">PASS_OVER:HOUSE</state>
+<bill session="113" type="hj" number="105" updated="2014-12-08T18:48:53-05:00">
+  <state datetime="2014-12-04">PASSED:BILL</state>
   <status>
-    <unknown datetime="2014-07-28T15:15:00-04:00"/>
+    <unknown datetime="2014-12-04"/>
   </status>
   <introduced datetime="2014-01-09"/>
   <titles>
@@ -77,7 +77,14 @@
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
     <action datetime="2014-07-29">
-      <text>Received in the Senate.</text>
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-12-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6356" label="consideration"/>
+    </vote>
+    <action datetime="2014-12-08">
+      <text>Message on Senate action sent to the House.</text>
     </action>
   </actions>
   <committees>
@@ -99,6 +106,6 @@
     <term name="United Kingdom"/>
   </subjects>
   <amendments/>
-  <summary>7/28/2014--Passed House without amendment.
+  <summary>12/4/2014--Passed Senate without amendment.
 Confers honorary U.S. citizenship on Bernardo de Galvez y Madrid, Viscount of Galveston and Count of Galvez.</summary>
 </bill>

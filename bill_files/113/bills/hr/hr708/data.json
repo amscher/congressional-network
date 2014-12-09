@@ -56,6 +56,15 @@
     }, 
     {
       "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
       "name": "Ellison, Keith", 
       "sponsored_at": "2014-05-21", 
       "state": "MN", 
@@ -163,6 +172,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Shea-Porter, Carol", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NH", 
+      "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "25", 
       "name": "Slaughter, Louise McIntosh", 
       "sponsored_at": "2013-05-16", 
@@ -249,5 +267,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:24-05:00"
+  "updated_at": "2014-12-06T06:28:31-05:00"
 }

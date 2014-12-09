@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1744" updated="2014-11-08T07:32:52-05:00">
+<bill session="113" type="s" number="1744" updated="2014-12-06T07:34:11-05:00">
   <state datetime="2014-05-21">REPORTED</state>
   <status>
     <unknown datetime="2014-05-21"/>
@@ -6,6 +6,7 @@
   <introduced datetime="2013-11-20"/>
   <titles>
     <title type="short" as="introduced">Security Clearance Accountability, Reform, and Enhancement Act</title>
+    <title type="short" as="reported to senate">Security Clearance Accountability, Reform, and Enhancement Act</title>
     <title type="official" as="introduced">A bill to strengthen the accountability of individuals involved in misconduct affecting the integrity of background investigations, to update guidelines for security clearances, and for other purposes.</title>
   </titles>
   <sponsor id="412244"/>
@@ -25,9 +26,18 @@
     <calendar datetime="2014-05-21" state="REPORTED">
       <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
     </calendar>
+    <action datetime="2014-11-20">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text>
+    </action>
+    <calendar datetime="2014-11-20" calendar="Senate Legislative" under="General Orders" number="606">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 606.</text>
+    </calendar>
+    <action datetime="2014-12-01">
+      <text>By Senator Carper from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 113-276.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
   </committees>
   <relatedbills/>
   <subjects>

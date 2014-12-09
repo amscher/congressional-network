@@ -234,7 +234,11 @@
     "Medical tests and diagnostic methods"
   ], 
   "subjects_top_term": "Health", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "Expresses support for the goals and ideals of the seventh annual National Clinicians HIV/AIDS Testing and Awareness Day.\n\n Encourages: (1) primary care physicians and other clinicians nationwide to become actively involved in HIV/AIDS awareness, testing, treatment, and referral services; (2) the media to observe this Awareness Day by educating clinicians about the important role they play in providing access to HIV/AIDS awareness, testing, treatment, and referral services and by educating clinicians and the public about the benefits of HIV testing; and (3) individuals to get tested for HIV and educate themselves about the prevention and treatment of HIV/AIDS."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -243,5 +247,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:21:51-05:00"
+  "updated_at": "2014-12-06T06:21:47-05:00"
 }

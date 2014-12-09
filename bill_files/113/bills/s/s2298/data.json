@@ -55,6 +55,15 @@
     }, 
     {
       "district": null, 
+      "name": "Hagan, Kay", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NC", 
+      "thomas_id": "01902", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Hirono, Mazie K.", 
       "sponsored_at": "2014-06-23", 
       "state": "HI", 
@@ -166,5 +175,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:30-05:00"
+  "updated_at": "2014-12-06T07:38:49-05:00"
 }

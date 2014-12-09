@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2803" updated="2014-11-08T07:41:47-05:00">
+<bill session="113" type="s" number="2803" updated="2014-12-06T07:43:07-05:00">
   <state datetime="2014-09-15">REFERRED</state>
   <status>
     <introduced datetime="2014-09-15"/>
@@ -29,4 +29,6 @@
     <term name="Parks, recreation areas, trails"/>
   </subjects>
   <amendments/>
+  <summary>9/15/2014--Introduced.
+Declares that specified lands in Acadia National Park in Maine, which were conveyed by the National Park Service to the town of Tremont, Maine, for school purposes, shall no longer be required to be used exclusively and perpetually for such purposes, and upon their discontinuance of such a use, shall no longer be required to revert to the United States.</summary>
 </bill>

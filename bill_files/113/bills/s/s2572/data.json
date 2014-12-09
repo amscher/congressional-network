@@ -25,7 +25,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -96,5 +106,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:51-05:00"
+  "updated_at": "2014-12-06T07:41:10-05:00"
 }

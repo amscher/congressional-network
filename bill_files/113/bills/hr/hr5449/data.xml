@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5449" updated="2014-11-08T07:08:27-05:00">
+<bill session="113" type="h" number="5449" updated="2014-12-06T07:08:25-05:00">
   <state datetime="2014-09-17">REPORTED</state>
   <status>
     <unknown datetime="2014-09-17"/>
@@ -6,6 +6,7 @@
   <introduced datetime="2014-09-11"/>
   <titles>
     <title type="short" as="introduced">Passenger Rail Reform and Investment Act of 2014</title>
+    <title type="short" as="reported to house">Passenger Rail Reform and Investment Act of 2014</title>
     <title type="official" as="introduced">To reauthorize Federal support for passenger rail programs, and for other purposes.</title>
   </titles>
   <sponsor id="409888"/>
@@ -35,9 +36,15 @@
     <calendar datetime="2014-09-17" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </calendar>
+    <action datetime="2014-12-01T14:14:00-05:00">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-629.</text>
+    </action>
+    <calendar datetime="2014-12-01T14:14:00-05:00" calendar="Union" number="469">
+      <text>Placed on the Union Calendar, Calendar No. 469.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Discharged" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
   </committees>
   <relatedbills>

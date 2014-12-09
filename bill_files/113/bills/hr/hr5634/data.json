@@ -75,7 +75,11 @@
     "Members of Congress"
   ], 
   "subjects_top_term": "Agriculture and food", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Stop Hiding Congressional Farm Subsidies Act - Amends the Federal Crop Insurance Act to require the Secretary of Agriculture (USDA) to publicly disclose crop insurance premium subsidies paid on behalf of: Members of Congress and their immediate families, Cabinet Secretaries and their immediate families, or entities of which any of these individuals is a majority shareholder.\n\nRequires USDA to publicly disclose benefits for private insurance providers, including: (1) underwriting gains earned through participation in the federal crop insurance program; and (2) amounts paid for administrative and operating expenses, any federal portion of indemnities and reinsurance, and any other purpose."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -90,5 +94,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:00-05:00"
+  "updated_at": "2014-12-06T07:09:58-05:00"
 }

@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sjres46-113", 
+  "bill_type": "sjres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-03", 
+  "number": "46", 
+  "official_title": "A joint resolution to declare that a state of war exists between the organization referring to itself as the Islamic State and the Government and the people of the United States, and to make provisions to prosecute the same.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Declaration of War against the Organization known as the Islamic State", 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-03", 
+  "subjects": [
+    "Conflicts and wars", 
+    "Congressional oversight", 
+    "International affairs", 
+    "Iraq", 
+    "Middle East", 
+    "Military operations and strategy", 
+    "Syria", 
+    "Terrorism", 
+    "War and emergency powers"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Declaration of War against the Organization known as the Islamic State", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A joint resolution to declare that a state of war exists between the organization referring to itself as the Islamic State and the Government and the people of the United States, and to make provisions to prosecute the same.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:13:51-05:00"
+}

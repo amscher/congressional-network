@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5545" updated="2014-11-08T07:09:15-05:00">
+<bill session="113" type="h" number="5545" updated="2014-12-06T07:09:13-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -32,4 +32,6 @@
     <term name="Research administration and funding"/>
   </subjects>
   <amendments/>
+  <summary>9/18/2014--Introduced.
+Reauthorizes the Federal Ocean Acidification Research and Monitoring Act of 2009 through FY2018.</summary>
 </bill>

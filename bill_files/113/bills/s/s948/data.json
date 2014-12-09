@@ -92,6 +92,15 @@
     }, 
     {
       "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Durbin, Richard", 
       "sponsored_at": "2014-03-12", 
       "state": "IL", 
@@ -274,5 +283,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:26:05-05:00"
+  "updated_at": "2014-12-06T07:27:15-05:00"
 }

@@ -23,7 +23,7 @@
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Indian Affairs. Hearings held.", 
+      "text": "Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-419.", 
       "type": "hearings"
     }, 
     {
@@ -66,6 +66,15 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.", 
       "type": "calendar", 
       "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-12-01", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "By Senator Tester from Committee on Indian Affairs filed written report. Report No. 113-278.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -113,6 +122,11 @@
       "bill_id": "hr2455-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2455-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Nevada Native Nations Land Act", 
@@ -141,9 +155,9 @@
   ], 
   "subjects_top_term": "Native Americans", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-06-17", 
-    "text": "Nevada Native Nations Land Act - Directs the Secretary of the Interior to convey to Elko County, Nevada, without consideration, approximately 275 acres of land managed by the Bureau of Land Management (BLM), Elko District, Nevada. Requires the land conveyed to be used only: (1) as a motocross, bicycle, off-highway vehicle, or stock car racing area; or (2) for any other public purpose consistent with the Recreation and Public Purposes Act.\n\nHolds in trust the following lands:\n\n for the Te-moak Tribe of Western Shoshone Indians of Nevada (the Elko Band), approximately 373 acres of BLM land; for the Fort McDermitt Paiute and Shoshone Tribe of the Fort McDermitt Indian Reservation, approximately 19,094 acres of BLM land; for the Shoshone-Paiute Tribes of the Duck Valley Indian Reservation, approximately 82 acres of Forest Service land; for the Summit Lake Paiute Tribe, approximately 941 acres of BLM land; for the Reno-Sparks Indian Colony, approximately 13,434 acres of BLM land; for the Pyramid Lake Paiute Tribe, approximately 30,669 acres of BLM land; and for the Te-Moak Tribe of Western Shoshone Indians of Nevada (the South Fork Band), approximately 28,162 acres of BLM land. Makes the lands held for such Tribes part of their respective Reservations.\n\nReleases the Red Spring wilderness study area from further study for designation as wilderness.\n\nRestricts gaming on lands held in trust under this Act.\n\nLimits the use of such lands to traditional and customary uses, stewardship conservation for the benefit of the Tribe, residential or recreational development, renewable energy development, and mineral development."
+    "as": "Reported to Senate amended", 
+    "date": "2014-08-26", 
+    "text": "Nevada Native Nations Land Act -Title I: Elko Motocross Land Conveyance - (Sec. 102) Directs the Secretary of the Interior to convey to Elko County, Nevada, without consideration, approximately 275 acres of land managed by the Bureau of Land Management (BLM), Elko District, Nevada. Requires the land conveyed to be used only: (1) as a motocross, bicycle, off-highway vehicle, or stock car racing area; or (2) for any other public purpose consistent with the Recreation and Public Purposes Act.\n\nTitle II: Conveyance of Land to Indian Tribes - (Sec. 201) Holds in trust the following lands:\n\n for the Te-Moak Tribe of Western Shoshone Indians of Nevada (the Elko Band), approximately 373 acres of BLM land; for the Fort McDermitt Paiute and Shoshone Tribe of the Fort McDermitt Indian Reservation, approximately 19,094 acres of BLM land; for the Shoshone Paiute Tribes of the Duck Valley Indian Reservation, approximately 82 acres of Forest Service land; for the Summit Lake Paiute Tribe, approximately 941 acres of BLM land; for the Reno-Sparks Indian Colony, approximately 13,434 acres of BLM land; and for the Pyramid Lake Paiute Tribe, approximately 11,719 acres of BLM land. Makes the lands held for the Tribes part of their respective Reservations.\n\n(Sec. 202) Requires the Secretary of the Interior to complete a survey to establish boundary lines of the land taken into trust for each Indian tribe.\n\nRestricts gaming on lands held in trust under this Act.\n\nPermits the Secretary, in consultation with the applicable Indian tribe, to carry out any fuel reduction and other landscape restoration activities (including restoration of the sage grouse habitat) on the land that is beneficial to the tribe and BLM."
   }, 
   "titles": [
     {
@@ -165,5 +179,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:05-05:00"
+  "updated_at": "2014-12-06T07:40:24-05:00"
 }

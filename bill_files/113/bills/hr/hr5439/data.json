@@ -63,11 +63,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Dingell, John D.", 
       "sponsored_at": "2014-09-18", 
       "state": "MI", 
       "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Fudge, Marcia L.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "OH", 
+      "thomas_id": "01895", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -95,6 +113,15 @@
       "sponsored_at": "2014-09-19", 
       "state": "MI", 
       "thomas_id": "02134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MI", 
+      "thomas_id": "00683", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -228,5 +255,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:22-05:00"
+  "updated_at": "2014-12-06T07:08:20-05:00"
 }

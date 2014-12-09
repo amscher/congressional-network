@@ -68,11 +68,38 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Bachmann, Michele", 
+      "sponsored_at": "2014-11-18", 
+      "state": "MN", 
+      "thomas_id": "01858", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Barber, Ron", 
       "sponsored_at": "2014-07-10", 
       "state": "AZ", 
       "thomas_id": "02093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2014-11-18", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02153", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -109,6 +136,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "NY", 
       "thomas_id": "01740", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TN", 
+      "thomas_id": "02063", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -239,6 +275,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Conyers, John, Jr.", 
       "sponsored_at": "2014-09-08", 
@@ -253,6 +298,33 @@
       "sponsored_at": "2014-07-15", 
       "state": "CA", 
       "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2014-11-18", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "01643", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -275,11 +347,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Delaney, John K.", 
       "sponsored_at": "2014-09-16", 
       "state": "MD", 
       "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "01976", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -379,6 +469,24 @@
       "sponsored_at": "2014-07-23", 
       "state": "NY", 
       "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Grayson, Alan", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01803", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -491,6 +599,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Joyce, David P.", 
       "sponsored_at": "2014-09-16", 
@@ -505,6 +622,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "MA", 
       "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Daniel T", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "02134", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -537,10 +663,37 @@
     }, 
     {
       "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
       "name": "Kuster, Ann M.", 
       "sponsored_at": "2014-07-10", 
       "state": "NH", 
       "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01834", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -554,11 +707,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NM", 
+      "thomas_id": "02146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "18", 
       "name": "Maloney, Sean Patrick", 
       "sponsored_at": "2014-09-16", 
       "state": "NY", 
       "thomas_id": "02150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01814", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -734,6 +905,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Quigley, Mike", 
       "sponsored_at": "2014-09-16", 
@@ -757,6 +937,15 @@
       "sponsored_at": "2014-09-16", 
       "state": "NY", 
       "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WI", 
+      "thomas_id": "02073", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -887,6 +1076,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Smith, Christopher H.", 
       "sponsored_at": "2014-07-31", 
@@ -977,6 +1175,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "21", 
+      "name": "Valadao, David G.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "02105", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "33", 
       "name": "Veasey, Marc A.", 
       "sponsored_at": "2014-09-18", 
@@ -1013,11 +1229,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "VA", 
+      "thomas_id": "01886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "Wolf, Frank R.", 
       "sponsored_at": "2014-07-22", 
       "state": "VA", 
       "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "KY", 
+      "thomas_id": "01853", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1081,7 +1315,7 @@
   "summary": {
     "as": "Introduced", 
     "date": "2014-07-10", 
-    "text": "Clay Hunt Suicide Prevention for American Veterans Act or the Clay Hunt SAV Act - Requires the Secretary of Veterans Affairs (VA) and the Secretary of Defense (DOD), at least annually, to each arrange for an independent third party evaluation of, respectively, the VA and DOD mental health care and suicide prevention programs.\n\nRequires a board reviewing the discharge or dismissal of a former member of the Armed Forces whose application for relief is based at least in part on post-traumatic stress disorder or traumatic brain injury related to military operations or sexual trauma, to: (1) review the medical evidence from the VA or a civilian health provider that is presented by the former member; and (2) review the case, with a presumption of administrative irregularity, and place the burden on the VA or DOD to prove, by a preponderance of the evidence, that no error or injustice occurred.\n\nDirects the VA Secretary to publish an Internet website that serves as a centralized source to provide veterans with regularly updated information regarding all of the VA's mental health care services.\n\nRequires the VA Secretary and the DOD Secretary to enter into certain strategic relationships to facilitate:\n\n the mental health referrals of members of the reserve components who have a service-connected disability and are being discharged or released from the Armed Forces, timely behavioral health services for such members, communication when such members are at risk for behavioral health reasons, and the transfer of documentation for line-of-duty and fitness-for-duty determinations. Requires the VA Secretary to carry out a pilot program to repay the education loans relating to psychiatric medicine that are incurred by individuals who: (1) are eligible to practice psychiatric medicine in the Veterans Health Administration (VHA) or are enrolled in the final year of a residency program leading to a specialty qualification in psychiatric medicine, and (2) demonstrate a commitment to a long-term career as a psychiatrist in the VHA.\n\nDirects the VA Secretary to carry out a program, as part of the Yellow Ribbon G.I. Education Enhancement Program, under which the VA Secretary and an institution of higher education (IHE) agree to cover the full cost of charges not covered by post-9/11 educational assistance that are incurred by veterans who: (1) are pursuing an advanced degree in mental health at the IHE, and (2) intend to seek employment as a mental health professional in the VA. Allows the VA Secretary to cover up to 64% of those charges, if the school covers the remainder.\n\nRequires the DOD Secretary to submit to Congress a zero-based review of the staffing requirements for individual State National Guard Commands with respect to Directors of Psychological Health.\n\nDirects the VA Secretary to establish a pilot program at not less than five Veterans Integrated Service Networks (VISNs) to assist veterans transitioning from active duty and to improve the access of veterans to mental health services. Requires the pilot program at each VISN to include: (1) a community oriented veteran peer support network, and (2) a community outreach team for each medical center in such VISN."
+    "text": "Clay Hunt Suicide Prevention for American Veterans Act or the Clay Hunt SAV Act - Requires the Secretary of Veterans Affairs (VA) and the Secretary of Defense (DOD), at least annually, to each arrange for an independent third party evaluation of, respectively, the VA and DOD mental health care and suicide prevention programs.\n\nRequires a board reviewing the discharge or dismissal of a former member of the Armed Forces whose application for relief is based at least in part on post-traumatic stress disorder or traumatic brain injury related to military operations or sexual trauma, to: (1) review the medical evidence from the VA or a civilian health provider that is presented by the former member; and (2) review the case, with a presumption of administrative irregularity, and place the burden on the VA or DOD to prove, by a preponderance of the evidence, that no error or injustice occurred.\n\nDirects the VA Secretary to publish an Internet website that serves as a centralized source to provide veterans with regularly updated information regarding all of the VA's mental health care services.\n\nRequires the VA Secretary and the DOD Secretary to enter into certain strategic relationships to facilitate:\n\n the mental health referrals of members of the reserve components who have a service-connected disability and are being discharged or released from the Armed Forces, timely behavioral health services for such members, communication when such members are at risk for behavioral health reasons, and the transfer of documentation for line-of-duty and fitness-for-duty determinations. Requires the VA Secretary to carry out a three-year pilot program to repay the education loans relating to psychiatric medicine that are incurred by individuals who:\n\n are eligible to practice psychiatric medicine in the Veterans Health Administration (VHA) or are enrolled in the final year of a residency program leading to a specialty qualification in psychiatric medicine, demonstrate a commitment to a long-term career as a psychiatrist in the VHA, and agree to a period of obligated service with the VHA in the field of psychiatric medicine. Directs the VA Secretary to carry out a program, as part of the Yellow Ribbon G.I. Education Enhancement Program, under which the VA Secretary and an institution of higher education (IHE) agree to cover the full cost of charges not covered by post-9/11 educational assistance that are incurred by veterans who: (1) are pursuing an advanced degree in mental health at the IHE, and (2) intend to seek employment as a mental health professional in the VA. Allows the VA Secretary to cover up to 64% of those charges, if the school covers the remainder.\n\nRequires the DOD Secretary to submit to Congress a zero-based review of the staffing requirements for individual State National Guard Commands with respect to Directors of Psychological Health.\n\nDirects the VA Secretary to establish a pilot program at not less than five Veterans Integrated Service Networks (VISNs) to assist veterans transitioning from active duty and to improve the access of veterans to mental health services. Requires the pilot program at each VISN to include: (1) a community oriented veteran peer support network, and (2) a community outreach team for each medical center in such VISN."
   }, 
   "titles": [
     {
@@ -1103,5 +1337,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:05-05:00"
+  "updated_at": "2014-12-06T07:05:10-05:00"
 }

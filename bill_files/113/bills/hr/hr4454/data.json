@@ -123,6 +123,7 @@
   "subjects": [
     "Accounting and auditing", 
     "Capital gains tax", 
+    "Charitable contributions", 
     "Securities", 
     "Small business", 
     "Social work, volunteer service, charitable organizations", 
@@ -149,5 +150,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:56-05:00"
+  "updated_at": "2014-12-06T07:00:02-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4459" updated="2014-11-08T06:59:58-05:00">
+<bill session="113" type="h" number="4459" updated="2014-12-06T07:00:05-05:00">
   <state datetime="2014-04-10">REFERRED</state>
   <status>
     <introduced datetime="2014-04-10"/>
@@ -52,6 +52,7 @@
     <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
   </committees>
   <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5719"/>
     <bill relation="unknown" session="113" type="s" number="2235"/>
     <bill relation="unknown" session="113" type="s" number="2550"/>
   </relatedbills>

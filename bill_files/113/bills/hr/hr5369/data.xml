@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5369" updated="2014-11-08T07:07:46-05:00">
+<bill session="113" type="h" number="5369" updated="2014-12-06T07:07:45-05:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
@@ -10,10 +10,15 @@
   </titles>
   <sponsor id="400348"/>
   <cosponsors>
+    <cosponsor id="412011" joined="2014-11-13"/>
+    <cosponsor id="412513" joined="2014-11-13"/>
     <cosponsor id="412498" joined="2014-07-31"/>
+    <cosponsor id="412295" joined="2014-11-13"/>
     <cosponsor id="400267" joined="2014-09-18"/>
+    <cosponsor id="400277" joined="2014-11-13"/>
     <cosponsor id="412523" joined="2014-09-18"/>
     <cosponsor id="400333" joined="2014-09-18"/>
+    <cosponsor id="412515" joined="2014-11-13"/>
     <cosponsor id="412525" joined="2014-09-18"/>
   </cosponsors>
   <actions>
@@ -28,7 +33,9 @@
     <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
     <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2951"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Business records"/>
@@ -38,4 +45,8 @@
     <term name="Veterans' organizations and recognition"/>
   </subjects>
   <amendments/>
+  <summary>7/31/2014--Introduced.
+Veterans Dignified Burial Act - Directs the Secretary of Veterans Affairs (VA): (1) upon confirming the veteran status of a deceased veteran in the custody of a local medical examiner, funeral director, county service group, or other similar entity, to request from such entity the specific date of the scheduled interment of such veteran; and (2) during each 30-day period following such request, to repeat the request until such entity confirms that such veteran has been interred.
+
+Requires the Secretary, by January 31 of each year, to submit to the House and Senate Veterans' Affairs Committees a report on deceased veterans who were interred after the 30-day period following the date on which the Secretary made such request. Requires the report to include: (1) the number of deceased veterans who were not interred in such 30-day period during the prior year, (2) the number of such deceased veterans who are not interred as of the date of the report, and (3) the entity with custody of each such deceased veteran.</summary>
 </bill>
