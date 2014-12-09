@@ -31,8 +31,7 @@ if __name__ == '__main__':
     #Map bills to columns
     bill_column_map = {bill.bill_id:\
                        [v_i for v_i in xrange(len(vlist)) \
-                        if vlist[v_i].get_bill_type() == bill.bill_type_id \
-                        and vlist[v_i].get_bill_id() == bill.bill_id] \
+                        if vlist[v_i].get_full_bill_id() == bill.bill_id] \
                      for bill in bills}
     
     #randomly shuffle bills
@@ -40,7 +39,9 @@ if __name__ == '__main__':
     group_size = int(np.floor(0.05 * float(len(bills))))
     groups = np.arange(0,len(bills),group_size)
     
-    #Iterate bill groups
+    #Iterate bill groups; produce features and compute metrics
+    tp = fp = tn = fn = 0
+    
     with open("bill_vote_features.csv",'w') as csvfile:
         feature_writer = csv.writer(csvfile, delimiter = ',')
         
@@ -71,12 +72,23 @@ if __name__ == '__main__':
             r_hat = p*q.T + bias
             for i in xrange(len(target_bills)):
                 bill = target_bills[i]
-                predicted_votes = [vote[0,0] for vote in r_hat[:,column_offset + i]]
+                predicted_votes = np.array([vote[0,0] for vote in r_hat[:,column_offset + i]])
                 mean = np.mean(predicted_votes)
                 sd = np.std(predicted_votes)
                 hist = list(np.percentile(predicted_votes, [10,25,50,75,90]))
                 feature_writer.writerow([bill.bill_id, mean, sd] + hist)
-        
+                #compute accuracy metrics
+                if (bill.bill_id in bill_column_map and len(bill_column_map[bill.bill_id]) > 0):
+                    actual_vote_column = bill_column_map[bill.bill_id][-1]
+                    actual_votes = np.array([vote[0,0] for vote in r[:,actual_vote_column]])
+                    tp += np.sum(np.logical_and(actual_votes == 1, predicted_votes > 0))
+                    tn += np.sum(np.logical_and(actual_votes == -1, predicted_votes < 0))
+                    fp += np.sum(np.logical_and(actual_votes == -1, predicted_votes > 0))
+                    fn += np.sum(np.logical_and(actual_votes == 1, predicted_votes < 0))
+                
+    print("Accuracy: %f" % (float(tp + tn)/float(tp + tn + fp + fn)) )
+    print("Precision: %f" % (float(tp)/float(tp + fp)) )
+    print("Recall: %f" % (float(tp)/float(tp+fn)) )
 #         for bill in bills.values():
 #             print("Generating features for bill %s" % bill.bill_id)
 #             #Remove all votes relate to that bill

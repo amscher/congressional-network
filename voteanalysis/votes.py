@@ -76,3 +76,8 @@ class Vote(object):
 	def get_bill_id(self):
 		if "bill" in self.data:
 			return self.data["bill"]["number"]
+		
+	def get_full_bill_id(self):
+		if "bill" in self.data:
+			return "%s%s" % (self.data["bill"]["type"],self.data["bill"]["number"])
+			return self.data["bill"]["type"] + self.data["bill"]["number"]
