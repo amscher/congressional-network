@@ -186,10 +186,10 @@
   phone: (202) 226-7270
   rss_url: http://budget.house.gov/news/rss.aspx
   minority_rss_url: http://feeds.feedburner.com/BudgetCommittee
-  jurisdiction: 'The House Committee on the Budget has responsibilities under the
-    following categories: the budget resolution, reconciliation, budget process reform,
+  jurisdiction: The House Committee on the Budget has responsibilities under the
+    following categories the budget resolution, reconciliation, budget process reform,
     oversight of the Congressional Budget Office, revisions of allocations and adjustments,
-    and scorekeeping.'
+    and scorekeeping.
   jurisdiction_source: http://budget.house.gov/about/
 - type: house
   name: House Committee on Education and the Workforce

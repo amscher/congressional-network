@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="5220" updated="2014-12-06T07:06:30-05:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">No More Land Act</title>
+    <title type="official" as="introduced">To amend the Land and Water Conservation Fund to limit the use of funds available from the Land and Water Conservation Fund Act of 1965 to use for maintenance.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-28">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-07-28">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-08-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-08-04">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-08-11">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation, Energy, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="General public lands matters"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+</bill>

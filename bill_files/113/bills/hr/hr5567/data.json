@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5567-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "sponsored_at": "2014-09-19", 
+      "state": "AL", 
+      "thomas_id": "01988", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5567", 
+  "official_title": "To carry out pilot programs to improve skills and job training, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Education and Workforce Innovation Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carney, John C., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01999", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Advisory bodies", 
+    "Education", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Higher education", 
+    "Public-private cooperation", 
+    "Unemployment", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Education and Workforce Innovation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To carry out pilot programs to improve skills and job training, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:09:24-05:00"
+}

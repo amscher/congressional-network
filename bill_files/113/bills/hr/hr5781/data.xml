@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="5781" updated="2014-12-08T18:48:53-05:00">
+  <state datetime="2014-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-02"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="short" as="introduced">California Emergency Drought Relief Act of 2014</title>
+    <title type="official" as="introduced">To provide short-term water supplies to drought-stricken California.</title>
+  </titles>
+  <sponsor id="412515"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2014-12-02"/>
+    <cosponsor id="400618" joined="2014-12-02"/>
+    <cosponsor id="412510" joined="2014-12-02"/>
+    <cosponsor id="412190" joined="2014-12-02"/>
+    <cosponsor id="412295" joined="2014-12-02"/>
+    <cosponsor id="400297" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-02" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-12-08T14:08:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 770.</text>
+    </action>
+    <action datetime="2014-12-08T14:08:00-05:00">
+      <text>Resolution provides for consideration of the Senate amendment to H.R. 3979; consideration of the bill H.R. 5759; and consideration of the bill H.R. 5781.</text>
+    </action>
+    <action datetime="2014-12-08T14:08:00-05:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 770, the House proceeded with one hour of debate on H.R. 5781.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="770"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="California"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of the Interior"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Fishes"/>
+    <term name="Lakes and rivers"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

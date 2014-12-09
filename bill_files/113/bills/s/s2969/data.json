@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2969-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-02", 
+  "number": "2969", 
+  "official_title": "A bill to authorize the transfer of certain items under the control of the Omar Bradley Foundation to the descendants of General Omar Bradley.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "General of the Army Omar Bradley Property Transfer Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Toomey, Pat", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-02", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Military history", 
+    "Military personnel and dependents"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "General of the Army Omar Bradley Property Transfer Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize the transfer of certain items under the control of the Omar Bradley Foundation to the descendants of General Omar Bradley.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:32-05:00"
+}

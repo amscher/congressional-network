@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-30", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-08-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment and the Economy.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5283-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Environment and the Economy", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2014-09-18", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-09-16", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2014-09-16", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-09-18", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-09-17", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2014-09-16", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-30", 
+  "number": "5283", 
+  "official_title": "To establish national goals for the reduction and recycling of municipal solid waste, to address the growing problem of marine debris, to require the Administrator of the Environmental Protection Agency to promulgate regulations to attain those goals, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Land-Based Marine Debris Reduction Act", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Honda, Michael M.", 
+    "state": "CA", 
+    "thomas_id": "01634", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-30", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Climate change and greenhouse gases", 
+    "Congressional oversight", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Manufacturing", 
+    "Marine pollution", 
+    "Solid waste and recycling", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Land-Based Marine Debris Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish national goals for the reduction and recycling of municipal solid waste, to address the growing problem of marine debris, to require the Administrator of the Environmental Protection Agency to promulgate regulations to attain those goals, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:07:02-05:00"
+}

@@ -1,0 +1,121 @@
+<bill session="113" type="h" number="5769" updated="2014-12-06T07:11:06-05:00">
+  <state datetime="2014-12-03T15:18:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-12-03T15:18:00-05:00"/>
+  </status>
+  <introduced datetime="2014-12-01"/>
+  <titles>
+    <title type="short" as="introduced">Howard Coble Coast Guard and Maritime Transportation Act of 2014</title>
+    <title type="official" as="introduced">To authorize appropriations for the Coast Guard for fiscal year 2015, and for other purposes.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412382" joined="2014-12-01"/>
+    <cosponsor id="400331" joined="2014-12-01"/>
+    <cosponsor id="409888" joined="2014-12-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-01" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-12-03T12:43:00-05:00">
+      <text>Mr. Hunter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-03T12:43:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8289-8305" label="consideration"/>
+    </action>
+    <action datetime="2014-12-03T12:43:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5769.</text>
+    </action>
+    <action datetime="2014-12-03T13:13:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-12-03T15:11:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8310-8311" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="541" datetime="2014-12-03T15:18:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 541).</text>
+      <reference ref="CR H8289-8301" label="text"/>
+    </vote>
+    <action datetime="2014-12-03T15:18:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Actions and defenses"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Advisory bodies"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Aviation and airports"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Canada"/>
+    <term name="Caribbean area"/>
+    <term name="Child care and development"/>
+    <term name="Coast guard"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Denmark"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Homeland Security"/>
+    <term name="District of Columbia"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Emergency communications systems"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Europe"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Maritime Commission"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Homeland security"/>
+    <term name="Iceland"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Marine pollution"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="New York State"/>
+    <term name="Norway"/>
+    <term name="Oil and gas"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Roads and highways"/>
+    <term name="Russia"/>
+    <term name="Student aid and college costs"/>
+    <term name="Transportation costs"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Virgin Islands"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+</bill>

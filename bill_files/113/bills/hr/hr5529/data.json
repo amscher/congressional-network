@@ -1,0 +1,166 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Education and the Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to House Education and the Workforce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Workforce Protections.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5529-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Workforce Protections", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-09-18", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5529", 
+  "official_title": "To establish a worker adjustment assistance program to provide assistance and job retraining for workers who have lost their jobs due to unplanned closures of coal and coal dependent industries, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Healthy Employee Loss Prevention Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Administrative remedies", 
+    "Advisory bodies", 
+    "Coal", 
+    "Congressional oversight", 
+    "Employment and training programs", 
+    "Executive agency funding and structure", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Government trust funds", 
+    "Higher education", 
+    "Intergovernmental relations", 
+    "Labor and employment", 
+    "Labor standards", 
+    "Mining", 
+    "Performance measurement", 
+    "Public utilities and utility rates", 
+    "State and local government operations", 
+    "Student aid and college costs", 
+    "Transportation costs", 
+    "Unemployment", 
+    "Vocational and technical education", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Healthy Employee Loss Prevention Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "HELP Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a worker adjustment assistance program to provide assistance and job retraining for workers who have lost their jobs due to unplanned closures of coal and coal dependent industries, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:09:05-05:00"
+}

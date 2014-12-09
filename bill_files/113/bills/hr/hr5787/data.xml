@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="5787" updated="2014-12-06T07:11:15-05:00">
+  <state datetime="2014-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-03"/>
+  </status>
+  <introduced datetime="2014-12-03"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude payments received under the Work Colleges Program from gross income, including payments made from institutional funds.</title>
+  </titles>
+  <sponsor id="400093"/>
+  <cosponsors>
+    <cosponsor id="412401" joined="2014-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,176 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-01", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-30", 
+      "committee": "Committee on Veterans' Affairs", 
+      "committees": [
+        "SSVA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-01-14", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S333-334", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S333-334", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-15T11:26:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1434-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "sponsored_at": "2013-08-01", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-10-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-01-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-01", 
+  "number": "1434", 
+  "official_title": "A bill to designate the Junction City Community-Based Outpatient Clinic located at 715 Southwind Drive, Junction City, Kansas, as the Lieutenant General Richard J. Seitz Community-Based Outpatient Clinic.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Moran, Jerry", 
+    "state": "KS", 
+    "thomas_id": "01507", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-01-14", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional tributes", 
+    "Health facilities and institutions", 
+    "Home and outpatient care", 
+    "Kansas", 
+    "Military personnel and dependents", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-01-14", 
+    "text": "Designates the Junction City Community-Based Outpatient Clinic located at 715 Southwind Drive, Junction City, Kansas, as the \"Lieutenant General Richard J. Seitz Community-Based Outpatient Clinic.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to designate the Junction City Community-Based Outpatient Clinic located at 715 Southwind Drive, Junction City, Kansas, as the Lieutenant General Richard J. Seitz Community-Based Outpatient Clinic.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:31:32-05:00"
+}

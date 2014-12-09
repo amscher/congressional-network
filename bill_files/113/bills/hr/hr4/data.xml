@@ -1,0 +1,408 @@
+<bill session="113" type="h" number="4" updated="2014-12-06T06:22:38-05:00">
+  <state datetime="2014-09-18T18:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-18T18:45:00-04:00"/>
+  </status>
+  <introduced datetime="2014-09-15"/>
+  <titles>
+    <title type="short" as="introduced">Jobs for America Act</title>
+    <title type="short" as="introduced" partial="1">Achieving Less Excess in Regulation and Requiring Transparency Act of 2014</title>
+    <title type="short" as="introduced" partial="1">ALERRT Act of 2014</title>
+    <title type="short" as="introduced" partial="1">ALERT Act of 2014</title>
+    <title type="short" as="introduced" partial="1">All Economic Regulations are Transparent Act of 2014</title>
+    <title type="short" as="introduced" partial="1">American Research and Competitiveness Act of 2014</title>
+    <title type="short" as="introduced" partial="1">America's Small Business Tax Relief Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Hire More Heroes Act of 2014</title>
+    <title type="short" as="introduced" partial="1">National Strategic and Critical Minerals Production Act of 2014</title>
+    <title type="short" as="introduced" partial="1">O&amp;C Trust, Conservation, and Jobs Act</title>
+    <title type="short" as="introduced" partial="1">Permanent Internet Tax Freedom Act</title>
+    <title type="short" as="introduced" partial="1">Regulations From the Executive in Need of Scrutiny Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Regulatory Accountability Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Regulatory Flexibility Improvements Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Restoring Healthy Forests for Healthy Communities Act</title>
+    <title type="short" as="introduced" partial="1">S Corporation Permanent Tax Relief Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Save American Workers Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Small Business Capital Access and Job Preservation Act</title>
+    <title type="short" as="introduced" partial="1">Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Sunshine for Regulatory Decrees and Settlements Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Unfunded Mandates Information and Transparency Act of 2014</title>
+    <title type="short" as="passed house">Jobs for America Act</title>
+    <title type="short" as="passed house" partial="1">National Strategic and Critical Minerals Production Act of 2014</title>
+    <title type="short" as="passed house" partial="1">O&amp;C Trust, Conservation, and Jobs Act</title>
+    <title type="short" as="passed house" partial="1">Restoring Healthy Forests for Healthy Communities Act</title>
+    <title type="short" as="passed house" partial="1">Unfunded Mandates Information and Transparency Act of 2014</title>
+    <title type="official" as="introduced">To make revisions to Federal law to improve the conditions necessary for economic growth and job creation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400058"/>
+  <cosponsors>
+    <cosponsor id="400154" joined="2014-09-15"/>
+    <cosponsor id="400171" joined="2014-09-15"/>
+    <cosponsor id="400175" joined="2014-09-15"/>
+    <cosponsor id="400196" joined="2014-09-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-15" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, Oversight and Government Reform, Rules, the Judiciary, Financial Services, Agriculture, Natural Resources, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Small Business</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2014-09-16T18:19:00-04:00">
+      <text>Rules Committee Resolution H. Res. 727 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides that each bill may be debatable for 2 hours, equally divided and controlled by the chair and ranking member of their respective committees. The bills shall be considered as read, all points of order agains the provisions of the bill are waived, and each bill is provided with one motion to recommit.</text>
+    </action>
+    <action datetime="2014-09-18T14:09:00-04:00">
+      <text>Rule H. Res. 727 passed House.</text>
+    </action>
+    <action datetime="2014-09-18T14:10:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 727.</text>
+      <reference ref="CR H7773-7819" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T14:10:00-04:00">
+      <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides that each bill may be debatable for 2 hours, equally divided and controlled by the chair and ranking member of their respective committees. The bills shall be considered as read, all points of order agains the provisions of the bill are waived, and each bill is provided with one motion to recommit.</text>
+    </action>
+    <action datetime="2014-09-18T14:11:00-04:00">
+      <text>DEBATE - The House proceeded with two hours of debate on H.R. 4.</text>
+    </action>
+    <action datetime="2014-09-18T15:26:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7818" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T15:26:00-04:00">
+      <text>POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule 19, further proceedings on H.R. 4 were postponed.</text>
+    </action>
+    <action datetime="2014-09-18T18:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7854-7858" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T18:02:00-04:00">
+      <text>Mr. Bishop (NY) moved to recommit with instructions to the Committee on Ways and Means.</text>
+      <reference ref="CR H7854-7857" label="consideration"/>
+      <reference ref="CR H7854-7856" label="text"/>
+    </action>
+    <action datetime="2014-09-18T18:02:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Bishop (NY) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to (1) give a tax credit of up to 20% for expenses of returning American jobs from overseas; (2) deny tax deductions for the costs of sending American jobs overseas; (3) make it more difficult for corporations to invert in order to lower their tax bills by moving their address overseas through a merger with a smaller foreign corporation; and (4) deny the tax benefits in the underlying bill to inverted corporations. Additionally, the Motion would provide for consideration of: (1) H.R. 377, Paycheck Fairness Act, (2) H.R. 1010, Fair Minimum Wage Act, (3) H.R. 4582, Bank on Students Emergency Loan Refinancing Act, (4) H.R. 1286, Healthy Families Act, and (5) H.R. 3461, Strong Start for Americas                Children Act.</text>
+    </action>
+    <action datetime="2014-09-18T18:08:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H7858" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18T18:38:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 191 - 218 (Roll no. 512).</text>
+    </action>
+    <vote how="roll" type="vote" roll="513" datetime="2014-09-18T18:45:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 253 - 163 (Roll no. 513).</text>
+      <reference ref=" H7773-7807" label="text"/>
+    </vote>
+    <action datetime="2014-09-18T18:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-11-12">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-11-13" calendar="Senate Legislative" under="General Orders" number="597">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 597.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="113" type="hr" number="727"/>
+    <bill relation="unknown" session="113" type="h" number="367"/>
+    <bill relation="unknown" session="113" type="h" number="434"/>
+    <bill relation="unknown" session="113" type="h" number="761"/>
+    <bill relation="unknown" session="113" type="h" number="899"/>
+    <bill relation="unknown" session="113" type="h" number="1105"/>
+    <bill relation="unknown" session="113" type="h" number="1200"/>
+    <bill relation="unknown" session="113" type="h" number="1215"/>
+    <bill relation="unknown" session="113" type="h" number="1230"/>
+    <bill relation="unknown" session="113" type="h" number="1294"/>
+    <bill relation="unknown" session="113" type="h" number="1493"/>
+    <bill relation="unknown" session="113" type="h" number="1526"/>
+    <bill relation="unknown" session="113" type="h" number="2122"/>
+    <bill relation="unknown" session="113" type="h" number="2274"/>
+    <bill relation="unknown" session="113" type="h" number="2401"/>
+    <bill relation="unknown" session="113" type="h" number="2488"/>
+    <bill relation="unknown" session="113" type="h" number="2491"/>
+    <bill relation="unknown" session="113" type="h" number="2542"/>
+    <bill relation="unknown" session="113" type="h" number="2575"/>
+    <bill relation="unknown" session="113" type="h" number="2804"/>
+    <bill relation="unknown" session="113" type="h" number="4438"/>
+    <bill relation="unknown" session="113" type="h" number="4453"/>
+    <bill relation="unknown" session="113" type="h" number="4457"/>
+    <bill relation="unknown" session="113" type="h" number="4718"/>
+    <bill relation="unknown" session="113" type="h" number="4743"/>
+    <bill relation="unknown" session="113" type="h" number="5034"/>
+    <bill relation="unknown" session="113" type="h" number="5512"/>
+    <bill relation="unknown" session="113" type="s" number="31"/>
+    <bill relation="unknown" session="113" type="s" number="327"/>
+    <bill relation="unknown" session="113" type="s" number="714"/>
+    <bill relation="unknown" session="113" type="s" number="1342"/>
+    <bill relation="unknown" session="113" type="s" number="1414"/>
+    <bill relation="unknown" session="113" type="s" number="1415"/>
+    <bill relation="unknown" session="113" type="s" number="1923"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Air quality"/>
+    <term name="Birds"/>
+    <term name="Business investment and capital"/>
+    <term name="Business records"/>
+    <term name="California"/>
+    <term name="Capital gains tax"/>
+    <term name="Civil actions and liability"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Comprehensive health care"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Department of Agriculture"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal appellate courts"/>
+    <term name="Financial services and investments"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Fruit and vegetables"/>
+    <term name="General public lands matters"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Horticulture and plants"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Inflation and prices"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Internet and video services"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Licensing and registrations"/>
+    <term name="Military medicine"/>
+    <term name="Mining"/>
+    <term name="Missouri"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Oil and gas"/>
+    <term name="Oregon"/>
+    <term name="Pest management"/>
+    <term name="Property rights"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Research and development"/>
+    <term name="Roads and highways"/>
+    <term name="Rural conditions and development"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Temporary and part-time employment"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2014--Introduced.
+Jobs for America Act - Division I: Ways and Means - Title I: Save American Workers - Save American Workers Act of 2014 - Amends the Internal Revenue Code to redefine "full-time employee," for purposes of the mandate requiring employers to provide health care coverage for their employees, as an employee who is employed on average at least 40 hours of service a week (currently, at least 30 hours of service a week).
+
+Title II: Hire More Heroes - Hire More Heroes Act of 2014 - Amends the Internal Revenue Code to permit an employer, for purposes of determining whether such employer is an applicable large employer and thus required to provide health care coverage to its employees under the Patient Protection and Affordable Care Act, to exclude employees who have coverage under a health care program administered by the Department of Defense (DOD), including TRICARE, or the Department of Veterans Affairs (VA).
+
+Title III: American Research and Competitiveness - American Research and Competitiveness Act of 2014 - Amends the Internal Revenue Code, with respect to the tax credit for research expenses, to establish a 20% tax rate for such credit and make such credit permanent.
+
+Title IV: America's Small Business Tax Relief - America's Small Business Tax Relief Act of 2014 - Amends the Internal Revenue Code, with respect to the expensing allowance for depreciable business property, to make permanent: (1) the increased $500,000 expensing allowance for such property, (2) the increased $2,000,000 threshold amount for such property over which the amount of the expensing allowance is reduced, (3) expensing of computer software, and (4) rules for the expensing of qualified real property (i.e., leasehold improvement, restaurant, and retail improvement property). Allows an inflation adjustment to the dollar amounts of the expensing allowance for taxable years beginning after 2014. Makes air conditioning and heating units eligible for the expensing allowance.
+
+Title V: S Corporation Permanent Tax Relief - S Corporation Permanent Tax Relief Act of 2014 - Amends the Internal Revenue Code, with respect to the taxation of S corporations, to make permanent: (1) the reduction of the period (from 10 years to 5 years) during which the built-in gains of such corporations are subject to tax, and (2) the rule requiring an adjustment to the basis of a shareholder's stock in an S corporation that makes tax deductible contributions of appreciated property.
+
+Title VI: Bonus Depreciation Modified and Made Permanent - Amends the Internal Revenue Code to: (1) make permanent the additional 50% depreciation allowance (bonus depreciation) for qualified property (i.e., property which has a recovery period of 20 years or less and is computer software, water utility property, or qualified leasehold or retail improvement property); (2) make permanent the election to increase the alternative minimum tax (AMT) credit limitation in lieu of bonus depreciation; and (3) allow an additional depreciation allowance for a tree or vine bearing fruits or nuts, in the taxable year in which the tree or vine is planted or grafted to a plant in the ordinary course of the taxpayer's farming business.
+
+Title VII: Repeal of Medical Device Excise Tax - Repeals the excise tax on medical devices.
+
+Division II: Financial Services - Title I: Small Business Capital Access And Job Preservation - Small Business Capital Access And Job Preservation Act - Amends the Investment Advisers Act of 1940 to exempt private equity fund investment advisers from its registration and reporting requirements, provided that each private equity fund has not borrowed and does not have outstanding a principal amount exceeding twice its invested capital commitments.
+
+Directs the Securities and Exchange Commission (SEC) to promulgate final rules that: (1) require such investment advisers to maintain records the SEC may require, taking into account fund size, governance, investment strategy, and risk; and (2) define the term "private equity fund" for purposes of this Act.
+
+Title II: Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification - Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2014 - Amends the Securities Exchange Act of 1934 to exempt from its registration requirements certain merger and acquisition brokers and associated persons.
+
+Denies such registration exemption, however, to brokers who: (1) receive, hold, transmit, or have custody of any funds or securities to be exchanged by parties to a transfer of ownership of an eligible privately held company; or (2) engage on behalf of an issuer in a public offering of securities that are either subject to mandatory registration, or with respect to which the issuer must file periodic information, documents, and reports.
+
+Prohibits this Act from being construed to limit any other authority of the SEC to exempt any person, or any class of persons, from any provision of this Act, including any related rule or regulation.
+
+Division III: Oversight - Subdivision A: Unfunded Mandates Information and Transparency - Unfunded Mandates Information and Transparency Act of 2014 -Amends the Congressional Budget Act of 1974 to require Congressional Budget Office (CBO) studies on the costs for state, local, or tribal governments to comply with changes to conditions of federal assistance. Expands the point of order against legislation increasing the costs of federal intergovernmental mandates above the statutory threshold to include private sector mandates. Amends the Unfunded Mandates Reform Act of 1995 to establish principles for agencies to use in assessing the effects of federal regulatory actions. Expands the scope of agency statements accompanying significant regulatory actions to require a more detailed analysis of the effect on state, local, tribal governments, or the private sector. Revises the process for consulting state, local, and tribal governments about proposed regulations to include private sector input. Requires the Office of Information and Regulatory Affairs to provide guidance and oversight so that each agency's regulations are consistent with this title, other laws, and policies of other agencies.&#160; Expands judicial review to include agency assessments of regulations and selection of the least costly or least burdensome regulatory alternative. Subdivision B: Achieving Less Excess in Regulation and Requiring Transparency - Achieving Less Excess in Regulation and Requiring Transparency Act of 2014 or the ALERRT Act of 2014 - Title I: All Economic Regulations Are Transparent Act - All Economic Regulations are Transparent Act of 2014 or the ALERT Act of 2014 - Requires the head of each federal agency to submit a monthly report to the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget (OMB) for each rule such agency expects to propose or finalize during the following year. Requires the Administrator to publish in the Federal Register, by October 1 of each year, information that the Administrator receives from each agency under this Act and statistics on each rule proposed by an agency.
+
+Requires the Administrator to make publicly available on the Internet, by October 1 of each year, the analysis of the costs or benefits of each proposed or final rule issued by an agency for the previous year and other information pertaining to each such rule.
+
+Prohibits a rule from taking effect until the information required by this Act is posted on the Internet for not less than six months, with exceptions.
+
+Title II: Regulatory Accountability Act - Regulatory Accountability Act of 2014 - Revises procedures for rulemaking under the Administrative Procedure Act (APA) to require a federal agency to make all preliminary and final factual determinations based on evidence and to consider other criteria in evaluating a rule.
+
+Revises rulemaking notice requirements.
+
+Imposes new requirements for issuing any major guidance or guidance that involves a novel legal or policy issue arising out of statutory mandates.
+
+ Provides for electronic access to transcripts of testimony and exhibits and other papers filed in a rulemaking proceeding.
+
+Requires the record of decision in a rulemaking proceeding to include information from a hearing under the Information Quality Act or information on a high-impact rule.
+
+Requires an agency to grant a petition for a hearing in the case of a major rule, unless the agency reasonably determines that a hearing would not advance consideration of the rule or would unreasonably delay completion of the rulemaking.
+
+ Provides that an agency's denial of an Information Quality Act petition, or a failure to grant or deny such petition within 90 days, is reviewable by a court as a final action. Allows immediate judicial review of interim rules issued without compliance with the notice requirements of this Act, other than in cases involving national security interests.
+
+ Revises standards for the scope of judicial review of agency rulemaking.
+
+ Defines "substantial evidence" for purposes of evaluating agency adjudications and for rulemaking under APA.
+
+Title III: Regulatory Flexibility Improvements Act - Regulatory Flexibility Improvements Act of 2014 - Amends the Regulatory Flexibility Act of 1980 (RFA) to revise the definitions of "rule" and "economic impact" under such Act.
+
+Requires initial and final regulatory flexibility analyses to: (1) describe alternatives to a proposed rule that minimize any adverse significant economic impact or that maximize the beneficial significant economic impact on small entities, and (2) include revisions or amendments to a land management plan developed by the Secretary of Agriculture or the Secretary of the Interior under specified Acts.
+
+Requires each federal agency to include in its regulatory flexibility agenda a brief description of the sector of the North American Industrial Classification System that is affected by a proposed agency rule that is likely to have a significant economic impact on a substantial number of small entities.
+
+ Requires an agency's detailed statement in an initial regulatory flexibility analysis to include an estimate of the additional cumulative economic impact of the proposed rule on small entities and a description of any disproportionate economic impact on small entities or a specific class of such entities.
+
+Requires an agency, in developing an initial and final regulatory flexibility analysis, to provide: (1) a quantifiable or numerical description of the effects of a proposed or final rule and alternatives to such rule, or (2) a more general descriptive statement and a detailed statement explaining why quantification is not practicable or reliable.
+
+ Repeals provisions allowing a waiver or delay of the completion of an initial regulatory flexibility analysis.
+
+ Revises requirements for agency notification of the SBA Chief Counsel for Advocacy prior to the publication of any proposed rule.
+
+ Provides for judicial review of an agency final rule for compliance with RFA requirements after publication of such rule.
+
+ Amends the Small Business Act to authorize the Small Business Administration's (SBA's) Chief Counsel for Advocacy to specify detailed definitions or standards by which a business may be determined to be a small business (size standard).
+
+ Amends the Small Business Regulatory Enforcement Fairness Act of 1996 to require federal agencies, in developing small entity compliance guides, to solicit input from affected small entities or associations of small entities.
+
+ Requires the Comptroller General to complete and publish a study that examines whether the SBA Chief Counsel for Advocacy has the capacity and resources to carry out the duties of Chief Counsel under this Act.
+
+Title IV: Sunshine for Regulatory Decrees and Settlements Act - Sunshine for Regulatory Decrees and Settlements Act of 2014 - Defines a "covered civil action" as a civil action seeking to compel agency action and alleging that an agency is unlawfully withholding or unreasonably delaying an agency action relating to a regulatory action that would affect the rights of: (1) private persons other than the person bringing the action; or (2) a state, local, or tribal government. Defines a "covered consent decree" and a "covered settlement agreement" as: (1) a consent decree or settlement agreement entered into in a covered civil action; and (2) any other consent decree or settlement agreement that requires agency action relating to a regulatory action affecting the rights of private persons other than the person bringing the action or a state, local, or tribal government.
+
+Requires an agency against which a covered civil action is brought to publish the notice of intent to sue and the complaint in a readily accessible manner and to provide interested parties an opportunity to intervene and to conduct settlement negotiations through mediation.
+
+Requires an agency seeking to enter a covered consent decree or settlement agreement to publish such decree or agreement in the Federal Register and online.
+
+ Requires a court to grant de novo review to any motion filed by an agency to modify a previously-entered consent decree if the basis of such motion is that the terms of the decree are no longer fully in the public interest due to the agency's obligations to fulfill other duties or due to changed facts and circumstances.
+
+Division IV: Judiciary - Title I: Regulations From The Executive In Need Of Scrutiny - Regulations From the Executive in Need of Scrutiny Act of 2014 - States that the purpose of this Act is to increase accountability for and transparency in the federal regulatory process by requiring Congress to approve all new major regulations. Revises provisions relating to congressional review of agency rulemaking to require a federal agency promulgating a rule to include in its report to Congress and to the Comptroller General a classification of the rule as a major or nonmajor rule.
+
+Requires a joint resolution of approval of major rules to be enacted before such rules may take effect. Provides that if a joint resolution of approval is not enacted by the end of 70 session days or legislative days, as applicable, after the agency proposing the rule submits its report on such rule to Congress, the major rule shall be deemed not to be approved and shall not take effect. Permits a major rule to take effect for one 90-calendar-day period without such approval if the President determines it is necessary because of an imminent threat to health or safety or other emergency, for the enforcement of criminal laws, for national security, or to implement an international trade agreement.
+
+Sets forth the congressional approval procedure for major rules and the congressional disapproval procedure for nonmajor rules.
+
+Requires the introduction of a joint resolution addressing a report classifying a rule as a major rule within three legislative days in the House of Representative and three session days in the Senate. Prohibits any amendments to such a joint resolution at any stage of the legislative process. Provides for expedited consideration of a joint resolution of approval and requires a vote on such resolution in the Senate within 15 session days after it is reported by the committee to which it was referred, or after such committee has been discharged from further consideration of the resolution.
+
+Allows a court to review whether an agency has completed the necessary requirements under this Act for a rule to take effect.
+
+Amends the Balanced Budget and Emergency Deficit Control Act of 1985 to provide that any congressional approval procedure set forth in this Act affecting budget authority, outlays, or receipts shall be assumed to be effective unless it is not approved in accordance with this Act.
+
+Directs the Comptroller General (GAO) to conduct and report on a study to determine how many rules and major rules were in effect as of the date of enactment of this Act and the total estimated economic cost imposed by all such rules.
+
+Title II: Permanent Internet Tax Freedom - Permanent Internet Tax Freedom Act - Amends the Internet Tax Freedom Act to make permanent the ban on state and local taxation of Internet access and on multiple or discriminatory taxes on electronic commerce.
+
+Division V: Natural Resources - Subdivision A: Restoring Healthy Forests for Healthy Communities - Restoring Healthy Forests for Healthy Communities Act - Title I: Restoring the Commitment to Rural Counties and Schools - Directs the Secretary of Agriculture (USDA) to establish at least one Forest Reserve Revenue Area within each unit of the National Forest System (NFS) designated for sustainable forest management for the production of national forest materials (the sale of trees, portions of trees, or forest products from NFS lands) and forest reserve revenues (to be derived from the sale of such materials in such an Area).
+
+Title II: Healthy Forest Management and Catastrophic Wildfire Prevention - Authorizes the Secretary of Agriculture, with respect to NFS land, and the Secretary of the Interior, with respect to public lands, to implement a hazardous fuel reduction project or forest health project in at-risk forests in a manner that focuses on surface, ladder, and canopy fuels reduction activities.
+
+ Allows a state governor to designate high-risk areas of federal land in the state for purposes of addressing: (1) deteriorating forest health conditions due to the bark beetle epidemic or drought, with the resulting imminent risk of devastating wildfires; and (2) the future risk of insect infestations or disease outbreaks through preventative treatments to improve forest health conditions.
+
+ Title III: Oregon and California Railroad Grant Lands Trust, Conservation, and Jobs - O&amp;C Trust, Conservation, and Jobs Act - Establishes the Oregon and California Railroad Grant Lands Trust to produce annual maximum sustained revenues in perpetuity for Trust counties by managing the timber resources on Trust lands.
+
+ Directs the Secretary of the Interior to transfer administrative jurisdiction over all Oregon and California Railroad Grant lands and O&amp;C Region Public Domain lands not designated as O&amp;C Trust lands, except for certain tribal lands, to the Secretary of Agriculture for inclusion in the NFS.
+
+ Requires the Secretary of Agriculture to appoint an Old Growth Review Panel to define old growth as it applies to the ecologically, geographically, and climatologically unique Oregon and California Railroad Grant lands and O&amp;C Region Public Domain lands managed by the O&amp;C Trust or the Forest Service only (but not to tribal lands).
+
+Directs the Secretary of the Interior to transfer management authority over the reconveyed Coos Bay Wagon Road Grant lands, with certain exceptions, and their surface resources to the Coos County government in Oregon. Designates certain federal land in Oregon as the Devil's Staircase Wilderness for inclusion in the National Wilderness Preservation System.
+
+ Amends the Wild and Scenic Rivers Act to designate specified segments of the Molalla River and the Rogue River in Oregon as components of the National Wild and Scenic Rivers System.
+
+ Holds in trust for the Cow Creek Band of Umpqua Tribe of Indians all interest of the United States in and to the Council Creek specified land composed of approximately 17,519 acres. Makes that land part of the Tribe's reservation.
+
+Holds in trust for the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians all interest of the United States in and to approximately 14,804 acres of specified federal land. Makes that land part of the Tribes' reservation.
+
+Title IV: Community Forest Management Demonstration - Directs the Secretary of Agriculture to establish the community forest demonstration area of a state.
+
+Conditions establishment of an area upon: (1) inclusion of at least 200,000 acres of NFS land; (2) a state forest practices law applicable to state or privately owned forest land, or established silvicultural best management practices or other regulations for forest management practices related to clean water, soil quality, wildlife, or forest health; and (3) a revenue-sharing agreement between a county and the state governor requiring the county, in using certain revenues received from the area, to continue to meet obligations for the use of such revenues for the benefit of public schools and roads.
+
+Limits to a total of 4 million acres the amount of NFS land that may be established as community forest demonstration areas.
+
+ Title V: Reauthorization and Amendment of Existing Authorities and Other Matters - Directs the Secretary of Agriculture, during February 2015, to distribute to each beneficiary county a payment equal to the amount distributed to the county for FY2010 under the Secure Rural Schools and Community Self-Determination Act of 2000. Directs the Secretary of the Interior, during February 2015, to distribute to all counties that received a payment for FY2010new payments totalling the difference between: (1) the total amount distributed to all such counties for FY2010, and (2) $27 million.
+
+Subdivision B: National Strategic and Critical Minerals Production - National Strategic and Critical Minerals Production Act of 2014 - Title I: Development Of Domestic Sources Of Strategic And Critical Minerals - Deems a domestic mine that will provide strategic and critical minerals to be an "infrastructure project" as described in Presidential Order "Improving Performance of Federal Permitting and Review of Infrastructure Projects" dated March 22, 2012. Sets forth the responsibilities of the lead agency (federal, state, local, tribal, or Alaska Native Corporation) with responsibility for issuing a mineral exploration or mine permit with respect to project coordination, agency consultation, project proponents, contractors, and the status and scope of any environmental impact statement.
+
+Requires the lead agency to determine that any such action does not constitute a major federal action significantly affecting the quality of the human environment under the National Environmental Policy Act of 1969 if the procedural and substantive safeguards of the lead agency's permitting process alone, any applicable state permitting process alone, or a combination of the two processes together, provide an adequate mechanism to ensure that environmental factors are taken into account.
+
+Requires the lead agency's project lead, at a project proponent's request, to enter into an agreement with the project proponent and other cooperating agencies that sets time limits for each part of the permitting process.
+
+Applies this Act to a mineral exploration or mine permit for which an application was submitted before enactment of this Act if the applicant so requests in writing.
+
+Requires the lead agency, with respect to strategic and critical minerals within a federally administered unit of the NFS, to: (1) exempt from federal regulations governing Special Areas all areas of identified mineral resources in Land Use Designations (other than Non-Development Land Use Designations); (2) apply such exemption to all additional routes and areas that the agency finds necessary to facilitate the construction, operation, maintenance, and restoration of the areas of the identified mineral resources; and (3) continue to apply such exemptions after approval of the Minerals Plan of Operations for the unit.
+
+Title II: Judicial Review of Agency Actions Relating to Exploration and Mine Permits - Authorizes the holder of a mineral exploration or mine permit to intervene as of right in any covered civil action by a person affecting rights or obligations of the permit holder under the permit. Bars a civil action claiming legal wrong caused by an agency action unless it is filed within the end of the 60-day period beginning on the date of the final federal agency action to which it relates.
+
+ Requires the court to hear and determine any covered civil action as expeditiously as possible. Prohibits the court, in a covered civil action, from granting or approving prospective relief unless it finds that it is narrowly drawn, extends no further than necessary to correct the violation of a legal requirement, and is the least intrusive means necessary to correct such violation.
+
+Prohibits payment from the federal government for court costs of a party in such a civil action, including attorneys' fees and expenses.
+
+Title III: Miscellaneous Provisions - Prohibits the construction of this subdivision to affect any aspect of Secretarial Order 3324, issued by the Secretary of the Interior on December 3, 2012, with respect to potash and oil and gas operators.</summary>
+</bill>

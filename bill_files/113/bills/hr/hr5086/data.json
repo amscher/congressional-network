@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-11", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-29", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5086-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2014-07-25", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-11", 
+  "number": "5086", 
+  "official_title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2745-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Fortenberry, Jeff", 
+    "state": "NE", 
+    "thomas_id": "01793", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-11-19", 
+  "subjects": [
+    "Federal-Indian relations", 
+    "Government studies and investigations", 
+    "Historic sites and heritage areas", 
+    "Nebraska", 
+    "Oklahoma", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-11", 
+    "text": "Amends the National Trails System Act to direct the Secretary of the Interior to conduct a study on feasibility of designating as a national historic trail the Chief Standing Bear Trail extending approximately 550 miles from Ponca City, Oklahoma, through Omaha, Nebraska, which follows the route taken by Chief Standing Bear and the Ponca people during federal Indian removal, and approximately 550 miles from Ponca City through Omaha to Niobrara, Nebraska, which follows the return route taken by Chief Standing Bear and the Ponca people."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:05:23-05:00"
+}

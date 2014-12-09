@@ -15,8 +15,10 @@ class Bill:
         self.sponsor = sponsor # thomas id
         self.cosponsors = cosponsors
         self.introduced_month = int(introduced_at[5:7]) # month when the bill was introduced: "yyyy-MM-dd" -> MM
+        self.introduced_at = introduced_at
         self.num_voting_rounds = 0
         self.num_passed_rounds = 0
+        self.committees = []
 
     def isSuccessful(self):
         return self.status in SUCCESSFUL
@@ -35,4 +37,8 @@ class Bill:
         if 'pass' == result:
             self.num_passed_rounds += 1
 
+from json import JSONEncoder
+class Encoder(JSONEncoder):
+    def default(self, o):
+        return o.__dict__
 

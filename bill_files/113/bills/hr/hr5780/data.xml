@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="5780" updated="2014-12-06T07:11:11-05:00">
+  <state datetime="2014-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-02"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="short" as="introduced">Protecting the Integrity of Medicare Act of 2014</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to improve the integrity of the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2014-12-02"/>
+    <cosponsor id="400033" joined="2014-12-02"/>
+    <cosponsor id="400636" joined="2014-12-02"/>
+    <cosponsor id="412196" joined="2014-12-02"/>
+    <cosponsor id="400058" joined="2014-12-02"/>
+    <cosponsor id="412407" joined="2014-12-03"/>
+    <cosponsor id="400147" joined="2014-12-02"/>
+    <cosponsor id="412401" joined="2014-12-02"/>
+    <cosponsor id="400206" joined="2014-12-02"/>
+    <cosponsor id="412465" joined="2014-12-02"/>
+    <cosponsor id="400238" joined="2014-12-02"/>
+    <cosponsor id="400240" joined="2014-12-02"/>
+    <cosponsor id="400262" joined="2014-12-02"/>
+    <cosponsor id="400309" joined="2014-12-02"/>
+    <cosponsor id="400333" joined="2014-12-02"/>
+    <cosponsor id="412393" joined="2014-12-02"/>
+    <cosponsor id="412462" joined="2014-12-02"/>
+    <cosponsor id="412202" joined="2014-12-02"/>
+    <cosponsor id="400415" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-02" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2958" updated="2014-12-06T07:44:27-05:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Guard and Military Reservist Pay Security Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to expand the employer wage credit for employees who are active duty members of the Uniformed Services.</title>
+  </titles>
+  <sponsor id="400408"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Inflation and prices"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

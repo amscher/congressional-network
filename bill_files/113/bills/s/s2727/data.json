@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2727-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-07-31", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "2727", 
+  "official_title": "A bill to approve and implement the Klamath Basin agreements, to improve natural resource management, support economic development, and sustain agricultural production in the Klamath River Basin in the public interest and the interest of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2379-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Klamath Basin Water Recovery and Economic Restoration Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Aquatic ecology", 
+    "Business investment and capital", 
+    "California", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Corporate finance and management", 
+    "Dams and canals", 
+    "Electric power generation and transmission", 
+    "Environmental assessment, monitoring, research", 
+    "Farmland", 
+    "Federal-Indian relations", 
+    "Financial services and investments", 
+    "Fishes", 
+    "Floods and storm protection", 
+    "Government trust funds", 
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Indian social and development programs", 
+    "Intergovernmental relations", 
+    "Judicial review and appeals", 
+    "Lakes and rivers", 
+    "Land transfers", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Oregon", 
+    "Securities", 
+    "Tax-exempt organizations", 
+    "Water resources development", 
+    "Water resources funding", 
+    "Water use and supply", 
+    "Watersheds", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Klamath Basin Water Recovery and Economic Restoration Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to approve and implement the Klamath Basin agreements, to improve natural resource management, support economic development, and sustain agricultural production in the Klamath River Basin in the public interest and the interest of the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:42:28-05:00"
+}

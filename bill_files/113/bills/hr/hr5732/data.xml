@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="5732" updated="2014-12-06T07:10:47-05:00">
+  <state datetime="2014-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-18"/>
+  </status>
+  <introduced datetime="2014-11-18"/>
+  <titles>
+    <title type="short" as="introduced">Stop Schemes and Crimes Against Medicare and Seniors (Stop SCAMS) Act</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to crack down on fraud in the Medicare program to protect seniors, people with disabilities, and taxpayers.</title>
+  </titles>
+  <sponsor id="412385"/>
+  <cosponsors>
+    <cosponsor id="412202" joined="2014-11-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-11-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-11-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health information and medical records"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Medicare"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+</bill>

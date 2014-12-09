@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="2519" updated="2014-12-06T07:40:43-05:00">
+  <state datetime="2014-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-24"/>
+  <titles>
+    <title type="short" as="introduced">National Cybersecurity and Communications Integration Center Act of 2014</title>
+    <title type="short" as="reported to senate">National Cybersecurity and Communications Integration Center Act of 2014</title>
+    <title type="official" as="introduced">A bill to codify an existing operations center for cybersecurity.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="400576" joined="2014-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-07-31">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment. With written report No. 113-240.</text>
+    </action>
+    <calendar datetime="2014-07-31" calendar="Senate Legislative" under="General Orders" number="526">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2014--Reported to Senate amended.
+National Cybersecurity and Communications Integration Center Act of 2014 - Amends the Homeland Security Act of 2002 to authorize an operations center in the Department of Homeland Security (DHS) to carry out the responsibilities of the DHS Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and related DHS programs with respect to security and resilience.
+
+Specifies activities that may be carried out, including: (1) federal civilian information sharing; (2) sharing of cybersecurity threat, vulnerability, impact, and incident information and analysis by and among federal, state, and local government entities and private sector entities; and (3) providing technical assistance and recommendations to federal and non-federal entities.
+
+Requires the operations center to be composed of: (1) representatives of federal agencies, including civilian and law enforcement agencies and elements of the intelligence community; and (2) state and local governments and other non-federal entities, including private sector owners and operators of critical information systems.
+
+Provides the Under Secretary with discretion as to whether governmental or private entities are included in the operations center or are provided assistance or information.
+
+Prohibits this Act from being construed to grant the DHS Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of private sector critical infrastructure that was not in effect on the day before the enactment of this Act.</summary>
+</bill>

@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-18", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5731-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-18", 
+  "number": "5731", 
+  "official_title": "To extend foreclosure and eviction protections for servicemembers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Servicemembers Foreclosure Protection Act of 2014", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-18", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Housing finance and home ownership", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Servicemembers Foreclosure Protection Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend foreclosure and eviction protections for servicemembers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:10:47-05:00"
+}

@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="5756" updated="2014-12-06T07:10:59-05:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Heller Public Firearms Range Act of 2014</title>
+    <title type="official" as="introduced">To restore a public firearms range to the District of Columbia.</title>
+  </titles>
+  <sponsor id="410396"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Birds"/>
+    <term name="District of Columbia"/>
+    <term name="Firearms and explosives"/>
+    <term name="Hunting and fishing"/>
+    <term name="Sports and recreation facilities"/>
+    <term name="State and local finance"/>
+    <term name="User charges and fees"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

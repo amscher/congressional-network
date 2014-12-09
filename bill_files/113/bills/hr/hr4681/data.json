@@ -1,0 +1,413 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-20", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Intelligence (Permanent Select).", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-05-27T12:33:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Intelligence. H. Rept. 113-463.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-27T12:35:00-04:00", 
+      "calendar": "Union", 
+      "number": "343", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 343.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-05-29T18:55:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 604 Reported to House. All points of order against consideration of the bills are waived. General debate shall not exceed one hour, after debate the bills shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute for H.R. 4681, an amendment in the nature of a substitute printed in Rules Committee Print 113-45 shall be considered as an original bill. No amendment to the amendment in the nature of a substitute shall be made in order except those printed in the report.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T09:49:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 604 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T09:51:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "references": [
+        {
+          "reference": "CR H5034-5056", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 604.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T09:51:00-04:00", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "All points of order against consideration of the bills are waived. General debate shall not exceed one hour, after debate the bills shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute for H.R. 4681, an amendment in the nature of a substitute printed in Rules Committee Print 113-45 shall be considered as an original bill. No amendment to the amendment in the nature of a substitute shall be made in order except those printed in the report.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T09:51:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "references": [], 
+      "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 604 and Rule XVIII.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T09:51:00-04:00", 
+      "references": [], 
+      "text": "The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T09:52:00-04:00", 
+      "references": [], 
+      "text": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4681.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T10:33:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 604, the Committee of the Whole proceeded with 20 minutes of debate on the Rogers (MI) en bloc amendment no. 1.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T10:43:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 604, the Committee of the Whole proceeded with 10 minutes of debate on the Franks (AZ) amendment no. 6.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T10:52:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 604, the Committee of the Whole proceeded with 10 minutes of debate on the Poe (TX) amendment no. 7.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T10:57:00-04:00", 
+      "bill_ids": [
+        "hres604-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 604, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment no. 9.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:04:00-04:00", 
+      "references": [], 
+      "text": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4681.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5053", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5041-5047", 
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ], 
+      "text": "The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5054-5055", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5054", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Bishop (NY) moved to recommit with instructions to the Committee on Intelligence (Permanent).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:08:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the Bishop (NY) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that the intelligence community continues to protect the United States from Chinese and other state sponsored computer theft by requiring that it: 1) consistent with existing law, immediately inform corporations and internet providers of any computer breaches and the steps necessary to combat further intrusion; 2) coordinate with other Federal agencies to protect the United States infrastructure; and 3) assist the Department of Justice and other law enforcement agencies, including supporting allies of the United States in efforts to punish and sanction individuals and government that perpetrate espionage and identity theft.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5055", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5055", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 183 - 220 (Roll no. 270).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "271", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 345 - 59 (Roll no. 271).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:54:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:55:00-04:00", 
+      "references": [], 
+      "text": "The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4681.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-02", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Select Committee on Intelligence.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt774-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "774"
+    }, 
+    {
+      "amendment_id": "hamdt775-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "775"
+    }, 
+    {
+      "amendment_id": "hamdt776-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "776"
+    }, 
+    {
+      "amendment_id": "hamdt777-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "777"
+    }
+  ], 
+  "bill_id": "hr4681-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Intelligence (Select)", 
+      "committee_id": "SLIN"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-05-30T11:54:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-20", 
+  "number": "4681", 
+  "official_title": "To authorize appropriations for fiscal years 2014 and 2015 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres604-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3381-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4661-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4671-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1681-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2439-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2741-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Intelligence Authorization Act for Fiscal Years 2014 and 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Rogers, Mike J.", 
+    "state": "MI", 
+    "thomas_id": "01651", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-05-30T11:54:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Central Intelligence Agency (CIA)", 
+    "Coast guard", 
+    "Congressional oversight", 
+    "Defense spending", 
+    "Department of Defense", 
+    "Department of Energy", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Department of State", 
+    "Department of the Treasury", 
+    "Director of National Intelligence", 
+    "Drug Enforcement Administration (DEA)", 
+    "Drug trafficking and controlled substances", 
+    "Executive agency funding and structure", 
+    "Federal Bureau of Investigation (FBI)", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Homeland security", 
+    "Intelligence activities, surveillance, classified information", 
+    "Law enforcement administration and funding", 
+    "Military personnel and dependents", 
+    "Research and development"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-05-30", 
+    "text": "Intelligence Authorization Act for Fiscal Years 2014 and 2015 - Title I: Intelligence Activities - (Sec. 101) Authorizes FY2014-FY2015 appropriations for the conduct of intelligence and intelligence-related activities of the: (1) Office of the Director of National Intelligence (DNI); (2) Central Intelligence Agency (CIA); (3) Department of Defense (DOD); (4) Defense Intelligence Agency (DIA); (5) National Security Agency (NSA); (6) Departments of the Army, Navy, and Air Force; (7) Coast Guard; (8) Departments of State, the Treasury, Energy (DOE), and Justice (DOJ); (9) Federal Bureau of Investigation (FBI); (10) Drug Enforcement Administration (DEA); (11) National Reconnaissance Office (NRO); (12) National Geospatial-Intelligence Agency (NGA); and (13) Department of Homeland Security (DHS).\n\n(Sec. 102) Specifies that the amounts authorized and the authorized personnel ceilings as of September 30, 2014, and as of September 30, 2015, respectively, for such activities are those in the classified Schedule of Authorizations for FY2014 and FY2015, which shall be made available to the congressional appropriations committees and the President.\n\n(Sec. 103) Allows the DNI to authorize employment of civilian personnel in excess of the number authorized for FY2014 or FY2015 when necessary for the performance of important intelligence functions. Requires notification to the intelligence committees on the use of such authority.\n\nRequires the DNI to establish guidelines to govern the treatment under such authorized personnel levels of employment or assignment in: (1) a student or trainee program; (2) a reserve corps or as a reemployed annuitant; or (3) details, joint duty, or long term, full-time training.\n\n(Sec. 104) Authorizes appropriations for the Intelligence Community Management Account for FY2014 and FY2015, as well as for personnel positions for elements within such Account.\n\nTitle II: Central Intelligence Agency Retirement and Disability System - (Sec. 201) Authorizes appropriations for FY2014 and FY2015 for the Central Intelligence Agency Retirement and Disability Fund.\n\nTitle III: General Provisions - Subtitle A: General Matters - (Sec. 301) Permits appropriations authorized by this Act for salary, pay, retirement, and other benefits for federal employees to be increased by such additional or supplemental amounts as necessary for increases in such compensation or benefits authorized by law.\n\n(Sec. 302) Prohibits the authorization of appropriations by this Act from being deemed to constitute authority to conduct any intelligence activity not otherwise authorized by the Constitution or laws of the United States.\n\n(Sec. 303) Requires funds appropriated for the construction of the High Performance Computing Center 2 (as described in the table entitled Consolidated Cryptologic Program in the classified annex to accompany the Consolidated and Further Continuing Appropriations Act, 2013 [P.L. 113-6]) that exceed the amount specified in the classified annex accompanying the Intelligence Authorization Act for Fiscal Year 2013 to be specifically authorized by Congress for purposes of complying with restrictions on the use of appropriated funds under the National Security Act of 1947.\n\n(Sec. 304) Exempts from disclosure under the Freedom of Information Act the identities of employees of the intelligence community who submit complaints or information to the Inspector General of the Intelligence Community.\n\n(Sec. 305) Authorizes the DNI to establish functional managers of appropriate intelligence functions to act as the principal advisors to the DNI on their respective functions.\n\n(Sec. 306) Directs the DNI to report annually to Congress regarding each intelligence function for which such a functional manager has been established. Requires such reports to identify or describe: (1) the capabilities, programs, and activities of such function; (2) the investment and allocation of resources for such function; (3) the function's performance; (4) technical interoperability standards and operational overlap; (5) any efforts to integrate such function with other intelligence disciplines or to establish consistency in tradecraft and training; and (6) technology developments.\n\n(Sec. 307) Directs the chief information officer of each element of the intelligence community to conduct, and the Chief Information Officer of the Intelligence Community to compile and report to Congress every two years with respect to, inventories of all existing software licenses of each element. Requires such reports to assess the actions that could be carried out to achieve economies of scale and cost savings in software procurement and usage.\n\nDirects the DNI, after receiving recommendations from the Chief Information Officer, to issue guidelines for the intelligence community on software procurement and usage.\n\n(Sec. 308) Requires the President to establish a written plan to respond to the unauthorized public disclosure of each type of activity undertaken as part of a covert action.\n\n(Sec. 309) Directs the heads of the DNI, CIA, DIA, NSA, NRO, and NGA to ensure that there is a full financial audit of their respective entities each year and that each audit contains an unqualified opinion of the entity's financial statements. Requires the chief financial officer of each entity to provide an annual audit report to Congress.\n\n(Sec. 310) Requires certain employees of elements of the intelligence community and officers or employees of Congress with access to sensitive compartmented information to notify their employer within three business days after they commence any negotiation for future employment or compensation with: (1) any person acting on behalf or under the supervision of a foreign government designated by the DNI as a significant counterintelligence threat to the United States; or (2) any entity owned or controlled by a foreign government so designated.\n\n(Sec. 311) Amends the Public Interest Declassification Act of 2000 to extend through December 31, 2018, the authority of the Public Interest Declassification Board (advises the President, the Assistant to the President for National Security Affairs, the Office of Management and Budget [OMB], and other executive branch officials on the identification, collection, review for declassification, and release to Congress, interested agencies, and the public of declassified records and materials that are of archival value).\n\n(Sec. 312) Authorizes DHS to use specified National Intelligence Program funds (that are made available for necessary expenses for intelligence analysis and operations coordination activities) for official representation items in support of the Coast Guard Attache Program. (Sec. 313) Requires the DNI, within 120 days after the enactment of this Act, to: (1) complete a declassification review of documents collected in Abbattabad, Pakistan, during the mission that killed Osama bin Laden on May 1, 2011, (2) make publicly available any information that is declassified as a result of such review, and (3) report to Congress with a justification as to why any such information must remain classified. (Sec. 314) Directs the DNI to carry out the merger of the Foreign Counterintelligence Program into the General Defense Intelligence Program. (Sec. 315) Expands a grant program for historically black colleges and universities to include predominantly black institutions. Subtitle B: Reporting - (Sec. 321) Directs the DNI to report annually to Congress regarding violations of law or executive order by personnel of an element of the intelligence community. Requires such report, consistent with the need to preserve ongoing criminal investigations, to include any actions taken in response to such violations relating to intelligence activities that were: (1) determined by the director, head, or general counsel of any element of the intelligence community to have occurred; (2) referred to the DOJ for possible criminal prosecution; or (3) substantiated by the inspector general of any element of the intelligence community. (Sec. 322) Directs the DNI, CIA, and each element of the DOD intelligence community to provide to Congress copies of plans submitted to OMB pertaining to agency operations and orderly shutdown procedures in the absence of appropriations. (Sec. 323) Requires the DNI to report to Congress on the Syrian chemical weapons program and provide updates regarding: (1) chemical weapon stockpiles, quantities, locations, forms of storage and production, and research and development facilities in Syria; (2) a listing of key personnel associated with the program; (3) undeclared chemical weapons stockpiles, munitions, and facilities, as well as an assessment of how stockpiles, precursors, and delivery systems were obtained; (4) intelligence gaps; and (5) any denial and deception efforts on the part of Syria. (Sec. 324) Directs the DNI to establish procedures requiring cleared intelligence contractors to report to a designated element of the intelligence community when there is a successful penetration of a network or information system that contains or processes information created by or for an element of the intelligence community with respect to which such contractor is required to apply enhanced protection. Requires such procedures to provide for: (1) intelligence community personnel to, upon request, obtain access to equipment or information of the contractor as necessary for a forensic analysis; (2) the contractor to provide only such access as required to determine whether information created by or for an element of the intelligence community in connection with any intelligence community program was successfully exfiltrated from the network or information system; and (3) protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person other than the suspected perpetrator. Defines \"cleared intelligence contractor\" as a private entity granted clearance by the DNI or the head of an element of the intelligence community to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of an element of the intelligence community. Prohibits dissemination outside the intelligence community of information obtained or derived through such procedures that is not created by or for the intelligence community, except: (1) with approval of the contractor providing such information, (2) to Congress, or (3) to law enforcement agencies to investigate a reported penetration. (Sec. 325) Directs the DNI to report to Congress on the extent to which the intelligence community has implemented recommendations of the Inspector General on electronic waste disposal. Requires such report to assess the applicability of the intelligence community's electronic waste policies to commercial entities that contract with an element of the intelligence community. (Sec. 326) Requires the DNI to submit to the Secretary of Education and Congress a report describing anticipated hiring needs of the intelligence community in the fields of science, technology, engineering, and mathematics, including cybersecurity and computer literacy. (Sec. 327) Directs the Under Secretary of Homeland Security for Intelligence and Analysis to report to Congress regarding the security of domestic oil refineries and related rail transportation infrastructure. (Sec. 328) Repeals specified reporting requirements concerning: (1) the threat of attack on the United States using weapons of mass destruction, and (2) the Treaty on Conventional Armed Forces in Europe. Modifies reporting requirements to: (1) direct the DNI and the CIA to notify Congress each time they create an advisory committee (currently, such notice is provided in an annual report), (2) terminate in 2014 (currently, 2015) a report on intelligence community business system transformation, and (3) require privacy and civil liberties officers of specified agencies to submit reports at least semiannually (currently, quarterly). (Sec. 329) Requires the DNI to submit to Congress a report describing: (1) how to improve the declassification process across the intelligence community; and (2) what steps the intelligence community can take, or what legislation may be necessary, to enable the National Declassification Center to better accomplish its mission. (Sec. 330) Requires the DNI to assess the reliance of intelligence activities on contractors to support government activities. (Sec. 331) Directs the Under Secretary of Homeland Security for Intelligence and Analysis to submit to Congress an assessment of the efficacy of the memoranda of understanding signed between federal, state, local, tribal, and territorial agencies to facilitate intelligence-sharing within and separate from the Joint Terrorism Task Force. (Sec. 332) Requires the DNI to report to Congress regarding the threat posed by man-made electromagnetic pulse weapons to U.S. interests through 2025, including threats from foreign countries and foreign non-state actors. (Sec. 333) Directs the DNI to submit to Congress a comprehensive report on the U.S. counterterrorism strategy to disrupt, dismantle, and defeat al-Qaeda, affiliated groups, associated groups, and adherents. Requires such report to include assessments of: (1) the strengthening or weakening of al-Qaeda and such groups and adherents from January 1, 2010, to the present; (2) whether an individual can be a member of a DNI-defined al-Qaeda core if such individual is not located in Afghanistan or Pakistan; (3) the coordination, command, and control between core al-Qaeda and such groups and adherents; and (4) whether counterterrorism operations have had a sustained impact. Requires the DNI to define \"defeat of core al-Qaeda\" in such report. (Sec. 334) Directs the DNI to submit to Congress recommendations for retraining veterans and retired members of elements of the intelligence community in cybersecurity. Title IV: Matters Relating to Elements of the Intelligence Community - (Sec. 401) Amends the Central Intelligence Agency Act of 1949 to authorize the CIA Director to engage in fund raising for the benefit of nonprofit organizations that provide support to surviving family members of deceased CIA employees or for the welfare, education, or recreation of current CIA employees, former employees, or their family members. (Sec. 402) Amends the Inspector General Act of 1978 to require the President to appoint, with advice and consent of the Senate, the NSA Inspector General. (Currently, the NSA Inspector General is appointed by the NSA Director.) Establishes a General Counsel to the NSA Inspector General, to be appointed by the NSA Inspector General. Requires the General Counsel to prescribe professional rules of ethics and responsibilities for employees, officers, and contractors of the NSA Inspector General. Authorizes the NSA Inspector General, after providing the Attorney General with seven days' advance notice, to subpoena the attendance and testimony of former NSA employees or NSA contractors, former contractors, or former detailees. Directs the NSA Inspector General to provide Congress with an evaluation of any notice or statement of reasons it receives from the DOD Secretary regarding the DOD Secretary's exercise of authority in the interest of national security to prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation. Requires the NSA Inspector General to: (1) submit such evaluations to Congress within seven days after receiving such notice or statement, and (2) expand a semiannual report to include a description of the instances in which the DOD Secretary prohibited such an audit or investigation. Title V: Security Clearance Reform - (Sec. 501) Requires the DNI, subject to the direction of the President, to: (1) ensure that the background of each employee or officer and contractor of the intelligence community is monitored continuously to determine their eligibility for access to classified information; and (2) develop procedures to require sharing of potentially derogatory security information concerning an employee officer, contractor, or employee of a contractor of the intelligence community that may impact the eligibility of such individuals for a security clearance.\n\n(Sec. 502) Requires the DNI to: (1) ensure that any contractor to an element of the intelligence community with access to classified information develops and operates a security plan that is consistent with DNI standards for intelligence community networks, (2) conduct periodic assessments of each such security plan, and (3) ensure that the insider threat detection capabilities and policies of the intelligence community apply to facilities of contractors with access to a classified network.\n\n (Sec. 503) Requires the DNI to submit to Congress an analysis of the relative costs and benefits of improving the process for: (1) investigating persons who are proposed for access to classified information, and (2) adjudicating whether such persons satisfy the criteria for obtaining and retaining access to such information.\n\n(Sec. 504) Requires the DNI to report to Congress each year, through 2017, on the reciprocal treatment of security clearances, including: (1) the periods of time required by authorized adjudicative agencies for accepting background investigations and determinations completed by an authorized investigative entity or adjudicative agency; and (2) the total number of cases in which a background investigation or determination completed by an authorized investigative entity or adjudicative agency is, or is not, accepted by another agency.\n\n(Sec. 505) Directs the DNI to submit to Congress each year, through December 31, 2017, a strategic plan for updating the process for periodic reinvestigations consistent with a continuous evaluation program.\n\nTitle VI: Technical Amendments - Makes technical amendments to the Central Intelligence Agency Act of 1949, the National Security Act of 1947, and the Intelligence Authorization Act for Fiscal Year 2013."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Years 2014 and 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Years 2014 and 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Years 2014 and 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize appropriations for fiscal years 2014 and 2015 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:02:00-05:00"
+}

@@ -1,0 +1,40 @@
+<bill session="113" type="s" number="2800" updated="2014-12-06T07:43:06-05:00">
+  <state datetime="2014-09-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-11"/>
+  </status>
+  <introduced datetime="2014-09-11"/>
+  <titles>
+    <title type="short" as="introduced">Patient Centered Quality Care for Life Act</title>
+    <title type="official" as="introduced">A bill to create a patient-centered quality of care initiative for seriously ill patients through the establishment of a stakeholder strategic summit, quality of life education and awareness initiative, health care workforce training, an advisory committee, and palliative care focused research, and for other purposes.</title>
+  </titles>
+  <sponsor id="412326"/>
+  <cosponsors>
+    <cosponsor id="412545" joined="2014-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="1666"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Allied health services"/>
+    <term name="Computers and information technology"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+</bill>

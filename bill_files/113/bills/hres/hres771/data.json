@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres771-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-04", 
+  "number": "771", 
+  "official_title": "Recognizing the 100-year anniversary of Big Brothers Big Sisters Southeastern Pennsylvania.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Fattah, Chaka", 
+    "state": "PA", 
+    "thomas_id": "00371", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-04", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing the 100-year anniversary of Big Brothers Big Sisters Southeastern Pennsylvania.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T06:22:36-05:00"
+}

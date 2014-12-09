@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5344" updated="2014-12-06T07:07:32-05:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Responsible Body Armor Possession Act</title>
+    <title type="official" as="introduced">To prohibit the purchase, ownership, or possession of enhanced body armor by civilians, with exceptions.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400170" joined="2014-07-31"/>
+    <cosponsor id="412595" joined="2014-07-31"/>
+    <cosponsor id="400309" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-09-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,321 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-04-24", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-21", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-06-17T14:29:00-04:00", 
+      "references": [], 
+      "text": "Mr. Meadows moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-17T14:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5374-5375", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-17T14:29:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1707.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-17T14:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5374", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-06-17T14:33:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1707-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "in committee"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Enyart, William L.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "00478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schneider, Bradley S.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02124", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-21", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-06-17T14:33:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-04-24", 
+  "number": "1707", 
+  "official_title": "To designate the facility of the United States Postal Service located at 302 East Green Street in Champaign, Illinois, as the \"James R. Burgess Jr. Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s796-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s796-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "13", 
+    "name": "Davis, Rodney", 
+    "state": "IL", 
+    "thomas_id": "02126", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-06-17T14:33:00-04:00", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Illinois", 
+    "Postal service"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-04-24", 
+    "text": "Designates the facility of the United States Postal Service located at 302 East Green Street in Champaign, Illinois, as the \"James R. Burgess Jr. Post Office Building.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 302 East Green Street in Champaign, Illinois, as the \"James R. Burgess Jr. Post Office Building\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T06:36:55-05:00"
+}

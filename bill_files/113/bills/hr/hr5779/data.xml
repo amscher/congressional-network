@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5779" updated="2014-12-06T07:11:11-05:00">
+  <state datetime="2014-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-02"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a deduction for elementary and secondary private school tuition, and for other purposes.</title>
+  </titles>
+  <sponsor id="412547"/>
+  <cosponsors>
+    <cosponsor id="412252" joined="2014-12-02"/>
+    <cosponsor id="410396" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-02" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

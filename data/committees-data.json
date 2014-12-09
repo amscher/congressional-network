@@ -1,0 +1,1946 @@
+{
+  "HSVR09": {
+    "name": "HSVR09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Disability Assistance and Memorial Affairs"
+  },
+  "HSVR08": {
+    "name": "HSVR08",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight and Investigations"
+  },
+  "SSAS15": {
+    "name": "SSAS15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Readiness and Management Support"
+  },
+  "HSSY20": {
+    "name": "HSSY20",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy"
+  },
+  "SSAS13": {
+    "name": "SSAS13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "SeaPower"
+  },
+  "JSTX": {
+    "name": "JSTX",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Joint Committee on Taxation"
+  },
+  "JSLC": {
+    "name": "JSLC",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Joint Committee on the Library"
+  },
+  "SSAS16": {
+    "name": "SSAS16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Strategic Forces"
+  },
+  "HSVR03": {
+    "name": "HSVR03",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Health"
+  },
+  "JCSE": {
+    "name": "JCSE",
+    "numbills": 2,
+    "bill_success_rate": 0.0,
+    "bill_outcomm_rate": 1.0,
+    "btwnness_score": 3776.9395705704164,
+    "chair": "",
+    "thomas_id": "Commission on Security and Cooperation in Europe"
+  },
+  "HSAP15": {
+    "name": "HSAP15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Homeland Security"
+  },
+  "SSAP16": {
+    "name": "SSAP16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Commerce, Justice, Science, and Related Agencies"
+  },
+  "SSAP17": {
+    "name": "SSAP17",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Department of the Interior, Environment, and Related Agencies"
+  },
+  "SSHR11": {
+    "name": "SSHR11",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Employment and Workplace Safety"
+  },
+  "HSAP10": {
+    "name": "HSAP10",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy and Water Development, and Related Agencies"
+  },
+  "SSHR12": {
+    "name": "SSHR12",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Primary Health and Aging"
+  },
+  "SSAP18": {
+    "name": "SSAP18",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+  },
+  "HSAP18": {
+    "name": "HSAP18",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Military Construction, Veterans Affairs, and Related Agencies"
+  },
+  "HSRU02": {
+    "name": "HSRU02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Legislative and Budget Process"
+  },
+  "HSAG": {
+    "name": "HSAG",
+    "numbills": 429,
+    "bill_success_rate": 0.013986013986013986,
+    "bill_outcomm_rate": 0.11655011655011654,
+    "btwnness_score": 216.55789961314116,
+    "chair": "",
+    "thomas_id": "House Committee on Agriculture"
+  },
+  "HSBA09": {
+    "name": "HSBA09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight and Investigations"
+  },
+  "HSED14": {
+    "name": "HSED14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Early Childhood, Elementary, and Secondary Education"
+  },
+  "HSBA04": {
+    "name": "HSBA04",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Housing and Insurance"
+  },
+  "HSED10": {
+    "name": "HSED10",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Workforce Protections"
+  },
+  "HSED13": {
+    "name": "HSED13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Higher Education and Workforce Training"
+  },
+  "SSGA16": {
+    "name": "SSGA16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "the Efficiency and Effectiveness of Federal Programs and the Federal Workforce"
+  },
+  "HSGO28": {
+    "name": "HSGO28",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Economic Growth, Job Creation, and Regulatory Affairs"
+  },
+  "HSVR": {
+    "name": "HSVR",
+    "numbills": 483,
+    "bill_success_rate": 0.031055900621118012,
+    "bill_outcomm_rate": 0.11594202898550725,
+    "btwnness_score": 57.70867695470839,
+    "chair": "",
+    "thomas_id": "House Committee on Veterans' Affairs"
+  },
+  "HSAP": {
+    "name": "HSAP",
+    "numbills": 117,
+    "bill_success_rate": 0.07692307692307693,
+    "bill_outcomm_rate": 0.2564102564102564,
+    "btwnness_score": 185.75615224490625,
+    "chair": "",
+    "thomas_id": "House Committee on Appropriations"
+  },
+  "HSII": {
+    "name": "HSII",
+    "numbills": 1312,
+    "bill_success_rate": 0.06021341463414634,
+    "bill_outcomm_rate": 0.2538109756097561,
+    "btwnness_score": 81.60971426767004,
+    "chair": "",
+    "thomas_id": "House Committee on Natural Resources"
+  },
+  "HSAS": {
+    "name": "HSAS",
+    "numbills": 566,
+    "bill_success_rate": 0.03180212014134275,
+    "bill_outcomm_rate": 0.06713780918727916,
+    "btwnness_score": 481.4607923299275,
+    "chair": "",
+    "thomas_id": "House Committee on Armed Services"
+  },
+  "HSIF": {
+    "name": "HSIF",
+    "numbills": 1974,
+    "bill_success_rate": 0.015704154002026342,
+    "bill_outcomm_rate": 0.08713272543059777,
+    "btwnness_score": 94.80500120604543,
+    "chair": "",
+    "thomas_id": "House Committee on Energy and Commerce"
+  },
+  "HSGO25": {
+    "name": "HSGO25",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Federal Workforce, U.S. Postal Service, and the Census"
+  },
+  "HSGO24": {
+    "name": "HSGO24",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Government Operations"
+  },
+  "HSGO27": {
+    "name": "HSGO27",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy Policy, Health Care, and Entitlements"
+  },
+  "HSFA14": {
+    "name": "HSFA14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Europe, Eurasia, and Emerging Threats"
+  },
+  "SSEG01": {
+    "name": "SSEG01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy"
+  },
+  "SSEG03": {
+    "name": "SSEG03",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Public Lands, Forests, and Mining"
+  },
+  "SSEG04": {
+    "name": "SSEG04",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "National Parks"
+  },
+  "SSEG07": {
+    "name": "SSEG07",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Water and Power"
+  },
+  "HSAS06": {
+    "name": "HSAS06",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight and Investigations"
+  },
+  "HSAS03": {
+    "name": "HSAS03",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Readiness"
+  },
+  "HSAS02": {
+    "name": "HSAS02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Military Personnel"
+  },
+  "HSAP20": {
+    "name": "HSAP20",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Transportation, and Housing and Urban Development, and Related Agencies"
+  },
+  "SSAP02": {
+    "name": "SSAP02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Department of Defense"
+  },
+  "SSAP01": {
+    "name": "SSAP01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  },
+  "HSAP23": {
+    "name": "HSAP23",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Financial Services and General Government"
+  },
+  "HSAP24": {
+    "name": "HSAP24",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Legislative Branch"
+  },
+  "SSAP08": {
+    "name": "SSAP08",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Legislative Branch"
+  },
+  "HLIG": {
+    "name": "HLIG",
+    "numbills": 32,
+    "bill_success_rate": 0.1875,
+    "bill_outcomm_rate": 0.375,
+    "btwnness_score": 280.04831004543996,
+    "chair": "",
+    "thomas_id": "House Permanent Select Committee on Intelligence"
+  },
+  "SLET": {
+    "name": "SLET",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Senate Select Committee on Ethics"
+  },
+  "HSJU": {
+    "name": "HSJU",
+    "numbills": 1750,
+    "bill_success_rate": 0.03371428571428572,
+    "bill_outcomm_rate": 0.13885714285714285,
+    "btwnness_score": 183.53331048743556,
+    "chair": "",
+    "thomas_id": "House Committee on the Judiciary"
+  },
+  "HSBA15": {
+    "name": "HSBA15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Financial Institutions and Consumer Credit"
+  },
+  "HSBA16": {
+    "name": "HSBA16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Capital Markets and Government Sponsored Enterprises"
+  },
+  "HSFA": {
+    "name": "HSFA",
+    "numbills": 372,
+    "bill_success_rate": 0.056451612903225805,
+    "bill_outcomm_rate": 0.18010752688172044,
+    "btwnness_score": 259.8936225085673,
+    "chair": "",
+    "thomas_id": "House Committee on Foreign Affairs"
+  },
+  "HSJU01": {
+    "name": "HSJU01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Immigration and Border Security"
+  },
+  "HSFA07": {
+    "name": "HSFA07",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "The Western Hemisphere"
+  },
+  "HSFA05": {
+    "name": "HSFA05",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Asia and the Pacific"
+  },
+  "SSCM": {
+    "name": "SSCM",
+    "numbills": 211,
+    "bill_success_rate": 0.04265402843601896,
+    "bill_outcomm_rate": 0.26540284360189575,
+    "btwnness_score": 29.409616666706334,
+    "chair": "",
+    "thomas_id": "Senate Committee on Commerce, Science, and Transportation"
+  },
+  "HSPW": {
+    "name": "HSPW",
+    "numbills": 1118,
+    "bill_success_rate": 0.050983899821109124,
+    "bill_outcomm_rate": 0.13059033989266547,
+    "btwnness_score": 486.12027175095585,
+    "chair": "",
+    "thomas_id": "House Committee on Transportation and Infrastructure"
+  },
+  "SSFI11": {
+    "name": "SSFI11",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Taxation and IRS Oversight"
+  },
+  "SSFI12": {
+    "name": "SSFI12",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy, Natural Resources, and Infrastructure"
+  },
+  "HSWM": {
+    "name": "HSWM",
+    "numbills": 4213,
+    "bill_success_rate": 0.007832898172323759,
+    "bill_outcomm_rate": 0.02231189176358889,
+    "btwnness_score": 94.08774729311124,
+    "chair": "",
+    "thomas_id": "House Committee on Ways and Means"
+  },
+  "SSFI14": {
+    "name": "SSFI14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Fiscal Responsibility and Economic Growth"
+  },
+  "SSFR01": {
+    "name": "SSFR01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "European Affairs"
+  },
+  "SSGA": {
+    "name": "SSGA",
+    "numbills": 328,
+    "bill_success_rate": 0.3079268292682927,
+    "bill_outcomm_rate": 0.5030487804878049,
+    "btwnness_score": 20.98710100572147,
+    "chair": "",
+    "thomas_id": "Senate Committee on Homeland Security and Governmental Affairs"
+  },
+  "HSSM26": {
+    "name": "HSSM26",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Health and Technology"
+  },
+  "SSCM22": {
+    "name": "SSCM22",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oceans, Atmosphere, Fisheries, and Coast Guard"
+  },
+  "SSCM20": {
+    "name": "SSCM20",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Consumer Protection, Product Safety, and Insurance"
+  },
+  "SSCM26": {
+    "name": "SSCM26",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Communications, Technology, and the Internet"
+  },
+  "HSGO06": {
+    "name": "HSGO06",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "National Security"
+  },
+  "SSCM24": {
+    "name": "SSCM24",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Science and Space"
+  },
+  "SSCM25": {
+    "name": "SSCM25",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Surface Transportation and Merchant Marine Infrastructure, Safety, and Security"
+  },
+  "HSBA20": {
+    "name": "HSBA20",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Monetary Policy and Trade"
+  },
+  "HSAP19": {
+    "name": "HSAP19",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Commerce, Justice, Science, and Related Agencies"
+  },
+  "HSIF02": {
+    "name": "HSIF02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight and Investigations"
+  },
+  "HSIF03": {
+    "name": "HSIF03",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy and Power"
+  },
+  "SSAP19": {
+    "name": "SSAP19",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Military Construction and Veterans Affairs, and Related Agencies"
+  },
+  "SSAF16": {
+    "name": "SSAF16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Nutrition, Specialty Crops, Food and Agricultural Research"
+  },
+  "SSAF17": {
+    "name": "SSAF17",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Livestock, Dairy, Poultry, Marketing and Agriculture Security"
+  },
+  "HSFA13": {
+    "name": "HSFA13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "The Middle East and North Africa"
+  },
+  "SSAF15": {
+    "name": "SSAF15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Jobs, Rural Economic Growth and Energy Innovation"
+  },
+  "SSAF13": {
+    "name": "SSAF13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Commodities, Markets, Trade and Risk Management"
+  },
+  "HSFA16": {
+    "name": "HSFA16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Africa, Global Health, Global Human Rights, and International Organizations"
+  },
+  "HSFA18": {
+    "name": "HSFA18",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Terrorism, Nonproliferation, and Trade"
+  },
+  "SSFR": {
+    "name": "SSFR",
+    "numbills": 91,
+    "bill_success_rate": 0.12087912087912088,
+    "bill_outcomm_rate": 0.3076923076923077,
+    "btwnness_score": 29.461860006756822,
+    "chair": "",
+    "thomas_id": "Senate Committee on Foreign Relations"
+  },
+  "HSWM01": {
+    "name": "HSWM01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Social Security"
+  },
+  "HSWM03": {
+    "name": "HSWM03",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Human Resources"
+  },
+  "HSWM02": {
+    "name": "HSWM02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Health"
+  },
+  "HSWM05": {
+    "name": "HSWM05",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Select Revenue Measures"
+  },
+  "HSWM04": {
+    "name": "HSWM04",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Trade"
+  },
+  "HSWM06": {
+    "name": "HSWM06",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight"
+  },
+  "SSJU25": {
+    "name": "SSJU25",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight, Federal Rights and Agency Action"
+  },
+  "SSJU24": {
+    "name": "SSJU24",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Bankruptcy and the Courts"
+  },
+  "SSJU21": {
+    "name": "SSJU21",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "the Constitution, Civil Rights and Human Rights"
+  },
+  "SSFI02": {
+    "name": "SSFI02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Social Security, Pensions, and Family Policy"
+  },
+  "SSJU23": {
+    "name": "SSJU23",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Privacy, Technology and the Law"
+  },
+  "SSJU22": {
+    "name": "SSJU22",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Crime and Terrorism"
+  },
+  "HSIF17": {
+    "name": "HSIF17",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Commerce, Manufacturing, and Trade"
+  },
+  "HSII24": {
+    "name": "HSII24",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Indian and Alaska Native Affairs"
+  },
+  "HSIF14": {
+    "name": "HSIF14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Health"
+  },
+  "SSAS17": {
+    "name": "SSAS17",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Personnel"
+  },
+  "HSII22": {
+    "name": "HSII22",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Fisheries, Wildlife, Oceans and Insular Affairs"
+  },
+  "HSIF18": {
+    "name": "HSIF18",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Environment and the Economy"
+  },
+  "HSIF16": {
+    "name": "HSIF16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Communications and Technology"
+  },
+  "SSAP": {
+    "name": "SSAP",
+    "numbills": 40,
+    "bill_success_rate": 0.075,
+    "bill_outcomm_rate": 0.675,
+    "btwnness_score": 35.30194088882684,
+    "chair": "",
+    "thomas_id": "Senate Committee on Appropriations"
+  },
+  "SSAS": {
+    "name": "SSAS",
+    "numbills": 107,
+    "bill_success_rate": 0.028037383177570093,
+    "bill_outcomm_rate": 0.09345794392523364,
+    "btwnness_score": 34.683706085143875,
+    "chair": "",
+    "thomas_id": "Senate Committee on Armed Services"
+  },
+  "HSHM": {
+    "name": "HSHM",
+    "numbills": 271,
+    "bill_success_rate": 0.07011070110701106,
+    "bill_outcomm_rate": 0.30996309963099633,
+    "btwnness_score": 269.5948000094736,
+    "chair": "",
+    "thomas_id": "House Committee on Homeland Security"
+  },
+  "SSEV10": {
+    "name": "SSEV10",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Clean Air and Nuclear Safety"
+  },
+  "SSEV16": {
+    "name": "SSEV16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Green Jobs and the New Economy"
+  },
+  "SSVA": {
+    "name": "SSVA",
+    "numbills": 124,
+    "bill_success_rate": 0.04838709677419355,
+    "bill_outcomm_rate": 0.27419354838709675,
+    "btwnness_score": 25.9237765540554,
+    "chair": "",
+    "thomas_id": "Senate Committee on Veterans' Affairs"
+  },
+  "HSHA": {
+    "name": "HSHA",
+    "numbills": 230,
+    "bill_success_rate": 0.034782608695652174,
+    "bill_outcomm_rate": 0.12173913043478261,
+    "btwnness_score": 124.76617537427299,
+    "chair": "",
+    "thomas_id": "House Committee on House Administration"
+  },
+  "SSAF": {
+    "name": "SSAF",
+    "numbills": 80,
+    "bill_success_rate": 0.0375,
+    "bill_outcomm_rate": 0.1125,
+    "btwnness_score": 38.6389183791763,
+    "chair": "",
+    "thomas_id": "Senate Committee on Agriculture, Nutrition, and Forestry"
+  },
+  "HSPW02": {
+    "name": "HSPW02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Water Resources and Environment"
+  },
+  "SSFI10": {
+    "name": "SSFI10",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Health Care"
+  },
+  "HSPW07": {
+    "name": "HSPW07",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Coast Guard and Maritime Transportation"
+  },
+  "HSPW05": {
+    "name": "HSPW05",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Aviation"
+  },
+  "HSRU": {
+    "name": "HSRU",
+    "numbills": 136,
+    "bill_success_rate": 0.007352941176470588,
+    "bill_outcomm_rate": 0.125,
+    "btwnness_score": 162.01880935786193,
+    "chair": "",
+    "thomas_id": "House Committee on Rules"
+  },
+  "HSRU04": {
+    "name": "HSRU04",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Rules and Organization of the House"
+  },
+  "HSII10": {
+    "name": "HSII10",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Public Lands and Environmental Regulation"
+  },
+  "HSJU03": {
+    "name": "HSJU03",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Courts, Intellectual Property, and the Internet"
+  },
+  "HSII13": {
+    "name": "HSII13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Water and Power"
+  },
+  "HSJU05": {
+    "name": "HSJU05",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Regulatory Reform, Commercial, and Antitrust Law"
+  },
+  "HSJU08": {
+    "name": "HSJU08",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Crime, Terrorism, Homeland Security, and Investigations"
+  },
+  "SSGA01": {
+    "name": "SSGA01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Permanent Subcommittee on Investigations"
+  },
+  "SSAP23": {
+    "name": "SSAP23",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Financial Services and General Government"
+  },
+  "SSEV08": {
+    "name": "SSEV08",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Transportation and Infrastructure"
+  },
+  "HSED": {
+    "name": "HSED",
+    "numbills": 1030,
+    "bill_success_rate": 0.005825242718446602,
+    "bill_outcomm_rate": 0.02621359223300971,
+    "btwnness_score": 143.71061859293175,
+    "chair": "",
+    "thomas_id": "House Committee on Education and the Workforce"
+  },
+  "SSCM01": {
+    "name": "SSCM01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Aviation Operations, Safety, and Security"
+  },
+  "SSEV09": {
+    "name": "SSEV09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Superfund, Toxics and Environmental Health"
+  },
+  "HSAS26": {
+    "name": "HSAS26",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Intelligence, Emerging Threats and Capabilities"
+  },
+  "HSAS25": {
+    "name": "HSAS25",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Tactical Air and Land Forces"
+  },
+  "JSPR": {
+    "name": "JSPR",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Joint Committee on Printing"
+  },
+  "SSHR": {
+    "name": "SSHR",
+    "numbills": 399,
+    "bill_success_rate": 0.010025062656641603,
+    "bill_outcomm_rate": 0.06015037593984962,
+    "btwnness_score": 42.98619202381837,
+    "chair": "",
+    "thomas_id": "Senate Committee on Health, Education, Labor, and Pensions"
+  },
+  "SSHR09": {
+    "name": "SSHR09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Children and Families"
+  },
+  "HSAG16": {
+    "name": "HSAG16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "General Farm Commodities and Risk Management"
+  },
+  "HSAG14": {
+    "name": "HSAG14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Horticulture, Research, Biotechnology, and Foreign Agriculture"
+  },
+  "HSAS28": {
+    "name": "HSAS28",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Seapower and Projection Forces"
+  },
+  "HSPW13": {
+    "name": "HSPW13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Economic Development, Public Buildings, and Emergency Management"
+  },
+  "HSPW12": {
+    "name": "HSPW12",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Highways and Transit"
+  },
+  "HSHM05": {
+    "name": "HSHM05",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Counterterrorism and Intelligence"
+  },
+  "HSHM07": {
+    "name": "HSHM07",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Transportation Security"
+  },
+  "HSHM08": {
+    "name": "HSHM08",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Cybersecurity, Infrastructure Protection, and Security Technologies"
+  },
+  "HSHM09": {
+    "name": "HSHM09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight and Management Efficiency"
+  },
+  "HSSY": {
+    "name": "HSSY",
+    "numbills": 251,
+    "bill_success_rate": 0.02390438247011952,
+    "bill_outcomm_rate": 0.11553784860557768,
+    "btwnness_score": 143.06146936749118,
+    "chair": "",
+    "thomas_id": "House Committee on Science, Space, and Technology"
+  },
+  "SSJU": {
+    "name": "SSJU",
+    "numbills": 404,
+    "bill_success_rate": 0.0594059405940594,
+    "bill_outcomm_rate": 0.29455445544554454,
+    "btwnness_score": 36.15727920325893,
+    "chair": "",
+    "thomas_id": "Senate Committee on the Judiciary"
+  },
+  "SSBK12": {
+    "name": "SSBK12",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Economic Policy"
+  },
+  "HSJU10": {
+    "name": "HSJU10",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "The Constitution and Civil Justice"
+  },
+  "SSAS14": {
+    "name": "SSAS14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Airland"
+  },
+  "HSSM27": {
+    "name": "HSSM27",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Economic Growth, Tax and Capital Access"
+  },
+  "HSII06": {
+    "name": "HSII06",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy and Mineral Resources"
+  },
+  "HSSM25": {
+    "name": "HSSM25",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Agriculture, Energy and Trade"
+  },
+  "HSSM24": {
+    "name": "HSSM24",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Investigations, Oversight and Regulations"
+  },
+  "HSSM23": {
+    "name": "HSSM23",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Contracting and Workforce"
+  },
+  "HSSO": {
+    "name": "HSSO",
+    "numbills": 3,
+    "bill_success_rate": 0.0,
+    "bill_outcomm_rate": 0.0,
+    "btwnness_score": 171.88546930004026,
+    "chair": "",
+    "thomas_id": "House Committee on Ethics"
+  },
+  "SSGA15": {
+    "name": "SSGA15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Financial and Contracting Oversight"
+  },
+  "HSSM": {
+    "name": "HSSM",
+    "numbills": 81,
+    "bill_success_rate": 0.024691358024691357,
+    "bill_outcomm_rate": 0.2345679012345679,
+    "btwnness_score": 251.2411791517364,
+    "chair": "",
+    "thomas_id": "House Committee on Small Business"
+  },
+  "SSFR09": {
+    "name": "SSFR09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "African Affairs"
+  },
+  "SSFR06": {
+    "name": "SSFR06",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Western Hemisphere and Global Narcotics Affairs"
+  },
+  "SSFR07": {
+    "name": "SSFR07",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Near Eastern and South and Central Asian Affairs"
+  },
+  "HSBA": {
+    "name": "HSBA",
+    "numbills": 937,
+    "bill_success_rate": 0.04375667022411953,
+    "bill_outcomm_rate": 0.14194236926360726,
+    "btwnness_score": 115.15420115606169,
+    "chair": "",
+    "thomas_id": "House Committee on Financial Services"
+  },
+  "SPAG": {
+    "name": "SPAG",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Senate Special Committee on Aging"
+  },
+  "SSFR02": {
+    "name": "SSFR02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "East Asian and Pacific Affairs"
+  },
+  "SSAF14": {
+    "name": "SSAF14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Conservation, Forestry and Natural Resources"
+  },
+  "HSAS29": {
+    "name": "HSAS29",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Strategic Forces"
+  },
+  "HSBU": {
+    "name": "HSBU",
+    "numbills": 166,
+    "bill_success_rate": 0.13253012048192772,
+    "bill_outcomm_rate": 0.27710843373493976,
+    "btwnness_score": 838.3825997341587,
+    "chair": "",
+    "thomas_id": "House Committee on the Budget"
+  },
+  "HSAG15": {
+    "name": "HSAG15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Conservation, Energy, and Forestry"
+  },
+  "HSAG29": {
+    "name": "HSAG29",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Livestock, Rural Development, and Credit"
+  },
+  "SSRA": {
+    "name": "SSRA",
+    "numbills": 40,
+    "bill_success_rate": 0.1,
+    "bill_outcomm_rate": 0.225,
+    "btwnness_score": 33.39923188686071,
+    "chair": "",
+    "thomas_id": "Senate Committee on Rules and Administration"
+  },
+  "SSSB": {
+    "name": "SSSB",
+    "numbills": 40,
+    "bill_success_rate": 0.0,
+    "bill_outcomm_rate": 0.05,
+    "btwnness_score": 19.627058205672835,
+    "chair": "",
+    "thomas_id": "Senate Committee on Small Business and Entrepreneurship"
+  },
+  "HSHM12": {
+    "name": "HSHM12",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Emergency Preparedness, Response and Communications"
+  },
+  "HSHM11": {
+    "name": "HSHM11",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Border and Maritime Security"
+  },
+  "SSBK05": {
+    "name": "SSBK05",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "National Security and International Trade and Finance"
+  },
+  "SSBK04": {
+    "name": "SSBK04",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Securities, Insurance, and Investment"
+  },
+  "HLIG08": {
+    "name": "HLIG08",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Terrorism, Human Intelligence, Analysis, and Counterintelligence"
+  },
+  "HLIG09": {
+    "name": "HLIG09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight and Investigations"
+  },
+  "SSBK09": {
+    "name": "SSBK09",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Housing, Transportation, and Community Development"
+  },
+  "SSBK08": {
+    "name": "SSBK08",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Financial Institutions and Consumer Protection"
+  },
+  "HLIG05": {
+    "name": "HLIG05",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Technical and Tactical Intelligence"
+  },
+  "HSPW14": {
+    "name": "HSPW14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Railroads, Pipelines, and Hazardous Materials"
+  },
+  "JSEC": {
+    "name": "JSEC",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Joint Economic Committee"
+  },
+  "SSAS20": {
+    "name": "SSAS20",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Emerging Threats and Capabilities"
+  },
+  "SSBU": {
+    "name": "SSBU",
+    "numbills": 32,
+    "bill_success_rate": 0.0,
+    "bill_outcomm_rate": 0.15625,
+    "btwnness_score": 41.07993443555453,
+    "chair": "",
+    "thomas_id": "Senate Committee on the Budget"
+  },
+  "SSAP14": {
+    "name": "SSAP14",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Department of Homeland Security"
+  },
+  "SCNC": {
+    "name": "SCNC",
+    "numbills": 3,
+    "bill_success_rate": 0.0,
+    "bill_outcomm_rate": 1.0,
+    "btwnness_score": 17.520540423180492,
+    "chair": "",
+    "thomas_id": "United States Senate Caucus on International Narcotics Control"
+  },
+  "SSFR13": {
+    "name": "SSFR13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues"
+  },
+  "SSFR12": {
+    "name": "SSFR12",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps"
+  },
+  "SLIA": {
+    "name": "SLIA",
+    "numbills": 51,
+    "bill_success_rate": 0.13725490196078433,
+    "bill_outcomm_rate": 0.5490196078431373,
+    "btwnness_score": 23.52371134770355,
+    "chair": "",
+    "thomas_id": "Senate Committee on Indian Affairs"
+  },
+  "SSEV18": {
+    "name": "SSEV18",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight"
+  },
+  "SLIN": {
+    "name": "SLIN",
+    "numbills": 8,
+    "bill_success_rate": 0.125,
+    "bill_outcomm_rate": 0.75,
+    "btwnness_score": 35.56281859003595,
+    "chair": "",
+    "thomas_id": "Senate Select Committee on Intelligence"
+  },
+  "SSJU04": {
+    "name": "SSJU04",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Immigration, Refugees and Border Security"
+  },
+  "SSJU01": {
+    "name": "SSJU01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Antitrust, Competition Policy and Consumer Rights"
+  },
+  "HSGO": {
+    "name": "HSGO",
+    "numbills": 771,
+    "bill_success_rate": 0.10505836575875487,
+    "bill_outcomm_rate": 0.20103761348897536,
+    "btwnness_score": 234.5316514942636,
+    "chair": "",
+    "thomas_id": "House Committee on Oversight and Government Reform"
+  },
+  "SSBK": {
+    "name": "SSBK",
+    "numbills": 202,
+    "bill_success_rate": 0.039603960396039604,
+    "bill_outcomm_rate": 0.16831683168316833,
+    "btwnness_score": 31.701189654708713,
+    "chair": "",
+    "thomas_id": "Senate Committee on Banking, Housing, and Urban Affairs"
+  },
+  "SSGA17": {
+    "name": "SSGA17",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Emergency Management, Intergovernmental Relations, and the District of Columbia"
+  },
+  "SSFI": {
+    "name": "SSFI",
+    "numbills": 1368,
+    "bill_success_rate": 0.0007309941520467836,
+    "bill_outcomm_rate": 0.016812865497076022,
+    "btwnness_score": 35.420909825966824,
+    "chair": "",
+    "thomas_id": "Senate Committee on Finance"
+  },
+  "HSVR10": {
+    "name": "HSVR10",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Economic Opportunity"
+  },
+  "HSAP06": {
+    "name": "HSAP06",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Interior, Environment, and Related Agencies"
+  },
+  "HSAP07": {
+    "name": "HSAP07",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Labor, Health and Human Services, Education, and Related Agencies"
+  },
+  "HSAP04": {
+    "name": "HSAP04",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "State, Foreign Operations, and Related Programs"
+  },
+  "HSAP02": {
+    "name": "HSAP02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Defense"
+  },
+  "HSAP01": {
+    "name": "HSAP01",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+  },
+  "SSCM27": {
+    "name": "SSCM27",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Tourism, Competitiveness, and Innovation"
+  },
+  "HSAG22": {
+    "name": "HSAG22",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Department Operations, Oversight, and Nutrition"
+  },
+  "SSEV": {
+    "name": "SSEV",
+    "numbills": 230,
+    "bill_success_rate": 0.0391304347826087,
+    "bill_outcomm_rate": 0.2826086956521739,
+    "btwnness_score": 30.584182136195224,
+    "chair": "",
+    "thomas_id": "Senate Committee on Environment and Public Works"
+  },
+  "HSSY16": {
+    "name": "HSSY16",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Space"
+  },
+  "HSSY15": {
+    "name": "HSSY15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Research and Technology"
+  },
+  "SSAP20": {
+    "name": "SSAP20",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "State, Foreign Operations, and Related Programs"
+  },
+  "HSSY18": {
+    "name": "HSSY18",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Environment"
+  },
+  "SSAP22": {
+    "name": "SSAP22",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Energy and Water Development"
+  },
+  "HSED02": {
+    "name": "HSED02",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Health, Employment, Labor, and Pensions"
+  },
+  "SSAP24": {
+    "name": "SSAP24",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Transportation and Housing and Urban Development, and Related Agencies"
+  },
+  "SSEG": {
+    "name": "SSEG",
+    "numbills": 461,
+    "bill_success_rate": 0.05639913232104121,
+    "bill_outcomm_rate": 0.3383947939262473,
+    "btwnness_score": 23.776972919453293,
+    "chair": "",
+    "thomas_id": "Senate Committee on Energy and Natural Resources"
+  },
+  "SSFI13": {
+    "name": "SSFI13",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "International Trade, Customs, and Global Competitiveness"
+  },
+  "SSEV15": {
+    "name": "SSEV15",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Water and Wildlife"
+  },
+  "HSSY21": {
+    "name": "HSSY21",
+    "numbills": 0,
+    "bill_success_rate": 0,
+    "bill_outcomm_rate": 0,
+    "btwnness_score": 0,
+    "chair": "",
+    "thomas_id": "Oversight"
+  }
+}

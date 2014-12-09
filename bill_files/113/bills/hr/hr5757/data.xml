@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5757" updated="2014-12-06T07:11:00-05:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Honoring Workers' Rights Act</title>
+    <title type="official" as="introduced">To redesignate the Frances Perkins Department of Labor building located at 200 Constitution Ave., NW in Washington, DC as the "Reed Larson Department of Labor Building".</title>
+  </titles>
+  <sponsor id="410396"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of Labor"/>
+    <term name="District of Columbia"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+</bill>

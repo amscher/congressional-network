@@ -1,0 +1,192 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5791-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Cotton, Tom", 
+      "sponsored_at": "2014-12-04", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Graves, Tom", 
+      "sponsored_at": "2014-12-04", 
+      "state": "GA", 
+      "thomas_id": "01979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Perry, Scott", 
+      "sponsored_at": "2014-12-04", 
+      "state": "PA", 
+      "thomas_id": "02157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2014-12-04", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2014-12-04", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-04", 
+  "number": "5791", 
+  "official_title": "To increase transparency and provide for judicial review of administrative fines, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "FINER Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Mullin, Markwayne", 
+    "state": "OK", 
+    "thomas_id": "02156", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-04", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FINER Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fines in Need of Extensive Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To increase transparency and provide for judicial review of administrative fines, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-08T12:48:49-05:00"
+}

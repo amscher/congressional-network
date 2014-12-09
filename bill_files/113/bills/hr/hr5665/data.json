@@ -1,0 +1,159 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5665-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2014-11-13", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5665", 
+  "official_title": "To promote transparent, collaborative, and cost-effective national ambient air quality standards for ozone under the Clean Air Act and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Clear the Air with Congress Act of 2014", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Weber, Randy K. Sr.", 
+    "state": "TX", 
+    "thomas_id": "02161", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Congressional oversight", 
+    "Economic performance and conditions", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Government studies and investigations"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clear the Air with Congress Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote transparent, collaborative, and cost-effective national ambient air quality standards for ozone under the Clean Air Act and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:10:14-05:00"
+}

@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee Indian and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5039-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-09", 
+  "number": "5039", 
+  "official_title": "To make technical amendments to Public Law 93-531, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kirkpatrick, Ann", 
+    "state": "AZ", 
+    "thomas_id": "01907", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-09", 
+  "subjects": [
+    "Arizona", 
+    "Congressional oversight", 
+    "Government trust funds", 
+    "Indian lands and resources rights", 
+    "Indian social and development programs", 
+    "Land transfers", 
+    "Native Americans", 
+    "New Mexico"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make technical amendments to Public Law 93-531, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:04:59-05:00"
+}

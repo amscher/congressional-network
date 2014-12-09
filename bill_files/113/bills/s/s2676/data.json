@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-29", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2676-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-07-29", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-07-29", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "sponsored_at": "2014-07-29", 
+      "state": "VA", 
+      "thomas_id": "02176", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2014-07-29", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2014-07-29", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-07-29", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-07-29", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-29", 
+  "number": "2676", 
+  "official_title": "A bill to establish a grant program to encourage States to adopt certain policies and procedures relating to the transfer and possession of firearms.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Domestic Violence Gun Homicide Prevention Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Blumenthal, Richard", 
+    "state": "CT", 
+    "thomas_id": "02076", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-29", 
+  "subjects": [
+    "Child safety and welfare", 
+    "Crime and law enforcement", 
+    "Crime victims", 
+    "Domestic violence and child abuse", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "Sex offenses", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Domestic Violence Gun Homicide Prevention Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a grant program to encourage States to adopt certain policies and procedures relating to the transfer and possession of firearms.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:42:02-05:00"
+}

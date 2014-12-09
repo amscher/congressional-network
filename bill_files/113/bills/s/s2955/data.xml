@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="2955" updated="2014-12-06T07:44:25-05:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to revise the Inland Waterways Trust Fund financing rate.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2014-11-20"/>
+    <cosponsor id="412378" joined="2014-11-20"/>
+    <cosponsor id="300051" joined="2014-11-20"/>
+    <cosponsor id="412242" joined="2014-11-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government trust funds"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Motor fuels"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+</bill>

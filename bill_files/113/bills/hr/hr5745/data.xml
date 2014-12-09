@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="5745" updated="2014-12-06T07:10:54-05:00">
+  <state datetime="2014-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-19"/>
+  </status>
+  <introduced datetime="2014-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Recognizing Officers and Enlisted Men of the Korean Constabulary Act of 2014</title>
+    <title type="official" as="introduced">To direct certain actions of the United States Government with respect to recognizing the service and sacrifice of veterans of the Korean Constabulary, and for other purposes.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-11-19" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-12-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Congressional tributes"/>
+    <term name="South Korea"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+</bill>

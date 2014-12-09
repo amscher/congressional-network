@@ -1,0 +1,93 @@
+<bill session="113" type="h" number="2952" updated="2014-12-06T06:47:24-05:00">
+  <state datetime="2014-07-28T17:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-28T17:29:00-04:00"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">CIRDA Act of 2013</title>
+    <title type="short" as="introduced">Critical Infrastructure Research and Development Advancement Act of 2013</title>
+    <title type="short" as="reported to house">CIRDA Act of 2013</title>
+    <title type="short" as="reported to house">Critical Infrastructure Research and Development Advancement Act of 2013</title>
+    <title type="short" as="passed house">CIRDA Act of 2014</title>
+    <title type="short" as="passed house">Critical Infrastructure Research and Development Advancement Act of 2014</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to make certain improvements in the laws relating to the advancement of security technologies for critical infrastructure protection, and for other purposes.</title>
+  </titles>
+  <sponsor id="412466"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2013-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-08-09">
+      <text>Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-10-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-01-09T19:34:00-05:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-324.</text>
+    </action>
+    <calendar datetime="2014-01-09T19:34:00-05:00" calendar="Union" number="241">
+      <text>Placed on the Union Calendar, Calendar No. 241.</text>
+    </calendar>
+    <action datetime="2014-07-28T17:17:00-04:00">
+      <text>Mr. Meehan moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-28T17:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6922-6925" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T17:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2952.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T17:29:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6922-6923" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T17:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Government information and archives"/>
+    <term name="Homeland security"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Technology assessment"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2014--Passed House amended.
+Critical Infrastructure Research and Development Advancement Act of 2014 or the CIRDA Act of 2014 - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security, acting through the Under Secretary for Science and Technology, to transmit to Congress: (1) a strategic plan to guide the overall direction of federal physical security and cybersecurity technology research and development efforts for protecting critical infrastructure, including against all threats; (2) a report on the utilization of public-private research and development consortiums by the Department of Homeland Security (DHS) for accelerating technology development for critical infrastructure protection; and (3) updates every two years.
+
+Requires such plan to include: (1) an identification of critical infrastructure security risks and any associated security technology gaps that are developed following performance of a risk/gap analysis; (2) a set of critical infrastructure security technology needs that is prioritized based on risk and gaps identified; (3) an identification of laboratories, facilities, modeling, and simulation capabilities that will be required to support the research, development, demonstration, testing, evaluation, and acquisition of such security technologies; (4) an identification of current and planned programmatic initiatives for fostering the rapid advancement and deployment of security technologies for critical infrastructure protection; and (5) a description of progress made with respect to each critical infrastructure security risk, associated security technology gap, and critical infrastructure technology need identified in the preceding strategic plan transmitted.
+
+Requires such report to: (1) focus on aspects of critical infrastructure protection that are predominately operated by the private sector and that would most benefit from rapid security technology advancement; and (2) include a summary of the progress and accomplishments of on-going consortiums for critical infrastructure security technologies, a prioritized list of technology development focus areas that would most benefit from a public-private research and development consortium, and a proposal for implementing an expanded research and development consortium program.
+
+Directs the Under Secretary for Science and Technology, in coordination with the Under Secretary for the National Protection and Programs Directorate, to designate a technology clearinghouse for rapidly sharing proven technology solutions for protecting critical infrastructure. Requires all technologies shared through the clearinghouse to include a set of performance and readiness metrics to assist end-users in deploying effective and timely solutions relevant for their critical infrastructures. Requires: (1) DHS's Privacy Officer to annually review the clearinghouse process to evaluate its consistency with fair information practice principles; and (2) the Comptroller General (GAO), within two years after the enactment of this Act, to conduct an independent evaluation of the effectiveness of and report to Congress on such clearinghouse and the centralized federal clearinghouse for information relating to technologies established under such Act.</summary>
+</bill>

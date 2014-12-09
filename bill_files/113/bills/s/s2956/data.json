@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-20", 
+      "references": [
+        {
+          "reference": "CR S6207-6208", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6208-6209", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2956-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IN", 
+      "thomas_id": "01850", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-20", 
+  "number": "2956", 
+  "official_title": "A bill to prevent caller ID spoofing, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Phone Scam Prevention Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-20", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Consumer affairs", 
+    "Federal Communications Commission (FCC)", 
+    "Fraud offenses and financial crimes", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Phone Scam Prevention Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prevent caller ID spoofing, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:26-05:00"
+}

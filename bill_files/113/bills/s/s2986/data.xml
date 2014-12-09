@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="2986" updated="2014-12-06T07:44:41-05:00">
+  <state datetime="2014-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of the Interior to assemble a team of technical, policy, and financial experts to address the energy needs of the insular areas of the United States and the Freely Associated States through the development of energy action plans aimed at promoting access to affordable, reliable energy, including increasing use of indigenous clean-energy resources, and for other purposes.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

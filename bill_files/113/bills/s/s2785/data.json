@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-10", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2785-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2014-09-10", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-10", 
+  "number": "2785", 
+  "official_title": "A bill to direct the Administrator of the Environmental Protection Agency to publish a health advisory and submit reports with respect to microcystins in drinking water.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5439-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Safe and Secure Drinking Water Protection Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental health", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Government information and archives", 
+    "Hazardous wastes and toxic substances", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe and Secure Drinking Water Protection Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Administrator of the Environmental Protection Agency to publish a health advisory and submit reports with respect to microcystins in drinking water.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:42:58-05:00"
+}

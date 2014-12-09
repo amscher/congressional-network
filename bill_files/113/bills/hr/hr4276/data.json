@@ -1,0 +1,272 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-18", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-09-15T19:06:00-04:00", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-598.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-15T19:06:00-04:00", 
+      "calendar": "Union", 
+      "number": "445", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 445.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-09-16T19:34:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lamborn moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7585-7587", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:34:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4276.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7585-7586", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:43:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4276-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2014-07-23", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Enyart, William L.", 
+      "sponsored_at": "2014-07-14", 
+      "state": "IL", 
+      "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David", 
+      "sponsored_at": "2014-07-23", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "McCarthy, Kevin", 
+      "sponsored_at": "2014-03-18", 
+      "state": "CA", 
+      "thomas_id": "01833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2014-09-15", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2014-07-24", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-09-16T19:43:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-18", 
+  "number": "4276", 
+  "official_title": "To extend and modify a pilot program on assisted living services for veterans with traumatic brain injury.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Traumatic Brain Injury Care Improvement Act of 2014", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Cassidy, Bill", 
+    "state": "LA", 
+    "thomas_id": "01925", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-09-16T19:43:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Blood and blood diseases", 
+    "Congressional oversight", 
+    "Disability and paralysis", 
+    "Drug, alcohol, tobacco use", 
+    "Emergency medical services and trauma care", 
+    "HIV/AIDS", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Housing for the elderly and disabled", 
+    "Neurological disorders", 
+    "Right of privacy", 
+    "Veterans' loans, housing, homeless programs", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-09-16", 
+    "text": "Veterans Traumatic Brain Injury Care Improvement Act of 2014 - Amends the National Defense Authorization Act for Fiscal Year 2008 to alter the reporting requirements under the pilot program to assess the effectiveness of providing assistance to eligible veterans with traumatic brain injury to enhance their rehabilitation, quality of life, and community integration.\n\nDirects the Secretary of Veterans Affairs (VA) to submit reports to the congressional veterans committees on the pilot program for each quarter occurring between January 1, 2015, and September 30, 2017. Requires each quarterly report to include for the preceding quarter:\n\n the number of individuals who participated in the pilot program, the number of individuals who successfully completed the program, the degree to which pilot program participants and their family members were satisfied with the program, and the interim findings and conclusions of the Secretary regarding the success of the program and recommendations for improving it. Requires the Secretary to include in the report the Secretary submits to the congressional veterans committees after the completion of the pilot program:\n\n an evaluation of the pilot program in light of the VA's independent living programs, including an assessment of whether\u00a0 the pilot program should be incorporated into such independent living programs; and recommendations for improving the pilot program. Replaces references to \"assisted living\" with the term \"community-based brain injury residential rehabilitative care,\" including rehabilitation services within the meaning of such care.\n\nRequires this Act and its amendments to be carried out using funds already available for such purposes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Traumatic Brain Injury Care Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Veterans Traumatic Brain Injury Care Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Veterans Traumatic Brain Injury Care Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend and modify a pilot program on assisted living services for veterans with traumatic brain injury.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T06:58:33-05:00"
+}

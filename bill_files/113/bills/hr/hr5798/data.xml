@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5798" updated="2014-12-08T12:48:49-05:00">
+  <state datetime="2014-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="short" as="introduced">Stability for Service Members Act</title>
+    <title type="official" as="introduced">To provide for a one-year extension of the extended period of protections for members of uniformed services relating to mortgages, mortgage foreclosure, and eviction under the Servicemembers Civil Relief Act.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors>
+    <cosponsor id="412584" joined="2014-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1741-1742"/>
+    </action>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

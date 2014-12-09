@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-19", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6154-6156", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported with amendments favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2946-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Corker, Bob", 
+      "sponsored_at": "2014-11-19", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2014-11-19", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-19", 
+  "number": "2946", 
+  "official_title": "A bill to provide improved water, sanitation, and hygiene programs for high priority developing countries, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Senator Paul Simon Water for the World Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-12-04", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of State", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Elementary and secondary education", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Foreign aid and international relief", 
+    "International affairs", 
+    "Solid waste and recycling", 
+    "Water quality", 
+    "Water use and supply", 
+    "Watersheds", 
+    "Women's education", 
+    "Women's health", 
+    "World health"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Senator Paul Simon Water for the World Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide improved water, sanitation, and hygiene programs for high priority developing countries, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:21-05:00"
+}

@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5788" updated="2014-12-06T07:11:15-05:00">
+  <state datetime="2014-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-03"/>
+  </status>
+  <introduced datetime="2014-12-03"/>
+  <titles>
+    <title type="official" as="introduced">To designate the Junction City Community-Based Outpatient Clinic located at 715 Southwind Drive, Junction City, Kansas, as the Lieutenant General Richard J. Seitz Community-Based Outpatient Clinic.</title>
+  </titles>
+  <sponsor id="412429"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-03" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

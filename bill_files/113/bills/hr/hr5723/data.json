@@ -1,0 +1,81 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-17", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5723-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-17", 
+  "number": "5723", 
+  "official_title": "To amend title XIX of the Social Security Act to extend the application of the Medicare payment rate floor to primary care services furnished under Medicaid and to apply the rate floor to additional providers of primary care services.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ensuring Access to Primary Care for Women & Children Act", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Castor, Kathy", 
+    "state": "FL", 
+    "thomas_id": "01839", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-17", 
+  "subjects": [
+    "Child health", 
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health personnel", 
+    "Health promotion and preventive care", 
+    "Hospital care", 
+    "Medicaid", 
+    "Medicare", 
+    "Rural conditions and development", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ensuring Access to Primary Care for Women & Children Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to extend the application of the Medicare payment rate floor to primary care services furnished under Medicaid and to apply the rate floor to additional providers of primary care services.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:10:43-05:00"
+}
