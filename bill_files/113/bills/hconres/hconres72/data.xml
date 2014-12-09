@@ -1,4 +1,4 @@
-<bill session="113" type="hc" number="72" updated="2014-11-08T07:12:04-05:00">
+<bill session="113" type="hc" number="72" updated="2014-12-06T07:13:03-05:00">
   <state datetime="2013-12-12T18:39:00-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2013-12-12T18:39:00-05:00"/>
@@ -11,11 +11,11 @@
   <cosponsors/>
   <actions>
     <action datetime="2013-12-12T18:39:00-05:00">
-      <text>Mr. Ryan (WI) asked unanimous consent to consider as introduced.</text>
-    </action>
-    <action datetime="2013-12-12T18:39:00-05:00">
       <text>Considered by unanimous consent.</text>
       <reference ref="CR H8086" label="consideration"/>
+    </action>
+    <action datetime="2013-12-12T18:39:00-05:00">
+      <text>Mr. Ryan (WI) asked unanimous consent to consider as introduced.</text>
     </action>
     <vote how="without objection" type="vote" datetime="2013-12-12T18:39:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On agreeing to the resolution Agreed to without objection.</text>

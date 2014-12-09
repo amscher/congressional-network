@@ -95,7 +95,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "Prohibits the Secretary of Agriculture (USDA) or the Secretary of the Interior from implementing or limiting any modification to a public or private land-related policy or subsurface mineral right-related policy or practice that is in effect on enactment of this Act relating to the listing of the lesser prairie chicken as a threatened species or endangered species under the Endangered Species Act of 1973."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -104,5 +108,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:16-05:00"
+  "updated_at": "2014-12-06T07:41:36-05:00"
 }

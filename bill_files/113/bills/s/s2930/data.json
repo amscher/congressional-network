@@ -1,0 +1,188 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-17", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2930-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-11-19", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heller, Dean", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NV", 
+      "thomas_id": "01863", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "sponsored_at": "2014-11-17", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2014-11-19", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "sponsored_at": "2014-11-17", 
+      "state": "AK", 
+      "thomas_id": "01694", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-17", 
+  "number": "2930", 
+  "official_title": "A bill to direct the Secretary of Defense and the Secretary of Veterans Affairs to provide for the conduct of an evaluation of mental health care and suicide prevention programs of the Department of Defense and the Department of Veterans Affairs, to require a pilot program on loan repayment for psychiatrists who agree to serve in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Clay Hunt SAV Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-17", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Veterans Affairs", 
+    "Drug therapy", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health personnel", 
+    "Health promotion and preventive care", 
+    "Higher education", 
+    "Home and outpatient care", 
+    "Medical education", 
+    "Mental health", 
+    "Military medicine", 
+    "Military personnel and dependents", 
+    "National Guard and reserves", 
+    "Neurological disorders", 
+    "Social work, volunteer service, charitable organizations", 
+    "Student aid and college costs", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clay Hunt SAV Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clay Hunt Suicide Prevention for American Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Secretary of Defense and the Secretary of Veterans Affairs to provide for the conduct of an evaluation of mental health care and suicide prevention programs of the Department of Defense and the Department of Veterans Affairs, to require a pilot program on loan repayment for psychiatrists who agree to serve in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:13-05:00"
+}

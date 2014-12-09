@@ -133,6 +133,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Heck, Joseph J.", 
       "sponsored_at": "2014-04-02", 
@@ -313,6 +322,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Roskam, Peter J.", 
       "sponsored_at": "2014-09-10", 
@@ -410,6 +428,15 @@
       "thomas_id": "02105", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -457,5 +484,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:50-05:00"
+  "updated_at": "2014-12-06T06:51:57-05:00"
 }

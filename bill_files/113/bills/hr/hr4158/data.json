@@ -967,7 +967,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-05-29", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -1079,6 +1079,15 @@
       "sponsored_at": "2014-03-06", 
       "state": "MI", 
       "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "sponsored_at": "2014-12-02", 
+      "state": "IN", 
+      "thomas_id": "02128", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1222,5 +1231,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:27-05:00"
+  "updated_at": "2014-12-06T06:57:34-05:00"
 }

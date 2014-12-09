@@ -75,7 +75,11 @@
     "Veterans' education, employment, rehabilitation"
   ], 
   "subjects_top_term": "Armed forces and national security", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-19", 
+    "text": "Guard and Reserve Academic Protection Act - Requires the Secretary of Veterans Affairs (VA) to ensure that institutions of higher learning provide members of the National Guard or Armed Forces Reserves who are receiving educational assistance from the VA or the military with a reasonable opportunity to complete educational assignments, tests, and other requirements that occur while they are performing: (1) inactive duty training, or (2) active duty training for less than 30 days."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -90,5 +94,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:21-05:00"
+  "updated_at": "2014-12-06T07:10:19-05:00"
 }

@@ -108,6 +108,7 @@
   "status": "REFERRED", 
   "status_at": "2013-03-15", 
   "subjects": [
+    "Charitable contributions", 
     "Income tax exclusion", 
     "Motor vehicles", 
     "Social work, volunteer service, charitable organizations", 
@@ -135,5 +136,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:38-05:00"
+  "updated_at": "2014-12-06T06:32:44-05:00"
 }

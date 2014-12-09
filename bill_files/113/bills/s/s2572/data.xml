@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2572" updated="2014-11-08T07:39:51-05:00">
+<bill session="113" type="s" number="2572" updated="2014-12-06T07:41:10-05:00">
   <state datetime="2014-07-09">REFERRED</state>
   <status>
     <introduced datetime="2014-07-09"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">A bill to ban the use of bisphenol A in food containers, and for other purposes.</title>
   </titles>
   <sponsor id="400253"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2014-11-18"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-07-09" state="REFERRED">
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>

@@ -9,6 +9,20 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Education and the Workforce.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +36,24 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
     }
   ], 
   "congress": "113", 
@@ -115,5 +147,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:08-05:00"
+  "updated_at": "2014-12-06T07:03:13-05:00"
 }

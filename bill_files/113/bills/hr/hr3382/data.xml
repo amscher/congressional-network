@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3382" updated="2014-11-08T06:50:53-05:00">
+<bill session="113" type="h" number="3382" updated="2014-12-06T06:51:00-05:00">
   <state datetime="2013-10-30">REFERRED</state>
   <status>
     <introduced datetime="2013-10-30"/>
@@ -23,6 +23,7 @@
     <cosponsor id="412600" joined="2014-06-24"/>
     <cosponsor id="412236" joined="2013-10-30"/>
     <cosponsor id="400080" joined="2013-10-30"/>
+    <cosponsor id="400090" joined="2014-11-18"/>
     <cosponsor id="412536" joined="2013-10-30"/>
     <cosponsor id="400100" joined="2014-07-18"/>
     <cosponsor id="412505" joined="2014-02-03"/>
@@ -39,11 +40,13 @@
     <cosponsor id="412566" joined="2014-06-12"/>
     <cosponsor id="412557" joined="2014-06-23"/>
     <cosponsor id="400232" joined="2014-05-19"/>
+    <cosponsor id="412521" joined="2014-11-18"/>
     <cosponsor id="412294" joined="2014-04-03"/>
     <cosponsor id="412503" joined="2013-12-03"/>
     <cosponsor id="400654" joined="2014-04-28"/>
     <cosponsor id="400259" joined="2014-07-31"/>
     <cosponsor id="400263" joined="2014-02-26"/>
+    <cosponsor id="412560" joined="2014-11-18"/>
     <cosponsor id="412474" joined="2014-04-28"/>
     <cosponsor id="400295" joined="2014-06-09"/>
     <cosponsor id="412575" joined="2014-01-08"/>
@@ -101,7 +104,7 @@
   </subjects>
   <amendments/>
   <summary>10/30/2013--Introduced.
-Smarter Sentencing Act of 2013 - Amends the federal criminal code to direct the court to impose a sentence for specified controlled substance offenses without regard to any statutory minimum sentence if the court finds that the criminal history category for the defendant is not higher than category two (under current law, that the defendant does not have more than one criminal history point).
+Smarter Sentencing Act of 2013 - Amends the federal criminal code to direct the court to impose a sentence for specified controlled substance offenses without regard to any statutory minimum sentence if the court finds that the criminal history category for the defendant is not higher than category two. (Currently, the court may disregard the statutory minimum if the defendant does not have more than one criminal history point.)
 
 Authorizes a court that imposed a sentence for a crack cocaine possession or trafficking offense committed before August 3, 2010, on motion of the defendant, the Director of the Bureau of Prisons, the attorney for the government, or the court, to impose a reduced sentence as if provisions of the Fair Sentencing Act of 2010 were in effect at the time such offense was committed.
 

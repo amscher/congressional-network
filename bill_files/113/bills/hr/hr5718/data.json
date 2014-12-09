@@ -1,0 +1,78 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-14", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5718-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-14", 
+  "number": "5718", 
+  "official_title": "To study the effect of the Earth's magnetic field on the weather.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stockman Effect Act", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Stockman, Steve", 
+    "state": "TX", 
+    "thomas_id": "01114", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-14", 
+  "subjects": [
+    "Atmospheric science and weather", 
+    "Earth sciences", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-11-14", 
+    "text": "Stockman Effect Act - Requires the Director of the National Science Foundation (NSF) to study the impact that a shift in the Earth's magnetic field could have on the weather."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stockman Effect Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To study the effect of the Earth's magnetic field on the weather.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:10:40-05:00"
+}

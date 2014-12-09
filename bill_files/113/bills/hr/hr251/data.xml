@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="251" updated="2014-11-08T06:24:35-05:00">
+<bill session="113" type="h" number="251" updated="2014-12-06T06:24:42-05:00">
   <state datetime="2013-07-18">ENACTED:SIGNED</state>
   <status>
     <unknown datetime="2013-07-18"/>
@@ -37,11 +37,11 @@
       <text>Placed on the Union Calendar, Calendar No. 054.</text>
     </calendar>
     <action datetime="2013-06-11T17:06:00-04:00">
-      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
-    </action>
-    <action datetime="2013-06-11T17:06:00-04:00">
       <text>Considered under suspension of the rules.</text>
       <reference ref="CR H3264-3265" label="consideration"/>
+    </action>
+    <action datetime="2013-06-11T17:06:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
     </action>
     <action datetime="2013-06-11T17:06:00-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 251.</text>

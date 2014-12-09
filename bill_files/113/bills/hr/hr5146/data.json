@@ -38,6 +38,24 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:27:00-05:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-611.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:27:00-05:00", 
+      "calendar": "House", 
+      "number": "144", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 144.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -48,7 +66,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Transportation and Infrastructure", 
       "committee_id": "HSPW"
@@ -253,8 +272,8 @@
   ], 
   "subjects_top_term": "Government operations and politics", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-07-17", 
+    "as": "Reported to House without amendment", 
+    "date": "2014-11-12", 
     "text": "Designates the U.S. courthouse located at 700 Grant Street in Pittsburgh, Pennsylvania, as the \"Joseph F. Weis Jr. United States Courthouse.\""
   }, 
   "titles": [
@@ -265,5 +284,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:52-05:00"
+  "updated_at": "2014-12-06T07:05:53-05:00"
 }

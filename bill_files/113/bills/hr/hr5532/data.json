@@ -41,7 +41,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2014-11-20", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -91,5 +101,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:08-05:00"
+  "updated_at": "2014-12-06T07:09:07-05:00"
 }

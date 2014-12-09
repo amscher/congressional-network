@@ -55,6 +55,15 @@
     }, 
     {
       "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Coons, Christopher A.", 
       "sponsored_at": "2014-07-17", 
       "state": "DE", 
@@ -64,10 +73,28 @@
     }, 
     {
       "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2014-11-17", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Crapo, Mike", 
       "sponsored_at": "2014-07-17", 
       "state": "ID", 
       "thomas_id": "00250", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IA", 
+      "thomas_id": "00501", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -142,6 +169,15 @@
       "thomas_id": "01823", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -184,7 +220,11 @@
     "Wildlife conservation and habitat protection"
   ], 
   "subjects_top_term": "Animals", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "Federal Duck Stamp Act of 2014 - Amends the Migratory Bird Hunting and Conservation Stamp Act to increase the price of duck stamps, which are required to hunt migratory waterfowl, from $15 to $25.\n\nAuthorizes the Department of the Interior to reduce the price of stamps for a hunting year if the increase in the stamp price resulted in a reduction in revenues deposited in the Migratory Bird Conservation Fund.\n\nEstablishes a subaccount in the Fund to be used by Interior to acquire easements for the conservation of migratory birds. Directs the Secretary of the Treasury to transfer all amounts in excess of $15 from the sale of each stamp to the subaccount.\n\nRequires Interior to include in an annual report of the Migratory Bird Conservation Commission an assessment of the status of wetlands conservation projects for migratory bird conservation purposes, including an accounting of all expenditures made for acquisition of federal lands."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -199,5 +239,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:15-05:00"
+  "updated_at": "2014-12-06T07:41:35-05:00"
 }

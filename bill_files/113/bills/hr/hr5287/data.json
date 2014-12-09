@@ -54,6 +54,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Schakowsky, Janice D.", 
       "sponsored_at": "2014-07-30", 
@@ -107,5 +116,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:04-05:00"
+  "updated_at": "2014-12-06T07:07:04-05:00"
 }

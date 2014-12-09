@@ -52,6 +52,15 @@
       "thomas_id": "00457", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -110,5 +119,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:35-05:00"
+  "updated_at": "2014-12-06T07:42:55-05:00"
 }

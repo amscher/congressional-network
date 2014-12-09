@@ -136,6 +136,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Duncan, John J., Jr.", 
       "sponsored_at": "2013-09-30", 
@@ -186,6 +195,15 @@
       "sponsored_at": "2013-11-12", 
       "state": "CA", 
       "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "01843", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -352,6 +370,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "28", 
       "name": "Schiff, Adam B.", 
       "sponsored_at": "2013-05-07", 
@@ -375,6 +402,15 @@
       "sponsored_at": "2013-03-18", 
       "state": "OR", 
       "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "01722", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -538,5 +574,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:52-05:00"
+  "updated_at": "2014-12-06T06:32:58-05:00"
 }

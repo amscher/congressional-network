@@ -24,6 +24,61 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:33:00-05:00", 
+      "references": [], 
+      "text": "Mr. Royce moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8104-8106", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:33:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3398.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:49:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8104", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-19T15:49:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -38,6 +93,13 @@
       ], 
       "committee": "House Foreign Affairs", 
       "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
     }
   ], 
   "congress": "113", 
@@ -124,6 +186,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "DeFazio, Peter A.", 
       "sponsored_at": "2014-02-11", 
@@ -156,6 +227,15 @@
       "sponsored_at": "2014-07-11", 
       "state": "FL", 
       "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CT", 
+      "thomas_id": "02114", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -223,11 +303,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "16", 
       "name": "Kinzinger, Adam", 
       "sponsored_at": "2014-06-09", 
       "state": "IL", 
       "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01501", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -439,6 +537,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "sponsored_at": "2014-11-18", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Smith, Christopher H.", 
       "sponsored_at": "2013-10-30", 
@@ -508,6 +615,8 @@
     "active_at": "2014-07-30", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-19T15:49:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-10-30", 
@@ -521,7 +630,7 @@
       "type": "bill"
     }
   ], 
-  "short_title": "Girls Count Act of 2013", 
+  "short_title": "Girls Count Act of 2014", 
   "sponsor": {
     "district": "1", 
     "name": "Chabot, Steve", 
@@ -530,8 +639,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-07-30", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-19T15:49:00-05:00", 
   "subjects": [
     "Census and government statistics", 
     "Child safety and welfare", 
@@ -550,9 +659,9 @@
   ], 
   "subjects_top_term": "International affairs", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-10-30", 
-    "text": "Girls Count Act of 2013 - Authorizes the Secretary of State and the Administrator of the U.S. Agency for International Development (USAID) to: (1) support programs that will contribute to improved civil registration and vital statistics systems with a focus on birth registration; and (2) promote programs that build the capacity of developing countries' national and local legal and policy frameworks to prevent discrimination against girls, and help increase property rights, social security, land tenure, and inheritance rights for women."
+    "as": "Passed House amended", 
+    "date": "2014-11-19", 
+    "text": "Girls Count Act of 2014 - Authorizes the Secretary of State and the Administrator of the U.S. Agency for International Development (USAID) to:\n\n support programs that will contribute to improved civil registration and vital statistics systems with a focus on birth registration; promote programs that build the capacity of developing countries' national and local legal and policy frameworks to prevent discrimination against girls, and help increase property rights, social security, land tenure, and inheritance rights for women; and assist government ministries of developing countries to ensure that poor girls obtain equitable access to social programs. Directs the Secretary to coordinate with multilateral organizations to work with countries to enact laws that collect data on girls and establish registration and identification laws to ensure that girls participate in the social, economic, legal and political sectors of their countries.\n\nUrges the Secretary and the Administrator to work with U.S., international, and local private sector and civil society organizations to advocate for the registration and documentation of all girls and boys in developing countries to prevent exploitation, violence, and other abuses.\n\nDirects the Secretary and the Administrator to include in reports to Congress information regarding: (1) U.S. foreign and development assistance beneficiaries by age, gender, marital status, location, and school enrollment status; and (2) how U.S. foreign and development assistance benefits girls.\n\nSunsets this Act five years after its enactment."
   }, 
   "titles": [
     {
@@ -562,11 +671,17 @@
       "type": "short"
     }, 
     {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Girls Count Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To authorize the Secretary of State and the Administrator of the United States Agency for International Development to provide assistance to support the rights of women and girls in developing countries, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:01-05:00"
+  "updated_at": "2014-12-06T06:51:08-05:00"
 }

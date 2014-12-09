@@ -28,6 +28,15 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-12-04", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Barrasso, John", 
       "sponsored_at": "2014-09-09", 
       "state": "WY", 
@@ -217,5 +226,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:32:49-05:00"
+  "updated_at": "2014-12-06T07:34:04-05:00"
 }

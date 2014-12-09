@@ -66,6 +66,15 @@
     }, 
     {
       "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Schumer, Charles E.", 
       "sponsored_at": "2014-09-18", 
       "state": "NY", 
@@ -132,5 +141,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:16-05:00"
+  "updated_at": "2014-12-06T07:41:35-05:00"
 }

@@ -46,6 +46,15 @@
     }, 
     {
       "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Hatch, Orrin G.", 
       "sponsored_at": "2013-07-25", 
       "state": "UT", 
@@ -135,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:29:40-05:00"
+  "updated_at": "2014-12-06T07:30:55-05:00"
 }

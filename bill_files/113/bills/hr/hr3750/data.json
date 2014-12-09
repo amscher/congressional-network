@@ -43,6 +43,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Johnson, Bill", 
       "sponsored_at": "2013-12-12", 
@@ -66,6 +75,33 @@
       "sponsored_at": "2014-07-31", 
       "state": "CO", 
       "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2014-12-04", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IN", 
+      "thomas_id": "02128", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -121,5 +157,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:54:01-05:00"
+  "updated_at": "2014-12-06T06:54:08-05:00"
 }

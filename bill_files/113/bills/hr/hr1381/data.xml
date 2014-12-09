@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="1381" updated="2014-11-08T06:34:05-05:00">
+<bill session="113" type="h" number="1381" updated="2014-12-06T06:34:08-05:00">
   <state datetime="2013-03-21">REFERRED</state>
   <status>
     <introduced datetime="2013-03-21"/>
@@ -45,6 +45,7 @@
   </relatedbills>
   <subjects>
     <term name="Taxation"/>
+    <term name="Charitable contributions"/>
     <term name="Elementary and secondary education"/>
     <term name="Income tax credits"/>
     <term name="Sales and excise taxes"/>

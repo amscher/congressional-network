@@ -727,6 +727,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Larson, John B.", 
       "sponsored_at": "2014-06-19", 
@@ -741,6 +750,15 @@
       "sponsored_at": "2014-05-06", 
       "state": "CA", 
       "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "00683", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1410,5 +1428,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:00-05:00"
+  "updated_at": "2014-12-06T07:01:06-05:00"
 }

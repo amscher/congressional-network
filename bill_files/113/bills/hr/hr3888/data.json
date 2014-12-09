@@ -56,6 +56,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Clarke, Yvette D.", 
       "sponsored_at": "2014-02-10", 
@@ -230,5 +239,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:12-05:00"
+  "updated_at": "2014-12-06T06:55:17-05:00"
 }

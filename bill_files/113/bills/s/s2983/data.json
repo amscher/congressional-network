@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2983-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-04", 
+  "number": "2983", 
+  "official_title": "A bill to allow for a contract for operation of Melville Hall of United States Merchant Marine Academy after gift by United States Merchant Marine Academy Alumni Association and Foundation, Inc., for renovation of such hall and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Wicker, Roger F.", 
+    "state": "MS", 
+    "thomas_id": "01226", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-04", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to allow for a contract for operation of Melville Hall of United States Merchant Marine Academy after gift by United States Merchant Marine Academy Alumni Association and Foundation, Inc., for renovation of such hall and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:39-05:00"
+}

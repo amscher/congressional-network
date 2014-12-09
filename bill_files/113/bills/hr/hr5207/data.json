@@ -133,6 +133,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AL", 
+      "thomas_id": "01988", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Stivers, Steve", 
       "sponsored_at": "2014-07-25", 
@@ -207,5 +216,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:24-05:00"
+  "updated_at": "2014-12-06T07:06:24-05:00"
 }

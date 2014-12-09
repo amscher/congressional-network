@@ -82,7 +82,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -134,5 +144,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:39-05:00"
+  "updated_at": "2014-12-06T07:08:37-05:00"
 }

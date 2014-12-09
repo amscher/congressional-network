@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="5783" updated="2014-12-06T07:11:13-05:00">
+  <state datetime="2014-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-03"/>
+  </status>
+  <introduced datetime="2014-12-03"/>
+  <titles>
+    <title type="short" as="introduced">Children's Savings Accounts Offer Parents Plenty Of Reasons To Understand aNd Invest in Tuition Yearly Act</title>
+    <title type="short" as="introduced">CSA OPPORTUNITY Act</title>
+    <title type="official" as="introduced">To amend the Social Security Act, the Food and Nutrition Act of 2008, and the Low-Income Home Energy Assistance Act of 1981 to require that the value of child's savings accounts be disregarded for the purpose of determining eligibility to receive benefits under such Acts; and for other purposes.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400170" joined="2014-12-03"/>
+    <cosponsor id="400179" joined="2014-12-03"/>
+    <cosponsor id="400295" joined="2014-12-03"/>
+    <cosponsor id="412489" joined="2014-12-03"/>
+    <cosponsor id="400647" joined="2014-12-03"/>
+    <cosponsor id="400379" joined="2014-12-03"/>
+    <cosponsor id="412318" joined="2014-12-03"/>
+    <cosponsor id="412254" joined="2014-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-03" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

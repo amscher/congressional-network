@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres769-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-02", 
+  "number": "769", 
+  "official_title": "Expressing the sense of the House of Representatives that the healthcare, energy, telecommunications, and other sectors of the United States economy should continue their sector-specific efforts to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-02", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-02", 
+    "text": "Expresses the sense of the House of Representatives that the health care, energy, telecommunications, and other industry sectors should continue their sector-specific efforts to protect critical infrastructure and prevent information security and cybersecurity breaches (other than for research and development purposes)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives that the healthcare, energy, telecommunications, and other sectors of the United States economy should continue their sector-specific efforts to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T06:22:35-05:00"
+}

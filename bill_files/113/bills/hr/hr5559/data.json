@@ -38,11 +38,38 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Davis, Danny K.", 
       "sponsored_at": "2014-09-18", 
       "state": "IL", 
       "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "02101", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -119,6 +146,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Moran, James P.", 
       "sponsored_at": "2014-09-18", 
@@ -182,11 +218,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Thompson, Mike", 
       "sponsored_at": "2014-09-18", 
       "state": "CA", 
       "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MD", 
+      "thomas_id": "01729", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -209,11 +263,6 @@
       "type": "bill"
     }, 
     {
-      "bill_id": "hr2003-113", 
-      "reason": "related", 
-      "type": "bill"
-    }, 
-    {
       "bill_id": "hr2502-113", 
       "reason": "related", 
       "type": "bill"
@@ -230,6 +279,11 @@
     }, 
     {
       "bill_id": "hr3951-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2003-113", 
       "reason": "related", 
       "type": "bill"
     }, 
@@ -288,5 +342,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:22-05:00"
+  "updated_at": "2014-12-06T07:09:20-05:00"
 }

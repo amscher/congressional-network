@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1244" updated="2014-11-08T07:28:41-05:00">
+<bill session="113" type="s" number="1244" updated="2014-12-06T07:29:50-05:00">
   <state datetime="2013-06-27">REPORTED</state>
   <status>
     <unknown datetime="2013-06-27"/>
@@ -12,6 +12,18 @@
   <sponsor id="300080"/>
   <cosponsors/>
   <actions>
+    <action datetime="2013-04-18">
+      <text>Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.</text>
+    </action>
+    <action datetime="2013-05-09">
+      <text>Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.</text>
+    </action>
+    <action datetime="2013-05-16">
+      <text>Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.</text>
+    </action>
     <action datetime="2013-06-27">
       <text>Committee on Appropriations. Original measure reported to Senate by Senator Pryor. With written report No. 113-46.</text>
     </action>
@@ -21,6 +33,7 @@
   </actions>
   <committees>
     <committee code="SSAP" name="Senate Appropriations" activity="Origin, Reporting"/>
+    <committee activity="Hearings" code="SSAP01" subcommittee="Agriculture, Rural Development, Food and Drug Administration, and Related Agencies" name="Senate Appropriations"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="3547"/>

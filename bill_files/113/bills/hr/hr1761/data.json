@@ -194,6 +194,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Brownley, Julia", 
       "sponsored_at": "2014-03-26", 
@@ -482,11 +491,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Heck, Joseph J.", 
       "sponsored_at": "2013-09-18", 
       "state": "NV", 
       "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CT", 
+      "thomas_id": "01913", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -689,6 +716,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Matsui, Doris O.", 
       "sponsored_at": "2014-01-09", 
@@ -784,6 +820,15 @@
       "sponsored_at": "2013-07-11", 
       "state": "MI", 
       "thomas_id": "01929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MN", 
+      "thomas_id": "00910", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1067,6 +1112,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "23", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2014-11-19", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2014-12-08", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Wenstrup, Brad R.", 
       "sponsored_at": "2013-07-16", 
@@ -1177,5 +1240,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:19-05:00"
+  "updated_at": "2014-12-08T18:48:34-05:00"
 }

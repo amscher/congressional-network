@@ -46,6 +46,15 @@
     }, 
     {
       "district": null, 
+      "name": "Inhofe, James M.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Manchin, Joe, III", 
       "sponsored_at": "2013-12-18", 
       "state": "WV", 
@@ -139,5 +148,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:33:46-05:00"
+  "updated_at": "2014-12-06T07:35:06-05:00"
 }

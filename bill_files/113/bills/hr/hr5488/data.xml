@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5488" updated="2014-11-08T07:08:46-05:00">
+<bill session="113" type="h" number="5488" updated="2014-12-06T07:08:45-05:00">
   <state datetime="2014-09-16">REFERRED</state>
   <status>
     <introduced datetime="2014-09-16"/>
@@ -45,4 +45,6 @@
     <term name="Transportation safety and security"/>
   </subjects>
   <amendments/>
+  <summary>9/16/2014--Introduced.
+No Fly for Foreign Fighters Act - Requires the Director of the Terrorist Screening Center to: (1) review the completeness of the Terrorist Screening Database and the terrorist watch list utilized by the Transportation Security Administration (TSA) to determine if an individual who may seek to board a U.S.-bound or domestic flight, and who poses a threat to aviation or national security or a threat of terrorism and is known or suspected of being a member of a foreign terrorist organization, is included in the Database and on such watch list; and (2) report findings to the House Committee on Homeland Security and the Senate Committee on Homeland Security and Governmental Affairs.</summary>
 </bill>

@@ -61,6 +61,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-12-08", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Price, Tom", 
       "sponsored_at": "2014-05-06", 
@@ -140,5 +149,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:46-05:00"
+  "updated_at": "2014-12-08T18:48:40-05:00"
 }

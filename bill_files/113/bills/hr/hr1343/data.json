@@ -213,6 +213,15 @@
       "thomas_id": "02110", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -269,5 +278,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:33:46-05:00"
+  "updated_at": "2014-12-06T06:33:49-05:00"
 }

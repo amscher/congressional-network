@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5408" updated="2014-11-08T07:08:06-05:00">
+<bill session="113" type="h" number="5408" updated="2014-12-06T07:08:05-05:00">
   <state datetime="2014-09-08">REFERRED</state>
   <status>
     <introduced datetime="2014-09-08"/>
@@ -47,6 +47,7 @@
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="5406"/>
+    <bill relation="unknown" session="113" type="h" number="5695"/>
   </relatedbills>
   <subjects>
     <term name="International affairs"/>

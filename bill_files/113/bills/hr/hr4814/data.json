@@ -203,6 +203,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WA", 
+      "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Honda, Michael M.", 
       "sponsored_at": "2014-07-25", 
@@ -482,5 +500,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:01-05:00"
+  "updated_at": "2014-12-06T07:03:07-05:00"
 }

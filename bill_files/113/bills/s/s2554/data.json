@@ -56,6 +56,16 @@
   "popular_title": null, 
   "related_bills": [
     {
+      "bill_id": "hr5682-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5682-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s2280-113", 
       "reason": "related", 
       "type": "bill"
@@ -114,5 +124,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:42-05:00"
+  "updated_at": "2014-12-06T07:41:01-05:00"
 }

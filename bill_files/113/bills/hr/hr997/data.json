@@ -637,6 +637,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Nugent, Richard B.", 
       "sponsored_at": "2013-03-21", 
@@ -977,5 +986,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:30:49-05:00"
+  "updated_at": "2014-12-06T06:30:56-05:00"
 }

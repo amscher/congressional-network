@@ -23,7 +23,7 @@
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Indian Affairs. Hearings held.", 
+      "text": "Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-419.", 
       "type": "hearings"
     }, 
     {
@@ -66,6 +66,15 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 544.", 
       "type": "calendar", 
       "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-12-01", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "By Senator Tester from Committee on Indian Affairs filed written report. Report No. 113-277.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -148,5 +157,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:04-05:00"
+  "updated_at": "2014-12-06T07:40:23-05:00"
 }

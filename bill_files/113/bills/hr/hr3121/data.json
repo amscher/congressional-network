@@ -516,6 +516,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Fincher, Stephen Lee", 
       "sponsored_at": "2013-10-02", 
@@ -1573,5 +1582,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:42-05:00"
+  "updated_at": "2014-12-06T06:48:49-05:00"
 }

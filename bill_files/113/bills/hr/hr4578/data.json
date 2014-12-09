@@ -279,6 +279,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "20", 
       "name": "Hastings, Alcee L.", 
       "sponsored_at": "2014-05-08", 
@@ -809,5 +818,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:58-05:00"
+  "updated_at": "2014-12-06T07:01:04-05:00"
 }

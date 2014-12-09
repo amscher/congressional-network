@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2805" updated="2014-11-08T07:41:48-05:00">
+<bill session="113" type="s" number="2805" updated="2014-12-06T07:43:08-05:00">
   <state datetime="2014-09-15">REFERRED</state>
   <status>
     <introduced datetime="2014-09-15"/>
@@ -19,7 +19,9 @@
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5763"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Congressional tributes"/>

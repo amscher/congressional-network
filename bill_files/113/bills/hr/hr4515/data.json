@@ -61,6 +61,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Enyart, William L.", 
       "sponsored_at": "2014-06-25", 
@@ -282,5 +291,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:26-05:00"
+  "updated_at": "2014-12-06T07:00:33-05:00"
 }

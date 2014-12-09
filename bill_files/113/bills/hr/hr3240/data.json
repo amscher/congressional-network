@@ -30,6 +30,97 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-02T11:42:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 113-640.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T11:42:00-05:00", 
+      "calendar": "Union", 
+      "number": "480", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 480.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-02T14:07:00-05:00", 
+      "references": [], 
+      "text": "Mr. Luetkemeyer moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8244-8246", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:07:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3240.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:17:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T16:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8260-8261", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T16:12:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8244-8245", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "538", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 538).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T16:12:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -40,7 +131,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Financial Services", 
       "committee_id": "HSBA"
@@ -53,6 +145,13 @@
       "committee_id": "HSBA", 
       "subcommittee": "Subcommittee on Financial Institutions and Consumer Credit", 
       "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
     }
   ], 
   "congress": "113", 
@@ -370,6 +469,8 @@
     "active_at": "2014-07-15", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T16:12:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-10-03", 
@@ -386,8 +487,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-07-29", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-02T16:12:00-05:00", 
   "subjects": [
     "Bank accounts, deposits, capital", 
     "Banking and financial institutions regulation", 
@@ -411,11 +512,17 @@
       "type": "short"
     }, 
     {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Regulation D Study Act", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To instruct the Comptroller General of the United States to study the impact of Regulation D, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:49:42-05:00"
+  "updated_at": "2014-12-06T06:49:49-05:00"
 }

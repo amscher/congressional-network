@@ -24,6 +24,28 @@
       "references": [], 
       "text": "Subcommittee Hearings Held.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -34,6 +56,7 @@
     {
       "activity": [
         "referral", 
+        "markup", 
         "in committee"
       ], 
       "committee": "House Natural Resources", 
@@ -42,7 +65,8 @@
     {
       "activity": [
         "referral", 
-        "hearings"
+        "hearings", 
+        "discharged"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII", 
@@ -108,8 +132,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2013-04-26", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-19", 
   "subjects": [
     "Historic sites and heritage areas", 
     "Land use and conservation", 
@@ -138,5 +162,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:31-05:00"
+  "updated_at": "2014-12-06T06:37:34-05:00"
 }

@@ -68,6 +68,24 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Matsui, Doris O.", 
       "sponsored_at": "2014-07-31", 
@@ -82,6 +100,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "NJ", 
       "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2014-12-03", 
+      "state": "IL", 
+      "thomas_id": "01967", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -156,5 +183,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:48-05:00"
+  "updated_at": "2014-12-06T07:07:47-05:00"
 }

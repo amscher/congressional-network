@@ -91,6 +91,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Carney, John C., Jr.", 
       "sponsored_at": "2013-06-18", 
@@ -520,5 +529,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:36:25-05:00"
+  "updated_at": "2014-12-06T06:36:28-05:00"
 }

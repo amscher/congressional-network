@@ -2,12 +2,6 @@
   "actions": [
     {
       "acted_at": "2014-02-11T17:42:00-05:00", 
-      "references": [], 
-      "text": "Mr. Harper asked unanimous consent to consider as introduced.", 
-      "type": "action"
-    }, 
-    {
-      "acted_at": "2014-02-11T17:42:00-05:00", 
       "references": [
         {
           "reference": "CR H1759", 
@@ -15,6 +9,12 @@
         }
       ], 
       "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11T17:42:00-05:00", 
+      "references": [], 
+      "text": "Mr. Harper asked unanimous consent to consider as introduced.", 
       "type": "action"
     }, 
     {
@@ -122,5 +122,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:12:09-05:00"
+  "updated_at": "2014-12-06T07:13:08-05:00"
 }

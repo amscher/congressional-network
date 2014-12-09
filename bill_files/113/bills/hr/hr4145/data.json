@@ -36,6 +36,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Maloney, Carolyn B.", 
       "sponsored_at": "2014-03-04", 
@@ -103,5 +112,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:20-05:00"
+  "updated_at": "2014-12-06T06:57:27-05:00"
 }

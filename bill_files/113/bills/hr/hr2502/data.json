@@ -423,6 +423,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Kaptur, Marcy", 
       "sponsored_at": "2013-07-23", 
@@ -1078,5 +1087,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:32-05:00"
+  "updated_at": "2014-12-06T06:43:38-05:00"
 }

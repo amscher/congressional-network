@@ -38,6 +38,76 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:29:00-05:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-613.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:29:00-05:00", 
+      "calendar": "Union", 
+      "number": "455", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 455.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-11-19T12:32:00-05:00", 
+      "references": [], 
+      "text": "Mr. Mica moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T12:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8080-8081", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T12:32:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5448.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19T12:40:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8080", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-19T12:40:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -48,7 +118,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Transportation and Infrastructure", 
       "committee_id": "HSPW"
@@ -82,6 +153,8 @@
     "active_at": "2014-09-17", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-19T12:40:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-09-11", 
@@ -98,8 +171,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-17", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-19T12:40:00-05:00", 
   "subjects": [
     "Arts, culture, religion", 
     "District of Columbia", 
@@ -108,10 +181,26 @@
     "Performing arts"
   ], 
   "subjects_top_term": "Arts, culture, religion", 
-  "summary": null, 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-11-19", 
+    "text": "John F. Kennedy Center Reauthorization Act of 2014 - Amends the John F. Kennedy Center Act to authorize appropriations to the Board of Trustees of the John F. Kennedy Center for the Performing Arts for FY2015-FY2019 for maintenance, repair, and security, and for capital projects."
+  }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "John F. Kennedy Center Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "John F. Kennedy Center Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "John F. Kennedy Center Reauthorization Act of 2014", 
       "type": "short"
@@ -123,5 +212,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:26-05:00"
+  "updated_at": "2014-12-06T07:08:25-05:00"
 }

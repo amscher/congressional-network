@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5671" updated="2014-11-08T07:10:18-05:00">
+<bill session="113" type="h" number="5671" updated="2014-12-06T07:10:17-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -22,7 +22,9 @@
     <committee code="HSII" name="House Natural Resources" activity="Referral"/>
     <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1574"/>
+  </relatedbills>
   <subjects>
     <term name="Native Americans"/>
     <term name="Actions and defenses"/>

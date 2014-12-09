@@ -167,7 +167,13 @@
   "number": "2651", 
   "official_title": "To improve the understanding and coordination of critical care health services.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2966-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Critical Care Assessment and Improvement Act of 2013", 
   "sponsor": {
     "district": "3", 
@@ -180,6 +186,7 @@
   "status": "REFERRED", 
   "status_at": "2013-07-10", 
   "subjects": [
+    "Department of Health and Human Services", 
     "Emergency medical services and trauma care", 
     "Executive agency funding and structure", 
     "Government studies and investigations", 
@@ -189,6 +196,7 @@
     "Health programs administration and funding", 
     "Health technology, devices, supplies", 
     "Medical research", 
+    "National Institutes of Health (NIH)", 
     "Public-private cooperation"
   ], 
   "subjects_top_term": "Health", 
@@ -211,5 +219,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:44:47-05:00"
+  "updated_at": "2014-12-06T06:44:53-05:00"
 }

@@ -145,6 +145,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "27", 
       "name": "Farenthold, Blake", 
       "sponsored_at": "2014-02-10", 
@@ -488,5 +497,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:59-05:00"
+  "updated_at": "2014-12-06T06:23:06-05:00"
 }

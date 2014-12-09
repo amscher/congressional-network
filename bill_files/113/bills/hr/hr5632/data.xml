@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5632" updated="2014-11-08T07:09:59-05:00">
+<bill session="113" type="h" number="5632" updated="2014-12-06T07:09:57-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To reform and update the flat rent structure for public housing.</title>
   </titles>
   <sponsor id="400441"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412278" joined="2014-11-19"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
       <text>Referred to the House Committee on Financial Services.</text>

@@ -89,6 +89,24 @@
     }, 
     {
       "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
       "name": "Jones, Walter B., Jr.", 
       "sponsored_at": "2014-07-31", 
       "state": "NC", 
@@ -156,7 +174,11 @@
     "Veterans' medical care"
   ], 
   "subjects_top_term": "Government operations and politics", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-29", 
+    "text": "Wounded Warriors Federal Leave Act of 2014 - Entitles any federal employee who is a veteran with a service-connected disability rated at 30% or more, during the 12-month period beginning on the first day of employment, to up to 104 hours of leave, without loss or reduction in pay, for purposes of undergoing medical treatment for such disability for which sick leave could regularly be used. Requires the forfeiture of any such leave that is not used during such 12-month period.\n\nRequires such employee to submit to the head of the employing agency certification that such employee used such leave for purposes of being furnished treatment for such disability by a health care provider."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -171,5 +193,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:35-05:00"
+  "updated_at": "2014-12-06T07:06:35-05:00"
 }

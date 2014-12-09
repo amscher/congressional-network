@@ -486,6 +486,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Runyan, Jon", 
       "sponsored_at": "2013-11-20", 
@@ -621,6 +630,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-14", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "24", 
       "name": "Wilson, Frederica S.", 
       "sponsored_at": "2013-11-12", 
@@ -701,5 +719,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:41:44-05:00"
+  "updated_at": "2014-12-06T06:41:49-05:00"
 }

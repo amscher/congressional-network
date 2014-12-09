@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2816" updated="2014-11-08T07:41:53-05:00">
+<bill session="113" type="s" number="2816" updated="2014-12-06T07:43:14-05:00">
   <state datetime="2014-09-16">REFERRED</state>
   <status>
     <introduced datetime="2014-09-16"/>
@@ -9,7 +9,10 @@
     <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to eliminate the specific exemption for professional football leagues and to provide a special rule for other professional sports leagues, and to provide an additional authorization of appropriations for the Family Violence Prevention and Services Act.</title>
   </titles>
   <sponsor id="412598"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2014-12-04"/>
+    <cosponsor id="412507" joined="2014-11-13"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-16" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>

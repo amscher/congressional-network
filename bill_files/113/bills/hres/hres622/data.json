@@ -106,6 +106,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2014-12-02", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Gohmert, Louie", 
       "sponsored_at": "2014-06-12", 
@@ -352,5 +361,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:21:25-05:00"
+  "updated_at": "2014-12-06T06:21:22-05:00"
 }

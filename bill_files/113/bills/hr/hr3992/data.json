@@ -705,6 +705,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Latham, Tom", 
       "sponsored_at": "2014-05-22", 
@@ -728,6 +737,15 @@
       "sponsored_at": "2014-09-17", 
       "state": "CA", 
       "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00709", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -773,6 +791,15 @@
       "sponsored_at": "2014-03-05", 
       "state": "MN", 
       "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "00766", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1173,6 +1200,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Stewart, Chris", 
       "sponsored_at": "2014-03-12", 
@@ -1397,5 +1433,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:04-05:00"
+  "updated_at": "2014-12-06T06:56:10-05:00"
 }

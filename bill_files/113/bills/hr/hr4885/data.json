@@ -70,6 +70,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-12-02", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Carney, John C., Jr.", 
       "sponsored_at": "2014-08-01", 
@@ -156,6 +165,15 @@
       "sponsored_at": "2014-06-18", 
       "state": "CT", 
       "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "01806", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -366,5 +384,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:37-05:00"
+  "updated_at": "2014-12-06T07:03:42-05:00"
 }

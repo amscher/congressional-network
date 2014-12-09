@@ -88,6 +88,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Sires, Albio", 
       "sponsored_at": "2014-05-20", 
@@ -155,5 +164,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:22-05:00"
+  "updated_at": "2014-12-06T07:00:29-05:00"
 }

@@ -36,6 +36,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-12-02", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Schakowsky, Janice D.", 
       "sponsored_at": "2014-05-15", 
@@ -95,5 +104,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:45-05:00"
+  "updated_at": "2014-12-06T07:01:50-05:00"
 }

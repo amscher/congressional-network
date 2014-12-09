@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5469" updated="2014-11-08T07:08:37-05:00">
+<bill session="113" type="h" number="5469" updated="2014-12-06T07:08:35-05:00">
   <state datetime="2014-09-15">REFERRED</state>
   <status>
     <introduced datetime="2014-09-15"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To prevent future propane shortages, and for other purposes.</title>
   </titles>
   <sponsor id="412256"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412214" joined="2014-11-12"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-15" state="REFERRED">
       <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>

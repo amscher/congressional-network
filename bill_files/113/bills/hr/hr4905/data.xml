@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4905" updated="2014-11-08T07:03:47-05:00">
+<bill session="113" type="h" number="4905" updated="2014-12-06T07:03:52-05:00">
   <state datetime="2014-06-19">REFERRED</state>
   <status>
     <introduced datetime="2014-06-19"/>
@@ -10,6 +10,7 @@
   </titles>
   <sponsor id="412576"/>
   <cosponsors>
+    <cosponsor id="412470" joined="2014-11-13"/>
     <cosponsor id="400654" joined="2014-06-19"/>
   </cosponsors>
   <actions>

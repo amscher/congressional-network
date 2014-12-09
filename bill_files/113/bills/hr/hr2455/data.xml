@@ -1,11 +1,13 @@
-<bill session="113" type="h" number="2455" updated="2014-11-08T06:43:08-05:00">
-  <state datetime="2014-06-19">REPORTED</state>
+<bill session="113" type="h" number="2455" updated="2014-12-06T06:43:13-05:00">
+  <state datetime="2014-12-01T16:49:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2014-06-19"/>
+    <unknown datetime="2014-12-01T16:49:00-05:00"/>
   </status>
   <introduced datetime="2013-06-20"/>
   <titles>
     <title type="short" as="introduced">Nevada Native Nations Lands Act</title>
+    <title type="short" as="reported to house">Nevada Native Nations Lands Act</title>
+    <title type="short" as="passed house">Nevada Native Nations Land Act</title>
     <title type="official" as="introduced">To provide for the sale or transfer of certain Federal lands in Nevada, and for other purposes.</title>
   </titles>
   <sponsor id="412500"/>
@@ -38,14 +40,41 @@
     <calendar datetime="2014-06-19" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
     </calendar>
+    <action datetime="2014-12-01T16:27:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-632.</text>
+    </action>
+    <calendar datetime="2014-12-01T16:28:00-05:00" calendar="Union" number="472">
+      <text>Placed on the Union Calendar, Calendar No. 472.</text>
+    </calendar>
+    <action datetime="2014-12-01T16:44:00-05:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-12-01T16:44:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8188-8190" label="consideration"/>
+    </action>
+    <action datetime="2014-12-01T16:44:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2455.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-12-01T16:49:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8188-8189" label="text"/>
+    </vote>
+    <action datetime="2014-12-01T16:49:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Received in the Senate.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
     <committee activity="Referral, Hearings, Discharged" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="1167"/>
+    <bill relation="unknown" session="113" type="s" number="2480"/>
     <bill relation="unknown" session="113" type="s" number="2480"/>
   </relatedbills>
   <subjects>

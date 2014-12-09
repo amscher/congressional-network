@@ -404,6 +404,7 @@
   "status_at": "2013-05-23", 
   "subjects": [
     "Business investment and capital", 
+    "Charitable contributions", 
     "Connecticut", 
     "Disaster relief and insurance", 
     "Employee benefits and pensions", 
@@ -450,5 +451,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:40:29-05:00"
+  "updated_at": "2014-12-06T06:40:31-05:00"
 }

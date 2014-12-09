@@ -898,6 +898,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "32", 
       "name": "Napolitano, Grace F.", 
       "sponsored_at": "2014-03-27", 
@@ -1412,5 +1421,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:11:20-05:00"
+  "updated_at": "2014-12-06T07:12:19-05:00"
 }

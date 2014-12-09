@@ -77,7 +77,11 @@
     "U.S. Sentencing Commission"
   ], 
   "subjects_top_term": "Crime and law enforcement", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Protecting Public Safety and Federal Resources Act - Disapproves amendment number 3 of the Amendments to the Sentencing Guidelines submitted by the U.S. Sentencing Commission to Congress on April 30, 2014, relating to statutory mandatory minimum penalties for drug trafficking offenses."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -92,5 +96,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:45-05:00"
+  "updated_at": "2014-12-06T07:09:43-05:00"
 }

@@ -1,12 +1,14 @@
-<bill session="113" type="h" number="647" updated="2014-11-08T06:27:53-05:00">
-  <state datetime="2014-07-31">REPORTED</state>
+<bill session="113" type="h" number="647" updated="2014-12-08T15:47:54-05:00">
+  <state datetime="2014-12-03T17:57:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2014-07-31"/>
+    <unknown datetime="2014-12-03T17:57:00-05:00"/>
   </status>
   <introduced datetime="2013-02-13"/>
   <titles>
     <title type="short" as="introduced">ABLE Act of 2013</title>
     <title type="short" as="introduced">Achieving a Better Life Experience Act of 2013</title>
+    <title type="short" as="reported to house">ABLE Act of 2014</title>
+    <title type="short" as="reported to house">Achieving a Better Life Experience Act of 2014</title>
     <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the tax treatment of ABLE accounts established under State programs for the care of family members with disabilities, and for other purposes.</title>
   </titles>
   <sponsor id="400086"/>
@@ -411,13 +413,57 @@
     <calendar datetime="2014-07-31" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </calendar>
+    <action datetime="2014-11-12T15:23:00-05:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-614, Part I.</text>
+    </action>
+    <action datetime="2014-11-12T15:23:00-05:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <calendar datetime="2014-11-12T15:24:00-05:00" calendar="Union" number="456">
+      <text>Placed on the Union Calendar, Calendar No. 456.</text>
+    </calendar>
+    <action datetime="2014-12-02T16:28:00-05:00">
+      <text>Rules Committee Resolution H. Res. 766 Reported to House. The rule provides for a closed rule for H.R. 5771 and H.R. 647.</text>
+    </action>
+    <action datetime="2014-12-03T15:11:00-05:00">
+      <text>Rule H. Res. 766 passed House.</text>
+    </action>
+    <action datetime="2014-12-03T15:26:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 766.</text>
+      <reference ref="CR H8312-8322" label="consideration"/>
+    </action>
+    <action datetime="2014-12-03T15:26:00-05:00">
+      <text>The rule provides for a closed rule for H.R. 5771 and H.R. 647.</text>
+    </action>
+    <action datetime="2014-12-03T15:27:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 647.</text>
+    </action>
+    <action datetime="2014-12-03T16:10:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H8322" label="consideration"/>
+    </action>
+    <action datetime="2014-12-03T16:11:00-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 647, the Chair put the question on passage, and by voice vote, announced that the ayes had prevailed. Mr. Reichert demanded a the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.</text>
+    </action>
+    <action datetime="2014-12-03T17:48:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8343-8344" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="545" datetime="2014-12-03T17:57:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 404 - 17 (Roll no. 545).</text>
+      <reference ref="CR H8312-8317" label="text"/>
+    </vote>
+    <action datetime="2014-12-03T17:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, In Committee"/>
-    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged, In Committee"/>
     <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
   </committees>
   <relatedbills>
+    <bill relation="rule" session="113" type="hr" number="766"/>
     <bill relation="identical" session="113" type="s" number="313"/>
   </relatedbills>
   <subjects>
@@ -429,7 +475,9 @@
     <term name="Medicaid"/>
     <term name="Poverty and welfare assistance"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h1150"/>
+  </amendments>
   <summary>2/13/2013--Introduced.
 Achieving a Better Life Experience Act of 2013 or the ABLE Act of 2013 - Amends the Internal Revenue Code to establish tax-exempt ABLE accounts to assist an individual with a disability in building an account to pay for qualified disability expenses. Defines "qualified disability expenses" to include expenses for education, including higher education expenses, a primary residence, transportation, obtaining and maintaining employment, health and wellness, and other personal support expenses.
 

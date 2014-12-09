@@ -95,6 +95,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Holt, Rush", 
       "sponsored_at": "2014-05-06", 
@@ -172,5 +181,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:33:00-05:00"
+  "updated_at": "2014-12-06T06:33:06-05:00"
 }

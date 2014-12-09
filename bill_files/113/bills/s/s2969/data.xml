@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="2969" updated="2014-12-06T07:44:32-05:00">
+  <state datetime="2014-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-02"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="short" as="introduced">General of the Army Omar Bradley Property Transfer Act of 2014</title>
+    <title type="official" as="introduced">A bill to authorize the transfer of certain items under the control of the Omar Bradley Foundation to the descendants of General Omar Bradley.</title>
+  </titles>
+  <sponsor id="400408"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+</bill>

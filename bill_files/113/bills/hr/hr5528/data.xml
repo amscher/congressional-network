@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5528" updated="2014-11-08T07:09:06-05:00">
+<bill session="113" type="h" number="5528" updated="2014-12-06T07:09:05-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -21,11 +21,13 @@
     <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
   </committees>
   <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5771"/>
     <bill relation="unknown" session="113" type="s" number="2261"/>
   </relatedbills>
   <subjects>
     <term name="Taxation"/>
     <term name="General taxation matters"/>
+    <term name="Tax administration and collection, taxpayers"/>
   </subjects>
   <amendments/>
   <summary>9/18/2014--Introduced.

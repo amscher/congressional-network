@@ -1,0 +1,78 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2957-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-20", 
+  "number": "2957", 
+  "official_title": "A bill to limit the disturbance to American families caused by electioneering phone calls by expanding the National Do Not Call Registry to include Super PACs and other third-party political groups, to prohibit robo-calls to Americans who have listed their telephone numbers on the Registry, and to prohibit push-polling.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Do Not Disturb Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Begich, Mark", 
+    "state": "AK", 
+    "thomas_id": "01898", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-20", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Consumer affairs", 
+    "Elections, voting, political campaign regulation", 
+    "Federal Trade Commission (FTC)", 
+    "Science, technology, communications", 
+    "Tax-exempt organizations", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Do Not Disturb Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to limit the disturbance to American families caused by electioneering phone calls by expanding the National Do Not Call Registry to include Super PACs and other third-party political groups, to prohibit robo-calls to Americans who have listed their telephone numbers on the Registry, and to prohibit push-polling.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:26-05:00"
+}

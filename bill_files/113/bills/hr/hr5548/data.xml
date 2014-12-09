@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5548" updated="2014-11-08T07:09:16-05:00">
+<bill session="113" type="h" number="5548" updated="2014-12-06T07:09:15-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -9,7 +9,11 @@
     <title type="official" as="introduced">To provide for the establishment of clean technology consortia to enhance the economic, environmental, and energy security of the United States by promoting domestic development, manufacture, and deployment of clean technologies, and for other purposes.</title>
   </titles>
   <sponsor id="412571"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400641" joined="2014-11-12"/>
+    <cosponsor id="412558" joined="2014-11-12"/>
+    <cosponsor id="412520" joined="2014-12-01"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
       <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>

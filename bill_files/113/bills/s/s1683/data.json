@@ -39,9 +39,50 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.", 
       "type": "calendar", 
       "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "references": [
+        {
+          "reference": "CR S6355", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08T12:32:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3973-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3973"
+    }
+  ], 
   "bill_id": "s1683-113", 
   "bill_type": "s", 
   "by_request": false, 
@@ -83,6 +124,8 @@
     "active_at": "2013-11-14", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-04", 
     "vetoed": false
   }, 
   "introduced_at": "2013-11-12", 
@@ -96,7 +139,7 @@
       "type": "bill"
     }
   ], 
-  "short_title": null, 
+  "short_title": "Naval Vessel Transfer Act of 2013", 
   "sponsor": {
     "district": null, 
     "name": "Menendez, Robert", 
@@ -105,8 +148,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2013-11-14", 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-12-04", 
   "subjects": [
     "Afghanistan", 
     "Alliances", 
@@ -159,11 +202,17 @@
       "type": "short"
     }, 
     {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Naval Vessel Transfer Act of 2013", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to provide for the transfer of naval vessels to certain foreign recipients, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:32:21-05:00"
+  "updated_at": "2014-12-08T18:48:57-05:00"
 }

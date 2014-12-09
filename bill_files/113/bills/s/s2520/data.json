@@ -25,6 +25,36 @@
       "status": "REFERRED", 
       "text": "Read twice and referred to the Committee on the Judiciary.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "SSJU"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committee": "the Judiciary", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "calendar": "Senate Legislative", 
+      "number": "605", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 605.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -34,7 +64,9 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup", 
+        "reporting"
       ], 
       "committee": "Senate Judiciary", 
       "committee_id": "SSJU"
@@ -42,6 +74,24 @@
   ], 
   "congress": "113", 
   "cosponsors": [
+    {
+      "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
     {
       "district": null, 
       "name": "Cornyn, John", 
@@ -71,6 +121,15 @@
     }, 
     {
       "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Markey, Edward J.", 
       "sponsored_at": "2014-07-08", 
       "state": "MA", 
@@ -81,7 +140,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-20", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -106,8 +166,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-06-24", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-20", 
   "subjects": [
     "Administrative law and regulatory procedures", 
     "Administrative remedies", 
@@ -134,11 +194,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "FOIA Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to improve the Freedom of Information Act.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:25-05:00"
+  "updated_at": "2014-12-06T07:40:44-05:00"
 }

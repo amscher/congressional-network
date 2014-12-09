@@ -1,12 +1,13 @@
-<bill session="113" type="h" number="4867" updated="2014-11-08T07:03:28-05:00">
-  <state datetime="2014-07-30">REPORTED</state>
+<bill session="113" type="h" number="4867" updated="2014-12-06T07:03:33-05:00">
+  <state datetime="2014-11-13T12:43:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2014-07-30"/>
+    <unknown datetime="2014-11-13T12:43:00-05:00"/>
   </status>
   <introduced datetime="2014-06-12"/>
   <titles>
     <title type="short" as="introduced">Economic Development Through Tribal Land Exchange Act</title>
     <title type="short" as="reported to house">Economic Development Through Tribal Land Exchange Act</title>
+    <title type="short" as="passed house">Economic Development Through Tribal Land Exchange Act</title>
     <title type="official" as="introduced">To provide for certain land to be taken into trust for the benefit of Morongo Band of Mission Indians, and for other purposes.</title>
   </titles>
   <sponsor id="412519"/>
@@ -46,6 +47,26 @@
     <calendar datetime="2014-09-19T12:31:00-04:00" calendar="Union" number="450">
       <text>Placed on the Union Calendar, Calendar No. 450.</text>
     </calendar>
+    <action datetime="2014-11-13T12:39:00-05:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-11-13T12:39:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7951-7952" label="consideration"/>
+    </action>
+    <action datetime="2014-11-13T12:39:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4867.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-11-13T12:43:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7951" label="text"/>
+    </vote>
+    <action datetime="2014-11-13T12:43:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Received in the Senate.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
@@ -62,4 +83,10 @@
     <term name="Land transfers"/>
   </subjects>
   <amendments/>
+  <summary>11/13/2014--Passed House amended.
+Economic Development Through Tribal Land Exchange Act - Provides for the disposition of four parcels of land in California.
+
+Directs the Secretary of the Interior to convey approximately 41.15 acres designated as Morongo lands to Lloyd L. Fields in exchange for 41.15 acres owned by Fields to be held in trust for the Morongo Band of Mission Indians.
+
+Grants an easement to the city of Banning for a public right-of-way in exchange for 1.21 acres of land to be held in trust for the Tribe.</summary>
 </bill>

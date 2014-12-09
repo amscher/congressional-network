@@ -22,7 +22,7 @@ def plot(title, xlabel, ylabel, xVals, yVals, filename, ymax=1):
   plt.ylabel(ylabel)
   plt.ylim(ymax=ymax)
   ax = fig1.add_subplot(111)
-  plot = ax.plot(xVals, yVals, 'bo', mec='b', markersize=5, alpha=0.3, label="chart")
+  plot = ax.plot(xVals, yVals, 'bo', mec='g', markersize=6, label="chart")
   fig1.savefig('plotting/' + filename + '.png')
 
 score_numcosponsor_map = {}

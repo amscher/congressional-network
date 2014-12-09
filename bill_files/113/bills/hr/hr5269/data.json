@@ -37,6 +37,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -50,6 +57,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
     }, 
     {
       "activity": [
@@ -159,6 +175,15 @@
       "thomas_id": "00868", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2014-11-19", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -233,5 +258,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:55-05:00"
+  "updated_at": "2014-12-06T07:06:55-05:00"
 }

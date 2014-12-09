@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="2968" updated="2014-12-06T07:44:32-05:00">
+  <state datetime="2014-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-02"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to include community partners and intermediaries in the planning and delivery of education and related programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412247"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,7 +1,7 @@
-<bill session="113" type="s" number="2379" updated="2014-11-08T07:38:11-05:00">
-  <state datetime="2014-05-21">REFERRED</state>
+<bill session="113" type="s" number="2379" updated="2014-12-06T07:39:30-05:00">
+  <state datetime="2014-11-13">REPORTED</state>
   <status>
-    <introduced datetime="2014-05-21"/>
+    <unknown datetime="2014-11-13"/>
   </status>
   <introduced datetime="2014-05-21"/>
   <titles>
@@ -25,9 +25,12 @@
     <action datetime="2014-06-03">
       <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
     </action>
+    <calendar datetime="2014-11-13" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup"/>
     <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
   </committees>
   <relatedbills>

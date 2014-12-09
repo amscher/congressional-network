@@ -55,6 +55,15 @@
     }, 
     {
       "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Rubio, Marco", 
       "sponsored_at": "2014-02-27", 
       "state": "FL", 
@@ -132,5 +141,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:35:27-05:00"
+  "updated_at": "2014-12-06T07:36:46-05:00"
 }

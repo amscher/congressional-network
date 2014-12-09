@@ -79,6 +79,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Cartwright, Matt", 
       "sponsored_at": "2013-12-16", 
@@ -120,6 +129,15 @@
       "sponsored_at": "2013-06-18", 
       "state": "MO", 
       "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TN", 
+      "thomas_id": "01878", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -269,6 +287,15 @@
     }, 
     {
       "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
       "name": "Langevin, James R.", 
       "sponsored_at": "2013-06-14", 
       "state": "RI", 
@@ -367,6 +394,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2014-11-17", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Pocan, Mark", 
       "sponsored_at": "2013-06-14", 
@@ -394,6 +430,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Rush, Bobby L.", 
       "sponsored_at": "2013-06-14", 
@@ -417,6 +462,15 @@
       "sponsored_at": "2013-06-14", 
       "state": "IL", 
       "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01635", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -538,5 +592,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:42:33-05:00"
+  "updated_at": "2014-12-06T06:42:37-05:00"
 }

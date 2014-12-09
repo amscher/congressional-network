@@ -61,6 +61,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Johnson, Henry C. \"Hank,\" Jr.", 
       "sponsored_at": "2014-07-24", 
@@ -166,5 +175,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:21:48-05:00"
+  "updated_at": "2014-12-06T06:21:44-05:00"
 }

@@ -97,6 +97,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Pocan, Mark", 
       "sponsored_at": "2014-07-25", 
@@ -185,5 +194,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:42-05:00"
+  "updated_at": "2014-12-06T07:05:43-05:00"
 }

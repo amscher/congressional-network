@@ -206,11 +206,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-04", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Israel, Steve", 
       "sponsored_at": "2013-09-30", 
       "state": "NY", 
       "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David", 
+      "sponsored_at": "2014-11-14", 
+      "state": "FL", 
+      "thomas_id": "02199", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -350,11 +368,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Rogers, Mike J.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MI", 
+      "thomas_id": "01651", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Rooney, Thomas J.", 
       "sponsored_at": "2013-07-31", 
       "state": "FL", 
       "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2014-12-04", 
+      "state": "FL", 
+      "thomas_id": "00985", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -492,5 +528,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:38:18-05:00"
+  "updated_at": "2014-12-06T06:38:20-05:00"
 }

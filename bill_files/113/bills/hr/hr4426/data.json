@@ -426,6 +426,15 @@
       "thomas_id": "01856", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-20", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -483,5 +492,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:42-05:00"
+  "updated_at": "2014-12-06T06:59:48-05:00"
 }

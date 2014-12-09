@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5155" updated="2014-11-08T07:05:57-05:00">
+<bill session="113" type="h" number="5155" updated="2014-12-06T07:05:58-05:00">
   <state datetime="2014-07-17">REFERRED</state>
   <status>
     <introduced datetime="2014-07-17"/>
@@ -13,9 +13,13 @@
     <action datetime="2014-07-17" state="REFERRED">
       <text>Referred to the House Committee on Education and the Workforce.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
   </committees>
   <relatedbills/>
   <subjects>
@@ -27,4 +31,6 @@
     <term name="Physical fitness and lifestyle"/>
   </subjects>
   <amendments/>
+  <summary>7/17/2014--Introduced.
+Prohibits the National Endowment for the Humanities from providing funds to carry out the Popular Romance Project or any similar project relating to love or romance.</summary>
 </bill>

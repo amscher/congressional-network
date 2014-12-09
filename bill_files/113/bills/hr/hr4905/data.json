@@ -68,6 +68,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "McCaul, Michael T.", 
       "sponsored_at": "2014-06-19", 
@@ -134,5 +143,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:47-05:00"
+  "updated_at": "2014-12-06T07:03:52-05:00"
 }

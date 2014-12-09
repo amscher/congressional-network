@@ -552,6 +552,7 @@
   "status": "REFERRED", 
   "status_at": "2013-12-12", 
   "subjects": [
+    "Charitable contributions", 
     "Food assistance and relief", 
     "Food industry and services", 
     "Income tax deductions", 
@@ -580,5 +581,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:50-05:00"
+  "updated_at": "2014-12-06T06:53:57-05:00"
 }

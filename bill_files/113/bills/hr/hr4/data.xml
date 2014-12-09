@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4" updated="2014-11-08T06:22:31-05:00">
+<bill session="113" type="h" number="4" updated="2014-12-06T06:22:38-05:00">
   <state datetime="2014-09-18T18:45:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-09-18T18:45:00-04:00"/>
@@ -28,6 +28,9 @@
     <title type="short" as="introduced" partial="1">Unfunded Mandates Information and Transparency Act of 2014</title>
     <title type="short" as="passed house">Jobs for America Act</title>
     <title type="short" as="passed house" partial="1">National Strategic and Critical Minerals Production Act of 2014</title>
+    <title type="short" as="passed house" partial="1">O&amp;C Trust, Conservation, and Jobs Act</title>
+    <title type="short" as="passed house" partial="1">Restoring Healthy Forests for Healthy Communities Act</title>
+    <title type="short" as="passed house" partial="1">Unfunded Mandates Information and Transparency Act of 2014</title>
     <title type="official" as="introduced">To make revisions to Federal law to improve the conditions necessary for economic growth and job creation, and for other purposes.</title>
   </titles>
   <sponsor id="400058"/>
@@ -120,6 +123,12 @@
     <action datetime="2014-09-18T18:45:00-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2014-11-12">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-11-13" calendar="Senate Legislative" under="General Orders" number="597">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 597.</text>
+    </calendar>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" activity="Referral"/>

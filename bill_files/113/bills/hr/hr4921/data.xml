@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4921" updated="2014-11-08T07:03:55-05:00">
+<bill session="113" type="h" number="4921" updated="2014-12-06T07:04:00-05:00">
   <state datetime="2014-06-19">REFERRED</state>
   <status>
     <introduced datetime="2014-06-19"/>
@@ -32,4 +32,8 @@
     <term name="Product safety and quality"/>
   </subjects>
   <amendments/>
+  <summary>6/19/2014--Introduced.
+Amends the Energy Policy and Conservation Act to require the Administrator of the Environmental Protection Agency (EPA) to revise the Energy Star program to exempt program partners that have complied with all program requirements for a period of at least 18 months from third-party certification requirements for the labeling of consumer, home, and office electronic products. Allows the EPA to require that test data and other product information be submitted to facilitate product listing and performance verification for a sample of products.
+
+Terminates the exemption from third-party certification provided to a program partner if the partner is found to have violated program requirements with respect to at least two separate models during a two-year period. Resumes the exemption if the partner complies with all program requirements for at least three years.</summary>
 </bill>

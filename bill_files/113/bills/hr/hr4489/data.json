@@ -64,6 +64,30 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-08T13:03:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-648, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08T13:03:00-05:00", 
+      "references": [], 
+      "text": "Committee on Oversight and Government discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08T13:03:00-05:00", 
+      "calendar": "Union", 
+      "number": "486", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 486.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -254,6 +278,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Poe, Ted", 
       "sponsored_at": "2014-04-28", 
@@ -282,7 +315,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-06-18", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -413,5 +446,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:13-05:00"
+  "updated_at": "2014-12-08T18:48:43-05:00"
 }

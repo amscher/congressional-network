@@ -306,6 +306,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Duckworth, Tammy", 
       "sponsored_at": "2014-06-11", 
@@ -1269,6 +1278,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Stivers, Steve", 
       "sponsored_at": "2014-04-03", 
@@ -1487,5 +1505,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:35-05:00"
+  "updated_at": "2014-12-06T06:53:42-05:00"
 }

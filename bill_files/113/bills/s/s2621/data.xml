@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2621" updated="2014-11-08T07:40:15-05:00">
+<bill session="113" type="s" number="2621" updated="2014-12-06T07:41:35-05:00">
   <state datetime="2014-07-17">REFERRED</state>
   <status>
     <introduced datetime="2014-07-17"/>
@@ -13,8 +13,11 @@
     <cosponsor id="412493" joined="2014-07-30"/>
     <cosponsor id="412326" joined="2014-07-17"/>
     <cosponsor id="400040" joined="2014-07-17"/>
+    <cosponsor id="300023" joined="2014-11-20"/>
     <cosponsor id="412390" joined="2014-07-17"/>
+    <cosponsor id="300027" joined="2014-11-17"/>
     <cosponsor id="300030" joined="2014-07-17"/>
+    <cosponsor id="300051" joined="2014-11-17"/>
     <cosponsor id="300072" joined="2014-09-17"/>
     <cosponsor id="300075" joined="2014-09-08"/>
     <cosponsor id="400325" joined="2014-08-01"/>
@@ -23,6 +26,7 @@
     <cosponsor id="412244" joined="2014-07-17"/>
     <cosponsor id="400408" joined="2014-09-08"/>
     <cosponsor id="412247" joined="2014-09-17"/>
+    <cosponsor id="400432" joined="2014-12-02"/>
   </cosponsors>
   <actions>
     <action datetime="2014-07-17" state="REFERRED">
@@ -46,4 +50,12 @@
     <term name="Wildlife conservation and habitat protection"/>
   </subjects>
   <amendments/>
+  <summary>7/17/2014--Introduced.
+Federal Duck Stamp Act of 2014 - Amends the Migratory Bird Hunting and Conservation Stamp Act to increase the price of duck stamps, which are required to hunt migratory waterfowl, from $15 to $25.
+
+Authorizes the Department of the Interior to reduce the price of stamps for a hunting year if the increase in the stamp price resulted in a reduction in revenues deposited in the Migratory Bird Conservation Fund.
+
+Establishes a subaccount in the Fund to be used by Interior to acquire easements for the conservation of migratory birds. Directs the Secretary of the Treasury to transfer all amounts in excess of $15 from the sale of each stamp to the subaccount.
+
+Requires Interior to include in an annual report of the Migratory Bird Conservation Commission an assessment of the status of wetlands conservation projects for migratory bird conservation purposes, including an accounting of all expenditures made for acquisition of federal lands.</summary>
 </bill>

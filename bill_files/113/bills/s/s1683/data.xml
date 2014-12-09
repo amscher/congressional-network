@@ -1,12 +1,13 @@
-<bill session="113" type="s" number="1683" updated="2014-11-08T07:32:21-05:00">
-  <state datetime="2013-11-14">REPORTED</state>
+<bill session="113" type="s" number="1683" updated="2014-12-08T18:48:57-05:00">
+  <state datetime="2014-12-04">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2013-11-14"/>
+    <unknown datetime="2014-12-04"/>
   </status>
   <introduced datetime="2013-11-12"/>
   <titles>
     <title type="short" as="introduced" partial="1">Naval Vessel Transfer Act of 2013</title>
     <title type="short" as="reported to senate" partial="1">Naval Vessel Transfer Act of 2013</title>
+    <title type="short" as="passed senate">Naval Vessel Transfer Act of 2013</title>
     <title type="official" as="introduced">A bill to provide for the transfer of naval vessels to certain foreign recipients, and for other purposes.</title>
   </titles>
   <sponsor id="400272"/>
@@ -27,6 +28,19 @@
     <calendar datetime="2013-11-14" calendar="Senate Legislative" under="General Orders" number="247">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.</text>
     </calendar>
+    <action datetime="2014-12-04">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6355" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-08T12:32:00-05:00">
+      <text>Received in the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
@@ -66,7 +80,9 @@
     <term name="Thailand"/>
     <term name="Visas and passports"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s3973"/>
+  </amendments>
   <summary>11/14/2013--Reported to Senate without amendment.
 Title I: Transfer of Excess United States Naval Vessels - Naval Vessels Transfer Act of 2013 - (Sec. 102) Authorizes the President to transfer on a grant basis to: (1) Mexico, the OLIVER HAZARD PERRY class guided missile frigates CURTS and MCCLUSKY; and (2) Thailand, the OLIVER HAZARD PERRY class guided missile frigates RENTZ and VANDEGRIFT.
 

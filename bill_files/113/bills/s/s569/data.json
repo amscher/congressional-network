@@ -128,6 +128,15 @@
     }, 
     {
       "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Heitkamp, Heidi", 
       "sponsored_at": "2013-07-15", 
       "state": "ND", 
@@ -328,5 +337,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:22:51-05:00"
+  "updated_at": "2014-12-06T07:24:01-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="2397" updated="2014-11-08T06:42:40-05:00">
+<bill session="113" type="h" number="2397" updated="2014-12-06T06:42:44-05:00">
   <state datetime="2013-07-24T19:31:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2013-07-24T19:31:00-04:00"/>
@@ -463,6 +463,7 @@
     <term name="Caribbean area"/>
     <term name="Central Intelligence Agency (CIA)"/>
     <term name="Chad"/>
+    <term name="Charitable contributions"/>
     <term name="Chemical and biological weapons"/>
     <term name="Child safety and welfare"/>
     <term name="Community life and organization"/>

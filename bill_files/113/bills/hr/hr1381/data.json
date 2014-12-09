@@ -190,6 +190,7 @@
   "status": "REFERRED", 
   "status_at": "2013-03-21", 
   "subjects": [
+    "Charitable contributions", 
     "Elementary and secondary education", 
     "Income tax credits", 
     "Sales and excise taxes", 
@@ -217,5 +218,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:34:05-05:00"
+  "updated_at": "2014-12-06T06:34:08-05:00"
 }

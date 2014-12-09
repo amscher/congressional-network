@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="1761" updated="2014-11-08T06:37:19-05:00">
+<bill session="113" type="h" number="1761" updated="2014-12-08T18:48:34-05:00">
   <state datetime="2013-04-25">REFERRED</state>
   <status>
     <introduced datetime="2013-04-25"/>
@@ -23,6 +23,7 @@
     <cosponsor id="412208" joined="2013-05-16"/>
     <cosponsor id="412567" joined="2014-05-28"/>
     <cosponsor id="412539" joined="2014-01-07"/>
+    <cosponsor id="400048" joined="2014-11-12"/>
     <cosponsor id="412516" joined="2014-03-26"/>
     <cosponsor id="400616" joined="2013-05-09"/>
     <cosponsor id="412601" joined="2014-04-29"/>
@@ -55,7 +56,9 @@
     <cosponsor id="400163" joined="2014-03-13"/>
     <cosponsor id="412418" joined="2014-03-13"/>
     <cosponsor id="400170" joined="2013-05-09"/>
+    <cosponsor id="412584" joined="2014-11-13"/>
     <cosponsor id="412446" joined="2013-09-18"/>
+    <cosponsor id="412282" joined="2014-11-13"/>
     <cosponsor id="400179" joined="2014-06-10"/>
     <cosponsor id="412559" joined="2014-05-28"/>
     <cosponsor id="400195" joined="2014-06-19"/>
@@ -78,6 +81,7 @@
     <cosponsor id="412521" joined="2014-03-25"/>
     <cosponsor id="412558" joined="2014-01-09"/>
     <cosponsor id="412293" joined="2014-05-20"/>
+    <cosponsor id="400249" joined="2014-11-12"/>
     <cosponsor id="400663" joined="2014-01-09"/>
     <cosponsor id="400259" joined="2014-01-07"/>
     <cosponsor id="400644" joined="2014-05-21"/>
@@ -89,6 +93,7 @@
     <cosponsor id="400283" joined="2013-06-11"/>
     <cosponsor id="412518" joined="2014-02-04"/>
     <cosponsor id="412305" joined="2013-07-11"/>
+    <cosponsor id="400316" joined="2014-11-13"/>
     <cosponsor id="400318" joined="2013-06-19"/>
     <cosponsor id="412585" joined="2013-05-09"/>
     <cosponsor id="412309" joined="2014-03-24"/>
@@ -120,6 +125,8 @@
     <cosponsor id="412213" joined="2014-02-25"/>
     <cosponsor id="400419" joined="2013-07-11"/>
     <cosponsor id="412538" joined="2014-04-01"/>
+    <cosponsor id="400623" joined="2014-11-19"/>
+    <cosponsor id="400422" joined="2014-12-08"/>
     <cosponsor id="412564" joined="2013-07-16"/>
     <cosponsor id="400431" joined="2013-07-09"/>
     <cosponsor id="400433" joined="2013-11-15"/>

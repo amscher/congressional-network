@@ -224,11 +224,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2014-11-18", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Grijalva, Raul M.", 
       "sponsored_at": "2013-06-05", 
       "state": "AZ", 
       "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "02041", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -278,11 +296,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "19", 
       "name": "Lofgren, Zoe", 
       "sponsored_at": "2013-06-27", 
       "state": "CA", 
       "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "02111", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -537,5 +573,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:17:57-05:00"
+  "updated_at": "2014-12-06T06:17:53-05:00"
 }

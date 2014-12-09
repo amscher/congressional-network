@@ -283,6 +283,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Ross, Dennis A.", 
       "sponsored_at": "2014-07-08", 
@@ -403,5 +412,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:16-05:00"
+  "updated_at": "2014-12-06T07:04:21-05:00"
 }

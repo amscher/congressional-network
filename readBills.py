@@ -31,6 +31,7 @@ def isComplete(bill):
 
 def readBills(directory_prefix, bill_type):
   numInComplete = 0
+  # MAKE SURE THIS FILE EXISTS
   congressmen = CD.dataMapFromFile()
   bills = {} # map from id-->Bill object
 

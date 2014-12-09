@@ -120,6 +120,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Clarke, Yvette D.", 
       "sponsored_at": "2013-07-30", 
@@ -255,6 +264,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-04", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Hinojosa, Ruben", 
       "sponsored_at": "2013-07-30", 
@@ -341,6 +359,24 @@
       "sponsored_at": "2013-10-23", 
       "state": "CA", 
       "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NM", 
+      "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NY", 
+      "thomas_id": "00729", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -543,6 +579,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "43", 
       "name": "Waters, Maxine", 
       "sponsored_at": "2013-08-01", 
@@ -625,5 +670,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:46:27-05:00"
+  "updated_at": "2014-12-06T06:46:33-05:00"
 }

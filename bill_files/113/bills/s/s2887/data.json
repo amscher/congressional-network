@@ -82,7 +82,11 @@
     "Transportation and public works"
   ], 
   "subjects_top_term": "Transportation and public works", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Accessible Transportation for All Act - Requires owners or operators of a for-hire transportation company, taxi service, or transportation network company to provide accessible vehicles for hire by disabled individuals in need of transportation services.\n\nProhibits discrimination against disabled individuals in the provision of for-hire transportation services.\n\nRequires the Administrator of the Federal Transit Administration (FTA) to organize a national competition for U.S. automobile manufacturers to design one or more model accessible taxi vehicles and model accessible passenger cars.\n\nEstablishes in the FTA an Accessible Taxi and For-Hire Transportation Board.\n\nRequires states to develop a strategic plan to increase the availability of accessible taxi vehicles, accessible vehicles for hire, and other accessible for-hire transportation options for people with disabilities.\n\nDirects the Administrator, in collaboration with the U.S. Access Board, to promulgate accessibility and service standards for accessible taxi vehicles and accessible vehicles for hire to ensure that they are fully accessible to, and usable by, passengers with disabilities.\n\nAmends the Internal Revenue Code to allow a tax credit for expenditures incurred by a small business that is a qualified taxi company in purchasing or adapting a vehicle for use as an accessible taxi vehicle."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -97,5 +101,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:29-05:00"
+  "updated_at": "2014-12-06T07:43:49-05:00"
 }

@@ -71,6 +71,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "26", 
       "name": "Brownley, Julia", 
       "sponsored_at": "2014-05-02", 
@@ -152,6 +161,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Roskam, Peter J.", 
       "sponsored_at": "2013-07-17", 
@@ -171,10 +189,19 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-06-10", 
       "state": "MO", 
       "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "01664", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -238,5 +265,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:40:30-05:00"
+  "updated_at": "2014-12-06T06:40:32-05:00"
 }

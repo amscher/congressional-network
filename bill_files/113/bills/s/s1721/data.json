@@ -9,6 +9,17 @@
       "status": "REFERRED", 
       "text": "Read twice and referred to the Committee on the Judiciary.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committee": "Committee on the Judiciary", 
+      "committees": [
+        "SSJU"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on the Judiciary. Hearings held.", 
+      "type": "hearings"
     }
   ], 
   "amendments": [], 
@@ -18,7 +29,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "hearings"
       ], 
       "committee": "Senate Judiciary", 
       "committee_id": "SSJU"
@@ -38,7 +50,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-04", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -99,5 +112,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:32:40-05:00"
+  "updated_at": "2014-12-06T07:33:55-05:00"
 }

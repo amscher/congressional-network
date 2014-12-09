@@ -43,6 +43,33 @@
       "thomas_id": "01464", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "sponsored_at": "2014-11-17", 
+      "state": "VA", 
+      "thomas_id": "02176", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-11-13", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "VA", 
+      "thomas_id": "01897", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -102,5 +129,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:37-05:00"
+  "updated_at": "2014-12-06T07:41:56-05:00"
 }

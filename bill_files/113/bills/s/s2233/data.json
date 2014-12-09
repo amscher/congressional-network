@@ -131,6 +131,7 @@
   "status_at": "2014-04-09", 
   "subjects": [
     "Business investment and capital", 
+    "Charitable contributions", 
     "Credit and credit markets", 
     "Disaster relief and insurance", 
     "Employee benefits and pensions", 
@@ -175,5 +176,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:36:57-05:00"
+  "updated_at": "2014-12-06T07:38:16-05:00"
 }

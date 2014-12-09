@@ -133,6 +133,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Norton, Eleanor Holmes", 
       "sponsored_at": "2014-05-01", 
@@ -147,6 +156,15 @@
       "sponsored_at": "2014-07-30", 
       "state": "NJ", 
       "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2014-11-13", 
+      "state": "ME", 
+      "thomas_id": "01927", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -273,5 +291,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:59-05:00"
+  "updated_at": "2014-12-06T06:58:05-05:00"
 }

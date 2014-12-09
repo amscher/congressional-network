@@ -61,6 +61,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2014-11-19", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Connolly, Gerald E.", 
       "sponsored_at": "2014-05-22", 
@@ -93,6 +102,15 @@
       "sponsored_at": "2014-07-08", 
       "state": "NC", 
       "thomas_id": "02143", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NH", 
+      "thomas_id": "02145", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -208,5 +226,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:14-05:00"
+  "updated_at": "2014-12-06T07:02:19-05:00"
 }

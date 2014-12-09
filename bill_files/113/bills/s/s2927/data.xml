@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="2927" updated="2014-12-06T07:44:11-05:00">
+  <state datetime="2014-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-13"/>
+  </status>
+  <introduced datetime="2014-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Inspectors General Streamlining Act</title>
+    <title type="official" as="introduced">A bill to strengthen Inspector General audits and investigations by streamlining computer matching agreements.</title>
+  </titles>
+  <sponsor id="400576"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-11-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Computers and information technology"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+</bill>

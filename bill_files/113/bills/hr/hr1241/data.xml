@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="1241" updated="2014-11-08T06:32:52-05:00">
+<bill session="113" type="h" number="1241" updated="2014-12-06T06:32:58-05:00">
   <state datetime="2013-12-03T13:48:00-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2013-12-03T13:48:00-05:00"/>
@@ -54,11 +54,14 @@
     <action datetime="2014-07-30">
       <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
     </action>
+    <calendar datetime="2014-11-13">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
     <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup"/>
     <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
   </committees>
   <relatedbills>

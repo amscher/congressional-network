@@ -268,6 +268,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2014-11-12", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Rangel, Charles B.", 
       "sponsored_at": "2014-03-06", 
@@ -442,5 +451,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:33-05:00"
+  "updated_at": "2014-12-06T06:57:39-05:00"
 }

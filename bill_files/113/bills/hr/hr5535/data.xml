@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5535" updated="2014-11-08T07:09:10-05:00">
+<bill session="113" type="h" number="5535" updated="2014-12-06T07:09:08-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -31,4 +31,6 @@
     <term name="Sound recording"/>
   </subjects>
   <amendments/>
+  <summary>9/18/2014--Introduced.
+Custodial Interrogation Recording Act - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to direct the Attorney General to make grants to states and local governments for the complete and accurate recording, by both audio and video means, of every custodial interrogation occurring within the state or unit of local government.</summary>
 </bill>

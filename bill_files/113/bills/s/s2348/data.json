@@ -64,10 +64,64 @@
     }, 
     {
       "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Coons, Christopher A.", 
       "sponsored_at": "2014-09-17", 
       "state": "DE", 
       "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2014-11-17", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-11-17", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2014-11-17", 
+      "state": "WA", 
+      "thomas_id": "01409", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -164,5 +218,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:55-05:00"
+  "updated_at": "2014-12-06T07:39:14-05:00"
 }

@@ -548,6 +548,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "McCarthy, Carolyn", 
       "sponsored_at": "2013-04-25", 
@@ -946,5 +955,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:01-05:00"
+  "updated_at": "2014-12-06T06:37:04-05:00"
 }

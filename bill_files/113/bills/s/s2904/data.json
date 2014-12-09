@@ -25,7 +25,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Paul, Rand", 
+      "sponsored_at": "2014-11-18", 
+      "state": "KY", 
+      "thomas_id": "02082", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -83,5 +93,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:37-05:00"
+  "updated_at": "2014-12-06T07:43:58-05:00"
 }

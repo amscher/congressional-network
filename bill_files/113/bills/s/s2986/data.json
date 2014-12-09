@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2986-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-04", 
+  "number": "2986", 
+  "official_title": "A bill to require the Secretary of the Interior to assemble a team of technical, policy, and financial experts to address the energy needs of the insular areas of the United States and the Freely Associated States through the development of energy action plans aimed at promoting access to affordable, reliable energy, including increasing use of indigenous clean-energy resources, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Schatz, Brian", 
+    "state": "HI", 
+    "thomas_id": "02173", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-04", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of the Interior to assemble a team of technical, policy, and financial experts to address the energy needs of the insular areas of the United States and the Freely Associated States through the development of energy action plans aimed at promoting access to affordable, reliable energy, including increasing use of indigenous clean-energy resources, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:41-05:00"
+}

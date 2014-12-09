@@ -226,7 +226,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-08", 
+    "text": "Fish Hatchery Protection Act - Prohibits the Secretary of the Interior from permanently closing, reprograming, repurposing, decommissioning, significantly altering, or moving to caretaker status any fish and other aquatic species propagation hatchery or propagation program within the National Fish Hatchery System unless such action is expressly authorized by an Act of Congress.\n\nMakes this Act effective from November 1, 2013, to ten years after this Act's enactment."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -241,5 +245,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:48-05:00"
+  "updated_at": "2014-12-06T07:04:53-05:00"
 }

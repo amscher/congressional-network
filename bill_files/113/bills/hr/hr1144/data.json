@@ -136,7 +136,13 @@
   "number": "1144", 
   "official_title": "To restore an opportunity for tribal economic development on terms that are equal and fair, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2923-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Alabama-Coushatta Tribe of Texas Equal and Fair Opportunity Settlement Act", 
   "sponsor": {
     "district": "36", 
@@ -179,5 +185,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:03-05:00"
+  "updated_at": "2014-12-06T06:32:10-05:00"
 }

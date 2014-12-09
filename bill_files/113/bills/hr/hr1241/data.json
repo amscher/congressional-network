@@ -116,6 +116,16 @@
       "references": [], 
       "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.", 
       "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -145,7 +155,8 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "Senate Energy and Natural Resources", 
       "committee_id": "SSEG"
@@ -233,5 +244,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:52-05:00"
+  "updated_at": "2014-12-06T06:32:58-05:00"
 }

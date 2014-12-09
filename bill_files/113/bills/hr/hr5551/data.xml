@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5551" updated="2014-11-08T07:09:18-05:00">
+<bill session="113" type="h" number="5551" updated="2014-12-06T07:09:16-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -18,6 +18,8 @@
     <cosponsor id="412460" joined="2014-09-18"/>
     <cosponsor id="412256" joined="2014-09-18"/>
     <cosponsor id="412445" joined="2014-09-18"/>
+    <cosponsor id="400277" joined="2014-11-13"/>
+    <cosponsor id="412442" joined="2014-11-13"/>
     <cosponsor id="400313" joined="2014-09-18"/>
     <cosponsor id="400320" joined="2014-09-18"/>
   </cosponsors>
@@ -45,4 +47,12 @@
     <term name="Women's health"/>
   </subjects>
   <amendments/>
+  <summary>9/18/2014--Introduced.
+Heartbeat Informed Consent Act - Amends the Public Health Service Act to require abortion providers, if performing an ultrasound on a pregnant woman prior to an abortion, to display the ultrasound images so that she may view them and provide a medical description of the ultrasound images of the unborn child's cardiac activity, if present and viewable.
+
+Requires an abortion provider to make the embryonic or fetal heartbeat audible for the pregnant woman to hear prior to the woman giving informed consent to an abortion if the pregnancy is at least eight weeks after fertilization.
+
+Exempts an abortion provider if the abortion is necessary to save the life of a mother whose life is endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself. Requires a certification of the medical condition to be included in the pregnant woman's medical file and kept by the abortion provider for not less than five years.
+
+Subjects an abortion provider who knowingly or recklessly fails to comply with this Act to civil penalties and notification of the appropriate state medical licensing authority. Gives standing to file a civil action for violations of this Act to the Attorney General or a woman upon whom an abortion has been performed in violation of this Act or the parent or legal guardian of such a woman if she is an unemancipated minor.</summary>
 </bill>

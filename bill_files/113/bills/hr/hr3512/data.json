@@ -66,7 +66,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NE", 
+      "thomas_id": "01793", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -117,5 +127,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:52:02-05:00"
+  "updated_at": "2014-12-06T06:52:08-05:00"
 }

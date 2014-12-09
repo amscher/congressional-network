@@ -71,6 +71,24 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2014-11-14", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2014-11-19", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "45", 
       "name": "Campbell, John", 
       "sponsored_at": "2014-09-11", 
@@ -117,6 +135,24 @@
     }, 
     {
       "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TN", 
+      "thomas_id": "02061", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2014-12-04", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
       "name": "Jones, Walter B., Jr.", 
       "sponsored_at": "2014-09-09", 
       "state": "NC", 
@@ -130,6 +166,33 @@
       "sponsored_at": "2014-09-09", 
       "state": "OK", 
       "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01506", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -152,11 +215,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "32", 
       "name": "Sessions, Pete", 
       "sponsored_at": "2014-07-31", 
       "state": "TX", 
       "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AL", 
+      "thomas_id": "01988", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -203,5 +293,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:21-05:00"
+  "updated_at": "2014-12-06T07:07:21-05:00"
 }

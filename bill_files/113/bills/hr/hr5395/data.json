@@ -34,6 +34,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Workforce Protections.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -47,6 +54,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Workforce Protections", 
+      "subcommittee_id": "10"
     }, 
     {
       "activity": [
@@ -161,5 +177,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:00-05:00"
+  "updated_at": "2014-12-06T07:07:58-05:00"
 }

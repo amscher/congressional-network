@@ -170,6 +170,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "01839", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "27", 
       "name": "Chu, Judy", 
       "sponsored_at": "2013-09-30", 
@@ -238,6 +247,15 @@
       "sponsored_at": "2013-09-11", 
       "state": "TX", 
       "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2014-11-17", 
+      "state": "TX", 
+      "thomas_id": "01670", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -422,6 +440,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Grimm, Michael G.", 
       "sponsored_at": "2014-09-16", 
@@ -436,6 +463,15 @@
       "sponsored_at": "2013-10-28", 
       "state": "KY", 
       "thomas_id": "01922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IL", 
+      "thomas_id": "00478", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -800,6 +836,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Nolan, Richard M.", 
       "sponsored_at": "2014-07-29", 
@@ -854,6 +899,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "Payne, Donald M., Jr.", 
       "sponsored_at": "2013-10-30", 
@@ -899,11 +953,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Rangel, Charles B.", 
       "sponsored_at": "2013-09-26", 
       "state": "NY", 
       "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "AL", 
+      "thomas_id": "01704", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1106,6 +1178,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "34", 
       "name": "Vela, Filemon", 
       "sponsored_at": "2013-07-10", 
@@ -1147,6 +1228,15 @@
       "sponsored_at": "2013-09-17", 
       "state": "KY", 
       "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "02004", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1240,5 +1330,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:36:32-05:00"
+  "updated_at": "2014-12-06T06:36:34-05:00"
 }

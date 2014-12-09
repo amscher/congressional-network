@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="2218" updated="2014-11-08T06:41:09-05:00">
+<bill session="113" type="h" number="2218" updated="2014-12-06T06:41:13-05:00">
   <state datetime="2013-07-25T11:41:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2013-07-25T11:41:00-04:00"/>
@@ -109,10 +109,10 @@
       <text>Rule provides for consideration of H.R. 2218 and H.R. 1582.</text>
     </action>
     <action datetime="2013-07-25T09:17:00-04:00">
-      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 315 and Rule XVIII.</text>
+      <text>The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.</text>
     </action>
     <action datetime="2013-07-25T09:17:00-04:00">
-      <text>The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.</text>
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 315 and Rule XVIII.</text>
     </action>
     <action datetime="2013-07-25T09:18:00-04:00">
       <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2218.</text>

@@ -53,10 +53,136 @@
   "cosponsors": [
     {
       "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2014-11-13", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "01839", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clark, Katherine M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "02196", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2014-11-13", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Gallego, Pete P.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "02164", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
       "name": "Garamendi, John", 
       "sponsored_at": "2014-06-12", 
       "state": "CA", 
       "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hanabusa, Colleen W.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "HI", 
+      "thomas_id": "02010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "GA", 
+      "thomas_id": "01843", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -88,11 +214,83 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Kennedy, Joseph P. III", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "02172", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "McGovern, James P.", 
       "sponsored_at": "2014-05-20", 
       "state": "MA", 
       "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2014-11-13", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2014-11-13", 
+      "state": "PA", 
+      "thomas_id": "01952", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -115,11 +313,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "Webster, Daniel", 
       "sponsored_at": "2014-07-14", 
       "state": "FL", 
       "thomas_id": "02002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-13", 
+      "state": "VT", 
+      "thomas_id": "01879", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -174,5 +399,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:00-05:00"
+  "updated_at": "2014-12-06T07:02:06-05:00"
 }

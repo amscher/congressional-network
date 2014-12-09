@@ -306,6 +306,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Latta, Robert E.", 
       "sponsored_at": "2013-07-31", 
@@ -356,6 +365,15 @@
       "sponsored_at": "2013-07-26", 
       "state": "FL", 
       "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Noem, Kristi L.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "SD", 
+      "thomas_id": "02060", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -525,5 +543,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:58-05:00"
+  "updated_at": "2014-12-06T06:46:04-05:00"
 }

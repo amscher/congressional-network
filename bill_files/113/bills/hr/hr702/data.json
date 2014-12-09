@@ -197,6 +197,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2014-11-18", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "20", 
       "name": "Hastings, Alcee L.", 
       "sponsored_at": "2013-06-17", 
@@ -473,5 +482,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:21-05:00"
+  "updated_at": "2014-12-06T06:28:28-05:00"
 }

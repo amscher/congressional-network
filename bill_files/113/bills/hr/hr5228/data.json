@@ -261,6 +261,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Moore, Gwen", 
       "sponsored_at": "2014-09-08", 
@@ -410,5 +419,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:35-05:00"
+  "updated_at": "2014-12-06T07:06:34-05:00"
 }

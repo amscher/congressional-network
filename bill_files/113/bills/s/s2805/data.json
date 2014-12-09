@@ -47,7 +47,13 @@
   "number": "2805", 
   "official_title": "A bill to designate the Department of Veterans Affairs clinic in Billings, Montana, as the \"Bear Root Department of Veterans Affairs Clinic\".", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr5763-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": null, 
@@ -82,5 +88,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:48-05:00"
+  "updated_at": "2014-12-06T07:43:08-05:00"
 }

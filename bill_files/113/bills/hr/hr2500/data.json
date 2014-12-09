@@ -372,6 +372,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Jenkins, Lynn", 
       "sponsored_at": "2013-09-17", 
@@ -449,6 +458,15 @@
       "sponsored_at": "2013-06-25", 
       "state": "CT", 
       "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -579,6 +597,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Roe, David P.", 
       "sponsored_at": "2013-06-25", 
@@ -665,6 +692,15 @@
       "sponsored_at": "2013-06-25", 
       "state": "OH", 
       "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "02104", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -823,5 +859,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:31-05:00"
+  "updated_at": "2014-12-06T06:43:37-05:00"
 }

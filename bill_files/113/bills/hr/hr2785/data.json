@@ -45,6 +45,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "Denham, Jeff", 
       "sponsored_at": "2013-07-22", 
@@ -232,5 +241,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:54-05:00"
+  "updated_at": "2014-12-06T06:46:00-05:00"
 }

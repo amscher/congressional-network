@@ -262,6 +262,15 @@
     }, 
     {
       "district": "5", 
+      "name": "Lankford, James", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OK", 
+      "thomas_id": "02050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
       "name": "Latta, Robert E.", 
       "sponsored_at": "2014-07-30", 
       "state": "OH", 
@@ -562,5 +571,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:03-05:00"
+  "updated_at": "2014-12-06T07:07:03-05:00"
 }

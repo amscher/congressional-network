@@ -103,6 +103,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Conyers, John, Jr.", 
       "sponsored_at": "2013-03-21", 
@@ -117,6 +126,15 @@
       "sponsored_at": "2013-03-21", 
       "state": "MN", 
       "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01634", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -252,5 +270,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:33:57-05:00"
+  "updated_at": "2014-12-06T06:34:00-05:00"
 }

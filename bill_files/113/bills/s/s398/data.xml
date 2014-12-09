@@ -1,7 +1,7 @@
-<bill session="113" type="s" number="398" updated="2014-11-08T07:21:24-05:00">
-  <state datetime="2013-02-27">REFERRED</state>
+<bill session="113" type="s" number="398" updated="2014-12-06T07:22:35-05:00">
+  <state datetime="2014-11-13">REPORTED</state>
   <status>
-    <introduced datetime="2013-02-27"/>
+    <unknown datetime="2014-11-13"/>
   </status>
   <introduced datetime="2013-02-27"/>
   <titles>
@@ -17,6 +17,7 @@
     <cosponsor id="300011" joined="2013-02-27"/>
     <cosponsor id="300018" joined="2013-07-08"/>
     <cosponsor id="400064" joined="2014-05-13"/>
+    <cosponsor id="412390" joined="2014-11-12"/>
     <cosponsor id="300043" joined="2013-02-27"/>
     <cosponsor id="412556" joined="2014-05-07"/>
     <cosponsor id="412223" joined="2014-01-27"/>
@@ -51,9 +52,12 @@
     <action datetime="2013-07-31">
       <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
     </action>
+    <calendar datetime="2014-11-13" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
     <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
   </committees>
   <relatedbills>

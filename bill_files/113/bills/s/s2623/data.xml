@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2623" updated="2014-11-08T07:40:16-05:00">
+<bill session="113" type="s" number="2623" updated="2014-12-06T07:41:36-05:00">
   <state datetime="2014-07-17">REFERRED</state>
   <status>
     <introduced datetime="2014-07-17"/>
@@ -32,4 +32,6 @@
     <term name="Oil and gas"/>
   </subjects>
   <amendments/>
+  <summary>7/17/2014--Introduced.
+Prohibits the Secretary of Agriculture (USDA) or the Secretary of the Interior from implementing or limiting any modification to a public or private land-related policy or subsurface mineral right-related policy or practice that is in effect on enactment of this Act relating to the listing of the lesser prairie chicken as a threatened species or endangered species under the Endangered Species Act of 1973.</summary>
 </bill>

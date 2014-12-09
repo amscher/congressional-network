@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2003" updated="2014-11-08T07:35:02-05:00">
+<bill session="113" type="s" number="2003" updated="2014-12-06T07:36:21-05:00">
   <state datetime="2014-02-06">REFERRED</state>
   <status>
     <introduced datetime="2014-02-06"/>
@@ -24,6 +24,7 @@
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="2502"/>
     <bill relation="unknown" session="113" type="h" number="3017"/>
+    <bill relation="unknown" session="113" type="h" number="5559"/>
   </relatedbills>
   <subjects>
     <term name="Taxation"/>

@@ -259,6 +259,7 @@
   "status": "REFERRED", 
   "status_at": "2013-01-25", 
   "subjects": [
+    "Charitable contributions", 
     "Education of the disadvantaged", 
     "Elementary and secondary education", 
     "Income tax credits", 
@@ -287,5 +288,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:26:00-05:00"
+  "updated_at": "2014-12-06T06:26:07-05:00"
 }

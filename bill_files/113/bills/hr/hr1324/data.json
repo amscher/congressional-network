@@ -71,6 +71,15 @@
       "thomas_id": "01756", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -87,6 +96,11 @@
   "related_bills": [
     {
       "bill_id": "hr5579-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5720-113", 
       "reason": "related", 
       "type": "bill"
     }, 
@@ -133,5 +147,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:33:37-05:00"
+  "updated_at": "2014-12-06T06:33:40-05:00"
 }

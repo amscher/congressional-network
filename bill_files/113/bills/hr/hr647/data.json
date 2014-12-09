@@ -49,9 +49,146 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T15:23:00-05:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-614, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T15:23:00-05:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T15:24:00-05:00", 
+      "calendar": "Union", 
+      "number": "456", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 456.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-02T16:28:00-05:00", 
+      "bill_ids": [
+        "hres766-113", 
+        "hr5771-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 766 Reported to House. The rule provides for a closed rule for H.R. 5771 and H.R. 647.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:11:00-05:00", 
+      "bill_ids": [
+        "hres766-113"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 766 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:26:00-05:00", 
+      "bill_ids": [
+        "hres766-113"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8312-8322", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 766.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:26:00-05:00", 
+      "bill_ids": [
+        "hr5771-113"
+      ], 
+      "references": [], 
+      "text": "The rule provides for a closed rule for H.R. 5771 and H.R. 647.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:27:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 647.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T16:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8322", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T16:11:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 647, the Chair put the question on passage, and by voice vote, announced that the ayes had prevailed. Mr. Reichert demanded a the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T17:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8343-8344", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T17:57:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8312-8317", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "545", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 404 - 17 (Roll no. 545).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-03T17:57:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt1150-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1150"
+    }
+  ], 
   "bill_id": "hr647-113", 
   "bill_type": "hr", 
   "by_request": false, 
@@ -60,6 +197,7 @@
       "activity": [
         "referral", 
         "markup", 
+        "reporting", 
         "in committee"
       ], 
       "committee": "House Ways and Means", 
@@ -68,6 +206,7 @@
     {
       "activity": [
         "referral", 
+        "discharged", 
         "in committee"
       ], 
       "committee": "House Energy and Commerce", 
@@ -3512,6 +3651,8 @@
     "active_at": "2014-07-31", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-03T17:57:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-02-13", 
@@ -3520,12 +3661,17 @@
   "popular_title": null, 
   "related_bills": [
     {
+      "bill_id": "hres766-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s313-113", 
       "reason": "identical", 
       "type": "bill"
     }
   ], 
-  "short_title": "ABLE Act of 2013", 
+  "short_title": "ABLE Act of 2014", 
   "sponsor": {
     "district": "4", 
     "name": "Crenshaw, Ander", 
@@ -3534,8 +3680,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-07-31", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-03T17:57:00-05:00", 
   "subjects": [
     "Bank accounts, deposits, capital", 
     "Disability and paralysis", 
@@ -3565,11 +3711,23 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "ABLE Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Achieving a Better Life Experience Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To amend the Internal Revenue Code of 1986 to provide for the tax treatment of ABLE accounts established under State programs for the care of family members with disabilities, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:27:53-05:00"
+  "updated_at": "2014-12-08T15:47:54-05:00"
 }

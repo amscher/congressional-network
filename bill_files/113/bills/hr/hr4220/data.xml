@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="4220" updated="2014-11-08T06:57:58-05:00">
-  <state datetime="2014-03-12">REFERRED</state>
+<bill session="113" type="h" number="4220" updated="2014-12-06T06:58:05-05:00">
+  <state datetime="2014-11-19">REPORTED</state>
   <status>
-    <introduced datetime="2014-03-12"/>
+    <unknown datetime="2014-11-19"/>
   </status>
   <introduced datetime="2014-03-12"/>
   <titles>
@@ -20,11 +20,23 @@
     <action datetime="2014-03-21">
       <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
     </action>
+    <action datetime="2014-11-19">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-11-19" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
-    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
-    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
   </committees>
   <relatedbills>
     <bill relation="identical" session="113" type="s" number="2123"/>

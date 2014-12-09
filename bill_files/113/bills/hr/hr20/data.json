@@ -1256,6 +1256,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Ruppersberger, C. A. Dutch", 
       "sponsored_at": "2014-02-25", 
@@ -1599,5 +1608,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:39-05:00"
+  "updated_at": "2014-12-06T06:22:46-05:00"
 }

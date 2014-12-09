@@ -63,6 +63,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Black, Diane", 
       "sponsored_at": "2014-01-09", 
@@ -131,6 +140,15 @@
       "sponsored_at": "2014-05-20", 
       "state": "IL", 
       "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NC", 
+      "thomas_id": "01761", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -207,6 +225,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Cohen, Steve", 
       "sponsored_at": "2014-01-09", 
@@ -225,11 +252,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Cooper, Jim", 
       "sponsored_at": "2014-01-09", 
       "state": "TN", 
       "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "01604", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -243,11 +297,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Delaney, John K.", 
       "sponsored_at": "2014-04-30", 
       "state": "MD", 
       "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02096", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -279,6 +351,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Enyart, William L.", 
       "sponsored_at": "2014-04-02", 
@@ -293,6 +374,15 @@
       "sponsored_at": "2014-06-12", 
       "state": "CT", 
       "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "00368", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -320,6 +410,15 @@
       "sponsored_at": "2014-05-22", 
       "state": "VA", 
       "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2014-12-03", 
+      "state": "IL", 
+      "thomas_id": "01888", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -356,6 +455,33 @@
       "sponsored_at": "2014-04-08", 
       "state": "TX", 
       "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Griffin, Tim", 
+      "sponsored_at": "2014-11-13", 
+      "state": "AR", 
+      "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "sponsored_at": "2014-11-17", 
+      "state": "KY", 
+      "thomas_id": "01922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "02044", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -477,6 +603,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "16", 
       "name": "Kinzinger, Adam", 
       "sponsored_at": "2014-05-22", 
@@ -491,6 +635,15 @@
       "sponsored_at": "2014-04-28", 
       "state": "NH", 
       "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CO", 
+      "thomas_id": "01834", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -567,6 +720,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Lynch, Stephen F.", 
       "sponsored_at": "2014-02-26", 
@@ -630,6 +801,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2014-11-13", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Messer, Luke", 
       "sponsored_at": "2014-04-01", 
@@ -653,6 +833,15 @@
       "sponsored_at": "2014-05-22", 
       "state": "OK", 
       "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "02117", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -720,11 +909,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Pastor, Ed", 
       "sponsored_at": "2014-04-03", 
       "state": "AZ", 
       "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MN", 
+      "thomas_id": "01930", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -819,6 +1026,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "2014-11-13", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "38", 
       "name": "Sanchez, Linda T.", 
       "sponsored_at": "2014-04-01", 
@@ -909,6 +1125,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "36", 
+      "name": "Stockman, Steve", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "01114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "41", 
       "name": "Takano, Mark", 
       "sponsored_at": "2014-04-30", 
@@ -932,6 +1157,15 @@
       "sponsored_at": "2014-05-22", 
       "state": "PA", 
       "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01593", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -990,6 +1224,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "sponsored_at": "2014-11-17", 
+      "state": "IN", 
+      "thomas_id": "02128", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Walz, Timothy J.", 
       "sponsored_at": "2014-05-22", 
@@ -1004,6 +1247,15 @@
       "sponsored_at": "2014-05-22", 
       "state": "FL", 
       "thomas_id": "02002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-13", 
+      "state": "VT", 
+      "thomas_id": "01879", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1040,6 +1292,15 @@
       "sponsored_at": "2014-02-26", 
       "state": "AR", 
       "thomas_id": "01991", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "KY", 
+      "thomas_id": "01853", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -1102,5 +1363,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:54:46-05:00"
+  "updated_at": "2014-12-06T06:54:51-05:00"
 }

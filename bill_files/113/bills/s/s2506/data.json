@@ -47,7 +47,13 @@
   "number": "2506", 
   "official_title": "A bill to award grants to States to support efforts at institutions of higher education to increase degree attainment, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2954-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Correctly Recognizing Educational Achievements To Empower Graduates Act", 
   "sponsor": {
     "district": null, 
@@ -92,5 +98,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:18-05:00"
+  "updated_at": "2014-12-06T07:40:37-05:00"
 }

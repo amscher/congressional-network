@@ -42,6 +42,11 @@
       "bill_id": "hr3751-113", 
       "reason": "identical", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5771-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": null, 
@@ -77,5 +82,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:34:01-05:00"
+  "updated_at": "2014-12-06T07:35:20-05:00"
 }

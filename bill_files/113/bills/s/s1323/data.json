@@ -91,6 +91,15 @@
     }, 
     {
       "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Boxer, Barbara", 
       "sponsored_at": "2014-07-31", 
       "state": "CA", 
@@ -216,5 +225,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:29:21-05:00"
+  "updated_at": "2014-12-06T07:30:35-05:00"
 }

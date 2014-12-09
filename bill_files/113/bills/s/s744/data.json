@@ -231,12 +231,8 @@
       "acted_at": "2013-06-11", 
       "references": [
         {
-          "reference": "CR S4071-4086, S4086-4093, S4093-4206", 
+          "reference": "CR S4071-4086, S4086-4093", 
           "type": "consideration"
-        }, 
-        {
-          "reference": "CR S4093-4195", 
-          "type": "text of measure as reported in Senate"
         }
       ], 
       "text": "Motion to proceed to measure considered in Senate.", 
@@ -271,7 +267,7 @@
     {
       "acted_at": "2013-06-11", 
       "references": [], 
-      "text": "Measure laid before Senate by motion.", 
+      "text": "Measure laid before Senate by motion. (consideration: CR S4093-4206; text of measure as reported in Senate: CR S4093-4195))", 
       "type": "action"
     }, 
     {
@@ -4478,5 +4474,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:24:23-05:00"
+  "updated_at": "2014-12-06T07:25:32-05:00"
 }

@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="5741" updated="2014-12-06T07:10:52-05:00">
+  <state datetime="2014-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-19"/>
+  </status>
+  <introduced datetime="2014-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Voter Confidence and Increased Accessibility Act of 2014</title>
+    <title type="official" as="introduced">To amend the Help America Vote Act of 2002 to require a voter-verified permanent paper ballot under title III of such Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400184"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2014-11-19"/>
+    <cosponsor id="400033" joined="2014-11-19"/>
+    <cosponsor id="400048" joined="2014-11-19"/>
+    <cosponsor id="400063" joined="2014-11-19"/>
+    <cosponsor id="412236" joined="2014-11-19"/>
+    <cosponsor id="400090" joined="2014-11-19"/>
+    <cosponsor id="400101" joined="2014-11-19"/>
+    <cosponsor id="412263" joined="2014-11-19"/>
+    <cosponsor id="412215" joined="2014-11-19"/>
+    <cosponsor id="412382" joined="2014-11-19"/>
+    <cosponsor id="400160" joined="2014-11-19"/>
+    <cosponsor id="400162" joined="2014-11-19"/>
+    <cosponsor id="400170" joined="2014-11-19"/>
+    <cosponsor id="400185" joined="2014-11-19"/>
+    <cosponsor id="400195" joined="2014-11-19"/>
+    <cosponsor id="412199" joined="2014-11-19"/>
+    <cosponsor id="400211" joined="2014-11-19"/>
+    <cosponsor id="400232" joined="2014-11-19"/>
+    <cosponsor id="400233" joined="2014-11-19"/>
+    <cosponsor id="400237" joined="2014-11-19"/>
+    <cosponsor id="400246" joined="2014-11-19"/>
+    <cosponsor id="400663" joined="2014-11-19"/>
+    <cosponsor id="400257" joined="2014-11-19"/>
+    <cosponsor id="400259" joined="2014-11-19"/>
+    <cosponsor id="400262" joined="2014-11-19"/>
+    <cosponsor id="400271" joined="2014-11-19"/>
+    <cosponsor id="400283" joined="2014-11-19"/>
+    <cosponsor id="400290" joined="2014-11-19"/>
+    <cosponsor id="400295" joined="2014-11-19"/>
+    <cosponsor id="412575" joined="2014-11-19"/>
+    <cosponsor id="412307" joined="2014-11-19"/>
+    <cosponsor id="412585" joined="2014-11-19"/>
+    <cosponsor id="412308" joined="2014-11-19"/>
+    <cosponsor id="400333" joined="2014-11-19"/>
+    <cosponsor id="412432" joined="2014-11-19"/>
+    <cosponsor id="412212" joined="2014-11-19"/>
+    <cosponsor id="400361" joined="2014-11-19"/>
+    <cosponsor id="400364" joined="2014-11-19"/>
+    <cosponsor id="400366" joined="2014-11-19"/>
+    <cosponsor id="412319" joined="2014-11-19"/>
+    <cosponsor id="400623" joined="2014-11-19"/>
+    <cosponsor id="400425" joined="2014-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-19" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2014-11-19">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative remedies"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional elections"/>
+    <term name="Department of Justice"/>
+    <term name="Disability and paralysis"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Language arts"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+</bill>

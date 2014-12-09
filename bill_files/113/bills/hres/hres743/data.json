@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "2", 
+      "name": "Barber, Ron", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "02093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Cicilline, David N.", 
       "sponsored_at": "2014-09-18", 
@@ -166,5 +175,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:27-05:00"
+  "updated_at": "2014-12-06T06:22:22-05:00"
 }

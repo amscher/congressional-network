@@ -169,6 +169,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NM", 
+      "thomas_id": "02146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Lujan, Ben Ray", 
       "sponsored_at": "2014-07-29", 
@@ -339,5 +348,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:50:23-05:00"
+  "updated_at": "2014-12-06T06:50:30-05:00"
 }

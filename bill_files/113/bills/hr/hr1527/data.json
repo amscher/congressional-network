@@ -389,6 +389,15 @@
     }, 
     {
       "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
       "name": "Swalwell, Eric", 
       "sponsored_at": "2013-05-15", 
       "state": "CA", 
@@ -492,5 +501,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:35:22-05:00"
+  "updated_at": "2014-12-06T06:35:23-05:00"
 }

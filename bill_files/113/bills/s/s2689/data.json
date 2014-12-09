@@ -57,10 +57,28 @@
     }, 
     {
       "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Donnelly, Joe", 
       "sponsored_at": "2014-09-17", 
       "state": "IN", 
       "thomas_id": "01850", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hagan, Kay", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NC", 
+      "thomas_id": "01902", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -84,6 +102,24 @@
     }, 
     {
       "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-12-01", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Moran, Jerry", 
       "sponsored_at": "2014-09-17", 
       "state": "KS", 
@@ -97,6 +133,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "AK", 
       "thomas_id": "01694", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NY", 
+      "thomas_id": "01036", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -176,5 +221,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:50-05:00"
+  "updated_at": "2014-12-06T07:42:09-05:00"
 }

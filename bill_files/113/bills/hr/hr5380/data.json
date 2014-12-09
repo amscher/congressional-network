@@ -77,6 +77,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Harper, Gregg", 
       "sponsored_at": "2014-07-31", 
@@ -86,11 +95,47 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Honda, Michael M.", 
       "sponsored_at": "2014-09-15", 
       "state": "CA", 
       "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NY", 
+      "thomas_id": "00944", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -167,5 +212,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:51-05:00"
+  "updated_at": "2014-12-06T07:07:51-05:00"
 }

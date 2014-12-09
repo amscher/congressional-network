@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2978-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-04", 
+  "number": "2978", 
+  "official_title": "A bill to direct the Secretary of Veterans Affairs to designate at least one city in the United States each year as an American World War II City, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Burr, Richard", 
+    "state": "NC", 
+    "thomas_id": "00153", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-04", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Secretary of Veterans Affairs to designate at least one city in the United States each year as an American World War II City, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:44:37-05:00"
+}

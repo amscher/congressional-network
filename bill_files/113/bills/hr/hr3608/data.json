@@ -80,6 +80,94 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Unanimous Consent.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:11:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 113-625, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:12:00-05:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Committee on Ways and Means discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:12:00-05:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:12:00-05:00", 
+      "calendar": "Union", 
+      "number": "466", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 466.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-11-17T19:16:00-05:00", 
+      "references": [], 
+      "text": "Mr. Labrador moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8017-8019", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:16:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3608.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:22:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8017", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-17T19:22:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-18", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -90,7 +178,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -108,14 +197,16 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "House Ways and Means", 
       "committee_id": "HSWM"
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "House Judiciary", 
       "committee_id": "HSJU"
@@ -148,6 +239,8 @@
     "active_at": "2014-07-29", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-17T19:22:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-11-21", 
@@ -170,8 +263,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-18", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-17T19:22:00-05:00", 
   "subjects": [
     "Federal-Indian relations", 
     "Hunting and fishing", 
@@ -186,8 +279,8 @@
   ], 
   "subjects_top_term": "Native Americans", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-11-21", 
+    "as": "Passed House without amendment", 
+    "date": "2014-11-17", 
     "text": "Grand Portage Band Per Capita Adjustment Act - Excludes funds paid by Minnesota to members of the Grand Portage Band of Lake Superior Chippewa Indians, pursuant to the agreements of such Band to voluntarily restrict tribal rights to hunt and fish in territory ceded under the Treaty of September 30, 1854, from: (1) federal or state income taxes; or (2) use in denying or reducing a member's benefits under the Social Security Act or, except for payments in excess of $2,000, a federal or federally-assisted program."
   }, 
   "titles": [
@@ -204,5 +297,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:52:50-05:00"
+  "updated_at": "2014-12-06T06:52:57-05:00"
 }

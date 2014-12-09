@@ -169,6 +169,15 @@
       "thomas_id": "01884", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -223,5 +232,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:41:57-05:00"
+  "updated_at": "2014-12-06T06:42:02-05:00"
 }

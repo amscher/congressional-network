@@ -1,7 +1,7 @@
-<bill session="113" type="s" number="1419" updated="2014-11-08T07:30:09-05:00">
-  <state datetime="2013-08-01">REFERRED</state>
+<bill session="113" type="s" number="1419" updated="2014-12-06T07:31:24-05:00">
+  <state datetime="2014-11-13">REPORTED</state>
   <status>
-    <introduced datetime="2013-08-01"/>
+    <unknown datetime="2014-11-13"/>
   </status>
   <introduced datetime="2013-08-01"/>
   <titles>
@@ -27,9 +27,12 @@
     <action datetime="2014-02-27">
       <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-284.</text>
     </action>
+    <calendar datetime="2014-11-13" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup"/>
     <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
   </committees>
   <relatedbills/>

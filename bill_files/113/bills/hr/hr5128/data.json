@@ -97,6 +97,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "47", 
       "name": "Lowenthal, Alan S.", 
       "sponsored_at": "2014-07-16", 
@@ -147,6 +156,15 @@
       "sponsored_at": "2014-07-16", 
       "state": "IL", 
       "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01526", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -233,5 +251,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:43-05:00"
+  "updated_at": "2014-12-06T07:05:44-05:00"
 }

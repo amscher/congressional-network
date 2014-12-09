@@ -9,6 +9,16 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on the Judiciary.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-24", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +32,15 @@
       ], 
       "committee": "House Judiciary", 
       "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
     }
   ], 
   "congress": "113", 
@@ -75,5 +94,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:04-05:00"
+  "updated_at": "2014-12-06T07:10:03-05:00"
 }

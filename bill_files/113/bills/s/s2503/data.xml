@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2503" updated="2014-11-08T07:39:16-05:00">
+<bill session="113" type="s" number="2503" updated="2014-12-06T07:40:35-05:00">
   <state datetime="2014-06-19">REFERRED</state>
   <status>
     <introduced datetime="2014-06-19"/>
@@ -21,7 +21,7 @@
       <text>Read twice and referred to the Committee on Indian Affairs.</text>
     </action>
     <action datetime="2014-07-09">
-      <text>Committee on Indian Affairs. Hearings held.</text>
+      <text>Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-419.</text>
     </action>
   </actions>
   <committees>
@@ -41,4 +41,12 @@
     <term name="Water use and supply"/>
   </subjects>
   <amendments/>
+  <summary>6/19/2014--Introduced.
+Bill Williams River Water Rights Settlement Act of 2014 - Authorizes, ratifies, and confirms the Big Sandy River-Planet Ranch Water Rights Settlement Agreement between the Hualapai Tribe, the Department of of the Interior, the Arizona Game and Fish Commission, the Arizona Department of Water Resources, and the Freeport Minerals Corporation.
+
+ Authorizes, ratifies, and confirms the Hualapai Tribe Bill Williams River Water Rights Settlement Agreement between the Tribe, the United States as trustee for the Tribe, and Freeport Minerals Corporation.
+
+Directs the Secretary of Interior to execute both agreements.
+
+ Sets forth provisions regarding the waiver, release, and retention of specified water rights claims.</summary>
 </bill>

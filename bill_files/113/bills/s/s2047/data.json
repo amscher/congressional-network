@@ -73,6 +73,15 @@
     }, 
     {
       "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-11-20", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Nelson, Bill", 
       "sponsored_at": "2014-07-10", 
       "state": "FL", 
@@ -156,5 +165,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:35:24-05:00"
+  "updated_at": "2014-12-06T07:36:43-05:00"
 }

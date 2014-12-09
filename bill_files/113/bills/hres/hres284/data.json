@@ -558,6 +558,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "33", 
       "name": "Veasey, Marc A.", 
       "sponsored_at": "2014-02-10", 
@@ -644,5 +653,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:18:35-05:00"
+  "updated_at": "2014-12-06T06:18:31-05:00"
 }

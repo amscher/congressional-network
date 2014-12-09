@@ -126,6 +126,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Connolly, Gerald E.", 
       "sponsored_at": "2013-04-11", 
@@ -379,5 +388,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:35:09-05:00"
+  "updated_at": "2014-12-06T06:35:11-05:00"
 }

@@ -43,6 +43,24 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2014-11-14", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Cassidy, Bill", 
+      "sponsored_at": "2014-11-14", 
+      "state": "LA", 
+      "thomas_id": "01925", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Cooper, Jim", 
       "sponsored_at": "2014-09-18", 
@@ -66,6 +84,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "IL", 
       "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TX", 
+      "thomas_id": "00462", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -120,6 +147,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "LA", 
       "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MS", 
+      "thomas_id": "01151", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -194,5 +230,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:47-05:00"
+  "updated_at": "2014-12-06T07:09:46-05:00"
 }

@@ -43,11 +43,29 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "20", 
       "name": "Castro, Joaquin", 
       "sponsored_at": "2014-09-10", 
       "state": "TX", 
       "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "00229", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -66,6 +84,15 @@
       "sponsored_at": "2014-09-17", 
       "state": "CA", 
       "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Delaney, John K.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MD", 
+      "thomas_id": "02133", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -97,6 +124,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Peters, Gary C.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "01929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "52", 
       "name": "Peters, Scott H.", 
       "sponsored_at": "2014-09-17", 
@@ -120,6 +165,24 @@
       "sponsored_at": "2014-09-17", 
       "state": "PA", 
       "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01588", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -186,5 +249,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:17-05:00"
+  "updated_at": "2014-12-06T07:08:16-05:00"
 }

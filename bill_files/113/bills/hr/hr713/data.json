@@ -267,6 +267,15 @@
     }, 
     {
       "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
       "name": "Burgess, Michael C.", 
       "sponsored_at": "2013-03-18", 
       "state": "TX", 
@@ -892,6 +901,15 @@
       "sponsored_at": "2014-02-26", 
       "state": "CA", 
       "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "01909", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1599,6 +1617,15 @@
     }, 
     {
       "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
       "name": "Price, David E.", 
       "sponsored_at": "2013-04-16", 
       "state": "NC", 
@@ -1666,6 +1693,15 @@
       "sponsored_at": "2014-02-10", 
       "state": "KY", 
       "thomas_id": "00977", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "IL", 
+      "thomas_id": "01848", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -2130,5 +2166,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:26-05:00"
+  "updated_at": "2014-12-06T06:28:33-05:00"
 }

@@ -665,6 +665,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Kuster, Ann M.", 
       "sponsored_at": "2014-06-23", 
@@ -1196,6 +1205,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Tierney, John F.", 
       "sponsored_at": "2013-03-12", 
@@ -1353,5 +1371,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:26:19-05:00"
+  "updated_at": "2014-12-06T06:26:26-05:00"
 }

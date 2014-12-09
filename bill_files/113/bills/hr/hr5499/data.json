@@ -61,11 +61,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "30", 
       "name": "Sherman, Brad", 
       "sponsored_at": "2014-09-16", 
       "state": "CA", 
       "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "02110", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -124,5 +142,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:52-05:00"
+  "updated_at": "2014-12-06T07:08:50-05:00"
 }

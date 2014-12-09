@@ -305,6 +305,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-14", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Himes, James A.", 
       "sponsored_at": "2013-03-15", 
@@ -933,5 +942,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:27:44-05:00"
+  "updated_at": "2014-12-06T06:27:51-05:00"
 }

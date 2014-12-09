@@ -134,6 +134,11 @@
       "type": "bill"
     }, 
     {
+      "bill_id": "hr5773-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s41-113", 
       "reason": "related", 
       "type": "bill"
@@ -168,6 +173,7 @@
     "Building construction", 
     "Business investment and capital", 
     "Capital gains tax", 
+    "Charitable contributions", 
     "Coal", 
     "Commuting", 
     "Computers and information technology", 
@@ -274,5 +280,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:11-05:00"
+  "updated_at": "2014-12-06T07:38:30-05:00"
 }

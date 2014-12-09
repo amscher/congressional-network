@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Barrow, John", 
       "sponsored_at": "2013-07-17", 
@@ -482,5 +491,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:08-05:00"
+  "updated_at": "2014-12-06T06:45:14-05:00"
 }

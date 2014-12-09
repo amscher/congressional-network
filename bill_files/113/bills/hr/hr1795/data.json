@@ -287,6 +287,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2014-11-14", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Doyle, Michael F.", 
       "sponsored_at": "2013-12-03", 
@@ -1043,6 +1052,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Swalwell, Eric", 
       "sponsored_at": "2013-05-08", 
@@ -1304,5 +1322,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:36-05:00"
+  "updated_at": "2014-12-06T06:37:39-05:00"
 }

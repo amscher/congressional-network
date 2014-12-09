@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5764" updated="2014-12-06T07:11:03-05:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Great Lakes Restoration Initiative Act of 2014</title>
+    <title type="official" as="introduced">To authorize the Great Lakes Restoration Initiative, and for other purposes.</title>
+  </titles>
+  <sponsor id="412566"/>
+  <cosponsors>
+    <cosponsor id="400110" joined="2014-11-20"/>
+    <cosponsor id="412465" joined="2014-12-04"/>
+    <cosponsor id="400238" joined="2014-11-20"/>
+    <cosponsor id="400378" joined="2014-11-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2773"/>
+    <bill relation="unknown" session="113" type="s" number="1232"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Great Lakes"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Lakes and rivers"/>
+    <term name="Pest management"/>
+    <term name="Water quality"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

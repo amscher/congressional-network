@@ -115,6 +115,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Ellison, Keith", 
       "sponsored_at": "2013-11-18", 
@@ -410,5 +419,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:30-05:00"
+  "updated_at": "2014-12-06T06:43:36-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5057" updated="2014-11-08T07:05:04-05:00">
+<bill session="113" type="h" number="5057" updated="2014-12-06T07:05:09-05:00">
   <state datetime="2014-09-11T13:24:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-09-11T13:24:00-04:00"/>
@@ -81,4 +81,6 @@
     <term name="Product safety and quality"/>
   </subjects>
   <amendments/>
+  <summary>7/10/2014--Introduced.
+EPS Service Parts Act of 2014 - Amends the Energy Policy and Conservation Act to exempt external power supplies (EPS) for four years from energy conservation standards established by the Department of Energy in 2014. (EPS convert household electric current into direct current or lower-voltage alternating current to operate a consumer product such as a laptop computer or smart phone.) Applies this exemption to service parts or spare parts for products that were manufactured before February 10, 2016.</summary>
 </bill>

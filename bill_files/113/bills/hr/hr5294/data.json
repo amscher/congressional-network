@@ -150,6 +150,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -202,6 +209,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
     }, 
     {
       "activity": [
@@ -296,6 +312,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-12-03", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Bordallo, Madeleine Z.", 
       "sponsored_at": "2014-07-30", 
@@ -377,6 +402,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Cohen, Steve", 
       "sponsored_at": "2014-09-18", 
@@ -454,6 +488,15 @@
       "sponsored_at": "2014-07-30", 
       "state": "MN", 
       "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "00355", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -548,6 +591,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Hinojosa, Ruben", 
       "sponsored_at": "2014-07-30", 
@@ -575,6 +627,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Horsford, Steven A.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NV", 
+      "thomas_id": "02147", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "18", 
       "name": "Jackson Lee, Sheila", 
       "sponsored_at": "2014-07-30", 
@@ -598,6 +659,15 @@
       "sponsored_at": "2014-07-30", 
       "state": "GA", 
       "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "IL", 
+      "thomas_id": "02190", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -773,6 +843,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2014-12-03", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Rangel, Charles B.", 
       "sponsored_at": "2014-07-30", 
@@ -940,6 +1019,15 @@
       "sponsored_at": "2014-07-30", 
       "state": "CA", 
       "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "FL", 
+      "thomas_id": "02004", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -1125,5 +1213,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:08-05:00"
+  "updated_at": "2014-12-06T07:07:07-05:00"
 }

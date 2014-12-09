@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4660" updated="2014-11-08T07:01:44-05:00">
+<bill session="113" type="h" number="4660" updated="2014-12-06T07:01:49-05:00">
   <state datetime="2014-05-30T01:15:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-05-30T01:15:00-04:00"/>
@@ -533,34 +533,90 @@
   </relatedbills>
   <subjects>
     <term name="Economics and public finance"/>
+    <term name="Abortion"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Agricultural trade"/>
     <term name="Appropriations"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Aviation and airports"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Business ethics"/>
+    <term name="Business records"/>
+    <term name="Buy American requirements"/>
+    <term name="Canada"/>
+    <term name="Caribbean area"/>
     <term name="Census and government statistics"/>
+    <term name="China"/>
+    <term name="Climate change and greenhouse gases"/>
     <term name="Commission on Civil Rights"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Cuba"/>
     <term name="Department of Commerce"/>
     <term name="Department of Justice"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="District of Columbia"/>
     <term name="Drug Enforcement Administration (DEA)"/>
     <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Environmental assessment, monitoring, research"/>
     <term name="Equal Employment Opportunity Commission (EEOC)"/>
     <term name="Executive agency funding and structure"/>
     <term name="Federal Bureau of Investigation (FBI)"/>
     <term name="Federal Prison Industries, Inc."/>
+    <term name="Firearms and explosives"/>
     <term name="Fishes"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government buildings, facilities, and property"/>
     <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Great Lakes"/>
+    <term name="Housing discrimination"/>
+    <term name="Human rights"/>
+    <term name="Immigration status and procedures"/>
     <term name="Intellectual property"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Intergovernmental relations"/>
+    <term name="International law and treaties"/>
+    <term name="Internet and video services"/>
+    <term name="Lakes and rivers"/>
+    <term name="Latin America"/>
     <term name="Law enforcement administration and funding"/>
     <term name="Lawyers and legal services"/>
     <term name="Legal Services Corporation"/>
     <term name="Mammals"/>
+    <term name="Manufacturing"/>
     <term name="Marine Mammal Commission"/>
     <term name="Marine and coastal resources, fisheries"/>
+    <term name="Military facilities and property"/>
     <term name="Minority and disadvantaged businesses"/>
+    <term name="Motor vehicles"/>
     <term name="National Aeronautics and Space Administration"/>
     <term name="National Science Foundation"/>
+    <term name="News media and reporting"/>
     <term name="Office of Science and Technology Policy"/>
     <term name="Office of the U.S. Trade Representative"/>
+    <term name="Pornography"/>
     <term name="Public contracts and procurement"/>
+    <term name="Religion"/>
     <term name="Research administration and funding"/>
     <term name="Space flight and exploration"/>
+    <term name="State and local government operations"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Television and film"/>
+    <term name="Terrorism"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="Transportation costs"/>
+    <term name="Travel and tourism"/>
+    <term name="User charges and fees"/>
+    <term name="Watersheds"/>
   </subjects>
   <amendments>
     <amendment number="h690"/>

@@ -269,6 +269,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-12-04", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Kelly, Robin L.", 
       "sponsored_at": "2014-01-15", 
@@ -645,5 +654,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:26-05:00"
+  "updated_at": "2014-12-06T06:37:29-05:00"
 }

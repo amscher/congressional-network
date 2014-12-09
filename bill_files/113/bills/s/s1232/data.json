@@ -156,6 +156,11 @@
       "bill_id": "hr2773-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5764-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Great Lakes Ecological and Economic Protection Act of 2013", 
@@ -202,5 +207,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:28:35-05:00"
+  "updated_at": "2014-12-06T07:29:44-05:00"
 }

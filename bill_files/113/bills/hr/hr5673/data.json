@@ -50,7 +50,26 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K. Sr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -107,5 +126,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:19-05:00"
+  "updated_at": "2014-12-06T07:10:18-05:00"
 }

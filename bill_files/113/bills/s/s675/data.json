@@ -97,6 +97,15 @@
     }, 
     {
       "district": null, 
+      "name": "Cruz, Ted", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Manchin, Joe, III", 
       "sponsored_at": "2013-04-16", 
       "state": "WV", 
@@ -209,5 +218,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:23:44-05:00"
+  "updated_at": "2014-12-06T07:24:54-05:00"
 }

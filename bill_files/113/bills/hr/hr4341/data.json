@@ -70,6 +70,69 @@
       "thomas_id": "01976", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-12-03", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2014-12-03", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2014-12-03", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -125,5 +188,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:59-05:00"
+  "updated_at": "2014-12-06T06:59:05-05:00"
 }

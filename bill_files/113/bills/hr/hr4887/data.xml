@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4887" updated="2014-11-08T07:03:38-05:00">
+<bill session="113" type="h" number="4887" updated="2014-12-06T07:03:43-05:00">
   <state datetime="2014-06-18">REFERRED</state>
   <status>
     <introduced datetime="2014-06-18"/>
@@ -9,7 +9,12 @@
     <title type="official" as="introduced">To expand the research and education on and delivery of complementary and alternative medicine to veterans, and for other purposes.</title>
   </titles>
   <sponsor id="412516"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412557" joined="2014-11-20"/>
+    <cosponsor id="412518" joined="2014-11-12"/>
+    <cosponsor id="412519" joined="2014-11-13"/>
+    <cosponsor id="412259" joined="2014-11-12"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-06-18" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>

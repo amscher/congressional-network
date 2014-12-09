@@ -468,6 +468,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Kildee, Daniel T", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MI", 
+      "thomas_id": "02134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Kilmer, Derek", 
       "sponsored_at": "2013-08-02", 
@@ -680,6 +689,15 @@
       "sponsored_at": "2013-08-02", 
       "state": "FL", 
       "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00850", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1104,5 +1122,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:07-05:00"
+  "updated_at": "2014-12-06T06:48:14-05:00"
 }

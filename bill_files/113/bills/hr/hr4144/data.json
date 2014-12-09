@@ -104,6 +104,15 @@
       "thomas_id": "02034", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -164,5 +173,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:20-05:00"
+  "updated_at": "2014-12-06T06:57:27-05:00"
 }

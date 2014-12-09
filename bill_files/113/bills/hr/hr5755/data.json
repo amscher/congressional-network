@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5755-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Bentivolio, Kerry L.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MI", 
+      "thomas_id": "02135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-20", 
+  "number": "5755", 
+  "official_title": "To withhold certain highway funds from a State that uses an automated traffic enforcement system on a Federal-aid highway.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Safer American Streets Act", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Stockman, Steve", 
+    "state": "TX", 
+    "thomas_id": "01114", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-20", 
+  "subjects": [
+    "District of Columbia", 
+    "Intergovernmental relations", 
+    "Roads and highways", 
+    "State and local government operations", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safer American Streets Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To withhold certain highway funds from a State that uses an automated traffic enforcement system on a Federal-aid highway.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:10:59-05:00"
+}

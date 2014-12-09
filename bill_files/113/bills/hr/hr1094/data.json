@@ -320,6 +320,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Clyburn, James E.", 
       "sponsored_at": "2013-06-18", 
@@ -410,6 +419,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Delaney, John K.", 
       "sponsored_at": "2013-07-10", 
@@ -433,6 +451,15 @@
       "sponsored_at": "2014-07-09", 
       "state": "WA", 
       "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "01799", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -608,6 +635,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Grayson, Alan", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "29", 
       "name": "Green, Gene", 
       "sponsored_at": "2014-03-26", 
@@ -676,6 +712,24 @@
       "sponsored_at": "2013-04-09", 
       "state": "FL", 
       "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "01794", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1220,6 +1274,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Pocan, Mark", 
       "sponsored_at": "2013-04-26", 
@@ -1396,6 +1459,15 @@
       "sponsored_at": "2013-04-09", 
       "state": "CA", 
       "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schneider, Bradley S.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "02124", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1720,5 +1792,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:31:38-05:00"
+  "updated_at": "2014-12-06T06:31:45-05:00"
 }

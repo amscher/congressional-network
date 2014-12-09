@@ -361,6 +361,86 @@
       "references": [], 
       "text": "Message on Senate action sent to the House.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T11:13:00-05:00", 
+      "references": [], 
+      "text": "ORDER OF PROCEDURE - Mr. McKeon asked unanimous consent that the question of adopting a motion to concur in the Senate amendment to H.R. 3979 with an amendment may be subject to postponement as though under clause 8 of rule 20. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T11:13:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8385-8632, H8651-8652", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8385-8387", 
+          "type": "text of Senate amendment"
+        }
+      ], 
+      "text": "Mr. McKeon moved that the House concur with an amendment in the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T11:14:00-05:00", 
+      "bill_ids": [
+        "hres770-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Pursuant to H.Res. 770, the House proceeded with one hour of debate on motion to concur in the Senate amendment to H.R. 3979 with an amendment consisting of the text of Rules Committee Print 113-58 modified by the amendments printed in part A of House Report 113-646 and the amendment specified in section 5 of House Resolution 770.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T12:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8632", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T12:22:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3979, the Chair put the question on adoption of the motion to concur in the Senate amendment to H.R. 3979 with an amendment and by voice vote, announced that the ayes had prevailed. Mr. McKeon demanded the yeas and nays and pursuant to a previous special order, further proceedings on the question of adoption of the motion were postponed until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T14:38:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8388-8621", 
+          "type": "text as House agreed to Senate amendment with an amendment"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "551", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 300 - 119 (Roll no. 551).", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-04T14:38:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08T14:07:00-05:00", 
+      "references": [], 
+      "text": "ENGROSSMENT CORRECTION - Mr. Hastings (WA) asked unanimous consent that in the engrossment of the House amendment to the Senate amendment to H.R. 3979, the Clerk be directed to make a correction as follows: In sec. 3050 of the House amendment, strike \"2013\" and insert \"2014\". Agreed to without objection.", 
+      "type": "action"
     }
   ], 
   "amendments": [
@@ -1835,7 +1915,7 @@
     "awaiting_signature": false, 
     "enacted": false, 
     "house_passage_result": "pass", 
-    "house_passage_result_at": "2014-03-11T19:03:00-04:00", 
+    "house_passage_result_at": "2014-12-04T14:38:00-05:00", 
     "senate_cloture_result": "pass", 
     "senate_cloture_result_at": "2014-03-27", 
     "senate_passage_result": "pass", 
@@ -1847,6 +1927,16 @@
   "official_title": "To amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.", 
   "popular_title": null, 
   "related_bills": [
+    {
+      "bill_id": "hconres121-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres770-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
     {
       "bill_id": "hr3685-113", 
       "reason": "related", 
@@ -1864,6 +1954,11 @@
     }, 
     {
       "bill_id": "hr4415-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4435-113", 
       "reason": "related", 
       "type": "bill"
     }, 
@@ -1898,6 +1993,11 @@
       "type": "bill"
     }, 
     {
+      "bill_id": "s2410-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s2532-113", 
       "reason": "related", 
       "type": "bill"
@@ -1912,8 +2012,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "PASS_BACK:SENATE", 
-  "status_at": "2014-04-07", 
+  "status": "PASSED:BILL", 
+  "status_at": "2014-12-04T14:38:00-05:00", 
   "subjects": [
     "Accounting and auditing", 
     "Appropriations", 
@@ -1978,5 +2078,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:57-05:00"
+  "updated_at": "2014-12-08T18:48:40-05:00"
 }

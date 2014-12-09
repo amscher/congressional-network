@@ -1,0 +1,267 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5780-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2014-12-02", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-12-02", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Buchanan, Vern", 
+      "sponsored_at": "2014-12-02", 
+      "state": "FL", 
+      "thomas_id": "01840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2014-12-02", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Griffin, Tim", 
+      "sponsored_at": "2014-12-02", 
+      "state": "AR", 
+      "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2014-12-02", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-12-02", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2014-12-02", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-12-02", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2014-12-02", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-02", 
+  "number": "5780", 
+  "official_title": "To amend title XVIII of the Social Security Act to improve the integrity of the Medicare program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting the Integrity of Medicare Act of 2014", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-02", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting the Integrity of Medicare Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to improve the integrity of the Medicare program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-12-06T07:11:11-05:00"
+}

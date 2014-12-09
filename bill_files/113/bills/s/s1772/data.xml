@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1772" updated="2014-11-08T07:33:06-05:00">
+<bill session="113" type="s" number="1772" updated="2014-12-06T07:34:25-05:00">
   <state datetime="2013-11-21">REFERRED</state>
   <status>
     <introduced datetime="2013-11-21"/>
@@ -29,6 +29,7 @@
   </relatedbills>
   <subjects>
     <term name="Taxation"/>
+    <term name="Charitable contributions"/>
     <term name="Employee benefits and pensions"/>
     <term name="Income tax exclusion"/>
     <term name="Social work, volunteer service, charitable organizations"/>

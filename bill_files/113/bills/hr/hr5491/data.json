@@ -36,7 +36,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -92,5 +102,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:48-05:00"
+  "updated_at": "2014-12-06T07:08:46-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5489" updated="2014-11-08T07:08:47-05:00">
+<bill session="113" type="h" number="5489" updated="2014-12-06T07:08:45-05:00">
   <state datetime="2014-09-16">REFERRED</state>
   <status>
     <introduced datetime="2014-09-16"/>
@@ -22,9 +22,13 @@
     <action datetime="2014-09-16" state="REFERRED">
       <text>Referred to the House Committee on Education and the Workforce.</text>
     </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="2381"/>
@@ -48,4 +52,12 @@
     <term name="Youth employment and child labor"/>
   </subjects>
   <amendments/>
+  <summary>9/16/2014--Introduced.
+Employ Young Americans Now Act - Establishes in the Treasury the Employ Young Americans Fund, with an initial appropriation of $5.5 billion for FY2015.
+
+Requires the Secretary of Labor to make certain Fund allocations to each state with an approved workforce investment system plan modification, other specified requests for funds, and Native American program grantees to provide summer and year-round employment opportunities to low-income youth.
+
+Requires the Secretary to award allocations and competitive grants to local entities for work-based training and other work-related and educational strategies and activities of demonstrated effectiveness to provide unemployed, low-income young adults and low-income youths with skills that will lead to employment.
+
+Subjects activities funded under this Act to federal labor standards and nondiscrimination protections.</summary>
 </bill>

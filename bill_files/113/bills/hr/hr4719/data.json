@@ -344,6 +344,7 @@
   "status": "PASS_OVER:HOUSE", 
   "status_at": "2014-07-17T12:42:00-04:00", 
   "subjects": [
+    "Charitable contributions", 
     "Food assistance and relief", 
     "Income tax deductions", 
     "Social work, volunteer service, charitable organizations", 
@@ -381,5 +382,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:13-05:00"
+  "updated_at": "2014-12-06T07:02:19-05:00"
 }

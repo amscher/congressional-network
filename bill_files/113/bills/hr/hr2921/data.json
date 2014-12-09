@@ -74,6 +74,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "DelBene, Suzan K.", 
       "sponsored_at": "2014-03-06", 
@@ -160,6 +169,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "NY", 
       "thomas_id": "02150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "00766", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -279,5 +297,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:47:02-05:00"
+  "updated_at": "2014-12-06T06:47:08-05:00"
 }

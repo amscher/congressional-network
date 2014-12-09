@@ -28,10 +28,163 @@
   "cosponsors": [
     {
       "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Campbell, John", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01816", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "DeSantis, Ron", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "02116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Garrett, Scott", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NJ", 
+      "thomas_id": "01737", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2014-12-01", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
       "name": "Meeks, Gregory W.", 
       "sponsored_at": "2014-09-18", 
       "state": "NY", 
       "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2014-11-14", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "01779", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -85,5 +238,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:23-05:00"
+  "updated_at": "2014-12-06T06:22:18-05:00"
 }

@@ -516,6 +516,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Hastings, Doc", 
       "sponsored_at": "2014-06-12", 
@@ -575,6 +584,15 @@
       "sponsored_at": "2014-03-14", 
       "state": "NV", 
       "thomas_id": "02147", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "02015", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -656,6 +674,15 @@
       "sponsored_at": "2014-09-16", 
       "state": "PA", 
       "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "02190", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1111,10 +1138,28 @@
     }, 
     {
       "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2014-11-18", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
       "name": "Polis, Jared", 
       "sponsored_at": "2014-02-28", 
       "state": "CO", 
       "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2014-11-18", 
+      "state": "KS", 
+      "thomas_id": "02022", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1277,6 +1322,15 @@
       "sponsored_at": "2013-10-22", 
       "state": "NY", 
       "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "sponsored_at": "2014-11-18", 
+      "state": "WA", 
+      "thomas_id": "01528", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1521,5 +1575,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:43:33-05:00"
+  "updated_at": "2014-12-06T06:43:39-05:00"
 }

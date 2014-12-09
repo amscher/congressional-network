@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="5791" updated="2014-12-08T12:48:49-05:00">
+  <state datetime="2014-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="short" as="introduced">FINER Act of 2014</title>
+    <title type="short" as="introduced">Fines in Need of Extensive Reform Act of 2014</title>
+    <title type="official" as="introduced">To increase transparency and provide for judicial review of administrative fines, and for other purposes.</title>
+  </titles>
+  <sponsor id="412568"/>
+  <cosponsors>
+    <cosponsor id="412508" joined="2014-12-04"/>
+    <cosponsor id="412388" joined="2014-12-04"/>
+    <cosponsor id="412550" joined="2014-12-04"/>
+    <cosponsor id="400247" joined="2014-12-04"/>
+    <cosponsor id="412569" joined="2014-12-04"/>
+    <cosponsor id="400320" joined="2014-12-04"/>
+    <cosponsor id="412489" joined="2014-12-04"/>
+    <cosponsor id="400341" joined="2014-12-04"/>
+    <cosponsor id="412426" joined="2014-12-04"/>
+    <cosponsor id="412314" joined="2014-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-12-04">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-12-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

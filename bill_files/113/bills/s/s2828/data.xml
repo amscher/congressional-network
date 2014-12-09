@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2828" updated="2014-11-08T07:41:59-05:00">
+<bill session="113" type="s" number="2828" updated="2014-12-06T07:43:20-05:00">
   <state datetime="2014-09-18">REPORTED</state>
   <status>
     <unknown datetime="2014-09-18"/>
@@ -10,9 +10,19 @@
   </titles>
   <sponsor id="400272"/>
   <cosponsors>
+    <cosponsor id="412493" joined="2014-11-19"/>
+    <cosponsor id="412490" joined="2014-12-02"/>
     <cosponsor id="400064" joined="2014-09-16"/>
+    <cosponsor id="402675" joined="2014-11-17"/>
     <cosponsor id="412248" joined="2014-09-16"/>
+    <cosponsor id="412573" joined="2014-11-20"/>
+    <cosponsor id="300038" joined="2014-12-02"/>
+    <cosponsor id="400222" joined="2014-11-17"/>
+    <cosponsor id="300066" joined="2014-11-19"/>
     <cosponsor id="400253" joined="2014-09-16"/>
+    <cosponsor id="400325" joined="2014-11-12"/>
+    <cosponsor id="300083" joined="2014-11-17"/>
+    <cosponsor id="400408" joined="2014-11-20"/>
   </cosponsors>
   <actions>
     <action datetime="2014-09-16" state="REFERRED">
@@ -31,7 +41,9 @@
   <committees>
     <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5782"/>
+  </relatedbills>
   <subjects>
     <term name="International affairs"/>
     <term name="Alliances"/>
@@ -82,7 +94,9 @@
     <term name="Visas and passports"/>
     <term name="War and emergency powers"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s3966"/>
+  </amendments>
   <summary>9/16/2014--Introduced.
 Ukraine Freedom Support Act of 2014 - Directs the President to impose three or more sanctions under this Act against:
 

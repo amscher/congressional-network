@@ -66,7 +66,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -106,7 +116,11 @@
     "Tax administration and collection, taxpayers"
   ], 
   "subjects_top_term": "Health", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Streamlining Verification for Americans Act - Requires the Secretary of the Treasury to allow large employers to prospectively report information regarding health care coverage available to employees eligible for premium subsidies on a health care exchange.\n\nAmends the Patient Protection and Affordable Care Act to require the Secretary of Health and Human Services (HHS), upon an individual's request, to make an advance determination of the individual's eligibility for premium subsidies based on information other than the individual's most recent taxable year income.\n\nRequires the Government Accountability Office (GAO) to evaluate the notification of employers by health care exchanges regarding employees determined to be eligible for premium subsidies and the appeals process for eligibility determinations.\n\nAmends the Internal Revenue Code of 1986 to allow a person reporting an individual's health coverage to the Treasury to identify the individual using their birth date in place of their taxpayer identification number (TIN) in certain circumstances.\n\nAllows large employers or persons reporting an employee's or individual's health coverage to the Treasury to provide the required statement to the employee or individual electronically.\n\nProhibits provision of premium subsidies and assessment of the penalty for not maintaining minimum essential coverage between December 31, 2014, and the date a process is established to verify eligibility for premium subsidies."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -121,5 +135,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:21-05:00"
+  "updated_at": "2014-12-06T07:09:19-05:00"
 }

@@ -188,11 +188,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "WA", 
+      "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Duckworth, Tammy", 
       "sponsored_at": "2014-07-29", 
       "state": "IL", 
       "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Enyart, William L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "02125", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -314,6 +332,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "18", 
       "name": "Jackson Lee, Sheila", 
       "sponsored_at": "2013-09-10", 
@@ -364,6 +391,15 @@
       "sponsored_at": "2014-07-22", 
       "state": "AZ", 
       "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "RI", 
+      "thomas_id": "01668", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -436,6 +472,15 @@
       "sponsored_at": "2013-01-23", 
       "state": "PA", 
       "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Massie, Thomas", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KY", 
+      "thomas_id": "02094", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -589,6 +634,15 @@
       "sponsored_at": "2013-01-23", 
       "state": "NY", 
       "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WI", 
+      "thomas_id": "02073", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -814,5 +868,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:25:55-05:00"
+  "updated_at": "2014-12-06T06:26:02-05:00"
 }

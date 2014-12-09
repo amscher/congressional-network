@@ -38,6 +38,24 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by the Yeas and Nays: 33 - 22.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:24:00-05:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-609.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T14:25:00-05:00", 
+      "calendar": "Union", 
+      "number": "453", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 453.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -48,7 +66,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Transportation and Infrastructure", 
       "committee_id": "HSPW"
@@ -284,13 +303,19 @@
   ], 
   "subjects_top_term": "Environmental protection", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-06-12", 
-    "text": "Regulatory Certainty Act of 2014 - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to define the period of time in which the Administrator of the Environmental Protection Agency (EPA) is authorized to restrict or deny a permit for the discharge of dredged or fill materials into navigable waters, and to prohibit the specification (or withdrawal) of a defined area as a disposal site, as the period that:\n\n begins on the date that the Secretary of the Army, acting through the Chief of Engineers, provides notice to the Administrator that the Secretary has completed all procedures for processing an application for a permit for dredged or fill material and is ready to determine whether the permit should be issued; and ends on the date that the Secretary issues the permit. Requires the Chief to ensure that the period consists of at least 30 consecutive days.\n\nAuthorizes the Chief to issue a permit for dredged or fill material only after the Chief provides notice to the Administrator."
+    "as": "Reported to House without amendment", 
+    "date": "2014-11-12", 
+    "text": "Regulatory Certainty Act of 2014 - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to limit the period during which the Environmental Protection Agency (EPA) may prohibit the specification, or restrict the use, of an area as a disposal site for discharges of dredged or fill materials into waters of the United States to the period that:\n\n begins on the date that the Army Corps of Engineers provides notice to the EPA that the Corps has completed all procedures for processing an application for a permit for dredged or fill material and is ready to determine whether the permit should be issued; and ends on the date that the Corps issues the permit. Requires the Corps to ensure that the period consists of at least 30 consecutive days.\n\nAuthorizes the Corps to issue a permit for dredged or fill material only after the Corps provides notice to the EPA."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Regulatory Certainty Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
       "is_for_portion": false, 
       "title": "Regulatory Certainty Act of 2014", 
       "type": "short"
@@ -302,5 +327,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:21-05:00"
+  "updated_at": "2014-12-06T07:03:27-05:00"
 }

@@ -38,6 +38,24 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T14:14:00-05:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-629.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T14:14:00-05:00", 
+      "calendar": "Union", 
+      "number": "469", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 469.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -48,7 +66,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Transportation and Infrastructure", 
       "committee_id": "HSPW"
@@ -223,11 +242,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Passenger Rail Reform and Investment Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To reauthorize Federal support for passenger rail programs, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:27-05:00"
+  "updated_at": "2014-12-06T07:08:25-05:00"
 }

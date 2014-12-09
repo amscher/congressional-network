@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5161" updated="2014-11-08T07:06:00-05:00">
+<bill session="113" type="h" number="5161" updated="2014-12-06T07:06:01-05:00">
   <state datetime="2014-09-11T13:23:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-09-11T13:23:00-04:00"/>
@@ -58,13 +58,13 @@
       <text>Considered as unfinished business.</text>
       <reference ref="CR H7438-7439" label="consideration"/>
     </action>
+    <action datetime="2014-09-11T13:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
     <vote how="roll" type="vote" roll="496" datetime="2014-09-11T13:23:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 496).</text>
       <reference ref="CR 9/9/2014 H7349" label="text"/>
     </vote>
-    <action datetime="2014-09-11T13:23:00-04:00">
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-    </action>
     <action datetime="2014-09-15">
       <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </action>

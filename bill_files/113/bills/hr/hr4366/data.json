@@ -101,6 +101,25 @@
       "references": [], 
       "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "committee": "Health, Education, Labor, and Pensions", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-275.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "calendar": "Senate Legislative", 
+      "number": "600", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 600.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -120,7 +139,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "Senate Health, Education, Labor, and Pensions", 
       "committee_id": "SSHR"
@@ -322,11 +342,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Strengthening Education through Research Act", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To strengthen the Federal education research system to make research and evaluations more timely and relevant to State and local needs in order to increase student achievement.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:12-05:00"
+  "updated_at": "2014-12-06T06:59:18-05:00"
 }

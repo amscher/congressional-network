@@ -106,6 +106,27 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Workforce Protections.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -133,6 +154,33 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Workforce Protections", 
+      "subcommittee_id": "10"
     }, 
     {
       "activity": [
@@ -665,5 +713,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:37-05:00"
+  "updated_at": "2014-12-06T07:07:37-05:00"
 }

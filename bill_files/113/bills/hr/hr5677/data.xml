@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5677" updated="2014-11-08T07:10:21-05:00">
+<bill session="113" type="h" number="5677" updated="2014-12-06T07:10:20-05:00">
   <state datetime="2014-09-19">REFERRED</state>
   <status>
     <introduced datetime="2014-09-19"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To implement reforms to the Federal land management agency fire programs in order to address the complexities of 21st century wildfires in a more cost-effective and efficient manner.</title>
   </titles>
   <sponsor id="412510"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400129" joined="2014-12-01"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-19" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>

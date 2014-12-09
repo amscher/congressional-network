@@ -126,7 +126,11 @@
     "Vermont"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-10", 
+    "text": "North Country National Scenic Trail Route Adjustment Act - Amends the National Trails System Act to extend the North Country National Scenic Trail into Vermont."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -141,5 +145,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:02-05:00"
+  "updated_at": "2014-12-06T07:41:22-05:00"
 }

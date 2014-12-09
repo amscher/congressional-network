@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3751" updated="2014-11-08T06:54:02-05:00">
+<bill session="113" type="h" number="3751" updated="2014-12-06T06:54:08-05:00">
   <state datetime="2013-12-12">REFERRED</state>
   <status>
     <introduced datetime="2013-12-12"/>
@@ -22,6 +22,7 @@
     <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
   </committees>
   <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5771"/>
     <bill relation="identical" session="113" type="s" number="1882"/>
   </relatedbills>
   <subjects>

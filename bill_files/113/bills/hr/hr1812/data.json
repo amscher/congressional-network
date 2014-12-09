@@ -62,11 +62,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Bera, Ami", 
       "sponsored_at": "2013-11-13", 
       "state": "CA", 
       "thomas_id": "02102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2014-11-20", 
+      "state": "UT", 
+      "thomas_id": "01753", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -211,6 +229,15 @@
       "sponsored_at": "2013-06-18", 
       "state": "WA", 
       "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Denham, Jeff", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "01995", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -746,6 +773,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Rokita, Todd", 
       "sponsored_at": "2014-05-01", 
@@ -953,6 +989,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Westmoreland, Lynn A.", 
       "sponsored_at": "2014-03-26", 
@@ -1055,5 +1100,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:45-05:00"
+  "updated_at": "2014-12-06T06:37:47-05:00"
 }

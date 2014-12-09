@@ -1000,6 +1000,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "31", 
       "name": "Miller, Gary G.", 
       "sponsored_at": "2013-04-25", 
@@ -1379,7 +1388,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-08-01", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -1594,6 +1603,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Young, Don", 
       "sponsored_at": "2013-07-19", 
@@ -1702,5 +1720,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:37:14-05:00"
+  "updated_at": "2014-12-06T06:37:16-05:00"
 }

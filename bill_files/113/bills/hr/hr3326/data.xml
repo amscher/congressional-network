@@ -1,11 +1,13 @@
-<bill session="113" type="h" number="3326" updated="2014-11-08T06:50:25-05:00">
-  <state datetime="2014-09-18">REPORTED</state>
+<bill session="113" type="h" number="3326" updated="2014-12-06T06:50:32-05:00">
+  <state datetime="2014-11-13T12:33:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2014-09-18"/>
+    <unknown datetime="2014-11-13T12:33:00-05:00"/>
   </status>
   <introduced datetime="2013-10-23"/>
   <titles>
     <title type="short" as="introduced">Trinity County Land Exchange Act of 2013</title>
+    <title type="short" as="reported to house">Trinity County Land Exchange Act of 2014</title>
+    <title type="short" as="passed house">Trinity County Land Exchange Act of 2014'.</title>
     <title type="official" as="introduced">To provide for an exchange of land between the United States and the Trinity Public Utilities District of Trinity County, California, involving a parcel of National Forest System land in Shasta-Trinity National Forest.</title>
   </titles>
   <sponsor id="412511"/>
@@ -31,10 +33,37 @@
     <calendar datetime="2014-09-18" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
     </calendar>
+    <action datetime="2014-11-12T17:00:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-615.</text>
+    </action>
+    <calendar datetime="2014-11-12T17:02:00-05:00" calendar="Union" number="457">
+      <text>Placed on the Union Calendar, Calendar No. 457.</text>
+    </calendar>
+    <action datetime="2014-11-13T12:29:00-05:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-11-13T12:29:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7949-7950" label="consideration"/>
+    </action>
+    <action datetime="2014-11-13T12:29:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3326.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-11-13T12:33:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7949" label="text"/>
+    </vote>
+    <action datetime="2014-11-13T12:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
@@ -45,10 +74,10 @@
     <term name="Public utilities and utility rates"/>
   </subjects>
   <amendments/>
-  <summary>10/23/2013--Introduced.
-Trinity County Land Exchange Act of 2013 - Directs the Secretary of Agriculture (USDA), if the Trinity Public Utilities District of Trinity County, California, conveys to the Secretary of the Interior all right, title, and interest of the District in the Sky Ranch parcel (Parcel A), to convey to the District all right, title, and interest of the United States in certain land in the Shasta-Trinity National Forest near the Weaverville Airport in Trinity County (Parcel B).
+  <summary>11/12/2014--Reported to House amended.
+Trinity County Land Exchange Act of 2014 - Provides for the exchange of approximately 47 acres of land known as the Sky Ranch Parcel and owned by the Trinity Public Utilities District of Trinity County, California, for approximately 100 acres of land in the Shasta-Trinity National Forest near the Weaverville Airport in Trinity County.
 
-Intends for such land exchange to be an equal value exchange.
+Intends for such land exchange to be an equal value exchange. Provides for cash equalization if the parcels are not of equal value.
 
-Requires the Secretary of the Interior, acting through the Redding Field Office of the Bureau of Land Management (BLM), to administer Parcel A as public land.</summary>
+ Requires the Bureau of Land Management (BLM) to administer the Sky Ranch parcel as public land, except that public recreation and public access to and for recreation shall be the highest and best use of such parcel.</summary>
 </bill>

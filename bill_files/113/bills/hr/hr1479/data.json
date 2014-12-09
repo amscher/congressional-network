@@ -187,6 +187,7 @@
   "status": "REFERRED", 
   "status_at": "2013-04-10", 
   "subjects": [
+    "Charitable contributions", 
     "Income tax deductions", 
     "Social work, volunteer service, charitable organizations", 
     "Taxation"
@@ -205,5 +206,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:34:54-05:00"
+  "updated_at": "2014-12-06T06:34:57-05:00"
 }

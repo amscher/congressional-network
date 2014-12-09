@@ -1,7 +1,7 @@
-<bill session="113" type="s" number="2280" updated="2014-11-08T07:37:21-05:00">
-  <state datetime="2014-05-05">REPORTED</state>
+<bill session="113" type="s" number="2280" updated="2014-12-06T07:38:40-05:00">
+  <state datetime="2014-11-18">FAIL:ORIGINATING:SENATE</state>
   <status>
-    <unknown datetime="2014-05-05"/>
+    <unknown datetime="2014-11-18"/>
   </status>
   <introduced datetime="2014-05-01"/>
   <titles>
@@ -76,9 +76,17 @@
     <calendar datetime="2014-05-05" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="371">
       <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.</text>
     </calendar>
+    <action datetime="2014-11-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6029-6053, S6053-6073" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="280" datetime="2014-11-18" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Under the order of 11/12/14, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 280.</text>
+    </vote>
   </actions>
   <committees/>
   <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5682"/>
     <bill relation="unknown" session="113" type="s" number="2314"/>
     <bill relation="unknown" session="113" type="s" number="2554"/>
   </relatedbills>
@@ -99,7 +107,7 @@ Authorizes TransCanada Keystone Pipeline, L.P. to construct, connect, operate, a
 
 Deems the Final Supplemental Environmental Impact Statement regarding the pipeline issued by the Secretary of State in January 2014 to fully satisfy the National Environmental Policy Act of 1969, and any law that requires federal agency consultation or review, including the Endangered Species Act of 1973.
 
-Declares any applicable federal permit or authorization issued before enactment of this Act to remain in effect
+Declares any applicable federal permit or authorization issued before enactment of this Act to remain in effect.
 
 Restricts any legal challenges regarding a federal agency action and such facilities to judicial review on direct appeal to the U.S. Court of Appeals for the District of Columbia Circuit.
 

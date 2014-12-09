@@ -1,11 +1,14 @@
-<bill session="113" type="s" number="2141" updated="2014-11-08T07:36:11-05:00">
-  <state datetime="2014-09-17">PASS_OVER:SENATE</state>
+<bill session="113" type="s" number="2141" updated="2014-12-06T07:37:30-05:00">
+  <state datetime="2014-11-26">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2014-09-17"/>
+    <unknown datetime="2014-11-26"/>
   </status>
   <introduced datetime="2014-03-13"/>
   <titles>
     <title type="short" as="introduced">Sunscreen Innovation Act</title>
+    <title type="short" as="passed house">Sunscreen Innovation Act</title>
+    <title type="short" as="passed senate">Sunscreen Innovation Act</title>
+    <title type="short" as="enacted">Sunscreen Innovation Act</title>
     <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to provide an alternative process for review of safety and effectiveness of nonprescription sunscreen active ingredients and for other purposes.</title>
   </titles>
   <sponsor id="300081"/>
@@ -57,6 +60,29 @@
     <action datetime="2014-09-18T14:55:00-04:00">
       <text>Held at the desk.</text>
     </action>
+    <action datetime="2014-11-13T17:49:00-05:00">
+      <text>Mr. Latta asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2014-11-13T17:49:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H7959-7964" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2014-11-13T17:50:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H7959-7964" label="text"/>
+    </vote>
+    <action datetime="2014-11-13T17:50:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-11-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-11-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-195" type="public" datetime="2014-11-26">
+      <text>Became Public Law No: 113-195.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
@@ -74,7 +100,7 @@
     <term name="Musculoskeletal and skin diseases"/>
   </subjects>
   <amendments/>
-  <summary>9/17/2014--Passed Senate amended.
+  <summary>11/26/2014--Public Law.
 Sunscreen Innovation Act - (Sec. 2) Amends the Federal Food, Drug, and Cosmetic Act to establish a process for the review and approval of over-the-counter (OTC) sunscreen active ingredients.
 
 Allows any person to request that the Secretary of Health and Human Services (HHS) determine whether an OTC sunscreen active ingredient or combination of ingredients is safe and effective.

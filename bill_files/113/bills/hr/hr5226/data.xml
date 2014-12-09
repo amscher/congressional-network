@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5226" updated="2014-11-08T07:06:34-05:00">
+<bill session="113" type="h" number="5226" updated="2014-12-06T07:06:33-05:00">
   <state datetime="2014-07-28">REFERRED</state>
   <status>
     <introduced datetime="2014-07-28"/>
@@ -16,23 +16,34 @@
     <cosponsor id="400057" joined="2014-09-18"/>
     <cosponsor id="412571" joined="2014-09-09"/>
     <cosponsor id="412236" joined="2014-07-28"/>
+    <cosponsor id="400081" joined="2014-12-03"/>
     <cosponsor id="412536" joined="2014-07-30"/>
     <cosponsor id="412544" joined="2014-09-11"/>
+    <cosponsor id="400116" joined="2014-11-17"/>
     <cosponsor id="412532" joined="2014-07-30"/>
+    <cosponsor id="412530" joined="2014-11-17"/>
     <cosponsor id="412276" joined="2014-09-08"/>
+    <cosponsor id="412454" joined="2014-11-12"/>
     <cosponsor id="412280" joined="2014-09-19"/>
+    <cosponsor id="400185" joined="2014-11-12"/>
     <cosponsor id="400209" joined="2014-09-15"/>
+    <cosponsor id="400245" joined="2014-11-14"/>
+    <cosponsor id="412521" joined="2014-11-12"/>
     <cosponsor id="412503" joined="2014-07-30"/>
     <cosponsor id="412295" joined="2014-09-15"/>
     <cosponsor id="412474" joined="2014-09-08"/>
     <cosponsor id="400295" joined="2014-09-08"/>
+    <cosponsor id="412442" joined="2014-11-12"/>
     <cosponsor id="412575" joined="2014-09-11"/>
     <cosponsor id="412192" joined="2014-08-01"/>
     <cosponsor id="412308" joined="2014-09-10"/>
     <cosponsor id="400343" joined="2014-07-28"/>
     <cosponsor id="400360" joined="2014-09-15"/>
+    <cosponsor id="400361" joined="2014-11-12"/>
+    <cosponsor id="412417" joined="2014-11-14"/>
     <cosponsor id="400363" joined="2014-07-30"/>
     <cosponsor id="412581" joined="2014-09-09"/>
+    <cosponsor id="400415" joined="2014-11-12"/>
     <cosponsor id="412548" joined="2014-09-09"/>
     <cosponsor id="412239" joined="2014-09-10"/>
     <cosponsor id="412211" joined="2014-09-10"/>
@@ -70,4 +81,10 @@
     <term name="State and local government operations"/>
   </subjects>
   <amendments/>
+  <summary>7/28/2014--Introduced.
+Charlotte's Web Medical Hemp Act of 2014 - Amends the Controlled Substances Act to exclude therapeutic hemp and cannabidiol: (1) from the definition of "marihuana," and (2) from treatment as a controlled substance under such Act. Defines: (1) "therapeutic hemp" to mean the plant Cannabis sativa L. and any part of such plant with a delta-9 tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis; and (2) "cannabidiol" to mean the substance cannabidiol, as derived from therapeutic hemp.
+
+Exempts therapeutic hemp or cannabidiol from the Federal Food, Drug, and Cosmetic Act.
+
+Declares that nothing in this Act shall restrict any activities related to the use, production, or distribution of marihuana in a state in which such activities are legal under state law.</summary>
 </bill>

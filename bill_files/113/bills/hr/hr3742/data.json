@@ -79,6 +79,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Butterfield, G. K.", 
       "sponsored_at": "2013-12-12", 
@@ -93,6 +102,15 @@
       "sponsored_at": "2014-07-22", 
       "state": "AL", 
       "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2014-11-19", 
+      "state": "PA", 
+      "thomas_id": "02159", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -219,6 +237,15 @@
       "sponsored_at": "2014-04-28", 
       "state": "KY", 
       "thomas_id": "01922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Harper, Gregg", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MS", 
+      "thomas_id": "01933", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -376,11 +403,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Rogers, Mike J.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "01651", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Roskam, Peter J.", 
       "sponsored_at": "2014-07-10", 
       "state": "IL", 
       "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01003", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -524,5 +569,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:57-05:00"
+  "updated_at": "2014-12-06T06:54:04-05:00"
 }

@@ -180,6 +180,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Kildee, Daniel T", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MI", 
+      "thomas_id": "02134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Kilmer, Derek", 
       "sponsored_at": "2014-03-06", 
@@ -333,6 +342,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Polis, Jared", 
       "sponsored_at": "2014-03-06", 
@@ -430,6 +448,11 @@
       "bill_id": "s1357-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2964-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Trade Adjustment Assistance Act of 2014", 
@@ -477,5 +500,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:30-05:00"
+  "updated_at": "2014-12-06T06:57:36-05:00"
 }

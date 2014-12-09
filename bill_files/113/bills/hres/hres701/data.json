@@ -808,6 +808,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Sires, Albio", 
       "sponsored_at": "2014-07-31", 
@@ -985,5 +994,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:06-05:00"
+  "updated_at": "2014-12-06T06:22:01-05:00"
 }

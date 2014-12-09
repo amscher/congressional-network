@@ -218,6 +218,7 @@
     "Academic performance and assessments", 
     "Administrative law and regulatory procedures", 
     "Administrative remedies", 
+    "Charitable contributions", 
     "Competition and antitrust", 
     "Congressional oversight", 
     "Corporate finance and management", 
@@ -254,5 +255,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:40:09-05:00"
+  "updated_at": "2014-12-06T06:40:11-05:00"
 }

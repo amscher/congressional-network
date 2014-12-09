@@ -217,6 +217,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "sponsored_at": "2014-12-01", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Brown, Corrine", 
       "sponsored_at": "2013-09-30", 
@@ -820,6 +829,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "sponsored_at": "2014-12-02", 
+      "state": "NE", 
+      "thomas_id": "01793", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Foster, Bill", 
       "sponsored_at": "2013-06-12", 
@@ -1158,6 +1176,15 @@
       "sponsored_at": "2014-05-19", 
       "state": "NC", 
       "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Huelskamp, Tim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KS", 
+      "thomas_id": "02020", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -2858,5 +2885,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:35:17-05:00"
+  "updated_at": "2014-12-06T06:35:18-05:00"
 }

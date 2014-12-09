@@ -376,6 +376,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Fudge, Marcia L.", 
       "sponsored_at": "2014-07-14", 
@@ -727,6 +736,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Miller, George", 
       "sponsored_at": "2014-07-14", 
@@ -844,6 +862,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Peterson, Collin C.", 
       "sponsored_at": "2014-07-16", 
@@ -903,6 +930,15 @@
       "sponsored_at": "2014-07-14", 
       "state": "LA", 
       "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00997", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1105,6 +1141,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "23", 
       "name": "Wasserman Schultz, Debbie", 
       "sponsored_at": "2014-07-15", 
@@ -1137,6 +1182,15 @@
       "sponsored_at": "2014-07-14", 
       "state": "VT", 
       "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "02004", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1199,5 +1253,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:11:23-05:00"
+  "updated_at": "2014-12-06T07:12:22-05:00"
 }

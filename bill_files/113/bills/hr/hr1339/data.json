@@ -557,6 +557,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Grimm, Michael G.", 
       "sponsored_at": "2013-10-07", 
@@ -778,6 +787,15 @@
       "sponsored_at": "2013-09-11", 
       "state": "NY", 
       "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NH", 
+      "thomas_id": "02145", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1007,6 +1025,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Nolan, Richard M.", 
       "sponsored_at": "2014-05-20", 
@@ -1187,6 +1214,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "40", 
       "name": "Roybal-Allard, Lucille", 
       "sponsored_at": "2014-09-16", 
@@ -1354,6 +1399,15 @@
       "sponsored_at": "2014-01-28", 
       "state": "OH", 
       "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CA", 
+      "thomas_id": "02110", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1572,5 +1626,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:33:44-05:00"
+  "updated_at": "2014-12-06T06:33:47-05:00"
 }

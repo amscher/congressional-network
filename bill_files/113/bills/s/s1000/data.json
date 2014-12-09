@@ -9,9 +9,65 @@
       "status": "REFERRED", 
       "text": "Read twice and referred to the Committee on Environment and Public Works.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "references": [
+        {
+          "reference": "CR S6246-6248", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-02T17:36:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T18:18:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3965-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3965"
+    }
+  ], 
   "bill_id": "s1000-113", 
   "bill_type": "s", 
   "by_request": false, 
@@ -19,6 +75,7 @@
     {
       "activity": [
         "referral", 
+        "discharged", 
         "in committee"
       ], 
       "committee": "Senate Environment and Public Works", 
@@ -39,9 +96,12 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-02", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-02", 
     "vetoed": false
   }, 
   "introduced_at": "2013-05-21", 
@@ -55,12 +115,17 @@
       "type": "bill"
     }, 
     {
+      "bill_id": "hr739-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "hr2954-113", 
       "reason": "related", 
       "type": "bill"
     }
   ], 
-  "short_title": "Chesapeake Bay Accountability and Recovery Act of 2013", 
+  "short_title": "Chesapeake Bay Accountability and Recovery Act of 2014", 
   "sponsor": {
     "district": null, 
     "name": "Warner, Mark R.", 
@@ -69,8 +134,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2013-05-21", 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-12-02", 
   "subjects": [
     "Aquatic ecology", 
     "Chesapeake Bay", 
@@ -106,11 +171,17 @@
       "type": "short"
     }, 
     {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Chesapeake Bay Accountability and Recovery Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to require the Director of the Office of Management and Budget to prepare a crosscut budget for restoration activities in the Chesapeake Bay watershed, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:26:35-05:00"
+  "updated_at": "2014-12-06T07:27:44-05:00"
 }

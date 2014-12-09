@@ -61,6 +61,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Cohen, Steve", 
       "sponsored_at": "2014-09-10", 
@@ -79,6 +88,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "Nadler, Jerrold", 
       "sponsored_at": "2014-09-18", 
@@ -93,6 +120,15 @@
       "sponsored_at": "2014-09-10", 
       "state": "NY", 
       "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01635", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -169,5 +205,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:34-05:00"
+  "updated_at": "2014-12-06T07:04:39-05:00"
 }

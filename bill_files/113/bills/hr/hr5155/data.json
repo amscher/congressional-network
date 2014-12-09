@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Education and the Workforce.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +29,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
     }
   ], 
   "congress": "113", 
@@ -58,7 +74,11 @@
     "Physical fitness and lifestyle"
   ], 
   "subjects_top_term": "Arts, culture, religion", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "Prohibits the National Endowment for the Humanities from providing funds to carry out the Popular Romance Project or any similar project relating to love or romance."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -67,5 +87,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:57-05:00"
+  "updated_at": "2014-12-06T07:05:58-05:00"
 }

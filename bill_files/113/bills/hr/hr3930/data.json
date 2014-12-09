@@ -358,6 +358,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "01839", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Chabot, Steve", 
       "sponsored_at": "2014-02-05", 
@@ -1709,7 +1718,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-04-28", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -2077,5 +2086,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:33-05:00"
+  "updated_at": "2014-12-06T06:55:39-05:00"
 }

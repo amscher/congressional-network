@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="2983" updated="2014-12-06T07:44:39-05:00">
+  <state datetime="2014-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-04"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow for a contract for operation of Melville Hall of United States Merchant Marine Academy after gift by United States Merchant Marine Academy Alumni Association and Foundation, Inc., for renovation of such hall and for other purposes.</title>
+  </titles>
+  <sponsor id="400432"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

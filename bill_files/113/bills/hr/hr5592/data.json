@@ -86,7 +86,11 @@
     "Rural conditions and development"
   ], 
   "subjects_top_term": "Health", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Requires the Secretary of Health and Human Services (HHS), in developing methodology for designating areas with limited access to goods and services generally only found in urban areas (e.g., advanced medical care) as frontier and remote (FAR) areas, to: (1) designate as a FAR area any area in Hawaii or Alaska that the state designates as rural for a federal program, and (2) include, in addition to otherwise defined levels of remoteness for FAR areas, a level for areas with unique characteristics that should qualify those areas to be designated as FAR areas."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -95,5 +99,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:38-05:00"
+  "updated_at": "2014-12-06T07:09:37-05:00"
 }

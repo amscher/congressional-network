@@ -106,6 +106,7 @@
   "status_at": "2014-05-29", 
   "subjects": [
     "Accounting and auditing", 
+    "Charitable contributions", 
     "Income tax deductions", 
     "Social work, volunteer service, charitable organizations", 
     "Taxation"
@@ -136,5 +137,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:49-05:00"
+  "updated_at": "2014-12-06T06:48:56-05:00"
 }

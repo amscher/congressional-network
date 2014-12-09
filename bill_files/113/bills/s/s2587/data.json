@@ -77,7 +77,11 @@
     "Trade restrictions"
   ], 
   "subjects_top_term": "Animals", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-10", 
+    "text": "Lawful Ivory Protection Act of 2014 - Amends the Endangered Species Act of 1973 to prohibit any regulation that goes in effect after February 24, 2014, from:\n\n prohibiting or restricting the possession, sale, delivery, receipt, shipping, or transportation of elephant ivory that has been lawfully imported; changing any methods of, or standards for, determining if ivory has been lawfully imported; or prohibiting or restricting the importation or possession of ivory that was lawfully importable or possessable on that date."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -92,5 +96,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:58-05:00"
+  "updated_at": "2014-12-06T07:41:18-05:00"
 }

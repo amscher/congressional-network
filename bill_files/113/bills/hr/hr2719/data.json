@@ -216,6 +216,11 @@
       "bill_id": "s1893-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s1893-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Transportation Security Acquisition Reform Act", 
@@ -279,5 +284,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:21-05:00"
+  "updated_at": "2014-12-06T06:45:27-05:00"
 }

@@ -1,6 +1,46 @@
 {
   "actions": [
     {
+      "acted_at": "2013-04-18", 
+      "committee": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [], 
+      "text": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2013-05-09", 
+      "committee": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [], 
+      "text": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2013-05-16", 
+      "committee": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [], 
+      "text": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2013-05-23", 
+      "committee": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [], 
+      "text": "Committee on Appropriations Senate Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-453.", 
+      "type": "hearings"
+    }, 
+    {
       "acted_at": "2013-06-27", 
       "committees": [
         "SSAP"
@@ -32,13 +72,23 @@
       ], 
       "committee": "Senate Appropriations", 
       "committee_id": "SSAP"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Appropriations", 
+      "committee_id": "SSAP", 
+      "subcommittee": "Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies", 
+      "subcommittee_id": "01"
     }
   ], 
   "congress": "113", 
   "cosponsors": [], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2013-04-18", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -138,5 +188,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:28:41-05:00"
+  "updated_at": "2014-12-06T07:29:50-05:00"
 }

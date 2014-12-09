@@ -56,6 +56,15 @@
     }, 
     {
       "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Brown, Sherrod", 
       "sponsored_at": "2013-11-05", 
       "state": "OH", 
@@ -155,6 +164,15 @@
     }, 
     {
       "district": null, 
+      "name": "Hagan, Kay", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NC", 
+      "thomas_id": "01902", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Heinrich, Martin", 
       "sponsored_at": "2013-09-24", 
       "state": "NM", 
@@ -204,6 +222,15 @@
       "sponsored_at": "2013-09-17", 
       "state": "MA", 
       "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MO", 
+      "thomas_id": "01820", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -434,5 +461,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:23:40-05:00"
+  "updated_at": "2014-12-06T07:24:50-05:00"
 }

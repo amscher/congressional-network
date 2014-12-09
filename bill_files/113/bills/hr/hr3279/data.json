@@ -1042,6 +1042,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "27", 
       "name": "Ros-Lehtinen, Ileana", 
       "sponsored_at": "2013-10-09", 
@@ -1096,6 +1105,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2014-11-13", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Sensenbrenner, F. James, Jr.", 
       "sponsored_at": "2014-05-06", 
@@ -1133,7 +1151,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-10-10", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -1356,5 +1374,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:50:01-05:00"
+  "updated_at": "2014-12-06T06:50:08-05:00"
 }

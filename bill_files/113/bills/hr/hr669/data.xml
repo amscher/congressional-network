@@ -1,14 +1,16 @@
-<bill session="113" type="h" number="669" updated="2014-11-08T06:28:04-05:00">
-  <state datetime="2014-09-09T17:49:00-04:00">PASS_OVER:HOUSE</state>
+<bill session="113" type="h" number="669" updated="2014-12-08T18:48:33-05:00">
+  <state datetime="2014-12-03T18:02:00-05:00">PASSED:BILL</state>
   <status>
-    <unknown datetime="2014-09-09T17:49:00-04:00"/>
+    <unknown datetime="2014-12-03T18:02:00-05:00"/>
   </status>
   <introduced datetime="2013-02-13"/>
   <titles>
     <title type="short" as="introduced">Sudden Unexpected Death Data Enhancement and Awareness Act</title>
     <title type="short" as="reported to house">Sudden Unexpected Death Data Enhancement and Awareness Act</title>
     <title type="short" as="passed house">Sudden Unexpected Death Data Enhancement and Awareness Act</title>
+    <title type="short" as="passed senate">Sudden Unexpected Death Data Enhancement and Awareness Act</title>
     <title type="official" as="introduced">To amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.</title>
+    <title type="official" as="amended by senate">A bill to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.</title>
   </titles>
   <sponsor id="400308"/>
   <cosponsors>
@@ -81,11 +83,41 @@
     <action datetime="2014-09-10">
       <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
     </action>
+    <calendar datetime="2014-11-19">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-11-20">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2014-11-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6219" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-11-20" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-11-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-03T18:01:00-05:00">
+      <text>Mr. Bilirakis asked unanimous consent to take from the Speaker's table and agree to the Senate amendments.</text>
+      <reference ref="CR H8344-8345" label="consideration"/>
+    </action>
+    <vote how="without objection" type="pingpong" datetime="2014-12-03T18:02:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion that the House agree to the Senate amendments Agreed to without objection.</text>
+      <reference ref="CR H8345" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2014-12-03T18:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-12-08">
+      <text>Presented to President.</text>
+    </topresident>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting, In Committee"/>
     <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
-    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Discharged"/>
   </committees>
   <relatedbills>
     <bill relation="identical" session="113" type="s" number="314"/>
@@ -111,17 +143,10 @@
     <term name="Sex and reproductive health"/>
     <term name="Social work, volunteer service, charitable organizations"/>
   </subjects>
-  <amendments/>
-  <summary>9/9/2014--Passed House amended.
-Sudden Unexpected Death Data Enhancement and Awareness Act - (Sec. 2) Amends the Public Health Service Act to require the Director of the Centers for Disease Control and Prevention (CDC) to continue activities relating to stillbirth, sudden unexpected infant death (SUID), and sudden unexpected death in childhood (SUDC).
-
-Requires the CDC to provide for collection of epidemiologic information on stillbirths, including through existing surveillance systems. Requires the CDC to develop and periodically update a standard data collection protocol and guidelines for postmortem stillbirth evaluation.
-
-Directs the CDC to provide for collection of sociodemographic, death scene investigation, clinical history, and autopsy information on SUID and SUDC cases through the review of existing records.
-
-Requires the CDC to develop and periodically update standard protocols for data collection and death scene investigation for SUID. Sets forth goals for SUID surveillance, including: (1) collecting information about the environmental and medical circumstances of death, (2) supporting multidisciplinary infant death reviews to classify and characterize SUID, and (3) facilitating information sharing to improve reporting of SUID. Requires the death scene investigation protocol to include the collection of infant and family medical history, circumstances surrounding death, the infant's sleep position and sleep environment, and any accidental or environmental factors associated with the death.
-
-Directs the CDC to develop and periodically update guidelines for standard autopsy protocols for SUID and SUDC.
-
-Allows the Attorney General to conduct and support training for medical examiners, coroners, and others regarding standard protocols for death scene investigation and autopsies.</summary>
+  <amendments>
+    <amendment number="s3957"/>
+    <amendment number="s3958"/>
+  </amendments>
+  <summary>11/20/2014--Passed Senate amended.
+Sudden Unexpected Death Data Enhancement and Awareness Act - (Sec. 2) Requires the Secretary of Health and Human Services (HHS) to continue and report on activities related to stillbirth, sudden unexpected infant death, and sudden unexplained death in childhood, including collaborating with states and experts to improve the quality and consistency of data collected after one of these deaths.</summary>
 </bill>

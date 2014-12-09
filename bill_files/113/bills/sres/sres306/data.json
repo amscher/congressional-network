@@ -120,6 +120,7 @@
   "status_at": "2013-11-20", 
   "subjects": [
     "Agriculture and food", 
+    "Charitable contributions", 
     "Commemorative events and holidays", 
     "Food assistance and relief", 
     "Social work, volunteer service, charitable organizations"
@@ -138,5 +139,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:15:23-05:00"
+  "updated_at": "2014-12-06T07:16:25-05:00"
 }

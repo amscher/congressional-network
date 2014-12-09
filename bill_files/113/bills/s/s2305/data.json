@@ -37,6 +37,15 @@
     }, 
     {
       "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Markey, Edward J.", 
       "sponsored_at": "2014-05-12", 
       "state": "MA", 
@@ -149,5 +158,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:34-05:00"
+  "updated_at": "2014-12-06T07:38:53-05:00"
 }

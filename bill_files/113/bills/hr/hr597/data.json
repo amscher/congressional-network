@@ -236,6 +236,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "20", 
       "name": "Hastings, Alcee L.", 
       "sponsored_at": "2013-04-10", 
@@ -423,5 +432,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:27:28-05:00"
+  "updated_at": "2014-12-06T06:27:35-05:00"
 }

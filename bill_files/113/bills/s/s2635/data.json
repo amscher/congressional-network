@@ -115,7 +115,11 @@
     "Wildlife conservation and habitat protection"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-22", 
+    "text": "21st Century Endangered Species Transparency Act - Amends the Endangered Species Act of 1973 to require the Secretary of the Interior or the Secretary of Commerce, as appropriate, to make publicly available on the Internet the best scientific and commercial data available that are the basis for the determination of whether a species is an endangered species or a threatened species, including each proposed regulation for the listing of a species.\n\nProhibits the Secretary from making the information publicly available when: (1) the public disclosure of the information is prohibited by state law relating to the protection of personal information, and (2) the state makes a request to the Secretary to withhold the information."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -130,5 +134,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:22-05:00"
+  "updated_at": "2014-12-06T07:41:42-05:00"
 }

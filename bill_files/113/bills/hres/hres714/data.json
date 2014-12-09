@@ -32,6 +32,67 @@
       "references": [], 
       "text": "Forwarded by Subcommittee to Full Committee by Unanimous Consent .", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:26:00-05:00", 
+      "references": [], 
+      "text": "Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8350-8354", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:26:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 714.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:49:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8350-8351", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:49:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -41,7 +102,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "House Foreign Affairs", 
       "committee_id": "HSFA"
@@ -104,6 +166,15 @@
       "thomas_id": "00985", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Stockman, Steve", 
+      "sponsored_at": "2014-11-19", 
+      "state": "TX", 
+      "thomas_id": "01114", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -112,11 +183,13 @@
     "active_at": "2014-09-17", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-03T18:49:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-09-08", 
   "number": "714", 
-  "official_title": "Reaffirming the peaceful and collaborative resolution of maritime and jurisdictional disputes in the South China Sea and the East China Sea as provided for by universally recognized principles of international law, and reaffirming the strong support of the United States Government for freedom of navigation and other internationally lawful uses of sea and airspace in the Asia-Pacific region.", 
+  "official_title": "To reaffirm the strong support of the United States Government for the peaceful and collaborative resolution of maritime and jurisdictional disputes in the South China Sea and the East China Sea as provided for by universally recognized principles of international law, and to reaffirm the vital interest of the United States in freedom of navigation and other internationally lawful uses of sea and airspace in the Asia-Pacific region.", 
   "popular_title": null, 
   "related_bills": [], 
   "short_title": null, 
@@ -128,8 +201,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-09-08", 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-12-03T18:49:00-05:00", 
   "subjects": [
     "ASEAN countries", 
     "Asia", 
@@ -146,9 +219,9 @@
   ], 
   "subjects_top_term": "International affairs", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-09-08", 
-    "text": "Reaffirms U.S. support for the peaceful resolution of maritime territorial disputes in the South China Sea and the East China Sea.\n\nReaffirms support for freedom of navigation and overflight and condemns coercive actions or the use of force to impede these freedoms in international maritime domains and airspace.\n\nUrges China to refrain from implementing the declared East China Sea Air Defense Identification Zone which is contrary to freedom of overflight in international airspace, and to refrain from taking similar provocative actions elsewhere in the Asia-Pacific region.\n\nUrges the Association of Southeast Asian Nations (ASEAN), U.S. allies and partners, and all claimants to fairly resolve these outstanding disputes, including through developing a Code of Conduct for the South China Sea.\n\nSupports U.S. operations to support freedom of navigation in international waters and air space in the South China Sea and the East China Sea.\n\n Encourages U.S. efforts to strengthen regional partnerships in support of freedom of navigation, maintenance of peace and stability, and respect for principles of international law."
+    "as": "Passed House amended", 
+    "date": "2014-12-03", 
+    "text": "Reaffirms U.S. support for the peaceful resolution of maritime territorial disputes in the South China Sea and the East China Sea.\n\nReaffirms support for freedom of navigation and overflight and condemns coercive actions or the use of force to impede these freedoms in international maritime domains and airspace.\n\nDeclares that the House of Representatives does not recognize the East China Sea Air Defense Identification Zone, declared by china, which is contrary to freedom of overflight in international airspace.\n\nCalls on China to refrain from taking similar provocative actions elsewhere in the Asia-Pacific region, including in the South China Sea.\n\nUrges the Association of Southeast Asian Nations (ASEAN), U.S. allies and partners, and all claimants to fairly resolve these outstanding disputes, including through the conclusion of a Code of Conduct for the South China Sea.\n\nUrges as well the conclusion of the annex to the non-binding memorandum of understanding between the United States and China on \"rules of behavior for safety of air and maritime encounters\" addressing air-to-air encounters in 2015.\n\nSupports continued U.S. operations to support freedom of navigation in international waters and air space in the South China Sea and the East China Sea.\n\n Encourages continued U.S. efforts to strengthen regional partnerships to build capacity for maritime domain awareness in support of freedom of navigation, maintenance of peace and stability, and respect for principles of international law."
   }, 
   "titles": [
     {
@@ -156,7 +229,13 @@
       "is_for_portion": false, 
       "title": "Reaffirming the peaceful and collaborative resolution of maritime and jurisdictional disputes in the South China Sea and the East China Sea as provided for by universally recognized principles of international law, and reaffirming the strong support of the United States Government for freedom of navigation and other internationally lawful uses of sea and airspace in the Asia-Pacific region.", 
       "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To reaffirm the strong support of the United States Government for the peaceful and collaborative resolution of maritime and jurisdictional disputes in the South China Sea and the East China Sea as provided for by universally recognized principles of international law, and to reaffirm the vital interest of the United States in freedom of navigation and other internationally lawful uses of sea and airspace in the Asia-Pacific region.", 
+      "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:12-05:00"
+  "updated_at": "2014-12-06T06:22:08-05:00"
 }

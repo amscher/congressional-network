@@ -1899,7 +1899,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-07-16", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -2231,5 +2231,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:22:45-05:00"
+  "updated_at": "2014-12-06T06:22:52-05:00"
 }

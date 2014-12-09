@@ -1,4 +1,4 @@
-<bill session="113" type="hc" number="117" updated="2014-11-08T07:12:26-05:00">
+<bill session="113" type="hc" number="117" updated="2014-12-06T07:13:26-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -8,7 +8,9 @@
     <title type="official" as="introduced">Expressing the sense of Congress that the United States Postal Service should issue a commemorative postage stamp honoring Admiral Ben Moreell and that the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp be issued.</title>
   </titles>
   <sponsor id="412290"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400142" joined="2014-11-18"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>

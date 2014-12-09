@@ -52,6 +52,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-11-17", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Crawford, Eric A. \"Rick\"", 
       "sponsored_at": "2014-07-23", 
@@ -66,6 +75,15 @@
       "sponsored_at": "2014-06-17", 
       "state": "IL", 
       "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "WI", 
+      "thomas_id": "02073", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -119,5 +137,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:30-05:00"
+  "updated_at": "2014-12-06T07:03:36-05:00"
 }

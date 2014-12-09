@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="1981" updated="2014-11-08T06:39:10-05:00">
+<bill session="113" type="h" number="1981" updated="2014-12-06T06:39:13-05:00">
   <state datetime="2013-05-15">REFERRED</state>
   <status>
     <introduced datetime="2013-05-15"/>
@@ -13,19 +13,30 @@
     <cosponsor id="412512" joined="2013-06-03"/>
     <cosponsor id="412195" joined="2013-05-15"/>
     <cosponsor id="412379" joined="2013-07-16"/>
+    <cosponsor id="400093" joined="2014-11-13"/>
+    <cosponsor id="400097" joined="2014-11-12"/>
+    <cosponsor id="400103" joined="2014-11-12"/>
     <cosponsor id="400162" joined="2013-05-15"/>
+    <cosponsor id="400179" joined="2014-11-20"/>
     <cosponsor id="400184" joined="2013-05-15"/>
+    <cosponsor id="400185" joined="2014-11-12"/>
     <cosponsor id="400199" joined="2013-05-15"/>
     <cosponsor id="400211" joined="2013-05-15"/>
     <cosponsor id="400237" joined="2013-05-15"/>
     <cosponsor id="400240" joined="2013-05-15"/>
     <cosponsor id="412209" joined="2013-07-08"/>
     <cosponsor id="400257" joined="2013-05-15"/>
+    <cosponsor id="400262" joined="2014-11-17"/>
     <cosponsor id="400263" joined="2013-12-02"/>
+    <cosponsor id="400271" joined="2014-12-01"/>
     <cosponsor id="400290" joined="2013-05-15"/>
     <cosponsor id="412308" joined="2013-05-15"/>
+    <cosponsor id="412312" joined="2014-11-13"/>
     <cosponsor id="400361" joined="2013-07-22"/>
     <cosponsor id="400364" joined="2013-05-15"/>
+    <cosponsor id="412520" joined="2014-12-01"/>
+    <cosponsor id="400407" joined="2014-11-20"/>
+    <cosponsor id="412319" joined="2014-11-17"/>
     <cosponsor id="412254" joined="2013-05-15"/>
     <cosponsor id="412412" joined="2013-05-15"/>
     <cosponsor id="412211" joined="2013-05-15"/>

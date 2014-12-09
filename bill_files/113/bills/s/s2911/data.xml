@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2911" updated="2014-11-08T07:42:41-05:00">
+<bill session="113" type="s" number="2911" updated="2014-12-06T07:44:03-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -25,9 +25,12 @@
     <action datetime="2014-09-18" state="REFERRED">
       <text>Read twice and referred to the Committee on Environment and Public Works.</text>
     </action>
+    <action datetime="2014-12-02">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
   </committees>
   <relatedbills/>
   <subjects>

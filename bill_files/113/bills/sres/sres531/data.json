@@ -14,16 +14,66 @@
       "status": "REFERRED", 
       "text": "Referred to the Committee on the Judiciary.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "references": [
+        {
+          "reference": "CR S6307", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6307", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Star Print ordered on the resolution.", 
+      "type": "action"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3971-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3971"
+    }
+  ], 
   "bill_id": "sres531-113", 
   "bill_type": "sres", 
   "by_request": false, 
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "Senate Judiciary", 
       "committee_id": "SSJU"
@@ -43,9 +93,12 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-03", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-03", 
     "vetoed": false
   }, 
   "introduced_at": "2014-07-31", 
@@ -62,8 +115,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-07-31", 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-12-03", 
   "subjects": [
     "Armed forces and national security", 
     "Congressional tributes", 
@@ -85,5 +138,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:17:16-05:00"
+  "updated_at": "2014-12-08T18:48:55-05:00"
 }

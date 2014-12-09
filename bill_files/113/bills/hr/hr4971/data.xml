@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4971" updated="2014-11-08T07:04:20-05:00">
+<bill session="113" type="h" number="4971" updated="2014-12-06T07:04:25-05:00">
   <state datetime="2014-09-10">REPORTED</state>
   <status>
     <unknown datetime="2014-09-10"/>
@@ -66,9 +66,15 @@
     <calendar datetime="2014-09-10" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
     </calendar>
+    <action datetime="2014-12-03T15:34:00-05:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-645.</text>
+    </action>
+    <calendar datetime="2014-12-03T15:35:00-05:00" calendar="Union" number="484">
+      <text>Placed on the Union Calendar, Calendar No. 484.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Discharged" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
     <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
   </committees>

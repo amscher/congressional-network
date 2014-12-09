@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Education and the Workforce.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,16 +29,43 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }
   ], 
   "congress": "113", 
   "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
     {
       "district": "12", 
       "name": "Enyart, William L.", 
       "sponsored_at": "2014-07-31", 
       "state": "IL", 
       "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MD", 
+      "thomas_id": "00566", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -150,5 +184,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:02-05:00"
+  "updated_at": "2014-12-06T07:03:07-05:00"
 }

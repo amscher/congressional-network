@@ -250,6 +250,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "18", 
       "name": "Jackson Lee, Sheila", 
       "sponsored_at": "2013-09-12", 
@@ -381,6 +390,15 @@
       "sponsored_at": "2013-09-12", 
       "state": "NJ", 
       "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01835", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -578,5 +596,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:27-05:00"
+  "updated_at": "2014-12-06T06:48:34-05:00"
 }

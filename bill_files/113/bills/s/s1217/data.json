@@ -40,7 +40,7 @@
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held.", 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 113-145.", 
       "type": "hearings"
     }, 
     {
@@ -51,7 +51,7 @@
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held.", 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 113-146.", 
       "type": "hearings"
     }, 
     {
@@ -95,7 +95,7 @@
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held.", 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 113-187.", 
       "type": "hearings"
     }, 
     {
@@ -365,5 +365,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:28:27-05:00"
+  "updated_at": "2014-12-06T07:29:37-05:00"
 }

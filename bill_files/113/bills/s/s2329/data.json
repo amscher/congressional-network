@@ -514,6 +514,15 @@
     }, 
     {
       "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Wicker, Roger F.", 
       "sponsored_at": "2014-07-29", 
       "state": "MS", 
@@ -608,5 +617,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:46-05:00"
+  "updated_at": "2014-12-06T07:39:05-05:00"
 }

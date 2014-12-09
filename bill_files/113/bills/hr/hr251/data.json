@@ -59,12 +59,6 @@
     }, 
     {
       "acted_at": "2013-06-11T17:06:00-04:00", 
-      "references": [], 
-      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill.", 
-      "type": "action"
-    }, 
-    {
-      "acted_at": "2013-06-11T17:06:00-04:00", 
       "references": [
         {
           "reference": "CR H3264-3265", 
@@ -72,6 +66,12 @@
         }
       ], 
       "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-11T17:06:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill.", 
       "type": "action"
     }, 
     {
@@ -296,5 +296,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:24:35-05:00"
+  "updated_at": "2014-12-06T06:24:42-05:00"
 }

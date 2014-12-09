@@ -9,6 +9,98 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Financial Services.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:05:00-05:00", 
+      "references": [], 
+      "text": "Mr. Pearce moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8255-8258", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:05:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2366.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:19:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T16:12:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8261-8262", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T16:19:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T16:19:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8255-8256", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "539", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 3 (Roll no. 539).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6354", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -743,6 +835,15 @@
       "sponsored_at": "2014-07-17", 
       "state": "IL", 
       "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TN", 
+      "thomas_id": "00322", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1953,6 +2054,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "16", 
       "name": "Pitts, Joseph R.", 
       "sponsored_at": "2014-07-17", 
@@ -2359,7 +2469,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-05-02", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -2729,9 +2839,14 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-12-02T15:05:00-05:00", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T16:19:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-04", 
     "vetoed": false
   }, 
   "introduced_at": "2013-06-13", 
@@ -2754,8 +2869,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2013-06-13", 
+  "status": "PASSED:BILL", 
+  "status_at": "2014-12-04", 
   "subjects": [
     "Commemorative events and holidays", 
     "Conflicts and wars", 
@@ -2766,13 +2881,19 @@
   ], 
   "subjects_top_term": "Finance and financial sector", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-06-13", 
-    "text": "World War I American Veterans Centennial Commemorative Coin Act - Directs the Secretary of the Treasury to: (1) mint and issue $1 silver coins in commemoration of the centennial of America's involvement in World War I, and (2) hold a competition and provide compensation for its winner to design the obverse and reverse of the coins.\n\nRequires the design of such coins to be emblematic of the centennial of America's involvement in World War I.\n\nPermits the Secretary to issue such coins only during calendar year 2018.\n\nSubjects the coin sales to a surcharge of $10 per coin, payable by the Secretary to the World War I Centennial Commission."
+    "as": "Passed House amended", 
+    "date": "2014-12-02", 
+    "text": "World War I American Veterans Centennial Commemorative Coin Act - Directs the Secretary of the Treasury to: (1) mint and issue $1 silver coins in commemoration of the centennial of America's involvement in World War I; and (2) hold a juried competition, and compensate its winner, for design of the obverse and reverse of the coins in a way emblematic of the centennial.\n\nPermits the use of only one facility of the U.S. Mint to strike any particular quality of the coins.\n\nAuthorizes the Secretary to issue the coins only during calendar year 2018.\n\nSubjects coin sales to a surcharge of $10 per coin, payable by the Secretary to the United States Foundation for the Commemoration of the World Wars to assist the World War I Centennial Commission in the commemoration.\n\nDirects the Secretary to ensure that (1) minting and issuing the coins will not result in any net cost to the U.S. Government; and (2) no funds, including applicable surcharges, shall be disbursed to designated recipients until the total cost of designing and issuing the coins is recovered by the U.S. Treasury."
   }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "World War I American Veterans Centennial Commemorative Coin Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
       "is_for_portion": false, 
       "title": "World War I American Veterans Centennial Commemorative Coin Act", 
       "type": "short"
@@ -2784,5 +2905,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:42:24-05:00"
+  "updated_at": "2014-12-08T18:48:36-05:00"
 }

@@ -64,6 +64,15 @@
     }, 
     {
       "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Murkowski, Lisa", 
       "sponsored_at": "2013-06-20", 
       "state": "AK", 
@@ -152,5 +161,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:27:42-05:00"
+  "updated_at": "2014-12-06T07:28:51-05:00"
 }

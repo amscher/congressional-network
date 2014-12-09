@@ -52,11 +52,47 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Holt, Rush", 
       "sponsored_at": "2014-09-11", 
       "state": "NJ", 
       "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02111", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -141,5 +177,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:23-05:00"
+  "updated_at": "2014-12-06T07:03:29-05:00"
 }

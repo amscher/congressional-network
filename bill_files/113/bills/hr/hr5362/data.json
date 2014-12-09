@@ -72,6 +72,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Joyce, David P.", 
       "sponsored_at": "2014-07-31", 
@@ -235,5 +244,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:42-05:00"
+  "updated_at": "2014-12-06T07:07:42-05:00"
 }

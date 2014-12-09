@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2014-11-18", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Hall, Ralph M.", 
       "sponsored_at": "2014-05-28", 
@@ -131,5 +140,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:49-05:00"
+  "updated_at": "2014-12-06T06:56:56-05:00"
 }

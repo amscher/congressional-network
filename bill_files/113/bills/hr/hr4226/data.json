@@ -36,6 +36,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2014-11-17", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "32", 
       "name": "Napolitano, Grace F.", 
       "sponsored_at": "2014-04-28", 
@@ -103,5 +112,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:01-05:00"
+  "updated_at": "2014-12-06T06:58:08-05:00"
 }

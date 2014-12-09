@@ -61,6 +61,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "12", 
       "name": "Holt, Rush", 
       "sponsored_at": "2014-06-25", 
@@ -193,5 +211,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:34-05:00"
+  "updated_at": "2014-12-06T07:03:39-05:00"
 }

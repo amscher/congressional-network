@@ -93,6 +93,15 @@
     }, 
     {
       "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Sanders, Bernard", 
       "sponsored_at": "2014-03-31", 
       "state": "VT", 
@@ -178,5 +187,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:36:03-05:00"
+  "updated_at": "2014-12-06T07:37:22-05:00"
 }

@@ -213,6 +213,15 @@
     }, 
     {
       "district": null, 
+      "name": "Heller, Dean", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NV", 
+      "thomas_id": "01863", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Inhofe, James M.", 
       "sponsored_at": "2014-03-12", 
       "state": "OK", 
@@ -459,5 +468,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:35:57-05:00"
+  "updated_at": "2014-12-06T07:37:16-05:00"
 }

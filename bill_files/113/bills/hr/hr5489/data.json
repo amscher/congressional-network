@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Education and the Workforce.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +29,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
     }
   ], 
   "congress": "113", 
@@ -158,7 +174,11 @@
     "Youth employment and child labor"
   ], 
   "subjects_top_term": "Labor and employment", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-16", 
+    "text": "Employ Young Americans Now Act - Establishes in the Treasury the Employ Young Americans Fund, with an initial appropriation of $5.5 billion for FY2015.\n\nRequires the Secretary of Labor to make certain Fund allocations to each state with an approved workforce investment system plan modification, other specified requests for funds, and Native American program grantees to provide summer and year-round employment opportunities to low-income youth.\n\nRequires the Secretary to award allocations and competitive grants to local entities for work-based training and other work-related and educational strategies and activities of demonstrated effectiveness to provide unemployed, low-income young adults and low-income youths with skills that will lead to employment.\n\nSubjects activities funded under this Act to federal labor standards and nondiscrimination protections."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -173,5 +193,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:47-05:00"
+  "updated_at": "2014-12-06T07:08:45-05:00"
 }

@@ -111,6 +111,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-14", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Kilmer, Derek", 
       "sponsored_at": "2014-07-17", 
@@ -219,5 +228,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:07-05:00"
+  "updated_at": "2014-12-06T07:02:12-05:00"
 }

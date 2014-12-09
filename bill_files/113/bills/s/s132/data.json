@@ -169,6 +169,15 @@
     }, 
     {
       "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Mikulski, Barbara A.", 
       "sponsored_at": "2013-04-17", 
       "state": "MD", 
@@ -293,5 +302,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:19:10-05:00"
+  "updated_at": "2014-12-06T07:20:22-05:00"
 }

@@ -109,11 +109,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Honda, Michael M.", 
       "sponsored_at": "2014-07-31", 
       "state": "CA", 
       "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2014-12-02", 
+      "state": "NY", 
+      "thomas_id": "01663", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -132,6 +150,15 @@
       "sponsored_at": "2014-09-09", 
       "state": "NH", 
       "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00729", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -206,6 +233,24 @@
       "thomas_id": "01861", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tierney, John F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "01535", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-12", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -271,5 +316,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:19-05:00"
+  "updated_at": "2014-12-06T06:55:25-05:00"
 }

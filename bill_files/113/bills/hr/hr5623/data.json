@@ -20,6 +20,13 @@
       ], 
       "text": "Sponsor introductory remarks on measure.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -33,10 +40,38 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -94,5 +129,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:54-05:00"
+  "updated_at": "2014-12-06T07:09:53-05:00"
 }

@@ -74,10 +74,6 @@
         {
           "reference": "CR H6758-6767", 
           "type": "consideration"
-        }, 
-        {
-          "reference": "CR H6761-6763", 
-          "type": "text of amendment in the nature of a substitute"
         }
       ], 
       "text": "Considered under the provisions of rule H. Res. 677.", 
@@ -607,5 +603,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:27-05:00"
+  "updated_at": "2014-12-06T07:04:32-05:00"
 }

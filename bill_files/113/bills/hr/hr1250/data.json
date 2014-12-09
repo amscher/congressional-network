@@ -149,6 +149,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Beatty, Joyce", 
       "sponsored_at": "2014-01-15", 
@@ -1878,7 +1887,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-09-09", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -2233,5 +2242,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:57-05:00"
+  "updated_at": "2014-12-06T06:33:03-05:00"
 }

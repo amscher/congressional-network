@@ -184,6 +184,15 @@
     }, 
     {
       "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-11-13", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Schumer, Charles E.", 
       "sponsored_at": "2014-07-10", 
       "state": "NY", 
@@ -257,5 +266,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:39:55-05:00"
+  "updated_at": "2014-12-06T07:41:15-05:00"
 }

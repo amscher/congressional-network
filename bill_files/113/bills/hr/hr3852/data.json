@@ -28,6 +28,15 @@
   "cosponsors": [
     {
       "district": "3", 
+      "name": "Amash, Justin", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MI", 
+      "thomas_id": "02029", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
       "name": "Blumenauer, Earl", 
       "sponsored_at": "2014-04-29", 
       "state": "OR", 
@@ -331,6 +340,15 @@
       "thomas_id": "01209", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-18", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -395,5 +413,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:54:54-05:00"
+  "updated_at": "2014-12-06T06:54:59-05:00"
 }

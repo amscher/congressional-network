@@ -209,6 +209,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Fudge, Marcia L.", 
       "sponsored_at": "2013-09-19", 
@@ -232,6 +241,15 @@
       "sponsored_at": "2014-01-31", 
       "state": "CA", 
       "thomas_id": "02089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "FL", 
+      "thomas_id": "00511", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -263,6 +281,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "McCollum, Betty", 
       "sponsored_at": "2013-05-22", 
@@ -277,6 +304,24 @@
       "sponsored_at": "2013-05-22", 
       "state": "WI", 
       "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2014-12-03", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "LA", 
+      "thomas_id": "02023", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -414,5 +459,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:46-05:00"
+  "updated_at": "2014-12-06T06:32:52-05:00"
 }

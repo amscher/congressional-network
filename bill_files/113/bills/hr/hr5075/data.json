@@ -101,7 +101,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-11", 
+    "text": "Resurveys Entitle Adjacent Landowners to Protection Act or the REAL Protection Act - Directs the Bureau of Land Management (BLM) to notify all property owners with land abutting or adjacent to federal land being resurveyed.\n\nRequires the BLM to notify affected landowners within 30 days of completion of the resurvey if it extends the boundaries of federal land. Requires the affected landowner to be given the right of first refusal to purchase the land for fair market value minus the value of any significant improvements made to such lands, or be reimbursed for the fair market value of any such improvements made to such lands. Prohibits the landowner from being charged with willful trespass onto the land unless the person used such lands with the knowledge that they should be classified as federal land."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -122,5 +126,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:15-05:00"
+  "updated_at": "2014-12-06T07:05:18-05:00"
 }

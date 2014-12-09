@@ -503,6 +503,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "19", 
       "name": "Neugebauer, Randy", 
       "sponsored_at": "2013-07-17", 
@@ -713,6 +722,11 @@
       "bill_id": "s967-113", 
       "reason": "identical", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2970-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Military Justice Improvement Act of 2013", 
@@ -760,5 +774,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:39:28-05:00"
+  "updated_at": "2014-12-06T06:39:31-05:00"
 }

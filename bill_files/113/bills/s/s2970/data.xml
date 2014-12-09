@@ -1,0 +1,45 @@
+<bill session="113" type="s" number="2970" updated="2014-12-06T07:44:33-05:00">
+  <state datetime="2014-12-03">REPORTED</state>
+  <status>
+    <unknown datetime="2014-12-03"/>
+  </status>
+  <introduced datetime="2014-12-02"/>
+  <titles>
+    <title type="short" as="introduced">Military Justice Improvement Act of 2014</title>
+    <title type="official" as="introduced">A bill to reform procedures for determinations to proceed to trial by court-martial for certain offenses under the Uniform Code of Military Justice, and for other purposes.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-02">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-12-03" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="611">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 611.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2016"/>
+    <bill relation="unknown" session="113" type="s" number="967"/>
+    <bill relation="unknown" session="113" type="s" number="1752"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Crime victims"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Government studies and investigations"/>
+    <term name="Military command and structure"/>
+    <term name="Military law"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2014--Introduced.
+Military Justice Improvement Act of 2014&#160;- Amends the Uniform Code of Military Justice (UCMJ) to direct the Secretaries of Defense (DOD) and Homeland Security (DHS) to require the Secretaries of the military departments to determine whether to try a covered offense by court-martial in accordance with the requirements and limitations under this Act. Defines "covered offense" as an offense under UCMJ, including conspiracy, solicitation, and attempt to commit such offense, that is triable by court-martial (with certain exclusions) for which the maximum punishment includes confinement for more than one year. Requires that the determination of whether to try such an offense by general or special courts-martial be made by a commissioned officer of grade 0-6 or higher who is available for detail as a trial counsel, has significant experience in trials by general or special court-martial, and is outside the chain of command of the member subject to such charges. Provides that a determination not to proceed to trial by general or special court-martial shall not preclude a commanding officer from either referring such charges for trial by summary court-martial or imposing non-judicial punishment.
+
+Revises the list of officers authorized to convene a general and special court-martial to include those in grade O-6 or higher assigned such responsibility by their department chiefs of staff who are not in the same chain of command as the accused or the victim of an offense. Requires each chief of staff to establish an office which shall convene general and special courts-martial and detail judges and members.
+
+Requires the Secretaries of the military departments and the DHS Secretary to carry out this Act using existing personnel, funds, and resources otherwise authorized by law.
+
+Amends the National Defense Authorization Act for Fiscal Year 2013 to require an independent panel established by the DOD Secretary to monitor and assess the implementation and efficacy of this Act.</summary>
+</bill>

@@ -106,6 +106,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2014-12-01", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Connolly, Gerald E.", 
       "sponsored_at": "2014-07-28", 
@@ -129,6 +138,15 @@
       "sponsored_at": "2014-05-29", 
       "state": "OR", 
       "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CT", 
+      "thomas_id": "00281", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -178,6 +196,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Harris, Andy", 
       "sponsored_at": "2014-04-30", 
@@ -219,6 +246,15 @@
       "sponsored_at": "2014-07-24", 
       "state": "MA", 
       "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "01501", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -502,5 +538,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:49-05:00"
+  "updated_at": "2014-12-06T06:59:55-05:00"
 }

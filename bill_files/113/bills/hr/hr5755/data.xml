@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="5755" updated="2014-12-06T07:10:59-05:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Safer American Streets Act</title>
+    <title type="official" as="introduced">To withhold certain highway funds from a State that uses an automated traffic enforcement system on a Federal-aid highway.</title>
+  </titles>
+  <sponsor id="410396"/>
+  <cosponsors>
+    <cosponsor id="412547" joined="2014-11-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-11-20">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-11-20">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="District of Columbia"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Roads and highways"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

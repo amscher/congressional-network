@@ -68,6 +68,33 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Schwartz, Allyson Y.", 
       "sponsored_at": "2014-09-18", 
@@ -126,5 +153,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:12-05:00"
+  "updated_at": "2014-12-06T07:09:10-05:00"
 }

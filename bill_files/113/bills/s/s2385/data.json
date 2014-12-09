@@ -61,6 +61,11 @@
       "bill_id": "hr4714-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2954-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Protecting Aid for Students Act of 2014", 
@@ -106,5 +111,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:38:14-05:00"
+  "updated_at": "2014-12-06T07:39:33-05:00"
 }

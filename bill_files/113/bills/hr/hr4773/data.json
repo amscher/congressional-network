@@ -43,6 +43,13 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Military Personnel.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -56,6 +63,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }, 
     {
       "activity": [
@@ -237,5 +253,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:40-05:00"
+  "updated_at": "2014-12-06T07:02:46-05:00"
 }

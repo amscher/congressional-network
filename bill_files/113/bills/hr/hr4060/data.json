@@ -99,6 +99,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Black, Diane", 
       "sponsored_at": "2014-09-11", 
@@ -423,6 +432,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Mulvaney, Mick", 
       "sponsored_at": "2014-04-03", 
@@ -437,6 +455,15 @@
       "sponsored_at": "2014-02-14", 
       "state": "FL", 
       "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01758", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -718,6 +745,15 @@
       "thomas_id": "01991", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -781,5 +817,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:38-05:00"
+  "updated_at": "2014-12-06T06:56:44-05:00"
 }

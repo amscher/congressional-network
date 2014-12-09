@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="744" updated="2014-11-08T07:24:23-05:00">
+<bill session="113" type="s" number="744" updated="2014-12-06T07:25:32-05:00">
   <state datetime="2013-06-27">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2013-06-27"/>
@@ -125,8 +125,7 @@
     </action>
     <action datetime="2013-06-11">
       <text>Motion to proceed to measure considered in Senate.</text>
-      <reference ref="CR S4071-4086, S4086-4093, S4093-4206" label="consideration"/>
-      <reference ref="CR S4093-4195" label="text of measure as reported in Senate"/>
+      <reference ref="CR S4071-4086, S4086-4093" label="consideration"/>
     </action>
     <action datetime="2013-06-11">
       <text>Cloture on the motion to proceed to measure invoked in Senate by Yea-Nay Vote. 82 - 15. Record Vote Number: 146.</text>
@@ -138,7 +137,7 @@
       <reference ref="CR S4093" label="consideration"/>
     </action>
     <action datetime="2013-06-11">
-      <text>Measure laid before Senate by motion.</text>
+      <text>Measure laid before Senate by motion. (consideration: CR S4093-4206; text of measure as reported in Senate: CR S4093-4195))</text>
     </action>
     <action datetime="2013-06-12">
       <text>Considered by Senate.</text>

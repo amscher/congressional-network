@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3099" updated="2014-11-08T06:48:31-05:00">
+<bill session="113" type="h" number="3099" updated="2014-12-06T06:48:38-05:00">
   <state datetime="2013-09-12">REFERRED</state>
   <status>
     <introduced datetime="2013-09-12"/>
@@ -35,9 +35,16 @@
     <action datetime="2013-09-12" state="REFERRED">
       <text>Referred to the House Committee on Natural Resources.</text>
     </action>
+    <action datetime="2013-09-16">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-12-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="3197"/>

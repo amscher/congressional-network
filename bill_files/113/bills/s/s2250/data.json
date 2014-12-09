@@ -211,6 +211,15 @@
     }, 
     {
       "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Graham, Lindsey", 
       "sponsored_at": "2014-04-10", 
       "state": "SC", 
@@ -287,6 +296,15 @@
       "sponsored_at": "2014-06-09", 
       "state": "LA", 
       "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -496,5 +514,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:06-05:00"
+  "updated_at": "2014-12-06T07:38:25-05:00"
 }

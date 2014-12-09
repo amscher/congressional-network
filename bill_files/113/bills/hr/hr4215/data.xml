@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4215" updated="2014-11-08T06:57:56-05:00">
+<bill session="113" type="h" number="4215" updated="2014-12-06T06:58:02-05:00">
   <state datetime="2014-03-12">REFERRED</state>
   <status>
     <introduced datetime="2014-03-12"/>
@@ -9,7 +9,9 @@
     <title type="official" as="introduced">To strengthen privacy and data security, and for other purposes.</title>
   </titles>
   <sponsor id="412272"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="400249" joined="2014-12-02"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-03-12" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>

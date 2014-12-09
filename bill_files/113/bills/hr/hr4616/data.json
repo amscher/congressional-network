@@ -36,11 +36,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Kirkpatrick, Ann", 
       "sponsored_at": "2014-09-09", 
       "state": "AZ", 
       "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CO", 
+      "thomas_id": "01834", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -96,5 +114,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:17-05:00"
+  "updated_at": "2014-12-06T07:01:24-05:00"
 }

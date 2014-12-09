@@ -334,6 +334,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "15", 
       "name": "Swalwell, Eric", 
       "sponsored_at": "2013-02-28", 
@@ -431,5 +440,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:34-05:00"
+  "updated_at": "2014-12-06T06:28:41-05:00"
 }

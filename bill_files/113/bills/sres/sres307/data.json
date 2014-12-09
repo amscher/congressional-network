@@ -52,7 +52,13 @@
   "number": "307", 
   "official_title": "A resolution permitting the collection of clothing, toys, food, and housewares during the holiday season for charitable purposes in Senate buildings.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "sres577-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": null, 
@@ -65,6 +71,7 @@
   "status": "PASSED:SIMPLERES", 
   "status_at": "2013-11-20", 
   "subjects": [
+    "Charitable contributions", 
     "Congress", 
     "Congressional officers and employees", 
     "Congressional operations and organization", 
@@ -87,5 +94,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:15:24-05:00"
+  "updated_at": "2014-12-06T07:16:26-05:00"
 }

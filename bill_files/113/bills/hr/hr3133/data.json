@@ -223,6 +223,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Daines, Steve", 
       "sponsored_at": "2013-09-19", 
@@ -1000,6 +1009,7 @@
   "status": "REFERRED", 
   "status_at": "2013-09-19", 
   "subjects": [
+    "Charitable contributions", 
     "Civil actions and liability", 
     "Civil rights and liberties, minority issues", 
     "Government employee pay, benefits, personnel management", 
@@ -1037,5 +1047,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:48:48-05:00"
+  "updated_at": "2014-12-06T06:48:55-05:00"
 }

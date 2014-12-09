@@ -259,7 +259,13 @@
   "number": "305", 
   "official_title": "A resolution recognizing National Native American Heritage Month and celebrating the heritages and cultures of Native Americans and the contributions of Native Americans to the United States.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "sres590-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": null, 
@@ -289,5 +295,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:15:23-05:00"
+  "updated_at": "2014-12-06T07:16:25-05:00"
 }

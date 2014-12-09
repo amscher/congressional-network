@@ -41,7 +41,44 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Negrete McLeod, Gloria", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -109,5 +146,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:38-05:00"
+  "updated_at": "2014-12-06T07:03:43-05:00"
 }

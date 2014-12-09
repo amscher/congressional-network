@@ -56,6 +56,24 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:34:00-05:00", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-645.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T15:35:00-05:00", 
+      "calendar": "Union", 
+      "number": "484", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 484.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -66,7 +84,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Veterans' Affairs", 
       "committee_id": "HSVR"
@@ -435,5 +454,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:20-05:00"
+  "updated_at": "2014-12-06T07:04:25-05:00"
 }

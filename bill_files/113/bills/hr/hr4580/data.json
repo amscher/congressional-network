@@ -36,6 +36,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Honda, Michael M.", 
       "sponsored_at": "2014-05-06", 
@@ -50,6 +59,15 @@
       "sponsored_at": "2014-09-16", 
       "state": "CA", 
       "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Miller, George", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00808", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -139,5 +157,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:59-05:00"
+  "updated_at": "2014-12-06T07:01:05-05:00"
 }

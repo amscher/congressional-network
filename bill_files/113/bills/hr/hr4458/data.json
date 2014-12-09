@@ -106,7 +106,13 @@
   "number": "4458", 
   "official_title": "To make permanent the withdrawal and reservation of public land previously withdrawn and reserved to support the operations of Naval Air Weapons Station China Lake, California, and to provide for the withdrawal and reservation of additional public land.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr4435-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Naval Air Weapons Station China Lake Security Enhancement Act", 
   "sponsor": {
     "district": "23", 
@@ -127,9 +133,9 @@
   ], 
   "subjects_top_term": "Public lands and natural resources", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-04-10", 
-    "text": "Naval Air Weapons Station China Lake Security Enhancement Act - Amends the Military Construction Authorization Act for Fiscal Year 2014 to provide that the withdrawal and reservation of public land located within the boundaries of the Naval Air Weapons Station China Lake, in Inyo, Kern, and San Bernardino Counties, California, shall not terminate except pursuant to: (1) an election and determination by the Secretary of the Navy to relinquish such land, or (2) a transfer by the Secretary of the Interior of permanent administrative jurisdiction over such land to the Secretary of the Navy. (Currently the withdrawal and reservation of such land shall terminate on March 31, 2039.)\n\nWithdraws from all forms of appropriation under the public land laws, including the mining laws, the mineral leasing laws, and the geothermal leasing laws the public land (including interests in land) known as the Cuddeback Lake Air Force Range and additional public land in San Bernardino County, California, identified as the Cuddeback Land Area (excluding any public land included within the Grass Valley Wilderness and all private lands otherwise located within the boundaries of the withdrawal area). Requires the Secretary of the Navy to ensure that the owners of the excluded private land continue to have reasonable access to their land."
+    "as": "Reported to House amended", 
+    "date": "2014-06-30", 
+    "text": "Naval Air Weapons Station China Lake Security Enhancement Act - Amends the Military Construction Authorization Act for Fiscal Year 2014 to provide that the withdrawal and reservation of public land located within the boundaries of the Naval Air Weapons Station China Lake, in Inyo, Kern, and San Bernardino Counties, California, shall not terminate except pursuant to: (1) an election and determination by the Secretary of the Navy to relinquish such land, or (2) a transfer by the Secretary of the Interior of permanent administrative jurisdiction over such land to the Secretary of the Navy. (Currently the withdrawal and reservation of such land shall terminate on March 31, 2039.)\n\nWithdraws from all forms of appropriation under the public land laws, including the mining laws, the mineral leasing laws, and the geothermal leasing laws, subject to valid existing rights, the public land (including interests in land) known as the Cuddeback Lake Air Force Range and additional public land in San Bernardino County, California, identified as the Proposed Navy Acquisition Area (but excluding the parcel identified as \"AF Fee Simple\"). Requires the Secretary of the Navy to ensure that the owners of the excluded private land continue to have reasonable access to their land and to manage the additional withdrawn lands to protect existing historic, economic, cultural, recreational, hunting, and scientific features and uses."
   }, 
   "titles": [
     {
@@ -151,5 +157,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:58-05:00"
+  "updated_at": "2014-12-06T07:00:04-05:00"
 }

@@ -27,6 +27,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Southerland, Steve II", 
       "sponsored_at": "2013-10-30", 
@@ -94,5 +103,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:19-05:00"
+  "updated_at": "2014-12-06T06:51:26-05:00"
 }

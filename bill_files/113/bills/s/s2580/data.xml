@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2580" updated="2014-11-08T07:39:55-05:00">
+<bill session="113" type="s" number="2580" updated="2014-12-06T07:41:14-05:00">
   <state datetime="2014-07-10">REFERRED</state>
   <status>
     <introduced datetime="2014-07-10"/>
@@ -33,4 +33,10 @@
     <term name="Parks, recreation areas, trails"/>
   </subjects>
   <amendments/>
+  <summary>7/10/2014--Introduced.
+Ocmulgee Mounds National Historical Park Boundary Revision Act of 2014 - Redesignates the Ocmulgee National Monument in Georgia as the Ocmulgee Mounds National Historical Park.
+
+Adjusts the boundary of the Historical Park to include approximately 2,100 acres.
+
+Directs the Department of the Interior to conduct a special resource study of the Ocmulgee River corridor between the cities of Macon, Georgia, and Hawkinsville, Georgia, to determine: (1) the national significance of the study area; (2) the suitability and feasibility of adding land in the study area to the National Park System; and (3) the methods and means for the protection and interpretation of the study area by the National Park Service, other federal, state, or local government entities, or private or nonprofit organizations.</summary>
 </bill>

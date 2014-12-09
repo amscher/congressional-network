@@ -264,6 +264,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Schwartz, Allyson Y.", 
       "sponsored_at": "2014-08-01", 
@@ -370,5 +379,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:44:48-05:00"
+  "updated_at": "2014-12-06T06:44:54-05:00"
 }

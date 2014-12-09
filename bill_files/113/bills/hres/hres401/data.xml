@@ -1,4 +1,4 @@
-<bill session="113" type="hr" number="401" updated="2014-11-08T06:19:35-05:00">
+<bill session="113" type="hr" number="401" updated="2014-12-06T06:19:30-05:00">
   <state datetime="2013-10-30">REFERRED</state>
   <status>
     <introduced datetime="2013-10-30"/>
@@ -72,7 +72,9 @@
     <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
     <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="identical" session="113" type="sr" number="582"/>
+  </relatedbills>
   <subjects>
     <term name="Commerce"/>
     <term name="Commemorative events and holidays"/>

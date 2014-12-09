@@ -140,6 +140,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Loebsack, David", 
       "sponsored_at": "2014-04-09", 
@@ -246,5 +255,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:47-05:00"
+  "updated_at": "2014-12-06T06:59:54-05:00"
 }

@@ -30,6 +30,79 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-02T11:49:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 113-642.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T11:49:00-05:00", 
+      "calendar": "Union", 
+      "number": "482", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 482.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-02T15:20:00-05:00", 
+      "references": [], 
+      "text": "Mr. Garrett moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8258-8260", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:20:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4569.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8258", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T15:34:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -40,7 +113,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Financial Services", 
       "committee_id": "HSBA"
@@ -53,6 +127,13 @@
       "committee_id": "HSBA", 
       "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
       "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
     }
   ], 
   "congress": "113", 
@@ -82,6 +163,8 @@
     "active_at": "2014-05-22", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T15:34:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-05-06", 
@@ -104,8 +187,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-05-22", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-02T15:34:00-05:00", 
   "subjects": [
     "Administrative law and regulatory procedures", 
     "Business records", 
@@ -133,11 +216,17 @@
       "type": "short"
     }, 
     {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Disclosure Modernization and Simplification Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To require the Securities and Exchange Commission to make certain improvements to form 10-K and regulation S-K, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:54-05:00"
+  "updated_at": "2014-12-06T07:01:00-05:00"
 }

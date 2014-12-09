@@ -25,7 +25,44 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachmann, Michele", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MN", 
+      "thomas_id": "01858", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2014-11-14", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -84,5 +121,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:07-05:00"
+  "updated_at": "2014-12-06T07:10:05-05:00"
 }

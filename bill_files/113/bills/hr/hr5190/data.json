@@ -124,6 +124,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Levin, Sander M.", 
       "sponsored_at": "2014-07-24", 
@@ -320,5 +329,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:16-05:00"
+  "updated_at": "2014-12-06T07:06:15-05:00"
 }

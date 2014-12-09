@@ -225,6 +225,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-02", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Jenkins, Lynn", 
       "sponsored_at": "2014-05-22", 
@@ -486,11 +504,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "38", 
       "name": "Sanchez, Linda T.", 
       "sponsored_at": "2014-06-12", 
       "state": "CA", 
       "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "IL", 
+      "thomas_id": "01588", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -532,7 +568,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-09-15", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -657,5 +693,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:12-05:00"
+  "updated_at": "2014-12-06T07:02:18-05:00"
 }

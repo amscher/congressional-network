@@ -966,7 +966,13 @@
   "number": "498", 
   "official_title": "To provide for programs and activities with respect to the prevention of underage drinking.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2935-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Sober Truth on Preventing Underage Drinking Reauthorization Act", 
   "sponsor": {
     "district": "40", 
@@ -1023,5 +1029,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:26:38-05:00"
+  "updated_at": "2014-12-06T06:26:46-05:00"
 }

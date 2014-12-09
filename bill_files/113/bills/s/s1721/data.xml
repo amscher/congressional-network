@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1721" updated="2014-11-08T07:32:40-05:00">
+<bill session="113" type="s" number="1721" updated="2014-12-06T07:33:55-05:00">
   <state datetime="2013-11-18">REFERRED</state>
   <status>
     <introduced datetime="2013-11-18"/>
@@ -17,9 +17,12 @@
     <action datetime="2013-11-18" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2014-12-04">
+      <text>Committee on the Judiciary. Hearings held.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Hearings"/>
   </committees>
   <relatedbills>
     <bill relation="identical" session="113" type="h" number="3452"/>

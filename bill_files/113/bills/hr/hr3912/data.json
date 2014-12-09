@@ -61,6 +61,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-12-01", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "18", 
       "name": "Jackson Lee, Sheila", 
       "sponsored_at": "2014-02-18", 
@@ -179,5 +188,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:24-05:00"
+  "updated_at": "2014-12-06T06:55:30-05:00"
 }

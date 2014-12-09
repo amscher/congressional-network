@@ -105,6 +105,15 @@
       "thomas_id": "01012", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IN", 
+      "thomas_id": "02128", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -172,5 +181,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:36-05:00"
+  "updated_at": "2014-12-06T07:11:35-05:00"
 }

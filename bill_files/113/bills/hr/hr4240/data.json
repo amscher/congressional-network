@@ -176,6 +176,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "32", 
       "name": "Napolitano, Grace F.", 
       "sponsored_at": "2014-03-13", 
@@ -362,5 +371,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:08-05:00"
+  "updated_at": "2014-12-06T06:58:15-05:00"
 }

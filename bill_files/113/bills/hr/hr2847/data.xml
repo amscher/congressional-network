@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="2847" updated="2014-11-08T06:46:25-05:00">
+<bill session="113" type="h" number="2847" updated="2014-12-06T06:46:31-05:00">
   <state datetime="2013-07-30">REFERRED</state>
   <status>
     <introduced datetime="2013-07-30"/>
@@ -20,18 +20,22 @@
     <cosponsor id="412470" joined="2013-07-30"/>
     <cosponsor id="412600" joined="2014-08-01"/>
     <cosponsor id="412221" joined="2014-09-09"/>
+    <cosponsor id="400639" joined="2014-11-20"/>
     <cosponsor id="412236" joined="2014-03-04"/>
     <cosponsor id="412272" joined="2014-09-16"/>
     <cosponsor id="400080" joined="2013-07-30"/>
     <cosponsor id="400090" joined="2014-09-18"/>
     <cosponsor id="400100" joined="2014-01-16"/>
     <cosponsor id="412544" joined="2014-03-06"/>
+    <cosponsor id="400103" joined="2014-11-20"/>
     <cosponsor id="412385" joined="2014-07-14"/>
     <cosponsor id="400114" joined="2014-07-29"/>
     <cosponsor id="400122" joined="2014-04-29"/>
     <cosponsor id="412535" joined="2014-02-25"/>
+    <cosponsor id="412532" joined="2014-11-18"/>
     <cosponsor id="412453" joined="2014-02-27"/>
     <cosponsor id="400162" joined="2013-07-30"/>
+    <cosponsor id="412451" joined="2014-11-18"/>
     <cosponsor id="400170" joined="2013-07-30"/>
     <cosponsor id="400184" joined="2013-09-09"/>
     <cosponsor id="400185" joined="2014-02-10"/>
@@ -40,10 +44,14 @@
     <cosponsor id="412435" joined="2014-07-24"/>
     <cosponsor id="412543" joined="2013-09-09"/>
     <cosponsor id="400233" joined="2013-12-05"/>
+    <cosponsor id="400237" joined="2014-11-18"/>
     <cosponsor id="400630" joined="2014-03-26"/>
+    <cosponsor id="400244" joined="2014-11-20"/>
     <cosponsor id="400245" joined="2014-02-03"/>
+    <cosponsor id="412521" joined="2014-11-18"/>
     <cosponsor id="400246" joined="2014-07-14"/>
     <cosponsor id="412293" joined="2014-09-09"/>
+    <cosponsor id="412562" joined="2014-11-20"/>
     <cosponsor id="400663" joined="2014-07-29"/>
     <cosponsor id="400257" joined="2014-02-25"/>
     <cosponsor id="400259" joined="2013-07-30"/>
@@ -109,5 +117,5 @@
   </subjects>
   <amendments/>
   <summary>7/30/2013--Introduced.
-Wounded Warrior Service Dog Act of 2013 - Directs the Secretaries of Defense (DOD) and Veterans Affairs (VA) to jointly establish the K-9 Companion Corps program for the awarding of grants to assist nonprofit organizations in establishing, planning, designing,and/or operating programs to provide assistance dogs to certain members of the Armed Forces and veterans who have certain disabilities. Defines "assistance dog" to mean a dog specifically trained to perform physical tasks to mitigate the effects of such a disability, except that such term does not include a dog specifically trained for comfort or personal defense.</summary>
+Wounded Warrior Service Dog Act of 2013 - Directs the Secretaries of Defense (DOD) and Veterans Affairs (VA) to jointly establish the K-9 Companion Corps program for the awarding of grants to assist nonprofit organizations in establishing, planning, designing, and/or operating programs to provide assistance dogs to certain members of the Armed Forces and veterans who have certain disabilities. Defines "assistance dog" to mean a dog specifically trained to perform physical tasks to mitigate the effects of such a disability, except that such term does not include a dog specifically trained for comfort or personal defense.</summary>
 </bill>

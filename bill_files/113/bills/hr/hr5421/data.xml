@@ -1,7 +1,7 @@
-<bill session="113" type="h" number="5421" updated="2014-11-08T07:08:13-05:00">
-  <state datetime="2014-09-10">REPORTED</state>
+<bill session="113" type="h" number="5421" updated="2014-12-06T07:08:11-05:00">
+  <state datetime="2014-12-01T16:23:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2014-09-10"/>
+    <unknown datetime="2014-12-01T16:23:00-05:00"/>
   </status>
   <introduced datetime="2014-09-09"/>
   <titles>
@@ -29,10 +29,37 @@
     <calendar datetime="2014-09-10" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </calendar>
+    <action datetime="2014-12-01T16:00:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-630.</text>
+    </action>
+    <calendar datetime="2014-12-01T16:00:00-05:00" calendar="Union" number="470">
+      <text>Placed on the Union Calendar, Calendar No. 470.</text>
+    </calendar>
+    <action datetime="2014-12-01T16:01:00-05:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-12-01T16:01:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8174-8181" label="consideration"/>
+    </action>
+    <action datetime="2014-12-01T16:01:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5421.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-12-01T16:23:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8174-8177" label="text"/>
+    </vote>
+    <action datetime="2014-12-01T16:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Discharged" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="s" number="1861"/>

@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="1852" updated="2014-11-08T07:33:46-05:00">
+<bill session="113" type="s" number="1852" updated="2014-12-06T07:35:05-05:00">
   <state datetime="2013-12-18">REFERRED</state>
   <status>
     <introduced datetime="2013-12-18"/>
@@ -29,6 +29,7 @@
     <term name="Building construction"/>
     <term name="Business investment and capital"/>
     <term name="Capital gains tax"/>
+    <term name="Charitable contributions"/>
     <term name="Corporate finance and management"/>
     <term name="Credit and credit markets"/>
     <term name="Economic development"/>

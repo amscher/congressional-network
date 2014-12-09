@@ -167,6 +167,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Johnson, Bill", 
       "sponsored_at": "2014-09-16", 
@@ -360,5 +369,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:42:05-05:00"
+  "updated_at": "2014-12-06T06:42:10-05:00"
 }

@@ -80,6 +80,74 @@
       "references": [], 
       "text": "Referred to the House Committee on Oversight and Government Reform.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:58:00-05:00", 
+      "references": [], 
+      "text": "Mr. Issa moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8009", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T14:58:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 885.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17T15:03:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8009", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-17T15:03:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-11-26", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-11-26", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "189", 
+      "references": [], 
+      "text": "Became Public Law No: 113-189.", 
+      "type": "enacted"
     }
   ], 
   "amendments": [], 
@@ -117,12 +185,19 @@
       "withdrawn_at": null
     }
   ], 
-  "enacted_as": null, 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "189"
+  }, 
   "history": {
     "active": true, 
     "active_at": "2013-07-31", 
     "awaiting_signature": false, 
-    "enacted": false, 
+    "enacted": true, 
+    "enacted_at": "2014-11-26", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-17T15:03:00-05:00", 
     "senate_passage_result": "pass", 
     "senate_passage_result_at": "2013-08-01", 
     "vetoed": false
@@ -152,8 +227,8 @@
     "title": "Sen", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:SENATE", 
-  "status_at": "2013-08-01", 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-11-26", 
   "subjects": [
     "Congressional tributes", 
     "Government buildings, facilities, and property", 
@@ -164,8 +239,8 @@
   ], 
   "subjects_top_term": "Government operations and politics", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-05-07", 
+    "as": "Public Law", 
+    "date": "2014-11-26", 
     "text": "Designates the facility of the United States Postal Service located at 35 Park Street in Danville, Vermont, as the \"Thaddeus Stevens Post Office.\""
   }, 
   "titles": [
@@ -176,5 +251,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:25:33-05:00"
+  "updated_at": "2014-12-06T07:26:43-05:00"
 }

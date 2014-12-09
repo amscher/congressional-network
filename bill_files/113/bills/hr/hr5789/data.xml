@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5789" updated="2014-12-08T12:48:48-05:00">
+  <state datetime="2014-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-03"/>
+  </status>
+  <introduced datetime="2014-12-03"/>
+  <titles>
+    <title type="short" as="introduced">Rapid DNA Act of 2014</title>
+    <title type="official" as="introduced">To establish a system for integration of Rapid DNA instruments for use by law enforcement to reduce violent crime and reduce the current DNA analysis backlog.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

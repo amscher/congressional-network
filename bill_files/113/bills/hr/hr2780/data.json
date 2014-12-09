@@ -639,6 +639,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Tierney, John F.", 
       "sponsored_at": "2013-08-02", 
@@ -755,5 +764,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:45:51-05:00"
+  "updated_at": "2014-12-06T06:45:57-05:00"
 }

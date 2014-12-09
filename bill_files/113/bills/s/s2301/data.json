@@ -77,6 +77,15 @@
     }, 
     {
       "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Cornyn, John", 
       "sponsored_at": "2014-05-07", 
       "state": "TX", 
@@ -296,5 +305,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:37:31-05:00"
+  "updated_at": "2014-12-06T07:38:51-05:00"
 }

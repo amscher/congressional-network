@@ -102,7 +102,11 @@
     "Wildlife conservation and habitat protection"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "State, Tribal, and Local Species Transparency and Recovery Act - Amends the Endangered Species Act of 1973 to require the Secretary of the Interior or the Secretary of Commerce, as appropriate, to provide to affected states all data that is used as the basis of a determination on whether a species is an endangered species or a threatened species before making a determination.\n\nRequires the appropriate Secretary to use data submitted by a state, tribal, or county government in making such a determination."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -111,5 +115,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:20-05:00"
+  "updated_at": "2014-12-06T07:41:39-05:00"
 }

@@ -116,7 +116,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2014-07-30", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -175,7 +175,11 @@
     "Public utilities and utility rates"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-30", 
+    "text": "The EPA Regulatory Domestic Benefit Act of 2014 - Prohibits the Environmental Protection Agency (EPA) from issuing, implementing, and enforcing any proposed or final rule addressing emissions of carbon dioxide from any new or existing source that is an electric utility generating unit unless the regulatory impact analysis for the rule primarily considers, and separately reports on, the domestic benefits of the rule.\n\nNullifies the following proposed rules: (1) Standards of Performance for Greenhouse Gas Emissions From New Stationary Sources: Electric Utility Generating Units, and (2) Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -190,5 +194,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:11-05:00"
+  "updated_at": "2014-12-06T07:07:11-05:00"
 }

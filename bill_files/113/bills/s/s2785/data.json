@@ -34,6 +34,15 @@
       "thomas_id": "00924", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -93,5 +102,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:38-05:00"
+  "updated_at": "2014-12-06T07:42:58-05:00"
 }

@@ -16,6 +16,21 @@
       "references": [], 
       "text": "Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -25,7 +40,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "House Foreign Affairs", 
       "committee_id": "HSFA"
@@ -52,11 +68,92 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2014-11-18", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2014-11-17", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2014-11-17", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-11-17", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "16", 
       "name": "Kinzinger, Adam", 
       "sponsored_at": "2014-07-31", 
       "state": "IL", 
       "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "01781", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -70,6 +167,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Perry, Scott", 
+      "sponsored_at": "2014-11-19", 
+      "state": "PA", 
+      "thomas_id": "02157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Ribble, Reid J.", 
       "sponsored_at": "2014-09-17", 
@@ -77,11 +183,39 @@
       "thomas_id": "02073", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2014-12-02", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "sponsored_at": "2014-12-01", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-20", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -100,8 +234,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-07-29", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-20", 
   "subjects": [
     "Europe", 
     "Foreign aid and international relief", 
@@ -130,5 +264,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:41-05:00"
+  "updated_at": "2014-12-06T07:06:41-05:00"
 }

@@ -160,6 +160,15 @@
     }, 
     {
       "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Inhofe, James M.", 
       "sponsored_at": "2013-03-04", 
       "state": "OK", 
@@ -256,6 +265,11 @@
       "bill_id": "hres356-113", 
       "reason": "identical", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "sres588-113", 
+      "reason": "identical", 
+      "type": "bill"
     }
   ], 
   "short_title": null, 
@@ -291,5 +305,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:13:02-05:00"
+  "updated_at": "2014-12-06T07:14:04-05:00"
 }

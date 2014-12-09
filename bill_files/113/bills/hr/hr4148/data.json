@@ -169,6 +169,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "DeFazio, Peter A.", 
       "sponsored_at": "2014-04-28", 
@@ -587,5 +596,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:22-05:00"
+  "updated_at": "2014-12-06T06:57:29-05:00"
 }

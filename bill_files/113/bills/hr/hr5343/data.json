@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Education and the Workforce.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +29,15 @@
       ], 
       "committee": "House Education and the Workforce", 
       "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
     }
   ], 
   "congress": "113", 
@@ -50,6 +66,15 @@
       "sponsored_at": "2014-07-31", 
       "state": "NY", 
       "thomas_id": "01864", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MN", 
+      "thomas_id": "01857", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -99,6 +124,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Matsui, Doris O.", 
       "sponsored_at": "2014-07-31", 
@@ -140,6 +174,24 @@
       "sponsored_at": "2014-07-31", 
       "state": "MP", 
       "thomas_id": "01962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "01890", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -208,5 +260,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:33-05:00"
+  "updated_at": "2014-12-06T07:07:32-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="hr" number="109" updated="2014-11-08T06:17:07-05:00">
+<bill session="113" type="hr" number="109" updated="2014-12-06T06:17:03-05:00">
   <state datetime="2013-03-12">REFERRED</state>
   <status>
     <introduced datetime="2013-03-12"/>
@@ -25,6 +25,7 @@
     <cosponsor id="412196" joined="2013-05-14"/>
     <cosponsor id="412537" joined="2014-05-19"/>
     <cosponsor id="400616" joined="2014-07-22"/>
+    <cosponsor id="400062" joined="2014-11-13"/>
     <cosponsor id="400063" joined="2014-01-28"/>
     <cosponsor id="412258" joined="2014-09-08"/>
     <cosponsor id="412571" joined="2014-01-14"/>
@@ -64,6 +65,7 @@
     <cosponsor id="400137" joined="2014-06-24"/>
     <cosponsor id="400640" joined="2013-06-05"/>
     <cosponsor id="412257" joined="2013-09-09"/>
+    <cosponsor id="412529" joined="2014-12-03"/>
     <cosponsor id="400141" joined="2014-06-12"/>
     <cosponsor id="400142" joined="2014-07-09"/>
     <cosponsor id="412532" joined="2013-08-01"/>
@@ -82,10 +84,12 @@
     <cosponsor id="412511" joined="2013-07-08"/>
     <cosponsor id="412437" joined="2013-05-06"/>
     <cosponsor id="412422" joined="2014-07-22"/>
+    <cosponsor id="412561" joined="2014-12-03"/>
     <cosponsor id="412284" joined="2013-07-08"/>
     <cosponsor id="412199" joined="2014-04-28"/>
     <cosponsor id="412566" joined="2014-05-28"/>
     <cosponsor id="412435" joined="2014-02-25"/>
+    <cosponsor id="412543" joined="2014-11-13"/>
     <cosponsor id="412583" joined="2014-05-19"/>
     <cosponsor id="400219" joined="2013-05-20"/>
     <cosponsor id="400220" joined="2013-10-28"/>
@@ -110,6 +114,7 @@
     <cosponsor id="400262" joined="2014-03-18"/>
     <cosponsor id="400263" joined="2013-07-18"/>
     <cosponsor id="400266" joined="2014-06-17"/>
+    <cosponsor id="400659" joined="2014-12-03"/>
     <cosponsor id="412189" joined="2014-07-22"/>
     <cosponsor id="412466" joined="2014-02-03"/>
     <cosponsor id="412560" joined="2013-11-12"/>
@@ -141,6 +146,7 @@
     <cosponsor id="412519" joined="2014-07-23"/>
     <cosponsor id="400350" joined="2014-07-22"/>
     <cosponsor id="400351" joined="2013-11-20"/>
+    <cosponsor id="400355" joined="2014-11-12"/>
     <cosponsor id="412212" joined="2014-06-17"/>
     <cosponsor id="400360" joined="2013-03-12"/>
     <cosponsor id="400361" joined="2014-05-06"/>
@@ -163,6 +169,7 @@
     <cosponsor id="412213" joined="2013-12-03"/>
     <cosponsor id="400419" joined="2014-05-22"/>
     <cosponsor id="412214" joined="2013-06-26"/>
+    <cosponsor id="400623" joined="2014-12-03"/>
     <cosponsor id="400422" joined="2014-06-23"/>
     <cosponsor id="400425" joined="2013-07-08"/>
     <cosponsor id="412239" joined="2013-07-08"/>

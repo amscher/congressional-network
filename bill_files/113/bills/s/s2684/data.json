@@ -76,7 +76,11 @@
     "Strategic materials and reserves"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-29", 
+    "text": "Directs the Administrator of General Services (GSA), on behalf of the Secretary of the Interior, to convey to the Olgoonik Corporation, an Alaska Native Corporation, approximately 1,518 acres of real property and improvements that comprise a former Distant Early Warning Line site in the National Petroleum Reserve near Wainwright, Alaska.\n\nRequires the Corporation to pay the fair market value of the property.\n\nPermits the Secretary to authorize the Corporation to enter the property at no charge for pre-construction and construction activities.\n\nExempts this conveyance from certain provisions of the National Environmental Policy Act of 1969."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -85,5 +89,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:47-05:00"
+  "updated_at": "2014-12-06T07:42:07-05:00"
 }

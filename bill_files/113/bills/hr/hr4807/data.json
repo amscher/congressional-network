@@ -70,11 +70,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Gerlach, Jim", 
       "sponsored_at": "2014-06-05", 
       "state": "PA", 
       "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "02101", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -93,6 +120,24 @@
       "sponsored_at": "2014-07-14", 
       "state": "MA", 
       "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "WV", 
+      "thomas_id": "02074", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -200,5 +245,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:58-05:00"
+  "updated_at": "2014-12-06T07:03:03-05:00"
 }

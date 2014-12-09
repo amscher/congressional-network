@@ -64,6 +64,15 @@
     }, 
     {
       "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2014-11-20", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Udall, Tom", 
       "sponsored_at": "2014-09-18", 
       "state": "NM", 
@@ -127,5 +136,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:09-05:00"
+  "updated_at": "2014-12-06T07:43:30-05:00"
 }

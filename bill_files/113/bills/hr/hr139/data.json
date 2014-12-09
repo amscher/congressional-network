@@ -264,6 +264,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Cummings, Elijah E.", 
       "sponsored_at": "2013-03-12", 
@@ -525,11 +534,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Keating, William R.", 
       "sponsored_at": "2013-03-12", 
       "state": "MA", 
       "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kennedy, Joseph P. III", 
+      "sponsored_at": "2014-11-18", 
+      "state": "MA", 
+      "thomas_id": "02172", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1074,6 +1101,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "41", 
       "name": "Takano, Mark", 
       "sponsored_at": "2013-03-12", 
@@ -1230,5 +1266,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:23:39-05:00"
+  "updated_at": "2014-12-06T06:23:46-05:00"
 }

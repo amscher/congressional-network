@@ -43,6 +43,33 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-11-12", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Clarke, Yvette D.", 
       "sponsored_at": "2014-07-17", 
@@ -57,6 +84,15 @@
       "sponsored_at": "2014-07-17", 
       "state": "MD", 
       "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2014-11-12", 
+      "state": "IL", 
+      "thomas_id": "01888", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -84,6 +120,24 @@
       "sponsored_at": "2014-07-17", 
       "state": "CA", 
       "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "01602", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -186,5 +240,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:47-05:00"
+  "updated_at": "2014-12-06T07:05:48-05:00"
 }

@@ -99,7 +99,29 @@
     {
       "acted_at": "2014-07-29", 
       "references": [], 
-      "text": "Received in the Senate.", 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6356", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
       "type": "action"
     }
   ], 
@@ -408,6 +430,8 @@
     "enacted": false, 
     "house_passage_result": "pass", 
     "house_passage_result_at": "2014-07-28T15:15:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-04", 
     "vetoed": false
   }, 
   "introduced_at": "2014-01-09", 
@@ -430,8 +454,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:HOUSE", 
-  "status_at": "2014-07-28T15:15:00-04:00", 
+  "status": "PASSED:BILL", 
+  "status_at": "2014-12-04", 
   "subjects": [
     "Citizenship and naturalization", 
     "Conflicts and wars", 
@@ -445,8 +469,8 @@
   ], 
   "subjects_top_term": "Immigration", 
   "summary": {
-    "as": "Passed House without amendment", 
-    "date": "2014-07-28", 
+    "as": "Passed Senate without amendment", 
+    "date": "2014-12-04", 
     "text": "Confers honorary U.S. citizenship on Bernardo de Galvez y Madrid, Viscount of Galveston and Count of Galvez."
   }, 
   "titles": [
@@ -457,5 +481,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:11:16-05:00"
+  "updated_at": "2014-12-08T18:48:53-05:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3678" updated="2014-11-08T06:53:25-05:00">
+<bill session="113" type="h" number="3678" updated="2014-12-06T06:53:32-05:00">
   <state datetime="2014-03-13">REPORTED</state>
   <status>
     <unknown datetime="2014-03-13"/>
@@ -55,9 +55,15 @@
     <calendar datetime="2014-03-13" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </calendar>
+    <action datetime="2014-11-12T14:23:00-05:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-608.</text>
+    </action>
+    <calendar datetime="2014-11-12T14:24:00-05:00" calendar="House" number="142">
+      <text>Placed on the House Calendar, Calendar No. 142.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
     <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
   </committees>
   <relatedbills/>
@@ -70,6 +76,6 @@
     <term name="Marine and inland water transportation"/>
   </subjects>
   <amendments/>
-  <summary>12/9/2013--Introduced.
+  <summary>11/12/2014--Reported to House without amendment.
 Redesignates the lock and dam located in Modoc, Illinois, commonly known as the Kaskaskia Lock and Dam, as the "Jerry F. Costello Lock and Dam."</summary>
 </bill>

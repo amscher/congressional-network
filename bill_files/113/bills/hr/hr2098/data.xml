@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="2098" updated="2014-11-08T06:40:09-05:00">
+<bill session="113" type="h" number="2098" updated="2014-12-06T06:40:11-05:00">
   <state datetime="2013-05-22">REFERRED</state>
   <status>
     <introduced datetime="2013-05-22"/>
@@ -45,6 +45,7 @@
     <term name="Academic performance and assessments"/>
     <term name="Administrative law and regulatory procedures"/>
     <term name="Administrative remedies"/>
+    <term name="Charitable contributions"/>
     <term name="Competition and antitrust"/>
     <term name="Congressional oversight"/>
     <term name="Corporate finance and management"/>

@@ -25,7 +25,17 @@
     }
   ], 
   "congress": "113", 
-  "cosponsors": [], 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
   "enacted_as": null, 
   "history": {
     "active": false, 
@@ -108,5 +118,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:27:20-05:00"
+  "updated_at": "2014-12-06T07:28:30-05:00"
 }

@@ -444,6 +444,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2014-12-01", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "51", 
       "name": "Vargas, Juan", 
       "sponsored_at": "2014-02-25", 
@@ -522,5 +531,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:31:33-05:00"
+  "updated_at": "2014-12-06T06:31:40-05:00"
 }

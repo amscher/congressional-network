@@ -43,6 +43,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2014-12-01", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Blackburn, Marsha", 
       "sponsored_at": "2014-05-29", 
@@ -167,6 +176,15 @@
       "thomas_id": "01916", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -225,5 +243,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:02:40-05:00"
+  "updated_at": "2014-12-06T07:02:45-05:00"
 }

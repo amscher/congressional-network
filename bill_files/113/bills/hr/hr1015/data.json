@@ -233,6 +233,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "29", 
       "name": "Cardenas, Tony", 
       "sponsored_at": "2014-06-19", 
@@ -332,6 +341,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2014-12-01", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "11", 
       "name": "Connolly, Gerald E.", 
       "sponsored_at": "2013-05-07", 
@@ -382,6 +400,15 @@
       "sponsored_at": "2014-09-09", 
       "state": "NY", 
       "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "MD", 
+      "thomas_id": "00256", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -530,11 +557,38 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2014-11-17", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Fattah, Chaka", 
       "sponsored_at": "2014-06-25", 
       "state": "PA", 
       "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2014-12-01", 
+      "state": "TX", 
+      "thomas_id": "02065", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -602,6 +656,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Griffin, Tim", 
       "sponsored_at": "2013-09-18", 
@@ -652,6 +715,15 @@
       "sponsored_at": "2013-05-13", 
       "state": "WA", 
       "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01794", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -773,6 +845,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Kennedy, Joseph P. III", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "02172", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Kildee, Daniel T", 
       "sponsored_at": "2013-09-16", 
@@ -805,6 +886,15 @@
       "sponsored_at": "2013-03-06", 
       "state": "IL", 
       "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NH", 
+      "thomas_id": "02145", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1052,6 +1142,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Meng, Grace", 
       "sponsored_at": "2014-09-09", 
@@ -1093,6 +1201,24 @@
       "sponsored_at": "2013-05-14", 
       "state": "NY", 
       "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MA", 
+      "thomas_id": "00854", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1214,6 +1340,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2014-12-03", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Rangel, Charles B.", 
       "sponsored_at": "2014-01-27", 
@@ -1246,6 +1381,15 @@
       "sponsored_at": "2013-09-16", 
       "state": "KY", 
       "thomas_id": "00977", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rogers, Mike J.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MI", 
+      "thomas_id": "01651", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1340,6 +1484,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2014-11-13", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Scott, David", 
       "sponsored_at": "2014-06-17", 
@@ -1430,6 +1583,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Thompson, Glenn", 
       "sponsored_at": "2013-05-17", 
@@ -1489,6 +1651,15 @@
       "sponsored_at": "2013-06-18", 
       "state": "OH", 
       "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2014-11-17", 
+      "state": "MD", 
+      "thomas_id": "01729", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1624,5 +1795,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:30:58-05:00"
+  "updated_at": "2014-12-06T06:31:05-05:00"
 }

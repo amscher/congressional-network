@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="277" updated="2014-11-08T06:24:48-05:00">
+<bill session="113" type="h" number="277" updated="2014-12-06T06:24:55-05:00">
   <state datetime="2014-07-16">REPORTED</state>
   <status>
     <unknown datetime="2014-07-16"/>
@@ -28,13 +28,20 @@
     <calendar datetime="2014-07-16" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
     </calendar>
+    <action datetime="2014-12-01T16:30:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-634.</text>
+    </action>
+    <calendar datetime="2014-12-01T16:30:00-05:00" calendar="Union" number="474">
+      <text>Placed on the Union Calendar, Calendar No. 474.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
     <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
   </committees>
   <relatedbills>
     <bill relation="unknown" session="113" type="h" number="4222"/>
+    <bill relation="unknown" session="113" type="s" number="2926"/>
   </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
@@ -42,6 +49,6 @@
     <term name="Rhode Island"/>
   </subjects>
   <amendments/>
-  <summary>1/15/2013--Introduced.
-Replaces the map subtitled "Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, Hazards Beach Unit RI-07" included in the set of maps entitled "John H. Chafee Coastal Barrier Resources System" relating to certain John H. Chafee Coastal Barrier Resources System units in Rhode Island, with another map relating to the units entitled "John H. Chafee Coastal Barrier Resources System Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, and Hazards Beach Unit RI-07" (dated September 30, 2009).</summary>
+  <summary>12/1/2014--Reported to House amended.
+Revises the boundaries of the Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, Hazards Beach Unit RI-07 in the John H. Chafee Coastal Barrier Resources System in Rhode Island.</summary>
 </bill>

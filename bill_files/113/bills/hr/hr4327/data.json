@@ -63,7 +63,13 @@
   "number": "4327", 
   "official_title": "To prohibit the Federal Energy Regulatory Commission from issuing certain decisions that will raise costs for ratepayers, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2928-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": "18", 
@@ -97,5 +103,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:58:52-05:00"
+  "updated_at": "2014-12-06T06:58:58-05:00"
 }

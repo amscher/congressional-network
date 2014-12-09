@@ -131,6 +131,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": null, 
       "name": "Norton, Eleanor Holmes", 
       "sponsored_at": "2014-07-31", 
@@ -228,5 +237,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:30-05:00"
+  "updated_at": "2014-12-06T07:07:30-05:00"
 }

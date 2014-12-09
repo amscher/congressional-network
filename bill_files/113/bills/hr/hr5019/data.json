@@ -67,6 +67,12 @@
     }, 
     {
       "acted_at": "2014-09-08T19:04:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-08T19:04:00-04:00", 
       "how": "roll", 
       "references": [
         {
@@ -84,12 +90,6 @@
       "where": "h"
     }, 
     {
-      "acted_at": "2014-09-08T19:04:00-04:00", 
-      "references": [], 
-      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
-      "type": "action"
-    }, 
-    {
       "acted_at": "2014-09-09", 
       "committees": [
         "SSGA"
@@ -97,6 +97,35 @@
       "references": [], 
       "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-12", 
+      "committees": [
+        "SSGA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "calendar": "Senate Legislative", 
+      "number": "594", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 594.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -114,7 +143,9 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup", 
+        "reporting"
       ], 
       "committee": "Senate Homeland Security and Governmental Affairs", 
       "committee_id": "SSGA"
@@ -411,5 +442,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:45-05:00"
+  "updated_at": "2014-12-06T07:04:50-05:00"
 }

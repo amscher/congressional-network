@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="3958" updated="2014-11-08T06:55:47-05:00">
+<bill session="113" type="h" number="3958" updated="2014-12-06T06:55:53-05:00">
   <state datetime="2014-01-29">REFERRED</state>
   <status>
     <introduced datetime="2014-01-29"/>
@@ -28,7 +28,9 @@
     <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
     <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5771"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Housing for the elderly and disabled"/>

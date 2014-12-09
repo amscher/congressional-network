@@ -165,6 +165,24 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Gingrey, Phil", 
+      "sponsored_at": "2014-11-13", 
+      "state": "GA", 
+      "thomas_id": "01720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Goodlatte, Bob", 
       "sponsored_at": "2014-07-30", 
@@ -197,6 +215,15 @@
       "sponsored_at": "2014-09-08", 
       "state": "ID", 
       "thomas_id": "02011", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CO", 
+      "thomas_id": "01834", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -273,6 +300,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Stewart, Chris", 
       "sponsored_at": "2014-07-25", 
@@ -326,7 +362,7 @@
   "summary": {
     "as": "Introduced", 
     "date": "2014-06-18", 
-    "text": "National Forest System Trails Stewardship Act of 2014 - Directs the U.S. Department of Agriculture (USDA) to publish a national strategy to significantly increase the role of volunteers and partners in trail maintenance.\n\nRequires the strategy to: (1) augment and support the capabilities of federal employees to carry out or contribute to trail maintenance; (2) provide opportunities for volunteers and partners to carry out trail maintenance in each region of the Forest Service; (3) address the barriers to increased volunteerism and partnerships; (4) prioritize increased volunteerism and partnerships in those regions with the most severe trail maintenance needs, and where backlogs are jeopardizing access to national forest lands; and (5) aim to increase trail maintenance by volunteers and partners by 100% within 5 years.\n\nDirects USDA to study opportunities to improve trail maintenance by addressing opportunities to use fire crews in trail maintenance activities.\n\nDeems a volunteer with a partner organization to be considered a federal employee for the purposes of civil claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer services.\n\nSets forth provisions for the selection of priority areas for increased trail maintenance accomplishments.\n\nDirects USDA to establish a pilot program to offset all or part of the land use fee for outfitting and guiding permits."
+    "text": "National Forest System Trails Stewardship Act of 2014 - Directs the Department of Agriculture (USDA) to publish a national strategy to significantly increase the role of volunteers and partners in trail maintenance.\n\nRequires the strategy to: (1) augment and support the capabilities of federal employees to carry out or contribute to trail maintenance; (2) provide opportunities for volunteers and partners to carry out trail maintenance in each region of the Forest Service; (3) address the barriers to increased volunteerism and partnerships; (4) prioritize increased volunteerism and partnerships in those regions with the most severe trail maintenance needs, and where backlogs are jeopardizing access to national forest lands; and (5) aim to increase trail maintenance by volunteers and partners by 100% within 5 years.\n\nDirects USDA to study opportunities to improve trail maintenance by addressing opportunities to use fire crews in trail maintenance activities.\n\nDeems a volunteer with a partner organization to be considered a federal employee for the purposes of civil claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer services.\n\nSets forth provisions for the selection of priority areas for increased trail maintenance accomplishments.\n\nDirects USDA to establish a pilot program to offset all or part of the land use fee for outfitting and guiding permits."
   }, 
   "titles": [
     {
@@ -342,5 +378,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:03:37-05:00"
+  "updated_at": "2014-12-06T07:03:43-05:00"
 }

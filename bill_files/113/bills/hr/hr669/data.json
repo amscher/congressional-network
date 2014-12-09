@@ -127,9 +127,109 @@
       "references": [], 
       "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "committees": [
+        "SSHR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "references": [
+        {
+          "reference": "CR S6219", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-11-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8344-8345", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Bilirakis asked unanimous consent to take from the Speaker's table and agree to the Senate amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:02:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H8345", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendments Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
     }
   ], 
-  "amendments": [], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3957-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3957"
+    }, 
+    {
+      "amendment_id": "samdt3958-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3958"
+    }
+  ], 
   "bill_id": "hr669-113", 
   "bill_type": "hr", 
   "by_request": false, 
@@ -157,7 +257,9 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup", 
+        "discharged"
       ], 
       "committee": "Senate Health, Education, Labor, and Pensions", 
       "committee_id": "SSHR"
@@ -350,15 +452,18 @@
   "history": {
     "active": true, 
     "active_at": "2014-06-19", 
-    "awaiting_signature": false, 
+    "awaiting_signature": true, 
+    "awaiting_signature_since": "2014-12-08", 
     "enacted": false, 
     "house_passage_result": "pass", 
-    "house_passage_result_at": "2014-09-09T17:49:00-04:00", 
+    "house_passage_result_at": "2014-12-03T18:02:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-11-20", 
     "vetoed": false
   }, 
   "introduced_at": "2013-02-13", 
   "number": "669", 
-  "official_title": "To amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.", 
+  "official_title": "A bill to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.", 
   "popular_title": null, 
   "related_bills": [
     {
@@ -381,8 +486,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:HOUSE", 
-  "status_at": "2014-09-09T17:49:00-04:00", 
+  "status": "PASSED:BILL", 
+  "status_at": "2014-12-03T18:02:00-05:00", 
   "subjects": [
     "Advisory bodies", 
     "Child health", 
@@ -405,9 +510,9 @@
   ], 
   "subjects_top_term": "Health", 
   "summary": {
-    "as": "Passed House amended", 
-    "date": "2014-09-09", 
-    "text": "Sudden Unexpected Death Data Enhancement and Awareness Act - (Sec. 2) Amends the Public Health Service Act to require the Director of the Centers for Disease Control and Prevention (CDC) to continue activities relating to stillbirth, sudden unexpected infant death (SUID), and sudden unexpected death in childhood (SUDC).\n\nRequires the CDC to provide for collection of epidemiologic information on stillbirths, including through existing surveillance systems. Requires the CDC to develop and periodically update a standard data collection protocol and guidelines for postmortem stillbirth evaluation.\n\nDirects the CDC to provide for collection of sociodemographic, death scene investigation, clinical history, and autopsy information on SUID and SUDC cases through the review of existing records.\n\nRequires the CDC to develop and periodically update standard protocols for data collection and death scene investigation for SUID. Sets forth goals for SUID surveillance, including: (1) collecting information about the environmental and medical circumstances of death, (2) supporting multidisciplinary infant death reviews to classify and characterize SUID, and (3) facilitating information sharing to improve reporting of SUID. Requires the death scene investigation protocol to include the collection of infant and family medical history, circumstances surrounding death, the infant's sleep position and sleep environment, and any accidental or environmental factors associated with the death.\n\nDirects the CDC to develop and periodically update guidelines for standard autopsy protocols for SUID and SUDC.\n\nAllows the Attorney General to conduct and support training for medical examiners, coroners, and others regarding standard protocols for death scene investigation and autopsies."
+    "as": "Passed Senate amended", 
+    "date": "2014-11-20", 
+    "text": "Sudden Unexpected Death Data Enhancement and Awareness Act - (Sec. 2) Requires the Secretary of Health and Human Services (HHS) to continue and report on activities related to stillbirth, sudden unexpected infant death, and sudden unexplained death in childhood, including collaborating with states and experts to improve the quality and consistency of data collected after one of these deaths."
   }, 
   "titles": [
     {
@@ -429,11 +534,23 @@
       "type": "short"
     }, 
     {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Sudden Unexpected Death Data Enhancement and Awareness Act", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.", 
       "type": "official"
+    }, 
+    {
+      "as": "amended by senate", 
+      "is_for_portion": false, 
+      "title": "A bill to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.", 
+      "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:28:04-05:00"
+  "updated_at": "2014-12-08T18:48:33-05:00"
 }

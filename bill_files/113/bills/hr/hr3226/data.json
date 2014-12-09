@@ -46,6 +46,24 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Voice Vote.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:32:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-636.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:32:00-05:00", 
+      "calendar": "Union", 
+      "number": "476", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 476.", 
+      "type": "calendar", 
+      "under": null
     }
   ], 
   "amendments": [], 
@@ -56,7 +74,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -87,7 +106,13 @@
   "number": "3226", 
   "official_title": "To remove from the John H. Chafee Coastal Barrier Resources System certain properties in South Carolina.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr3227-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": "7", 
@@ -106,9 +131,9 @@
   ], 
   "subjects_top_term": "Public lands and natural resources", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-10-01", 
-    "text": "Directs the Secretary of the Interior to revise Coastal Barrier Resources System maps relating to the John H. Chafee Coastal Barrier Resources System Unit SC-01 in South Carolina to remove the following parcels of land adjacent to property located at 10108 Kings Road in Myrtle Beach, South Carolina: (1) the parcel identified in the land records of Horry County, South Carolina, as TMS 155-00-01-115, consisting of approximately 6.94 acres; and (2) the parcel identified in such land records as TMS 155-00-01-051, consisting of approximately 13.91 acres."
+    "as": "Reported to House amended", 
+    "date": "2014-12-01", 
+    "text": "Revises the boundaries of the Long Pond Unit SC-01 in the John H. Chafee Coastal Barrier Resources System in South Carolina."
   }, 
   "titles": [
     {
@@ -118,5 +143,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:49:35-05:00"
+  "updated_at": "2014-12-06T06:49:42-05:00"
 }

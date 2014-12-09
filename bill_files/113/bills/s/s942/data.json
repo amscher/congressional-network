@@ -308,6 +308,15 @@
     }, 
     {
       "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Warren, Elizabeth", 
       "sponsored_at": "2013-09-10", 
       "state": "MA", 
@@ -380,5 +389,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:26:02-05:00"
+  "updated_at": "2014-12-06T07:27:12-05:00"
 }

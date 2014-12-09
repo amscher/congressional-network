@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4719" updated="2014-11-08T07:02:13-05:00">
+<bill session="113" type="h" number="4719" updated="2014-12-06T07:02:19-05:00">
   <state datetime="2014-07-17T12:42:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2014-07-17T12:42:00-04:00"/>
@@ -99,6 +99,7 @@
   </relatedbills>
   <subjects>
     <term name="Taxation"/>
+    <term name="Charitable contributions"/>
     <term name="Food assistance and relief"/>
     <term name="Income tax deductions"/>
     <term name="Social work, volunteer service, charitable organizations"/>

@@ -103,7 +103,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-16", 
+    "text": "Idaho County Shooting Range Land Conveyance Act - Directs the Secretary of the Interior to convey to Idaho County in Idaho approximately 31 acres of land managed by the Bureau of Land Management (BLM) for use as a shooting range."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -118,5 +122,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:40:13-05:00"
+  "updated_at": "2014-12-06T07:41:32-05:00"
 }

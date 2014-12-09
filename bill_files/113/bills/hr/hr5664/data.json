@@ -72,7 +72,11 @@
     "Transportation programs funding"
   ], 
   "subjects_top_term": "Transportation and public works", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Amends the Transportation Equity Act for the 21st Century to modify the description of a high priority project funded under such Act in California by replacing \"constructing Arbor Vitae street improvements, Inglewood\" with \"constructing Imperial Highway street improvements designated by the city of Inglewood.\""
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -81,5 +85,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:15-05:00"
+  "updated_at": "2014-12-06T07:10:13-05:00"
 }

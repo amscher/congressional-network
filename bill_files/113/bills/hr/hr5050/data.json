@@ -46,6 +46,94 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported by Unanimous Consent.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:26:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 113-631.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:26:00-05:00", 
+      "calendar": "Union", 
+      "number": "471", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 471.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-01T16:32:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8186", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:32:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5050.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:37:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8238-8239", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:34:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 12/1/2014 H8186", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "535", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 535).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T13:34:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
     }
   ], 
   "amendments": [], 
@@ -56,7 +144,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -91,6 +180,8 @@
     "active_at": "2014-07-29", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T13:34:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2014-07-09", 
@@ -113,8 +204,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-18", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-02T13:34:00-05:00", 
   "subjects": [
     "Idaho", 
     "Indian lands and resources rights", 
@@ -122,10 +213,20 @@
     "Native Americans"
   ], 
   "subjects_top_term": "Native Americans", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-09", 
+    "text": "May 31, 1918 Act Repeal Act - Repeals the 1918 Act (authorizing the establishment of a town site on the Fort Hall Indian Reservation in Idaho).\n\nGrants the Shoshone-Bannock Tribes of the Fort Hall Reservation the exclusive right of first refusal to purchase at fair market value any land offered for sale within the Fort Hall Townsite.\n\nRequires the United States to hold in trust for the benefit of the Tribes or a member of the Tribes, as applicable, any land owned or acquired by the Tribes or a member of the Tribes within the Fort Hall Townsite before, on, or after this Act's enactment."
+  }, 
   "titles": [
     {
       "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "May 31, 1918 Act Repeal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
       "is_for_portion": false, 
       "title": "May 31, 1918 Act Repeal Act", 
       "type": "short"
@@ -137,5 +238,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:00-05:00"
+  "updated_at": "2014-12-06T07:05:05-05:00"
 }

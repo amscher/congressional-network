@@ -70,7 +70,13 @@
   "number": "302", 
   "official_title": "A resolution designating December 1, 2013, as \"Drive Safer Sunday\".", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "sres583-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": null, 
@@ -104,5 +110,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:15:21-05:00"
+  "updated_at": "2014-12-06T07:16:23-05:00"
 }

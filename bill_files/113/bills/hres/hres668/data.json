@@ -252,6 +252,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2014-12-04", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Grijalva, Raul M.", 
       "sponsored_at": "2014-07-28", 
@@ -720,6 +729,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "34", 
       "name": "Vela, Filemon", 
       "sponsored_at": "2014-07-31", 
@@ -818,5 +836,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:21:48-05:00"
+  "updated_at": "2014-12-06T06:21:45-05:00"
 }

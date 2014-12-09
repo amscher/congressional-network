@@ -28,6 +28,15 @@
   "cosponsors": [
     {
       "district": null, 
+      "name": "Cruz, Ted", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Vitter, David", 
       "sponsored_at": "2014-07-31", 
       "state": "LA", 
@@ -95,5 +104,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:34:12-05:00"
+  "updated_at": "2014-12-06T07:35:31-05:00"
 }

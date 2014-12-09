@@ -103,6 +103,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Moran, James P.", 
       "sponsored_at": "2013-02-13", 
@@ -193,5 +202,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:27:55-05:00"
+  "updated_at": "2014-12-06T06:28:02-05:00"
 }

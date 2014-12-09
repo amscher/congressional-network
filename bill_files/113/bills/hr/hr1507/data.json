@@ -833,6 +833,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Heck, Joseph J.", 
       "sponsored_at": "2013-11-21", 
@@ -991,6 +1000,15 @@
       "sponsored_at": "2013-09-26", 
       "state": "MI", 
       "thomas_id": "02134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "02169", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1342,6 +1360,24 @@
       "sponsored_at": "2013-11-12", 
       "state": "FL", 
       "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01602", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -2043,5 +2079,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:35:10-05:00"
+  "updated_at": "2014-12-06T06:35:13-05:00"
 }

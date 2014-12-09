@@ -151,6 +151,33 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "McCollum, Betty", 
       "sponsored_at": "2014-03-18", 
@@ -201,6 +228,15 @@
       "sponsored_at": "2014-03-26", 
       "state": "CA", 
       "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-11-14", 
+      "state": "VT", 
+      "thomas_id": "01879", 
       "title": "Rep", 
       "withdrawn_at": null
     }
@@ -292,5 +328,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:57:09-05:00"
+  "updated_at": "2014-12-06T06:57:16-05:00"
 }

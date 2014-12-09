@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5617" updated="2014-11-08T07:09:51-05:00">
+<bill session="113" type="h" number="5617" updated="2014-12-06T07:09:50-05:00">
   <state datetime="2014-09-18">REFERRED</state>
   <status>
     <introduced datetime="2014-09-18"/>
@@ -28,6 +28,7 @@
     <cosponsor id="400245" joined="2014-09-18"/>
     <cosponsor id="412521" joined="2014-09-18"/>
     <cosponsor id="400262" joined="2014-09-18"/>
+    <cosponsor id="400263" joined="2014-11-13"/>
     <cosponsor id="412560" joined="2014-09-18"/>
     <cosponsor id="400283" joined="2014-09-18"/>
     <cosponsor id="412527" joined="2014-09-18"/>
@@ -41,7 +42,9 @@
     <cosponsor id="400379" joined="2014-09-18"/>
     <cosponsor id="412514" joined="2014-09-18"/>
     <cosponsor id="412520" joined="2014-09-18"/>
+    <cosponsor id="412318" joined="2014-11-18"/>
     <cosponsor id="400416" joined="2014-09-18"/>
+    <cosponsor id="412211" joined="2014-11-18"/>
   </cosponsors>
   <actions>
     <action datetime="2014-09-18" state="REFERRED">
@@ -55,7 +58,9 @@
     <committee code="HSJU" name="House Judiciary" activity="Referral"/>
     <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2919"/>
+  </relatedbills>
   <subjects>
     <term name="Commerce"/>
     <term name="Art, artists, authorship"/>

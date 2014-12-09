@@ -59,7 +59,11 @@
     "Government trust funds"
   ], 
   "subjects_top_term": "Government operations and politics", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Federal Debt Management Act of 2014 - Limits the Department of the Treasury's authority to manage the debt of the United States by using extraordinary measures to prevent the public debt limit from being exceeded.\n\nLimits the authority of the Secretary of the Treasury to suspend the investing of amounts or the issuance of obligations for the Civil Service Retirement and Disability Fund, the Thrift Savings Fund, the Exchange Stabilization Fund, or any other fund or account for the purposes of preventing the public debt of the United States from exceeding the public debt limit.\n\nRequires the Secretary to submit to Congress additional information regarding the Daily Treasury Statement, including: (1) all cash flow and debt transaction information used in preparing the Daily Treasury Statement, and (2) forecasts for the cash flow and debt transactions of the federal government."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -74,5 +78,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:42:24-05:00"
+  "updated_at": "2014-12-06T07:43:44-05:00"
 }

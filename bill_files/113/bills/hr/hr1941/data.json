@@ -138,6 +138,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NM", 
+      "thomas_id": "02146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Lujan, Ben Ray", 
       "sponsored_at": "2013-05-16", 
@@ -219,6 +228,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "33", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "24", 
       "name": "Wilson, Frederica S.", 
       "sponsored_at": "2013-05-16", 
@@ -284,5 +302,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:38:50-05:00"
+  "updated_at": "2014-12-06T06:38:52-05:00"
 }

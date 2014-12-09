@@ -109,6 +109,15 @@
     }, 
     {
       "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-11-12", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
       "name": "Esty, Elizabeth H.", 
       "sponsored_at": "2013-12-03", 
       "state": "CT", 
@@ -361,7 +370,7 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-12-09", 
       "state": "MO", 
       "thomas_id": "02191", 
@@ -488,5 +497,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:51:51-05:00"
+  "updated_at": "2014-12-06T06:51:57-05:00"
 }

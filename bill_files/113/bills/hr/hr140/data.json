@@ -62,6 +62,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "6", 
       "name": "Black, Diane", 
       "sponsored_at": "2013-01-03", 
@@ -422,5 +431,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:23:39-05:00"
+  "updated_at": "2014-12-06T06:23:46-05:00"
 }

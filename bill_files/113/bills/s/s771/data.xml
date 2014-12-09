@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="771" updated="2014-11-08T07:24:36-05:00">
+<bill session="113" type="s" number="771" updated="2014-12-06T07:25:46-05:00">
   <state datetime="2013-04-18">REFERRED</state>
   <status>
     <introduced datetime="2013-04-18"/>
@@ -24,7 +24,10 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
     <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5742"/>
+    <bill relation="unknown" session="113" type="s" number="2938"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
     <term name="California"/>

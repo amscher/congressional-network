@@ -781,6 +781,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-12-02", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Kennedy, Joseph P. III", 
       "sponsored_at": "2014-06-25", 
@@ -1303,6 +1312,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "36", 
       "name": "Ruiz, Raul", 
       "sponsored_at": "2014-07-07", 
@@ -1678,5 +1696,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:55:17-05:00"
+  "updated_at": "2014-12-06T06:55:24-05:00"
 }

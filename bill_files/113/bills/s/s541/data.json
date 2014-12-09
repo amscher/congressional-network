@@ -146,6 +146,15 @@
     }, 
     {
       "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Kirk, Mark Steven", 
       "sponsored_at": "2013-07-23", 
       "state": "IL", 
@@ -330,5 +339,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:22:37-05:00"
+  "updated_at": "2014-12-06T07:23:47-05:00"
 }

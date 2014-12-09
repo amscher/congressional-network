@@ -86,7 +86,11 @@
     "Right of privacy"
   ], 
   "subjects_top_term": "Health", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Healthcare Consumer Privacy Act of 2014 - Amends the Patient Protection and Affordable Care Act to require the Secretary of Health and Human Services (HHS) to ensure individuals who enter personal information on a health exchange website can remove their information from the website if they decide not to apply for health care coverage."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -101,5 +105,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:47-05:00"
+  "updated_at": "2014-12-06T07:09:46-05:00"
 }

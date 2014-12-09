@@ -1,12 +1,15 @@
-<bill session="113" type="s" number="898" updated="2014-11-08T07:25:40-05:00">
-  <state datetime="2014-09-09">PASS_OVER:SENATE</state>
+<bill session="113" type="s" number="898" updated="2014-12-06T07:26:50-05:00">
+  <state datetime="2014-11-26">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2014-09-09"/>
+    <unknown datetime="2014-11-26"/>
   </status>
   <introduced datetime="2013-05-08"/>
   <titles>
     <title type="short" as="introduced">Albuquerque, New Mexico, Federal Land Conveyance Act of 2013</title>
+    <title type="short" as="passed house">Albuquerque, New Mexico, Federal Land Conveyance Act of 2013</title>
     <title type="short" as="reported to senate">Albuquerque, New Mexico, Federal Land Conveyance Act of 2013</title>
+    <title type="short" as="reported to senate">Albuquerque, New Mexico, Federal Land Conveyance Act of 2013</title>
+    <title type="short" as="enacted">Albuquerque, New Mexico, Federal Land Conveyance Act of 2013</title>
     <title type="official" as="introduced">A bill to authorize the Administrator of General Services to convey a parcel of real property in Albuquerque, New Mexico, to the Amy Biehl High School Foundation.</title>
   </titles>
   <sponsor id="400413"/>
@@ -40,6 +43,32 @@
     <action datetime="2014-09-10T17:08:00-04:00">
       <text>Held at the desk.</text>
     </action>
+    <action datetime="2014-11-12T16:42:00-05:00">
+      <text>Mr. Meadows moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-11-12T16:42:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7914-7915" label="consideration"/>
+    </action>
+    <action datetime="2014-11-12T16:42:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 898.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-11-12T16:51:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7914" label="text"/>
+    </vote>
+    <action datetime="2014-11-12T16:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-11-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-11-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-190" type="public" datetime="2014-11-26">
+      <text>Became Public Law No: 113-190.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting, In Committee"/>
@@ -57,7 +86,7 @@
     <term name="New Mexico"/>
   </subjects>
   <amendments/>
-  <summary>9/9/2014--Passed Senate without amendment.
+  <summary>11/26/2014--Public Law.
 Albuquerque, New Mexico, Federal Land Conveyance Act of 2013 - Directs the Administrator of General Services (GSA) to offer to convey to the Amy Biehl High School Foundation certain federal lands located in Albuquerque, New Mexico.
 
 Requires such conveyance to be in accordance with a fair market value appraisal that is acceptable to the Administrator.

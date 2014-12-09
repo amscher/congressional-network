@@ -266,6 +266,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "sponsored_at": "2014-12-04", 
+      "state": "CT", 
+      "thomas_id": "01913", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "17", 
       "name": "Honda, Michael M.", 
       "sponsored_at": "2014-04-09", 
@@ -280,6 +289,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "NV", 
       "thomas_id": "02147", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2014-12-04", 
+      "state": "IL", 
+      "thomas_id": "02015", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -780,5 +798,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:48-05:00"
+  "updated_at": "2014-12-06T06:53:54-05:00"
 }

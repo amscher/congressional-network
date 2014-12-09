@@ -46,6 +46,79 @@
       "status": "REPORTED", 
       "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T17:00:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-615.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T17:02:00-05:00", 
+      "calendar": "Union", 
+      "number": "457", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 457.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-11-13T12:29:00-05:00", 
+      "references": [], 
+      "text": "Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7949-7950", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:29:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3326.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:33:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7949", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:33:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -56,7 +129,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -71,6 +145,13 @@
       "committee_id": "HSII", 
       "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
       "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
     }
   ], 
   "congress": "113", 
@@ -91,6 +172,8 @@
     "active_at": "2014-09-09", 
     "awaiting_signature": false, 
     "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-13T12:33:00-05:00", 
     "vetoed": false
   }, 
   "introduced_at": "2013-10-23", 
@@ -98,7 +181,7 @@
   "official_title": "To provide for an exchange of land between the United States and the Trinity Public Utilities District of Trinity County, California, involving a parcel of National Forest System land in Shasta-Trinity National Forest.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": "Trinity County Land Exchange Act of 2013", 
+  "short_title": "Trinity County Land Exchange Act of 2014'.", 
   "sponsor": {
     "district": "2", 
     "name": "Huffman, Jared", 
@@ -107,8 +190,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REPORTED", 
-  "status_at": "2014-09-18", 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-13T12:33:00-05:00", 
   "subjects": [
     "California", 
     "Forests, forestry, trees", 
@@ -118,9 +201,9 @@
   ], 
   "subjects_top_term": "Public lands and natural resources", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-10-23", 
-    "text": "Trinity County Land Exchange Act of 2013 - Directs the Secretary of Agriculture (USDA), if the Trinity Public Utilities District of Trinity County, California, conveys to the Secretary of the Interior all right, title, and interest of the District in the Sky Ranch parcel (Parcel A), to convey to the District all right, title, and interest of the United States in certain land in the Shasta-Trinity National Forest near the Weaverville Airport in Trinity County (Parcel B).\n\nIntends for such land exchange to be an equal value exchange.\n\nRequires the Secretary of the Interior, acting through the Redding Field Office of the Bureau of Land Management (BLM), to administer Parcel A as public land."
+    "as": "Reported to House amended", 
+    "date": "2014-11-12", 
+    "text": "Trinity County Land Exchange Act of 2014 - Provides for the exchange of approximately 47 acres of land known as the Sky Ranch Parcel and owned by the Trinity Public Utilities District of Trinity County, California, for approximately 100 acres of land in the Shasta-Trinity National Forest near the Weaverville Airport in Trinity County.\n\nIntends for such land exchange to be an equal value exchange. Provides for cash equalization if the parcels are not of equal value.\n\n Requires the Bureau of Land Management (BLM) to administer the Sky Ranch parcel as public land, except that public recreation and public access to and for recreation shall be the highest and best use of such parcel."
   }, 
   "titles": [
     {
@@ -130,11 +213,23 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Trinity County Land Exchange Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Trinity County Land Exchange Act of 2014'.", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To provide for an exchange of land between the United States and the Trinity Public Utilities District of Trinity County, California, involving a parcel of National Forest System land in Shasta-Trinity National Forest.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:50:25-05:00"
+  "updated_at": "2014-12-06T06:50:32-05:00"
 }

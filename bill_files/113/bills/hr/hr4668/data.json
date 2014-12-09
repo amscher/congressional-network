@@ -67,6 +67,35 @@
       "references": [], 
       "text": "Subcommittee Hearings Held.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee Indian and Alaska Native Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
     }
   ], 
   "amendments": [], 
@@ -76,7 +105,8 @@
   "committees": [
     {
       "activity": [
-        "referral"
+        "referral", 
+        "markup"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII"
@@ -84,7 +114,8 @@
     {
       "activity": [
         "referral", 
-        "hearings"
+        "hearings", 
+        "discharged"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII", 
@@ -93,7 +124,8 @@
     }, 
     {
       "activity": [
-        "referral"
+        "referral", 
+        "discharged"
       ], 
       "committee": "House Natural Resources", 
       "committee_id": "HSII", 
@@ -151,8 +183,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "REFERRED", 
-  "status_at": "2014-05-15", 
+  "status": "REPORTED", 
+  "status_at": "2014-11-19", 
   "subjects": [
     "Alaska", 
     "Alaska Natives and Hawaiians", 
@@ -185,5 +217,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:01:48-05:00"
+  "updated_at": "2014-12-06T07:01:53-05:00"
 }

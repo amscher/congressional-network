@@ -34,6 +34,15 @@
       "thomas_id": "01464", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -93,5 +102,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:41:39-05:00"
+  "updated_at": "2014-12-06T07:42:59-05:00"
 }

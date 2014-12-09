@@ -141,8 +141,52 @@
     {
       "acted_at": "2014-09-10", 
       "references": [], 
-      "text": "Received in the Senate.", 
+      "text": "Received in the Senate, read twice.", 
       "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6219", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-11-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-24", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "198", 
+      "references": [], 
+      "text": "Became Public Law No: 113-198.", 
+      "type": "enacted"
     }
   ], 
   "amendments": [], 
@@ -226,14 +270,21 @@
       "withdrawn_at": null
     }
   ], 
-  "enacted_as": null, 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "198"
+  }, 
   "history": {
     "active": true, 
     "active_at": "2014-07-28", 
     "awaiting_signature": false, 
-    "enacted": false, 
+    "enacted": true, 
+    "enacted_at": "2014-12-04", 
     "house_passage_result": "pass", 
     "house_passage_result_at": "2014-09-09T17:44:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-11-20", 
     "vetoed": false
   }, 
   "introduced_at": "2014-02-18", 
@@ -266,8 +317,8 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "PASS_OVER:HOUSE", 
-  "status_at": "2014-09-09T17:44:00-04:00", 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-12-04", 
   "subjects": [
     "Administrative law and regulatory procedures", 
     "Department of Health and Human Services", 
@@ -280,8 +331,8 @@
   ], 
   "subjects_top_term": "Health", 
   "summary": {
-    "as": "Passed House without amendment", 
-    "date": "2014-09-09", 
+    "as": "Passed Senate without amendment", 
+    "date": "2014-11-20", 
     "text": "Requires the Secretary of Health and Human Services (HHS) to continue to instruct Medicare contractors not to enforce requirements for direct physician supervision of outpatient therapeutic services in critical access and small rural hospitals through 2014."
   }, 
   "titles": [
@@ -292,5 +343,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:56:41-05:00"
+  "updated_at": "2014-12-06T06:56:48-05:00"
 }

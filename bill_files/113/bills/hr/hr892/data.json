@@ -125,6 +125,7 @@
     "Accounting and auditing", 
     "Business investment and capital", 
     "Capital gains tax", 
+    "Charitable contributions", 
     "Employee benefits and pensions", 
     "Income tax deductions", 
     "Income tax exclusion", 
@@ -154,5 +155,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:29:56-05:00"
+  "updated_at": "2014-12-06T06:30:03-05:00"
 }

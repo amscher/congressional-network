@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5450" updated="2014-11-08T07:08:27-05:00">
+<bill session="113" type="h" number="5450" updated="2014-12-06T07:08:26-05:00">
   <state datetime="2014-09-11">REFERRED</state>
   <status>
     <introduced datetime="2014-09-11"/>
@@ -9,7 +9,10 @@
     <title type="official" as="introduced">To amend section 349 of the Immigration and Nationality Act to deem specified activities in support of terrorism as renunciation of United States nationality, and for other purposes.</title>
   </titles>
   <sponsor id="400348"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor id="412271" joined="2014-11-13"/>
+    <cosponsor id="412426" joined="2014-11-13"/>
+  </cosponsors>
   <actions>
     <action datetime="2014-09-11" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>

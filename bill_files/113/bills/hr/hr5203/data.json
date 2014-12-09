@@ -144,7 +144,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-25", 
+    "text": "Dwight D. Eisenhower Memorial Commission Reform Act - Modifies the membership of the Dwight D. Eisenhower Memorial Commission.\n\nRequires each appointment to the Commission to be made in consultation with the Eisenhower Foundation, a public foundation located in Abilene, Kansas.\n\nTerminates the membership of the present Commission on the date of enactment of this Act."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -159,5 +163,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:06:22-05:00"
+  "updated_at": "2014-12-06T07:06:22-05:00"
 }

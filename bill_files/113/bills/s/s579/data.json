@@ -80,13 +80,13 @@
     }, 
     {
       "acted_at": "2014-04-03", 
-      "committee": "Committee on Foreign Relations Subcommittee on East Asian and Pacific Affairs", 
+      "committee": "Committee on Foreign Relations Senate Subcommittee on East Asian and Pacific Affairs", 
       "committees": [
         "SSFR"
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Foreign Relations Subcommittee on East Asian and Pacific Affairs. Hearings held.", 
+      "text": "Committee on Foreign Relations Senate Subcommittee on East Asian and Pacific Affairs. Hearings held. With printed Hearing: S.Hrg. 113-458.", 
       "type": "hearings"
     }
   ], 
@@ -370,5 +370,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:22:56-05:00"
+  "updated_at": "2014-12-06T07:24:06-05:00"
 }

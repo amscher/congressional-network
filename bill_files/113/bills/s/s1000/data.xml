@@ -1,11 +1,12 @@
-<bill session="113" type="s" number="1000" updated="2014-11-08T07:26:35-05:00">
-  <state datetime="2013-05-21">REFERRED</state>
+<bill session="113" type="s" number="1000" updated="2014-12-06T07:27:44-05:00">
+  <state datetime="2014-12-02">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2013-05-21"/>
+    <unknown datetime="2014-12-02"/>
   </status>
   <introduced datetime="2013-05-21"/>
   <titles>
     <title type="short" as="introduced">Chesapeake Bay Accountability and Recovery Act of 2013</title>
+    <title type="short" as="passed senate">Chesapeake Bay Accountability and Recovery Act of 2014</title>
     <title type="official" as="introduced">A bill to require the Director of the Office of Management and Budget to prepare a crosscut budget for restoration activities in the Chesapeake Bay watershed, and for other purposes.</title>
   </titles>
   <sponsor id="412321"/>
@@ -16,11 +17,31 @@
     <action datetime="2013-05-21" state="REFERRED">
       <text>Read twice and referred to the Committee on Environment and Public Works.</text>
     </action>
+    <action datetime="2014-12-02">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6246-6248" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-12-02T17:36:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-12-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-02T18:18:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged, In Committee"/>
   </committees>
   <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="739"/>
     <bill relation="unknown" session="113" type="h" number="739"/>
     <bill relation="unknown" session="113" type="h" number="2954"/>
   </relatedbills>
@@ -45,7 +66,9 @@
     <term name="West Virginia"/>
     <term name="Wildlife conservation and habitat protection"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s3965"/>
+  </amendments>
   <summary>5/21/2013--Introduced.
 Chesapeake Bay Accountability and Recovery Act of 2013 - Requires the Director of the Office of Management and Budget (OMB), in consultation with the Chesapeake Executive Council, the chief executive of each Chesapeake Bay state, and the Chesapeake Bay Commission, to submit to Congress, annually, a financial report containing: (1) an interagency crosscut budget for restoration activities that protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed; (2) an accounting of funds received and obligated by each federal agency for restoration activities; (3) an accounting from each state of all funds received and obligated from a federal agency for restoration activities; and (4) a description of each of the proposed federal and state restoration activities. Requires: (1) such report to describe only federal restoration activities that have funding amounts of at least $100,000 and state restoration activities that have funding amounts of at least $50,000, and (2) the Director to submit the report no later than 30 days after the submission of the President's annual budget to Congress.
 

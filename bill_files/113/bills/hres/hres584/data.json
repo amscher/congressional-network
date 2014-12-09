@@ -43,6 +43,15 @@
   "congress": "113", 
   "cosponsors": [
     {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2014-11-13", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "10", 
       "name": "McCaul, Michael T.", 
       "sponsored_at": "2014-05-13", 
@@ -118,5 +127,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:21:06-05:00"
+  "updated_at": "2014-12-06T06:21:03-05:00"
 }

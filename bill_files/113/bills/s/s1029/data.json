@@ -85,6 +85,15 @@
     }, 
     {
       "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Hoeven, John", 
       "sponsored_at": "2013-06-26", 
       "state": "ND", 
@@ -212,5 +221,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:26:49-05:00"
+  "updated_at": "2014-12-06T07:27:59-05:00"
 }

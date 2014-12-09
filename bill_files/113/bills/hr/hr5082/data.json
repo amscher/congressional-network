@@ -117,6 +117,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "8", 
       "name": "Fitzpatrick, Michael G.", 
       "sponsored_at": "2014-07-11", 
@@ -158,6 +167,15 @@
       "sponsored_at": "2014-07-11", 
       "state": "AR", 
       "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NY", 
+      "thomas_id": "02041", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -297,6 +315,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2014-11-17", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Polis, Jared", 
       "sponsored_at": "2014-07-11", 
@@ -358,6 +385,15 @@
       "thomas_id": "01071", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -401,6 +437,7 @@
   "status_at": "2014-07-11", 
   "subjects": [
     "Business investment and capital", 
+    "Charitable contributions", 
     "Credit and credit markets", 
     "Disaster relief and insurance", 
     "Employee benefits and pensions", 
@@ -445,5 +482,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:05:19-05:00"
+  "updated_at": "2014-12-06T07:05:21-05:00"
 }

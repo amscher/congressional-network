@@ -308,6 +308,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "24", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2014-11-14", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "7", 
       "name": "Capuano, Michael E.", 
       "sponsored_at": "2013-06-17", 
@@ -2154,10 +2163,19 @@
     }, 
     {
       "district": "8", 
-      "name": "Smith, Jason T.", 
+      "name": "Smith, Jason", 
       "sponsored_at": "2013-11-21", 
       "state": "MO", 
       "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2014-11-17", 
+      "state": "TX", 
+      "thomas_id": "01075", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -2547,5 +2565,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:38:05-05:00"
+  "updated_at": "2014-12-06T06:38:07-05:00"
 }

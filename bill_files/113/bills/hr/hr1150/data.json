@@ -190,6 +190,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "35", 
       "name": "Doggett, Lloyd", 
       "sponsored_at": "2013-11-15", 
@@ -339,6 +348,15 @@
       "sponsored_at": "2013-04-10", 
       "state": "OH", 
       "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "NH", 
+      "thomas_id": "02145", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -604,6 +622,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Rush, Bobby L.", 
       "sponsored_at": "2013-06-17", 
@@ -790,5 +817,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:32:07-05:00"
+  "updated_at": "2014-12-06T06:32:13-05:00"
 }

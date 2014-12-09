@@ -71,6 +71,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "1", 
       "name": "Walz, Timothy J.", 
       "sponsored_at": "2014-09-18", 
@@ -137,5 +146,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:09:05-05:00"
+  "updated_at": "2014-12-06T07:09:03-05:00"
 }

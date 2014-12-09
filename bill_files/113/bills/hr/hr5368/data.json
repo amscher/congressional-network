@@ -111,6 +111,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-12-03", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "47", 
       "name": "Lowenthal, Alan S.", 
       "sponsored_at": "2014-07-31", 
@@ -211,5 +220,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:07:45-05:00"
+  "updated_at": "2014-12-06T07:07:45-05:00"
 }

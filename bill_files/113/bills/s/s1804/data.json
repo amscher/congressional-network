@@ -20,6 +20,25 @@
       "status": "REPORTED", 
       "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
       "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-273.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "calendar": "Senate Legislative", 
+      "number": "598", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 598.", 
+      "type": "calendar", 
+      "under": "General Orders"
     }
   ], 
   "amendments": [], 
@@ -30,7 +49,8 @@
     {
       "activity": [
         "referral", 
-        "markup"
+        "markup", 
+        "reporting"
       ], 
       "committee": "Senate Commerce, Science, and Transportation", 
       "committee_id": "SSCM"
@@ -57,7 +77,8 @@
   ], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-11-17", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -71,9 +92,14 @@
       "bill_id": "hr1204-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1204-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
-  "short_title": "Aviation Security Stakeholder Participation Act of 2013", 
+  "short_title": "Aviation Security Stakeholder Participation Act of 2014", 
   "sponsor": {
     "district": null, 
     "name": "Tester, Jon", 
@@ -95,9 +121,9 @@
   ], 
   "subjects_top_term": "Transportation and public works", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-12-11", 
-    "text": "Aviation Security Stakeholder Participation Act of 2013 - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to establish in the TSA an Aviation Security Advisory Committee.\n\nEstablishes within the Advisory Committee: (1) an air cargo security subcommittee; (2) a general aviation security subcommittee; (3) an airport perimeter security, exit lane security, and access control subcommittee; (4) a risk-based subcommittee; and (5) a security technology subcommittee."
+    "as": "Reported to Senate amended", 
+    "date": "2014-11-17", 
+    "text": "Aviation Security Stakeholder Participation Act of 2014 - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to establish in the TSA an aviation security advisory committee.\n\nRequires the Assistant Secretary to consult with the Advisory Committee on aviation security matters.\n\nRequires the Advisory Committee to develop, upon the Assistant Secretary's request, recommendations to improve aviation security.\n\nRequires the Assistant Secretary to appoint to the Advisory Committee members representing up to 34 member organizations, including air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees as well as those representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors as well as labor organizations representing them, general aviation, privacy organizations, the travel industry, airport-based businesses, businesses that conduct security operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.\n\nEstablishes within the Advisory Committee: (1) an air cargo security subcommittee; (2) a general aviation subcommittee; (3) an airport perimeter security and access control subcommittee; and (4) a security technology subcommittee. Requires all subcommittees to consider risk-based security approaches in the performance of their functions with respect to transportation security."
   }, 
   "titles": [
     {
@@ -107,11 +133,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:33:22-05:00"
+  "updated_at": "2014-12-06T07:34:41-05:00"
 }

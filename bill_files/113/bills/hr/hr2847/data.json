@@ -185,6 +185,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2014-11-20", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Cohen, Steve", 
       "sponsored_at": "2014-03-04", 
@@ -239,6 +248,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "21", 
       "name": "Deutch, Theodore E.", 
       "sponsored_at": "2014-07-14", 
@@ -275,6 +293,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2014-11-18", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "19", 
       "name": "Gibson, Christopher P.", 
       "sponsored_at": "2014-02-27", 
@@ -289,6 +316,15 @@
       "sponsored_at": "2013-07-30", 
       "state": "AZ", 
       "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NY", 
+      "thomas_id": "02041", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -365,6 +401,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Lipinski, Daniel", 
       "sponsored_at": "2014-03-26", 
@@ -374,11 +419,29 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "19", 
       "name": "Lofgren, Zoe", 
       "sponsored_at": "2014-02-03", 
       "state": "CA", 
       "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "02111", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -397,6 +460,15 @@
       "sponsored_at": "2014-09-09", 
       "state": "NM", 
       "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "sponsored_at": "2014-11-20", 
+      "state": "NY", 
+      "thomas_id": "02150", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -638,7 +710,7 @@
   "summary": {
     "as": "Introduced", 
     "date": "2013-07-30", 
-    "text": "Wounded Warrior Service Dog Act of 2013 - Directs the Secretaries of Defense (DOD) and Veterans Affairs (VA) to jointly establish the K-9 Companion Corps program for the awarding of grants to assist nonprofit organizations in establishing, planning, designing,and/or operating programs to provide assistance dogs to certain members of the Armed Forces and veterans who have certain disabilities. Defines \"assistance dog\" to mean a dog specifically trained to perform physical tasks to mitigate the effects of such a disability, except that such term does not include a dog specifically trained for comfort or personal defense."
+    "text": "Wounded Warrior Service Dog Act of 2013 - Directs the Secretaries of Defense (DOD) and Veterans Affairs (VA) to jointly establish the K-9 Companion Corps program for the awarding of grants to assist nonprofit organizations in establishing, planning, designing, and/or operating programs to provide assistance dogs to certain members of the Armed Forces and veterans who have certain disabilities. Defines \"assistance dog\" to mean a dog specifically trained to perform physical tasks to mitigate the effects of such a disability, except that such term does not include a dog specifically trained for comfort or personal defense."
   }, 
   "titles": [
     {
@@ -654,5 +726,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:46:25-05:00"
+  "updated_at": "2014-12-06T06:46:31-05:00"
 }

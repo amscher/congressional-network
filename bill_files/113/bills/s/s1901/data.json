@@ -80,12 +80,6 @@
     }, 
     {
       "acted_at": "2014-01-28T17:14:00-05:00", 
-      "references": [], 
-      "text": "Mr. Royce asked unanimous consent to take from the Speaker's table and consider.", 
-      "type": "action"
-    }, 
-    {
-      "acted_at": "2014-01-28T17:14:00-05:00", 
       "references": [
         {
           "reference": "CR H1472-1473", 
@@ -93,6 +87,12 @@
         }
       ], 
       "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-28T17:14:00-05:00", 
+      "references": [], 
+      "text": "Mr. Royce asked unanimous consent to take from the Speaker's table and consider.", 
       "type": "action"
     }, 
     {
@@ -254,5 +254,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:34:11-05:00"
+  "updated_at": "2014-12-06T07:35:30-05:00"
 }

@@ -62,6 +62,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "4", 
       "name": "Crenshaw, Ander", 
       "sponsored_at": "2014-07-22", 
@@ -98,6 +107,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "3", 
       "name": "Israel, Steve", 
       "sponsored_at": "2014-01-27", 
@@ -121,6 +139,15 @@
       "sponsored_at": "2013-10-28", 
       "state": "NH", 
       "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2014-11-12", 
+      "state": "WA", 
+      "thomas_id": "01675", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -202,6 +229,15 @@
       "sponsored_at": "2013-06-20", 
       "state": "NH", 
       "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-11-12", 
+      "state": "NY", 
+      "thomas_id": "01069", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -288,5 +324,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:38:56-05:00"
+  "updated_at": "2014-12-06T06:38:58-05:00"
 }

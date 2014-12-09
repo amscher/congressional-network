@@ -156,6 +156,15 @@
     }, 
     {
       "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Merkley, Jeff", 
       "sponsored_at": "2013-12-17", 
       "state": "OR", 
@@ -243,6 +252,15 @@
       "thomas_id": "01823", 
       "title": "Sen", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": "2014-12-02"
     }
   ], 
   "enacted_as": null, 
@@ -300,5 +318,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:29:25-05:00"
+  "updated_at": "2014-12-06T07:30:40-05:00"
 }

@@ -36,6 +36,42 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2014-11-19", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2014-12-02", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2014-12-02", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "2", 
       "name": "Walorski, Jackie", 
       "sponsored_at": "2014-09-18", 
@@ -95,5 +131,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:10:12-05:00"
+  "updated_at": "2014-12-06T07:10:10-05:00"
 }

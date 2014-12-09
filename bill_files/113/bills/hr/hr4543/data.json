@@ -95,6 +95,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "13", 
       "name": "Lee, Barbara", 
       "sponsored_at": "2014-05-19", 
@@ -215,5 +224,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:40-05:00"
+  "updated_at": "2014-12-06T07:00:47-05:00"
 }

@@ -187,6 +187,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2014-12-08", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "9", 
       "name": "Schakowsky, Janice D.", 
       "sponsored_at": "2014-07-10", 
@@ -302,5 +311,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:04:52-05:00"
+  "updated_at": "2014-12-08T18:48:47-05:00"
 }

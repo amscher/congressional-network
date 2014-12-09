@@ -72,6 +72,15 @@
     }, 
     {
       "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2014-11-14", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
       "name": "Kind, Ron", 
       "sponsored_at": "2013-01-15", 
       "state": "WI", 
@@ -236,5 +245,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:24:48-05:00"
+  "updated_at": "2014-12-06T06:24:55-05:00"
 }

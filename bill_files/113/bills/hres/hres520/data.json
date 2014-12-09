@@ -102,6 +102,15 @@
       "thomas_id": "00985", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -172,5 +181,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:20:34-05:00"
+  "updated_at": "2014-12-06T06:20:31-05:00"
 }

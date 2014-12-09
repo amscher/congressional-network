@@ -86,6 +86,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "31", 
       "name": "Carter, John R.", 
       "sponsored_at": "2014-09-18", 
@@ -122,6 +131,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2014-11-13", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "5", 
       "name": "Hensarling, Jeb", 
       "sponsored_at": "2014-09-18", 
@@ -154,6 +172,15 @@
       "sponsored_at": "2014-09-18", 
       "state": "NM", 
       "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2014-11-12", 
+      "state": "KS", 
+      "thomas_id": "02022", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -238,5 +265,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:08:42-05:00"
+  "updated_at": "2014-12-06T07:08:41-05:00"
 }

@@ -55,6 +55,15 @@
     }, 
     {
       "district": null, 
+      "name": "Scott, Tim", 
+      "sponsored_at": "2014-11-12", 
+      "state": "SC", 
+      "thomas_id": "02056", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
       "name": "Vitter, David", 
       "sponsored_at": "2014-01-28", 
       "state": "LA", 
@@ -122,5 +131,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:34:44-05:00"
+  "updated_at": "2014-12-06T07:36:04-05:00"
 }

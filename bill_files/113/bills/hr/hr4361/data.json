@@ -104,6 +104,15 @@
       "thomas_id": "01588", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2014-12-02", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -164,5 +173,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:59:09-05:00"
+  "updated_at": "2014-12-06T06:59:15-05:00"
 }

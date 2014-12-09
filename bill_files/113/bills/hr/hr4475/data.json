@@ -68,6 +68,15 @@
       "thomas_id": "02044", 
       "title": "Rep", 
       "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "2014-11-12", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
     }
   ], 
   "enacted_as": null, 
@@ -125,5 +134,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T07:00:06-05:00"
+  "updated_at": "2014-12-06T07:00:13-05:00"
 }

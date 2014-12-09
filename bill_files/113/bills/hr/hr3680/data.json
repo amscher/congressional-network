@@ -452,6 +452,15 @@
       "withdrawn_at": null
     }, 
     {
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2014-11-12", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
       "district": "14", 
       "name": "Doyle, Michael F.", 
       "sponsored_at": "2014-06-10", 
@@ -565,6 +574,15 @@
       "sponsored_at": "2014-06-10", 
       "state": "OH", 
       "thomas_id": "01895", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "01973", 
       "title": "Rep", 
       "withdrawn_at": null
     }, 
@@ -1827,5 +1845,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-11-08T06:53:26-05:00"
+  "updated_at": "2014-12-06T06:53:33-05:00"
 }
