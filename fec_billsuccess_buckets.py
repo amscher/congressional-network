@@ -163,7 +163,7 @@ def write_csv(file_path, bills):
     csv_file = csv.writer(open('file_path', 'wb+'))
     with open(file_path, 'wb+') as fin:
         csv_file = csv.writer(fin)
-        csv_file.writerow(['bill_id', 'intercept_term', 'num_cosponsors', 'introduced_month', 'num_voting_rounds', 'num_passed_rounds', 'amount', 'bucket_amount', 'status', 'bucket_status',
+        csv_file.writerow(['bill_id', 'intercept_term', 'num_cosponsors', 'introduced_month', 'num_voting_rounds', 'num_passed_rounds', 'amount', 'bipartisan score', 'status',
 ])
         for bill_id in bills.keys():
             bill = bills[bill_id]
@@ -175,11 +175,10 @@ def write_csv(file_path, bills):
                 bill.num_voting_rounds,
                 bill.num_passed_rounds,
                 getattr(bill, 'amount', 0),
-                getattr(bill, 'bucket_amount', 0),
-                bill.status,
-                getattr(bill, 'bucket_status')])
+                getattr(bill, 'bipartisan_score', 0.5),
+                bill.status])
 
-#write_csv('./bill_static_and_funding_All.csv',bills)
+write_csv('./csv/bill-combined_3.csv',bills)
 #bills = readBills.filterBillsOnlyOutOfCommittee(bills)
 #write_csv('./bill_static_and_funding_OutOfCommittee.csv', bills)
 print 'Done'
