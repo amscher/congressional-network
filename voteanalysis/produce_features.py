@@ -42,7 +42,7 @@ if __name__ == '__main__':
     #Iterate bill groups; produce features and compute metrics
     tp = fp = tn = fn = 0
     
-    with open("bill_vote_features.csv",'w') as csvfile:
+    with open("bill_vote_features_temp.csv",'w') as csvfile:
         feature_writer = csv.writer(csvfile, delimiter = ',')
         
         for i in groups:
